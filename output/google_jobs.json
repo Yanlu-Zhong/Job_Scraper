@@ -1,7 +1,15 @@
 {
-  "scraped_at": "2026-09-24 02:40 UTC",
+  "scraped_at": "2026-09-24 04:00 UTC",
   "total": 0,
   "new_count": 0,
   "jobs": [],
-  "new_jobs": []
+  "new_jobs": [],
+  "remote_jobs": [],
+  "ambiguous_jobs": [],
+  "geographic_counts": {
+    "in_radius": 0,
+    "remote": 0,
+    "ambiguous": 0,
+    "outside_radius": 0
+  }
 }
