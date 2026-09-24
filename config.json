@@ -1,0 +1,781 @@
+{
+  "_README": "Personalized industry job search for research, AI, language, speech, multimodal, UXR, cognition, and quantitative roles. Target geography: Sunnyvale-centered Bay Area / nearby Northern California. Matching is intentionally broad enough to preserve high-relevance interdisciplinary roles.",
+
+  "profile": {
+    "title": "AI · Language · Human Research Job Tracker",
+    "subtitle": "Sunnyvale · Bay Area · ~100 miles",
+    "emoji": "🧠"
+  },
+
+  "keywords": {
+    "include": [
+      "quantitative ux",
+      "ux researcher",
+      "ux research",
+      "user researcher",
+      "user research",
+      "ux research scientist",
+      "user research scientist",
+      "product researcher",
+      "mixed methods researcher",
+      "experience researcher",
+
+      "human-ai",
+      "human ai",
+      "human-computer interaction",
+      "human computer interaction",
+      "hci researcher",
+      "human factors researcher",
+      "human factors scientist",
+      "human factors engineer",
+      "interaction researcher",
+
+      "cognitive scientist",
+      "cognitive researcher",
+      "cognition researcher",
+      "behavioral scientist",
+      "behavioral researcher",
+      "behavioral data scientist",
+      "experimental scientist",
+      "decision scientist",
+
+      "people research scientist",
+      "people scientist",
+      "people data scientist",
+      "people analytics scientist",
+      "organizational research scientist",
+
+      "computational linguist",
+      "computational linguistics",
+      "linguistic engineer",
+      "linguistics engineer",
+      "language engineer",
+      "language scientist",
+      "language researcher",
+      "language research scientist",
+      "language technologist",
+      "language ai",
+
+      "nlp scientist",
+      "nlp researcher",
+      "nlp research scientist",
+      "nlp engineer",
+      "natural language",
+      "language model",
+      "large language model",
+      "llm scientist",
+      "llm researcher",
+      "llm research scientist",
+      "llm engineer",
+
+      "speech scientist",
+      "speech researcher",
+      "speech research scientist",
+      "speech engineer",
+      "speech machine learning",
+      "speech recognition",
+      "automatic speech recognition",
+      "asr scientist",
+      "asr engineer",
+      "text to speech",
+      "tts scientist",
+      "tts engineer",
+      "voice ai",
+      "voice scientist",
+      "voice researcher",
+      "conversational ai",
+      "conversational ai researcher",
+
+      "audio scientist",
+      "audio researcher",
+      "audio research scientist",
+      "audio machine learning",
+      "audio ai",
+      "audio language model",
+      "speech language model",
+      "speech-language model",
+      "multilingual speech",
+      "multilingual audio",
+
+      "multimodal",
+      "multimodal llm",
+      "multimodal language model",
+      "multimodal research scientist",
+      "multimodal researcher",
+      "multimodal engineer",
+      "multimodal agent",
+      "vision language",
+      "vision-language",
+      "vision language model",
+      "vision-language model",
+      "vlm researcher",
+      "vlm scientist",
+      "multimodal foundation model",
+
+      "model behavior",
+      "model behaviour",
+      "model evaluation",
+      "ai evaluation",
+      "ai evaluations",
+      "evaluation scientist",
+      "evaluation researcher",
+      "evals researcher",
+      "human feedback",
+      "human data",
+      "alignment researcher",
+
+      "research scientist",
+      "applied scientist",
+      "research engineer",
+      "machine learning scientist",
+      "machine learning researcher",
+      "machine learning research",
+      "ai scientist",
+      "ai researcher",
+      "ai research scientist",
+
+      "data scientist",
+      "research data scientist",
+      "product data scientist",
+      "experimentation scientist",
+      "experimentation data scientist",
+      "measurement scientist"
+    ],
+
+    "exclude": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "trainee",
+      "apprentice",
+      "technician",
+      "research assistant",
+      "lab assistant",
+      "teaching assistant",
+      "undergraduate",
+      "postdoc",
+      "postdoctoral",
+      "work-study",
+      "volunteer",
+      "fellowship",
+
+      "professor",
+      "faculty",
+      "lecturer",
+      "teacher",
+      "instructor",
+
+      "speech language pathologist",
+      "speech-language pathologist",
+      "pathologist",
+      "slp",
+      "therapist",
+      "clinical speech",
+
+      "translator",
+      "interpreter",
+      "localization specialist",
+      "localization manager",
+      "copywriter",
+      "content writer",
+      "technical writer",
+      "editor",
+
+      "sales",
+      "account executive",
+      "customer success",
+      "recruiter",
+      "talent acquisition",
+
+      "director",
+      "vice president",
+      "head of"
+    ],
+
+    "fuzzy_seniority": [],
+    "fuzzy_domain": [],
+    "fuzzy_exclude": []
+  },
+
+  "search_terms": {
+    "linkedin": [
+      "quantitative UX researcher",
+      "UX research scientist",
+      "user research scientist",
+      "human AI researcher",
+      "human computer interaction researcher",
+      "human factors researcher",
+      "cognitive scientist",
+      "behavioral scientist",
+      "people research scientist",
+
+      "computational linguist",
+      "linguistic engineer",
+      "language AI researcher",
+      "language research scientist",
+
+      "NLP research scientist",
+      "LLM research scientist",
+      "language model researcher",
+      "AI evaluation researcher",
+      "model behavior researcher",
+
+      "speech research scientist",
+      "multilingual speech",
+      "speech machine learning",
+      "audio machine learning",
+      "voice AI",
+      "conversational AI researcher",
+
+      "multimodal research scientist",
+      "multimodal LLM",
+      "multimodal language model",
+      "vision language model",
+
+      "applied scientist NLP",
+      "applied scientist speech",
+      "applied scientist multimodal",
+      "research engineer LLM",
+      "research engineer NLP",
+      "research engineer speech",
+      "research scientist AI",
+
+      "data scientist experimentation",
+      "behavioral data scientist",
+      "people data scientist"
+    ],
+
+    "indeed": [
+      "quantitative UX researcher",
+      "UX research scientist",
+      "human AI researcher",
+      "human factors researcher",
+      "cognitive scientist",
+      "behavioral scientist",
+
+      "computational linguist",
+      "linguistic engineer",
+      "language AI",
+
+      "NLP research scientist",
+      "LLM research scientist",
+      "AI evaluation scientist",
+
+      "speech research scientist",
+      "multilingual speech",
+      "speech machine learning",
+      "audio machine learning",
+      "conversational AI",
+
+      "multimodal research scientist",
+      "multimodal LLM",
+      "vision language model",
+
+      "applied scientist NLP",
+      "research engineer LLM",
+      "machine learning scientist language",
+      "data scientist experimentation",
+      "people research scientist"
+    ],
+
+    "glassdoor": [
+      "quantitative UX researcher",
+      "UX research scientist",
+      "human AI researcher",
+      "human factors researcher",
+      "cognitive scientist",
+      "behavioral scientist",
+
+      "computational linguist",
+      "linguistic engineer",
+      "language AI",
+
+      "NLP research scientist",
+      "LLM research scientist",
+      "AI evaluation scientist",
+
+      "speech research scientist",
+      "multilingual speech",
+      "speech machine learning",
+      "audio machine learning",
+      "conversational AI",
+
+      "multimodal research scientist",
+      "multimodal LLM",
+      "vision language model",
+
+      "applied scientist NLP",
+      "research engineer LLM",
+      "machine learning scientist language",
+      "data scientist experimentation",
+      "people research scientist"
+    ],
+
+    "ziprecruiter": [
+      "quantitative UX researcher",
+      "UX research scientist",
+      "human AI researcher",
+      "human factors researcher",
+      "cognitive scientist",
+      "behavioral scientist",
+
+      "computational linguist",
+      "linguistic engineer",
+      "language AI",
+
+      "NLP research scientist",
+      "LLM research scientist",
+      "AI evaluation scientist",
+
+      "speech research scientist",
+      "multilingual speech",
+      "speech machine learning",
+      "audio machine learning",
+      "conversational AI",
+
+      "multimodal research scientist",
+      "multimodal LLM",
+      "vision language model",
+
+      "applied scientist NLP",
+      "research engineer LLM",
+      "machine learning scientist language",
+      "data scientist experimentation",
+      "people research scientist"
+    ],
+
+    "google_jobs": [
+      "quantitative UX researcher",
+      "UX research scientist",
+      "human AI researcher",
+      "human factors researcher",
+      "cognitive scientist",
+      "behavioral scientist",
+      "people research scientist",
+
+      "computational linguist",
+      "linguistic engineer",
+      "language AI researcher",
+
+      "NLP research scientist",
+      "LLM research scientist",
+      "AI evaluation researcher",
+      "model behavior researcher",
+
+      "speech research scientist",
+      "multilingual speech",
+      "speech machine learning",
+      "audio machine learning",
+      "voice AI",
+      "conversational AI",
+
+      "multimodal research scientist",
+      "multimodal LLM",
+      "multimodal language model",
+      "vision language model",
+
+      "applied scientist NLP",
+      "applied scientist speech",
+      "research engineer LLM",
+      "research engineer NLP",
+      "research scientist AI",
+
+      "data scientist experimentation",
+      "people data scientist"
+    ],
+
+    "hiring_cafe": [
+      "quantitative UX researcher",
+      "UX research scientist",
+      "human AI researcher",
+      "human factors researcher",
+      "cognitive scientist",
+      "behavioral scientist",
+
+      "computational linguist",
+      "linguistic engineer",
+      "language AI researcher",
+
+      "NLP research scientist",
+      "LLM research scientist",
+      "AI evaluation researcher",
+
+      "speech research scientist",
+      "multilingual speech",
+      "speech machine learning",
+      "audio machine learning",
+      "voice AI",
+      "conversational AI",
+
+      "multimodal research scientist",
+      "multimodal LLM",
+      "multimodal language model",
+
+      "applied scientist NLP",
+      "research engineer LLM",
+      "research engineer speech",
+      "people research scientist",
+      "data scientist experimentation"
+    ],
+
+    "calcareers": [],
+    "usajobs": [],
+    "governmentjobs": [],
+    "workday": []
+  },
+
+  "locations": {
+    "linkedin": [
+      {
+        "name": "San Francisco Bay Area",
+        "location": "San Francisco Bay Area",
+        "geoId": ""
+      },
+      {
+        "name": "Santa Cruz",
+        "location": "Santa Cruz, California, United States",
+        "geoId": ""
+      },
+      {
+        "name": "Monterey",
+        "location": "Monterey, California, United States",
+        "geoId": ""
+      },
+      {
+        "name": "North Bay",
+        "location": "San Rafael, California, United States",
+        "geoId": ""
+      }
+    ],
+
+    "indeed": [
+      {
+        "location": "Sunnyvale, CA",
+        "country": "USA",
+        "distance": 100
+      }
+    ],
+
+    "glassdoor": [
+      {
+        "location": "Sunnyvale, CA",
+        "country": "USA",
+        "distance": 100
+      }
+    ],
+
+    "ziprecruiter": [
+      {
+        "location": "Sunnyvale, CA",
+        "country": "USA",
+        "distance": 100
+      }
+    ],
+
+    "google_jobs": [
+      {
+        "location": "Sunnyvale, CA",
+        "country": "USA"
+      },
+      {
+        "location": "San Francisco Bay Area, CA",
+        "country": "USA"
+      },
+      {
+        "location": "Santa Cruz, CA",
+        "country": "USA"
+      },
+      {
+        "location": "Monterey, CA",
+        "country": "USA"
+      },
+      {
+        "location": "San Rafael, CA",
+        "country": "USA"
+      }
+    ],
+
+    "hiring_cafe": [
+      {
+        "location": "United States"
+      }
+    ],
+
+    "linkedin_partitions": {
+      "states": [],
+      "high_volume": {
+        "locations": [],
+        "day_slices": true
+      }
+    }
+  },
+
+  "location_filter": {
+    "terms": [
+      "bay area",
+
+      "sunnyvale",
+      "mountain view",
+      "cupertino",
+      "santa clara",
+      "san jose",
+      "milpitas",
+      "campbell",
+      "los gatos",
+      "saratoga",
+
+      "palo alto",
+      "east palo alto",
+      "menlo park",
+      "redwood city",
+      "san carlos",
+      "belmont",
+      "foster city",
+      "san mateo",
+      "burlingame",
+      "millbrae",
+      "south san francisco",
+      "daly city",
+      "san francisco",
+
+      "fremont",
+      "newark",
+      "union city",
+      "hayward",
+      "san leandro",
+      "oakland",
+      "alameda",
+      "emeryville",
+      "berkeley",
+      "richmond",
+
+      "pleasanton",
+      "dublin",
+      "livermore",
+      "san ramon",
+      "danville",
+      "walnut creek",
+      "concord",
+
+      "san rafael",
+      "novato",
+      "sausalito",
+      "mill valley",
+
+      "vallejo",
+      "napa",
+      "fairfield",
+      "vacaville",
+      "santa rosa",
+
+      "santa cruz",
+      "scotts valley",
+      "watsonville",
+      "gilroy",
+      "morgan hill",
+      "hollister",
+      "salinas",
+      "monterey"
+    ]
+  },
+
+  "google_jobs": {
+    "queries": [],
+    "serpapi_api_key": "",
+    "oxylabs_username": "",
+    "oxylabs_password": ""
+  },
+
+  "jobspy": {
+    "proxies": [],
+    "user_agent": ""
+  },
+
+  "hiring_cafe": {
+    "max_pages": 5
+  },
+
+  "employers": {
+    "priority": [
+      "Google",
+      "Google DeepMind",
+      "Meta",
+      "Apple",
+      "NVIDIA",
+      "Microsoft",
+      "Amazon",
+      "OpenAI",
+      "Anthropic",
+      "xAI",
+
+      "ByteDance",
+      "TikTok",
+      "LinkedIn",
+      "Adobe",
+      "Salesforce",
+      "ServiceNow",
+      "Cisco",
+      "Intuit",
+      "Samsung Research",
+
+      "Uber",
+      "Lyft",
+      "Airbnb",
+      "DoorDash",
+      "Pinterest",
+      "Reddit",
+      "Roblox",
+      "Discord",
+      "Snap",
+
+      "Databricks",
+      "Scale AI",
+      "Perplexity",
+      "Glean",
+      "Together AI",
+      "Cerebras",
+      "SambaNova",
+      "Groq",
+      "Writer",
+      "Typeface",
+
+      "Figma",
+      "Notion",
+      "Stripe",
+      "Block",
+      "Chime",
+      "Rippling",
+      "Samsara",
+
+      "Waymo",
+      "Zoox",
+      "Tesla",
+      "Applied Intuition",
+      "Nuro",
+      "Aurora",
+
+      "Character.AI",
+      "ElevenLabs",
+      "Sesame AI",
+      "Cartesia",
+      "Deepgram",
+      "SoundHound",
+      "Dialpad",
+      "Dolby",
+      "Descript",
+      "Speak",
+
+      "Replit",
+      "Anysphere",
+      "Cursor",
+      "LangChain",
+      "Luma AI",
+      "Pika",
+      "Harvey",
+      "Sierra",
+
+      "Eightfold AI"
+    ],
+
+    "exclude": []
+  },
+
+  "priority_topics": {
+    "terms": [
+      [
+        "🧠 Multimodal Language Models",
+        "multimodal|multimodal llm|multimodal language|vision[- ]language|vlm|mllm|multimodal agent|multimodal foundation"
+      ],
+      [
+        "🎙️ Multilingual Speech & Audio Intelligence",
+        "multilingual speech|multilingual audio|speech|audio|voice ai|speech recognition|automatic speech recognition|asr|tts|text to speech|speech[- ]language model|audio[- ]language model"
+      ],
+      [
+        "🗣️ Language · NLP · Linguistics",
+        "computational lingu|linguistic engineer|language engineer|language scientist|language ai|nlp|natural language|language model"
+      ],
+      [
+        "🤖 LLM · Generative AI",
+        "llm|large language model|generative ai|foundation model"
+      ],
+      [
+        "👥 Human-AI · Model Behavior · Evals",
+        "human[- ]ai|human ai|model behavior|model behaviour|model evaluation|ai evaluation|evals|human feedback|human data"
+      ],
+      [
+        "🔬 Quantitative UXR · HCI",
+        "quantitative ux|ux research|user research|research scientist.*user|human factors|human[- ]computer interaction|hci"
+      ],
+      [
+        "🧩 Cognition · Behavioral Science",
+        "cognitive|cognition|behavioral|behavioural|psycholingu|experimental design|decision science"
+      ],
+      [
+        "📊 Experimentation · Quantitative Modeling",
+        "experimentation|causal inference|mixed effects|mixed-effects|multilevel|statistical modeling|predictive modeling|measurement"
+      ],
+      [
+        "👁️ Multimodal Human Data",
+        "eeg|erp|eye[- ]tracking|pupillometry|physiological|behavioral data|multimodal data"
+      ]
+    ]
+  },
+
+  "role_categories": {
+    "terms": [
+      [
+        "Quant UXR / HCI",
+        "quantitative ux|ux research|ux researcher|user research|user researcher|human factors|human.computer|hci|product researcher|experience researcher"
+      ],
+      [
+        "Human-AI / Evals",
+        "human.ai|model behavior|model behaviour|model evaluation|ai evaluation|evaluation scientist|evaluation researcher|evals|alignment"
+      ],
+      [
+        "Language / Linguistics",
+        "computational lingu|linguistic|language engineer|language scientist|language researcher|language ai"
+      ],
+      [
+        "Speech / Audio",
+        "speech|audio|voice ai|asr|tts|conversational ai"
+      ],
+      [
+        "Multimodal / VLM",
+        "multimodal|vision.language|vlm|mllm"
+      ],
+      [
+        "NLP / LLM",
+        "nlp|natural language|llm|large language model|language model|generative ai"
+      ],
+      [
+        "Cognitive / Behavioral",
+        "cognitive|cognition|behavioral|behavioural|experimental scientist|decision scientist"
+      ],
+      [
+        "People Science",
+        "people research|people scientist|people data|people analytics|organizational research"
+      ],
+      [
+        "Applied / Research Scientist",
+        "research scientist|applied scientist|ai scientist|ai researcher"
+      ],
+      [
+        "Research / ML Engineering",
+        "research engineer|machine learning scientist|machine learning researcher|machine learning engineer"
+      ],
+      [
+        "Data Science / Experimentation",
+        "data scientist|experimentation|measurement scientist"
+      ]
+    ]
+  },
+
+  "notify": {
+    "min_fit": 75,
+    "weekly_digest": {
+      "enabled": false,
+      "days": 7
+    }
+  }
+}
