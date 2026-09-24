@@ -1,7 +1,208 @@
 {
-  "scraped_at": "2026-09-24 02:40 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-09-24 04:29 UTC",
+  "total": 5,
+  "new_count": 5,
+  "scrape_status": {
+    "status": "success",
+    "raw_rows": 10,
+    "queries": 1,
+    "smoke": true
+  },
+  "jobs": [
+    {
+      "company": "Workday",
+      "title": "Sr Product Data Scientist",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469374344/",
+      "date_posted": "2026-09-24",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 21.005,
+        "city": "pleasanton",
+        "latitude": 37.667185,
+        "longitude": -121.88123,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Meta",
+      "title": "UX Researcher, Quantitative",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469304107/",
+      "date_posted": "2026-09-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Turo",
+      "title": "Staff UX Researcher",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4443013447/",
+      "date_posted": "2026-09-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "MrBeast",
+      "title": "Data Scientist",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4459553627/",
+      "date_posted": "2026-09-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 19.708,
+        "city": "san mateo",
+        "latitude": 37.56031,
+        "longitude": -122.3106,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Grindr",
+      "title": "Staff Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4229134421/",
+      "date_posted": "2026-09-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Workday",
+      "title": "Sr Product Data Scientist",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469374344/",
+      "date_posted": "2026-09-24",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 21.005,
+        "city": "pleasanton",
+        "latitude": 37.667185,
+        "longitude": -121.88123,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Meta",
+      "title": "UX Researcher, Quantitative",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469304107/",
+      "date_posted": "2026-09-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Turo",
+      "title": "Staff UX Researcher",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4443013447/",
+      "date_posted": "2026-09-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "MrBeast",
+      "title": "Data Scientist",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4459553627/",
+      "date_posted": "2026-09-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 19.708,
+        "city": "san mateo",
+        "latitude": 37.56031,
+        "longitude": -122.3106,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Grindr",
+      "title": "Staff Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4229134421/",
+      "date_posted": "2026-09-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    }
+  ],
+  "remote_jobs": [],
+  "ambiguous_jobs": [
+    {
+      "company": "Google",
+      "title": "Product Data Scientist, Google Ads",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4460627000/",
+      "date_posted": "2026-09-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "City is unknown or has multiple Census locations."
+      }
+    }
+  ],
+  "geographic_counts": {
+    "in_radius": 5,
+    "remote": 0,
+    "ambiguous": 1,
+    "outside_radius": 0
+  }
 }
