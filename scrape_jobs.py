@@ -36,6 +36,11 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 OUTPUT_DIR = os.path.join(SCRIPT_DIR, "output")
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
+# Machine-readable outcome for the workflow recorder.  A successful GitHub
+# Actions process is not necessarily a successful scrape: boards can return
+# an empty result or block the runner while the process exits normally.
+LAST_SCRAPE_STATUS: dict[str, dict] = {}
+
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
@@ -415,6 +420,48 @@ def is_recent_posting(job: dict, *, now: datetime | None = None) -> bool:
 #    "fallback_location": "Sacramento, CA"},
 CURATED_EMPLOYERS: list[dict] = []
 
+# Public employer ATS boards are a legitimate fallback when an aggregator is
+# blocked. They require no credentials and remain subject to the user's title
+# and geographic filters. This small list avoids pretending that a blocked
+# Google/Glassdoor response was a successful scrape.
+PUBLIC_ASHBY_BOARDS = (
+    ("OpenAI", "openai"),
+    ("Anthropic", "anthropic"),
+)
+
+
+def scrape_public_ashby_boards() -> list:
+    jobs = []
+    for company, slug in PUBLIC_ASHBY_BOARDS:
+        try:
+            data = _http_json(f"https://api.ashbyhq.com/posting-api/job-board/{slug}", timeout=20)
+        except Exception as e:
+            print(f"  ⚠️  {company} public ATS: {e}")
+            continue
+        for raw in data.get("jobs", []) if isinstance(data, dict) else []:
+            title = str(raw.get("title", "") or "")
+            if not title_matches_keywords(title):
+                continue
+            location = raw.get("location", "")
+            if isinstance(location, dict):
+                location = location.get("name", "")
+            url = str(raw.get("jobUrl") or raw.get("applyUrl") or "")
+            if not url:
+                continue
+            jobs.append({
+                "company": company, "title": title, "location": str(location or ""),
+                "url": url, "direct_url": str(raw.get("applyUrl") or url),
+                "date_posted": str(raw.get("publishedAt") or "")[:10],
+                "description": str(raw.get("descriptionPlain") or "")[:JOBSPY_JD_MAX_CHARS],
+                "job_type": str(raw.get("employmentType") or ""),
+                "is_remote": _coerce_bool(raw.get("isRemote")),
+                "work_arrangement": classify_work_arrangement(
+                    str(location or ""), raw.get("employmentType", ""),
+                    is_remote=_coerce_bool(raw.get("isRemote"))),
+                "ats": "Employer ATS",
+            })
+    return jobs
+
 
 def probe_curated_greenhouse(entry: dict) -> list:
     time.sleep(REQUEST_DELAY)
@@ -629,7 +676,8 @@ def _parse_linkedin_cards(html: str) -> tuple[list[dict], int]:
 
 def _linkedin_search(terms: list[str], lookback_seconds: int,
                      geos: list[dict] | None = None,
-                     max_results: int = 500) -> tuple[list[dict], int]:
+                     max_results: int = 500,
+                     retry_empty: bool = True) -> tuple[list[dict], int]:
     """
     Per-geo, per-term, paginated LinkedIn guest-endpoint search. Dedupes by job
     ID across every geography and sorts by recency. Used by both the general
@@ -680,7 +728,7 @@ def _linkedin_search(terms: list[str], lookback_seconds: int,
                     # no more results. Retry once with a long pause before giving
                     # up on this term.
                     consecutive_empty += 1
-                    if consecutive_empty == 1:
+                    if retry_empty and consecutive_empty == 1:
                         wait = 60 + random.uniform(0, 30)
                         print(f"  ⏸  Empty response at start={start} for \"{term}\" in {geo['name']}; "
                               f"pausing {wait:.0f}s before one retry…")
@@ -988,6 +1036,10 @@ def scrape_linkedin_recent() -> list:
     # LinkedIn gave us nothing — rate-limited or blocked, not a quiet hour.
     # Reuse the previous results so we don't clobber the dedupe baseline.
     if raw_cards == 0:
+        LAST_SCRAPE_STATUS["linkedin_jobs"] = {
+            "status": "blocked", "raw_rows": 0,
+            "queries": len(LINKEDIN_SEARCH_TERMS) * len(LINKEDIN_GEOS),
+        }
         prev = _load_prev_jobs(os.path.join(OUTPUT_DIR, "linkedin_jobs.json"))
         print(f"  ⛔ LinkedIn returned 0 cards across all terms (likely blocked); "
               f"preserving previous {len(prev)} result(s)")
@@ -996,6 +1048,10 @@ def scrape_linkedin_recent() -> list:
     jobs = _keep_geographic_candidates(jobs)
     print(f"  📍 Location filter: {before} → {len(jobs)} roles")
     print(f"  ✅ LinkedIn: {len(jobs)} role(s)")
+    LAST_SCRAPE_STATUS["linkedin_jobs"] = {
+        "status": "success", "raw_rows": raw_cards,
+        "queries": len(LINKEDIN_SEARCH_TERMS) * len(LINKEDIN_GEOS),
+    }
     _enrich_linkedin_postings(jobs)
     return jobs
 
@@ -1210,9 +1266,30 @@ def _scrape_jobspy_board(*, label: str, site_name: str, geos: list, terms: list,
                 verbose=0,
             )
         except Exception as e:
-            errored_terms += 1
-            print(f"  ⚠️  {label} ({geo['location']} · {term!r}): {e}")
-            continue
+            # Glassdoor's JobSpy adapter is stricter than the other boards
+            # about location syntax. Retry once with the canonical city/state
+            # form before classifying the request as blocked or failed.
+            if site_name == "glassdoor" and "," in str(geo.get("location", "")):
+                retry_geo = dict(geo)
+                retry_geo["location"] = str(geo["location"]).split(",", 1)[0].strip()
+                try:
+                    df = jobspy_scrape(
+                        site_name=[site_name], search_term=term,
+                        location=retry_geo["location"],
+                        distance=int(retry_geo.get("distance", 50)),
+                        results_wanted=results_wanted, hours_old=hours_old,
+                        country_indeed=retry_geo.get("country", "USA"),
+                        enforce_annual_salary=False, proxies=_jobspy_proxies(),
+                        user_agent=_jobspy_user_agent(), verbose=0,
+                    )
+                except Exception as retry_error:
+                    errored_terms += 1
+                    print(f"  ⚠️  {label} ({geo['location']} · {term!r}): {retry_error}")
+                    continue
+            else:
+                errored_terms += 1
+                print(f"  ⚠️  {label} ({geo['location']} · {term!r}): {e}")
+                continue
         ok_terms += 1
         raw_rows += _ingest_jobspy_df(df, label=label, jobs_by_id=jobs_by_id)
     jobs = list(jobs_by_id.values())
@@ -1229,12 +1306,43 @@ def _scrape_jobspy_board(*, label: str, site_name: str, geos: list, terms: list,
     # an empty file; the saver then reports 0 new (all already seen).
     if raw_rows == 0:
         prev = _load_prev_jobs(os.path.join(OUTPUT_DIR, f"{prev_basename}.json"))
+        outcome = "blocked" if errored_terms else "empty"
+        LAST_SCRAPE_STATUS[prev_basename] = {
+            "status": outcome, "raw_rows": 0, "queries": len(geos) * len(terms),
+            "errors": errored_terms,
+        }
         print(
             f"  ⛔ {label} returned 0 rows across all terms (likely blocked); "
             f"preserving previous {len(prev)} result(s)"
         )
         return prev
 
+    LAST_SCRAPE_STATUS[prev_basename] = {
+        "status": "success", "raw_rows": raw_rows,
+        "queries": len(geos) * len(terms), "errors": errored_terms,
+    }
+    return jobs
+
+
+def scrape_linkedin_smoke() -> list:
+    """Bounded one-query diagnostic for the public LinkedIn guest endpoint."""
+    term = LINKEDIN_SEARCH_TERMS[:1]
+    geo = LINKEDIN_GEOS[:1]
+    if not term or not geo:
+        LAST_SCRAPE_STATUS["linkedin_jobs"] = {
+            "status": "empty", "raw_rows": 0, "queries": 0,
+            "message": "No LinkedIn smoke term or geography configured",
+        }
+        return []
+    print(f"🧪 LinkedIn smoke test: one term, one geography, one page")
+    jobs, raw_cards = _linkedin_search(
+        term, 24 * 3600, geos=geo, max_results=10, retry_empty=False
+    )
+    jobs = _keep_geographic_candidates(jobs)
+    LAST_SCRAPE_STATUS["linkedin_jobs"] = {
+        "status": "success" if raw_cards else "blocked",
+        "raw_rows": raw_cards, "queries": 1, "smoke": True,
+    }
     return jobs
 
 
@@ -1642,12 +1750,31 @@ def scrape_google_jobs_recent(hours_old: int | None = None) -> list:
                 f"{fallback_raw} raw, {len(fallback_jobs)} matched"
             )
             return fallback_jobs
+        # Aggregator responses are empty or unavailable in many CI regions.
+        # Fall back to a couple of public employer ATS boards rather than
+        # silently reporting a green but data-free Google run.
+        direct_jobs = scrape_public_ashby_boards()
+        if direct_jobs:
+            LAST_SCRAPE_STATUS["google_jobs"] = {
+                "status": "alternative", "raw_rows": len(direct_jobs),
+                "queries": len(contexts), "provider": "public employer ATS",
+            }
+            print(f"  ✅ GoogleJobs alternative: {len(direct_jobs)} employer ATS role(s)")
+            return direct_jobs
         prev = _load_prev_jobs(os.path.join(OUTPUT_DIR, "google_jobs.json"))
+        LAST_SCRAPE_STATUS["google_jobs"] = {
+            "status": "blocked" if errored_terms else "empty",
+            "raw_rows": 0, "queries": len(contexts), "errors": errored_terms,
+        }
         print(
             f"  ⛔ GoogleJobs returned 0 rows across all queries; "
             f"preserving previous {len(prev)} result(s)"
         )
         return prev
+    LAST_SCRAPE_STATUS["google_jobs"] = {
+        "status": "success", "raw_rows": raw_rows,
+        "queries": len(contexts), "errors": errored_terms,
+    }
     return jobs
 
 
@@ -2931,6 +3058,9 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
         "scraped_at": timestamp,
         "total": len(jobs),
         "new_count": len(new_jobs),
+        "scrape_status": LAST_SCRAPE_STATUS.get(basename, {
+            "status": "success" if jobs else "empty", "raw_rows": len(jobs)
+        }),
         "jobs": jobs,
         "new_jobs": new_jobs,
         "remote_jobs": geographic_groups["remote"],
@@ -3235,6 +3365,10 @@ def _linkedin_merge_backfill_files(output_dir: str) -> tuple[list[dict], list[di
 # ---------------------------------------------------------------------------
 
 if __name__ == "__main__":
+    if "--linkedin-smoke" in sys.argv:
+        save_linkedin_results(scrape_linkedin_smoke())
+        sys.exit(0)
+
     if "--indeed-only" in sys.argv:
         save_indeed_results(scrape_indeed_recent())
         sys.exit(0)

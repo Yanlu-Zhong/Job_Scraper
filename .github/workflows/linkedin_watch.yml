@@ -16,6 +16,11 @@ on:
         required: false
         type: boolean
         default: false
+      smoke:
+        description: "Bounded diagnostic: one term, one geography, one page"
+        required: false
+        type: boolean
+        default: false
 
 concurrency:
   group: job-scraper-commit-push
@@ -41,7 +46,9 @@ jobs:
 
       - name: Scrape LinkedIn (last 1h, or 30-day backfill)
         run: |
-          if [ "${{ github.event.inputs.backfill }}" = "true" ]; then
+          if [ "${{ github.event.inputs.smoke }}" = "true" ]; then
+            python scrape_jobs.py --linkedin-smoke
+          elif [ "${{ github.event.inputs.backfill }}" = "true" ]; then
             python scrape_jobs.py --linkedin-backfill
           else
             python scrape_jobs.py --linkedin-only
@@ -65,6 +72,7 @@ jobs:
               "workflow": "linkedin",
               "timestamp": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
               "job_count": int(data.get("total", 0)),
+              "scrape": data.get("scrape_status", {"status": "unknown"}),
               "run_id": os.environ.get("GITHUB_RUN_ID", ""),
               "run_attempt": os.environ.get("GITHUB_RUN_ATTEMPT", ""),
           }
