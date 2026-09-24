@@ -1,7 +1,13 @@
 {
-  "scraped_at": "2026-09-24 03:58 UTC",
+  "scraped_at": "2026-09-24 20:01 UTC",
   "total": 0,
   "new_count": 0,
+  "scrape_status": {
+    "status": "empty",
+    "raw_rows": 0,
+    "queries": 25,
+    "errors": 0
+  },
   "jobs": [],
   "new_jobs": [],
   "remote_jobs": [],
