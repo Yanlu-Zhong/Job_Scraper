@@ -7,3 +7,4 @@
 {"job_count": 0, "run_attempt": "1", "run_id": "35955946541", "scrape": {"errors": 0, "queries": 155, "raw_rows": 0, "status": "empty"}, "timestamp": "2026-09-24T04:32:06Z", "workflow": "google_jobs"}
 {"job_count": 0, "run_attempt": "1", "run_id": "35977260843", "scrape": {"raw_rows": 0, "status": "empty"}, "timestamp": "2026-09-24T08:47:11Z", "workflow": "hiringcafe"}
 {"job_count": 7, "run_attempt": "1", "run_id": "36046638197", "scrape": {"queries": 152, "raw_rows": 1516, "status": "success"}, "timestamp": "2026-09-24T19:39:26Z", "workflow": "linkedin"}
+{"job_count": 12, "run_attempt": "1", "run_id": "36048645083", "scrape": {"errors": 0, "queries": 25, "raw_rows": 297, "status": "success"}, "timestamp": "2026-09-24T19:40:12Z", "workflow": "indeed"}
