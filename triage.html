@@ -1321,7 +1321,7 @@
     work: new Set(),
     sector: new Set(),
     state: new Set(['active', 'saved', 'applied', 'interview', 'offer']),
-    days: null,   // null = any time; else an integer day-window (7 = last 7 days)
+    days: 14,   // null = any time; else an integer day-window (7 = last 7 days)
     salMin: 0,    // minimum annual salary (USD); 0 = no floor
     salUnknown: false,  // when a floor is set, exclude roles with no listed salary (toggle to include)
     scoreMin: 0,       // minimum fit/agent score (0–100); 0 = no floor
@@ -1501,6 +1501,7 @@
       [1,  'Today'],
       [3,  '3 days'],
       [7,  'Week'],
+      [14, '2 Weeks'],
       [30, 'Month'],
       [50, '50 days'],
       [null, 'Any time'],
@@ -2573,7 +2574,7 @@
   $('clear-filters').onclick = () => {
     filters.source.clear(); filters.role.clear(); filters.sen.clear(); filters.work.clear(); filters.sector.clear();
     filters.state = new Set(['active', 'saved', 'applied', 'interview', 'offer']);
-    filters.days = null;
+    filters.days = 14;
     filters.salMin = 0; filters.salUnknown = false;
     $('sal-min').value = 0; $('sal-unknown').checked = false;
     filters.scoreMin = 0; filters.scoreUnscored = true;
