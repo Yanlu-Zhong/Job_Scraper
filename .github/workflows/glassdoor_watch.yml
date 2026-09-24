@@ -23,6 +23,7 @@ jobs:
     name: Glassdoor scrape
     if: github.event_name == 'workflow_dispatch' || vars.ENABLE_GLASSDOOR_WATCHER == 'true'
     runs-on: ubuntu-latest
+    timeout-minutes: 20
 
     permissions:
       contents: write

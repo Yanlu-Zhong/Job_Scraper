@@ -2805,9 +2805,17 @@ def _merge_into_all_jobs(new_jobs: list, *, geographic_groups=None) -> int:
     except (FileNotFoundError, json.JSONDecodeError):
         master_data = {}
         master = []
-    if geographic_groups is not None:
-        review_urls = {j.get("url") for key in ("remote", "ambiguous") for j in geographic_groups[key]}
-        master = [j for j in partition_jobs(master)["in_radius"] if j.get("url") not in review_urls]
+    # Reclassify both legacy master entries and incoming jobs on every merge.
+    # This protects against older backfill code writing broad California or
+    # out-of-state results before the strict Sunnyvale filter was introduced.
+    existing_review = master_data.get("remote_jobs", []) + master_data.get("ambiguous_jobs", [])
+    existing_groups = partition_jobs(master + existing_review)
+    master = existing_groups["in_radius"]
+    incoming_groups = geographic_groups or partition_jobs(new_jobs)
+    new_jobs = incoming_groups["in_radius"]
+    review_urls = {j.get("url") for key in ("remote", "ambiguous")
+                   for j in incoming_groups[key]}
+    master = [j for j in master if j.get("url") not in review_urls]
 
     now = datetime.now(timezone.utc)
     stamp = now.strftime("%Y-%m-%dT%H:%M:%SZ")
@@ -2850,14 +2858,13 @@ def _merge_into_all_jobs(new_jobs: list, *, geographic_groups=None) -> int:
     kept.sort(key=lambda j: j.get("first_seen", ""), reverse=True)
 
     output = {"updated_at": now.strftime("%Y-%m-%d %H:%M UTC"), "jobs": kept}
-    current_urls = {j.get("url") for j in new_jobs}
-    if geographic_groups is not None:
-        current_urls.update(j.get("url") for key in ("remote", "ambiguous") for j in geographic_groups[key])
+    current_urls = {j.get("url") for key in ("in_radius", "remote", "ambiguous")
+                    for j in incoming_groups[key]}
     for key in ("remote", "ambiguous"):
         field = key + "_jobs"
         review = {j.get("url"): j for j in master_data.get(field, [])
                   if j.get("url") not in current_urls and j.get("first_seen", stamp) >= cutoff}
-        for j in (geographic_groups or {}).get(key, []):
+        for j in incoming_groups[key]:
             review[j.get("url")] = {**j, "first_seen": j.get("first_seen", stamp)}
         output[field] = list(review.values())
     with open(path, "w", encoding="utf-8") as f:
