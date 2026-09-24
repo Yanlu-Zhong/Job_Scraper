@@ -500,6 +500,10 @@
     <div id="filter-sector" class="controls-row" style="gap:6px"></div>
   </div>
   <div class="controls-row">
+    <span class="pillgroup-label">Location scope</span>
+    <div id="filter-geography" class="controls-row" style="gap:6px"></div>
+  </div>
+  <div class="controls-row">
     <span class="pillgroup-label">Posted</span>
     <div id="filter-date" class="controls-row" style="gap:6px"></div>
   </div>
@@ -1167,6 +1171,7 @@
   // Company and title must match; distinct locations stay separate unless a
   // normalized URL ID proves they are the same posting.
   function _shouldMerge(a, b) {
+    if (geographicStatus(a) !== geographicStatus(b)) return false;
     const aKeys = new Set(_dupUrlList(a).map(_jobKey).filter(Boolean));
     const bKeys = _dupUrlList(b).map(_jobKey).filter(Boolean);
     if (bKeys.some(k => aKeys.has(k))) return true;
@@ -1263,10 +1268,11 @@
       okCount++;
       const d = r.value;
       const isMaster = SOURCES[i].src === 'Master';
-      (d.jobs || []).forEach(j => {
+      [...(d.jobs || []), ...(d.remote_jobs || []), ...(d.ambiguous_jobs || [])].forEach(j => {
         if (!j || !j.url || !/^https?:\/\//i.test(j.url)) return;  // defensive URL guard
-        const existing = byUrl.get(j.url);
-        if (!existing) byUrl.set(j.url, j);
+        const key = geographicStatus(j) + ':' + j.url;
+        const existing = byUrl.get(key);
+        if (!existing) byUrl.set(key, j);
         // Per-source entries win the dedupe but lack first_seen — backfill it
         // from the master so sub-day date filters have a real timestamp.
         else if (isMaster && j.first_seen && !existing.first_seen) existing.first_seen = j.first_seen;
@@ -1286,7 +1292,7 @@
   // Fields refreshed from each fresh scrape onto already-cached jobs (e.g. a
   // salary backfilled later). Triage lives separately in state.triage (keyed by
   // URL), so updating the job's content is safe and never loses a decision.
-  const REFRESHABLE = ['salary', 'location', 'company', 'title', 'date_posted', 'description', 'job_type', 'is_remote', 'telework', 'work_arrangement'];
+  const REFRESHABLE = ['salary', 'location', 'company', 'title', 'date_posted', 'description', 'job_type', 'is_remote', 'telework', 'work_arrangement', 'geography'];
   function mergeJobs(incoming) {
     const seen = new Map(state.jobs.map(j => [j.url, j]));
     let added = 0;
@@ -1315,6 +1321,7 @@
 
   // ---------- Filters ----------
   const filters = {
+    geography: 'in_radius',
     source: new Set(),
     role: new Set(),
     sen: new Set(),
@@ -1361,7 +1368,17 @@
   }
 
   // `except` skips one dimension so a facet's pills don't constrain their own counts.
+  function geographicStatus(j) {
+    const g = j.geography || {};
+    if (g.status === 'in_radius') {
+      return typeof g.distance_miles === 'number' && Number.isFinite(g.distance_miles)
+        && g.distance_miles >= 0 && g.distance_miles <= 100 ? 'in_radius' : 'ambiguous';
+    }
+    return ['remote', 'outside_radius'].includes(g.status) ? g.status : 'ambiguous';
+  }
+
   function matchesFilters(j, except) {
+    if (except !== 'geography' && geographicStatus(j) !== filters.geography) return false;
     const co = (j.company || '').toLowerCase();
     if (state.blockedCompanies.some(name => name && co.includes(name))) return false;
     // Merged cross-posts carry every source in _srcs (single jobs: [_src]).
@@ -1490,6 +1507,22 @@
         renderAll();
       };
       el.appendChild(p);
+    });
+  }
+
+  function renderGeographicFilter() {
+    const el = $('filter-geography');
+    el.innerHTML = '';
+    const options = [['in_radius', 'Within 100 miles'], ['remote', 'Remote — review eligibility'], ['ambiguous', 'Location needs review']];
+    options.forEach(([value, label]) => {
+      const count = VIEW.filter(j => geographicStatus(j) === value && matchesFilters(j, 'geography')).length;
+      const button = document.createElement('button');
+      button.type = 'button';
+      button.className = 'pill' + (filters.geography === value ? ' on' : '');
+      button.setAttribute('aria-pressed', String(filters.geography === value));
+      button.textContent = `${label} (${count})`;
+      button.onclick = () => { filters.geography = value; renderAll(); };
+      el.appendChild(button);
     });
   }
 
@@ -1863,6 +1896,7 @@
             <span class="co">${escape(j.company)}</span>
             <span class="src-item">🔗 ${srcBadges}</span>
             <span>📍 ${escape(j.location || 'Not specified')}</span>
+            <span>${geographicStatus(j) === 'in_radius' ? `${j.geography.distance_miles.toFixed(1)} miles from Sunnyvale (city point)` : geographicStatus(j) === 'remote' ? 'Remote: confirm eligibility' : 'Location unverified'}</span>
             ${sal ? `<span>💰 ${escape(sal)}</span>` : ''}
             ${typeBits ? `<span>${typeBits}</span>` : ''}
             ${j.date_posted ? `<span title="${escape(j.date_posted)}">🕒 ${escape(_fmtDate(j.date_posted))}</span>` : ''}
@@ -2098,6 +2132,7 @@
       ['Director+', 'Principal', 'Staff', 'Senior', 'Mid', 'Associate']);
     renderFilterGroup('filter-work', 'work', WORK_MODES);
     renderFilterGroup('filter-sector', 'sector', SECTOR_NAMES);
+    renderGeographicFilter();
     renderDateFilter();
     renderStateFilter();
     renderSalaryControl();
@@ -2204,13 +2239,20 @@
   // the scraper — keep this regex in sync with EXCLUDED_SENIORITY_RE in
   // scrape_jobs.py) or older than 30 days. Anything saved/applied/dismissed
   // is kept — that's the user's triage history.
-  const EXCLUDED_TITLE_RE = /\b(intern|interns|internship|co-?op|trainee|apprentice|technician|research assistant|lab assistant|teaching assistant|undergraduate|postdoc|postdoctoral|work-study|volunteer|fellowship|engineer|engineering|ehs|occupational safety|occupational health)\b|health\s*&\s*safety|health and safety/i;
+  function isExcludedTitle(title) {
+    return ((CONFIG.keywords || {}).exclude || []).some(term => {
+      const literal = String(term).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      const pattern = /[ &]/.test(term) ? literal : `\\b${literal}\\b`;
+      return new RegExp(pattern, 'i').test(title || '');
+    });
+  }
+
   function pruneState() {
     const cutoff = Date.now() - 30 * 86400000;
     const before = state.jobs.length;
     state.jobs = state.jobs.filter(j => {
       if (state.triage[j.url]) return true;
-      if (EXCLUDED_TITLE_RE.test(j.title || '')) return false;
+      if (isExcludedTitle(j.title)) return false;
       if (isPharma(j.company)) return false;   // env-tox only — drop cached pharma
       const t = jobFreshMs(j);
       return t == null || t >= cutoff;
@@ -2575,6 +2617,7 @@
     filters.source.clear(); filters.role.clear(); filters.sen.clear(); filters.work.clear(); filters.sector.clear();
     filters.state = new Set(['active', 'saved', 'applied', 'interview', 'offer']);
     filters.days = 14;
+    filters.geography = 'in_radius';
     filters.salMin = 0; filters.salUnknown = false;
     $('sal-min').value = 0; $('sal-unknown').checked = false;
     filters.scoreMin = 0; filters.scoreUnscored = true;

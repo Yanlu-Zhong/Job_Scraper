@@ -9,6 +9,8 @@ Tune the search in config.json: title keywords, board-specific search terms,
 priority employers, locations, and LinkedIn geoIds / JobSpy locations.
 """
 
+from geographic_filter import classify_location, classify_job, partition_jobs
+
 import http.cookiejar
 import base64
 import json
@@ -323,23 +325,13 @@ _US_STATE_NAMES = [
 
 
 def is_target_location(location: str) -> bool:
-    if not location:
-        return False
-    loc = location.lower()
-    # If a US state full name matches, accept immediately — this handles
-    # "New Mexico" (contains "mexico") and "Indiana" (contains "india")
-    # which would otherwise be rejected by the country check below.
-    if any(state in loc for state in _US_STATE_NAMES):
-        return True
-    # Reject non-US countries — prevents ", ca" matching "Canada", etc.
-    # Multi-word countries: substring match (safe, distinctive phrases).
-    if any(country in loc for country in NON_US_COUNTRIES_MULTI):
-        return False
-    # Single-word countries: word-boundary match (prevents "india" matching
-    # "Indiana", "mexico" matching "New Mexico", etc.).
-    if _NON_US_COUNTRY_RE.search(loc):
-        return False
-    return any(place in loc for place in TARGET_LOCATIONS)
+    """True only for a resolved city within 100 miles of Sunnyvale."""
+    return classify_location(location)["status"] == "in_radius"
+
+
+def _keep_geographic_candidates(jobs: list) -> list:
+    """Keep unresolved/remote candidates for separate review at the save boundary."""
+    return [j for j in jobs if classify_job(j)["status"] != "outside_radius"]
 
 
 def _parse_posted_at(value: str, *, now: datetime | None = None) -> datetime | None:
@@ -1001,7 +993,7 @@ def scrape_linkedin_recent() -> list:
               f"preserving previous {len(prev)} result(s)")
         return prev
     before = len(jobs)
-    jobs = [j for j in jobs if is_target_location(j.get("location", ""))]
+    jobs = _keep_geographic_candidates(jobs)
     print(f"  📍 Location filter: {before} → {len(jobs)} roles")
     print(f"  ✅ LinkedIn: {len(jobs)} role(s)")
     _enrich_linkedin_postings(jobs)
@@ -2774,7 +2766,8 @@ def _load_prev_jobs(json_path: str) -> list[dict]:
     """Read the `jobs` list from a previously-saved jobs JSON (empty if missing)."""
     try:
         with open(json_path, encoding="utf-8") as f:
-            return json.load(f).get("jobs", [])
+            data = json.load(f)
+            return data.get("jobs", []) + data.get("remote_jobs", []) + data.get("ambiguous_jobs", [])
     except (FileNotFoundError, json.JSONDecodeError):
         return []
 
@@ -2796,7 +2789,7 @@ ALL_JOBS_PRUNE_DAYS = 30
 LINKEDIN_BACKFILL_DAYS = 30
 
 
-def _merge_into_all_jobs(new_jobs: list) -> int:
+def _merge_into_all_jobs(new_jobs: list, *, geographic_groups=None) -> int:
     """
     Maintain all_jobs.json — a cumulative, URL/content-deduped master of every role the
     scrapers surface, each stamped with first_seen. The per-source JSONs are
@@ -2807,9 +2800,14 @@ def _merge_into_all_jobs(new_jobs: list) -> int:
     path = os.path.join(OUTPUT_DIR, "all_jobs.json")
     try:
         with open(path, encoding="utf-8") as f:
-            master = json.load(f).get("jobs", [])
+            master_data = json.load(f)
+            master = master_data.get("jobs", [])
     except (FileNotFoundError, json.JSONDecodeError):
+        master_data = {}
         master = []
+    if geographic_groups is not None:
+        review_urls = {j.get("url") for key in ("remote", "ambiguous") for j in geographic_groups[key]}
+        master = [j for j in partition_jobs(master)["in_radius"] if j.get("url") not in review_urls]
 
     now = datetime.now(timezone.utc)
     stamp = now.strftime("%Y-%m-%dT%H:%M:%SZ")
@@ -2851,10 +2849,20 @@ def _merge_into_all_jobs(new_jobs: list) -> int:
     kept = [j for j in entries if j.get("first_seen", stamp) >= cutoff]
     kept.sort(key=lambda j: j.get("first_seen", ""), reverse=True)
 
+    output = {"updated_at": now.strftime("%Y-%m-%d %H:%M UTC"), "jobs": kept}
+    current_urls = {j.get("url") for j in new_jobs}
+    if geographic_groups is not None:
+        current_urls.update(j.get("url") for key in ("remote", "ambiguous") for j in geographic_groups[key])
+    for key in ("remote", "ambiguous"):
+        field = key + "_jobs"
+        review = {j.get("url"): j for j in master_data.get(field, [])
+                  if j.get("url") not in current_urls and j.get("first_seen", stamp) >= cutoff}
+        for j in (geographic_groups or {}).get(key, []):
+            review[j.get("url")] = {**j, "first_seen": j.get("first_seen", stamp)}
+        output[field] = list(review.values())
     with open(path, "w", encoding="utf-8") as f:
         # Compact separators: the dashboard downloads this file on every load.
-        json.dump({"updated_at": now.strftime("%Y-%m-%d %H:%M UTC"), "jobs": kept},
-                  f, separators=(",", ":"), ensure_ascii=False)
+        json.dump(output, f, separators=(",", ":"), ensure_ascii=False)
     print(
         f"all_jobs.json: +{added} new, {enriched} enriched, "
         f"{merged_existing + merged_new} duplicate(s) merged, "
@@ -2880,6 +2888,13 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
     for job in jobs:
         _ensure_work_arrangement(job)
 
+    # Every board and blocked-run fallback crosses this boundary before any
+    # digest, master entry, or notification can treat a role as a local match.
+    geographic_groups = partition_jobs(jobs)
+    jobs = geographic_groups["in_radius"]
+    print("  Geographic filter: " + ", ".join(
+        f"{key}={len(value)}" for key, value in geographic_groups.items()))
+
     json_path = os.path.join(OUTPUT_DIR, f"{basename}.json")
     md_path = os.path.join(OUTPUT_DIR, f"{basename}.md")
     html_path = os.path.join(OUTPUT_DIR, f"{basename}.html")
@@ -2892,7 +2907,7 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
     try:
         # Merge the full current source window, not only brand-new notifications:
         # existing sparse LinkedIn records can gain salary/description later.
-        _merge_into_all_jobs(jobs)
+        _merge_into_all_jobs(jobs, geographic_groups=geographic_groups)
     except Exception as e:
         print(f"  ⚠️  all_jobs.json accumulator failed (non-fatal): {e}")
 
@@ -2911,6 +2926,9 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
         "new_count": len(new_jobs),
         "jobs": jobs,
         "new_jobs": new_jobs,
+        "remote_jobs": geographic_groups["remote"],
+        "ambiguous_jobs": geographic_groups["ambiguous"],
+        "geographic_counts": {key: len(value) for key, value in geographic_groups.items()},
     }
     with open(json_path, "w", encoding="utf-8") as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
@@ -3258,7 +3276,7 @@ if __name__ == "__main__":
     if "--linkedin-only" in sys.argv:
         jobs = scrape_linkedin_recent()
         before = len(jobs)
-        jobs = [j for j in jobs if is_target_location(j.get("location", ""))]
+        jobs = _keep_geographic_candidates(jobs)
         print(f"📍 Location filter: {before} → {len(jobs)} roles")
         save_linkedin_results(jobs)
         sys.exit(0)
@@ -3272,7 +3290,7 @@ if __name__ == "__main__":
         print(f"🔁 LinkedIn backfill (last {LINKEDIN_BACKFILL_DAYS} days)…")
         jobs, _ = _linkedin_search(list(LINKEDIN_SEARCH_TERMS), backfill_s)
         before = len(jobs)
-        jobs = [j for j in jobs if is_target_location(j.get("location", ""))]
+        jobs = _keep_geographic_candidates(jobs)
         print(f"  📍 Location filter: {before} → {len(jobs)} roles")
         if jobs:
             _enrich_linkedin_postings(jobs)
@@ -3293,7 +3311,7 @@ if __name__ == "__main__":
         print(f"🔁 LinkedIn backfill for \"{term}\" (last {LINKEDIN_BACKFILL_DAYS} days)…")
         jobs, raw_cards = _linkedin_search([term], backfill_s)
         before = len(jobs)
-        jobs = [j for j in jobs if is_target_location(j.get("location", ""))]
+        jobs = _keep_geographic_candidates(jobs)
         print(f"  📍 Location filter: {before} → {len(jobs)} roles")
         if jobs:
             _enrich_linkedin_postings(jobs)
@@ -3493,7 +3511,7 @@ if __name__ == "__main__":
                 deduped.append(j)
         all_jobs = deduped
         before = len(all_jobs)
-        all_jobs = [j for j in all_jobs if is_target_location(j.get("location", ""))]
+        all_jobs = _keep_geographic_candidates(all_jobs)
         print(f"\n  📍 Location filter: {before} → {len(all_jobs)} roles")
         print(f"  ✅ Partition \"{partition_key}\": {len(all_jobs)} role(s) (raw: {total_raw})"
               f"{' [CAP-HIT]' if any_cap_hit else ''}")
@@ -3535,7 +3553,7 @@ if __name__ == "__main__":
             total_raw += raw
             any_cap_hit = any_cap_hit or hit_cap
         before = len(all_jobs)
-        all_jobs = [j for j in all_jobs if is_target_location(j.get("location", ""))]
+        all_jobs = _keep_geographic_candidates(all_jobs)
         print(f"\n🧪 Test results:")
         print(f"   Total raw cards: {total_raw}")
         print(f"   Unique jobs (pre-filter): {before}")
@@ -3636,7 +3654,7 @@ if __name__ == "__main__":
         jobs, raw_cards = _linkedin_search(test_terms, lookback,
                                            geos=LINKEDIN_GEOS, max_results=test_max)
         before = len(jobs)
-        jobs = [j for j in jobs if is_target_location(j.get("location", ""))]
+        jobs = _keep_geographic_candidates(jobs)
         print(f"\n🧪 Test results:")
         print(f"   Raw cards fetched: {raw_cards}")
         print(f"   Keyword-matched: {before}")
@@ -3697,7 +3715,7 @@ if __name__ == "__main__":
         # Cross-run dedupe via _load_prev_ids → save_priority_results gives
         # "new since last digest" semantics.
         jobs = list(scrape_curated_employers())
-        jobs = [j for j in jobs if is_target_location(j.get("location", ""))]
+        jobs = _keep_geographic_candidates(jobs)
         jobs.extend(scrape_linkedin_priority())
 
         seen: set[tuple[str, str]] = set()
@@ -3722,7 +3740,7 @@ if __name__ == "__main__":
         raw, _ = _linkedin_search(list(LINKEDIN_SEARCH_TERMS), backfill_s)
         jobs = [j for j in raw if _is_priority_company(j["company"])]
         jobs = list(scrape_curated_employers()) + jobs
-        jobs = [j for j in jobs if is_target_location(j.get("location", ""))]
+        jobs = _keep_geographic_candidates(jobs)
         if jobs:
             _enrich_linkedin_postings(jobs)
         seen: set[tuple[str, str]] = set()
@@ -3742,7 +3760,7 @@ if __name__ == "__main__":
     all_jobs = list(scrape_curated_employers())
 
     before = len(all_jobs)
-    all_jobs = [j for j in all_jobs if is_target_location(j.get("location", ""))]
+    all_jobs = _keep_geographic_candidates(all_jobs)
     print(f"\n📍 Location filter ({PROFILE_SUBTITLE}): {before} → {len(all_jobs)} roles")
 
     before = len(all_jobs)
