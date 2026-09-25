@@ -1,17 +1,18 @@
 # 🟦 Indeed — AI · Language · Human Research Roles
-*Last updated: 2026-09-25 06:42 UTC*
+*Last updated: 2026-09-25 19:48 UTC*
 
-**2 new role(s)** since last run · 21 total in last 24h
+**2 new role(s)** since last run · 7 total in last 24h
 
-### [Technical Lead, Multimodal Research](https://www.indeed.com/viewjob?jk=6027dcdba9549a81) — Eventual
-- 📍 **Location:** San Francisco, CA, US
+### [Data Scientist](https://www.indeed.com/viewjob?jk=0fb496b44e52405b) — KLA
+- 📍 **Location:** Milpitas, CA, US
+- 💰 **Salary:** $85k–$125k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-24
+- 🕒 **Posted:** 2026-09-25
 
-### [Power Systems Research Engineer, DeepMind](https://www.indeed.com/viewjob?jk=8441ada29fc3dfb8) — DeepMind
+### [Data Scientist, Adobe.com](https://www.indeed.com/viewjob?jk=b0e01ebd5481567b) — Adobe
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $207k–$300k/yr
+- 💰 **Salary:** $109k–$201k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-24
+- 🕒 **Posted:** 2026-09-25
