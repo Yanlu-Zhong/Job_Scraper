@@ -1,110 +1,20 @@
 {
-  "scraped_at": "2026-09-26 01:57 UTC",
-  "total": 2,
-  "new_count": 2,
+  "scraped_at": "2026-09-26 08:04 UTC",
+  "total": 0,
+  "new_count": 0,
   "scrape_status": {
     "status": "success",
-    "raw_rows": 851,
+    "raw_rows": 215,
     "queries": 152
   },
-  "jobs": [
-    {
-      "company": "Google",
-      "title": "Staff Product Data Scientist, Gmail, Chat, Calendar",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4470750548/",
-      "date_posted": "2026-09-26",
-      "salary": "$192000 - $278000",
-      "ats": "LinkedIn",
-      "description": "The application window will be open until at least October 9, 2026. This opportunity will remain online based on business needs which may be before or after the specified date.\n\nIn accordance with Washington state law, we are highlighting our comprehensive benefits package, which is available to all eligible US based employees. Benefits for this role include:\n\nHealth, dental, vision, life, disability insurance\nRetirement Benefits: 401(k) with company match\nPaid Time Off: 20 days of vacation per year, accruing at a rate of 6.15 hours per pay period for the first five years of employment\nSick Time: 40 hours/year (increased to 69 hours/year for Seattle) including 5 discretionary sick days per instance\nMaternity Leave (Short-Term Disability + Baby Bonding): 28-30 weeks\nBaby Bonding Leave: 18 weeks\nHolidays: 13 paid days per year\n\nNote: By applying to this position you will have an opportunity to share your preferred working location from the following: Sunnyvale, CA, USA; Boulder, CO, USA; New York, NY, USA; Seattle, WA, USA\n. Minimum qualifications:\n\nBachelor's degree in Statistics, Mathematics, Data Science, Engineering, Physics, Economics, or a related quantitative field.\n10 years of work experience using analytics to solve product or business problems, performing statistical analysis, and coding (e.g., Python, R, SQL) (or 8 years work experience and a Master's degree).\n\nPreferred qualifications:\n\nMaster's degree in Statistics, Mathematics, Data Science, Engineering, Physics, Economics, or a related quantitative field.\n12 years of work experience using analytics to solve product or business problems, performing statistical analysis, and coding (e.g., Python, R, SQL).\n\nAbout The Job\n\nHelp serve Google's worldwide user base of more than a billion people. Data Scientists provide quantitative support, market understanding and a strategic perspective to our partners throughout the organization. As a data-loving member of the team, you serve as an analytics expert for your partners, using numbers to help them make better decisions. You will weave stories with meaningful insight from data. You'll make critical recommendations for your fellow Googlers in Engineering and Product Management. You relish tallying up the numbers one minute and communicating your findings to a team leader the next.\n\nThe Communications & Time Management (CTM) Data Science team shapes decision-making and provides actionable insights to guide product development for Gmail, Chat, and Calendar.\n\nAs a Data Scientist/Analytics Engineer, you will work closely with product and engineering teams to build products enjoyed by 3B+ users.\n\nGoogle Cloud accelerates every organization’s ability to digitally transform its business and industry. We deliver enterprise-grade solutions that leverage Google’s cutting-edge technology, and tools that help developers build more sustainably. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.\n\nIndividual pay is determined by factors including job-related skills, experience, and relevant education or training.\n\nUS: $192000 - $278000 (USD) + 20% bonus target + equity + benefits\n\nResponsibilities\n\nLearn more about benefits at Google .\n\nLead the research and development of metric frameworks that quantify user engagement and productivity. Pioneer new methodologies to evaluate the effectiveness, user adoption, and efficiency gains of GenAI and agentic tooling embedded within Workspace products.\nAct as the strategic connective tissue between product engineering and central data infrastructure teams. Rather than just identifying gaps, you will marshal resources, influence partner roadmaps, and drive complex, multi-team telemetry and infrastructure projects from inception to execution.\nDesign and build scalable data models and analytical architecture that connect data across multiple distinct product domains, ensuring cohesion rather than isolated, product-specific silos.\nScope and drive initiatives to enable self-serve analytics. Design unified semantic layers, governed metric stores, and high-impact executive dashboards, while leading next-generation AI-powered self-serve tooling.\n\nGoogle is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nInformation Services and Technology, Information and Internet",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 0.0,
-        "city": "sunnyvale",
-        "latitude": 37.385797,
-        "longitude": -122.026316,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Dyna Robotics",
-      "title": "Research Engineer",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4470748467/",
-      "date_posted": "2026-09-26",
-      "salary": "$250,000.00/yr - $400,000.00/yr",
-      "ats": "LinkedIn",
-      "description": "Dyna Robotics\nbuilds general-purpose robots powered by a proprietary embodied AI foundation model with top-in-industry generalization and real-world performance. Already deployed with customers across multiple industries, our robots do commercial-grade work in the physical world. Our team comes from Google DeepMind, Meta, and Cruise, and we're backed by CRV, First Round, and other leading investors.\n\nThe Role\n\nMost ML infrastructure work ends at a benchmark. Ours ends at a robot doing real work at a customer site.\nYou'll own our training and inference infrastructure end to end, from the moment robot data lands to the moment a new model runs on hardware. The goal: every GPU busy, every run reproducible, and every researcher's next experiment one command away.\n\nWhy this is harder than typical ML infra\n\nThe data is physical:\nsynchronized video, proprioception, and 3D signals from real robots, not clean text.\nLatency is physical too:\na slow model means a robot that hesitates or misses a grasp.\nThe loop is closed:\ndata from deployed robots feeds back into training, and your systems sit at the center of that flywheel.\n\nWhat You’ll Do\n\nScale distributed training across a multi-cloud GPU fleet using sharding, activation checkpointing, and memory optimization (FSDP, ZeRO).\nBuild a research codebase and scheduling system (Kubernetes/SLURM) built for fast iteration, automatic retries, and painless failure recovery.\nDesign high-throughput pipelines for terabytes of multimodal robot data so dataloaders never starve the GPUs.\nShip low-latency inference for real-time robot control using quantization, distillation, and compilation (TensorRT, Triton).\nProfile GPU utilization, I/O bottlenecks, and memory fragmentation to get the most out of every node.\n\nYou'll thrive here if you\n\nGenuinely care about embodied AI.\nYou follow robot learning research, have opinions about VLAs or world models, or have built something that moves. You want your work to show up in the physical world, not just on a dashboard.\nHave 7+ years of engineering experience, including leading projects in HPC or ML infrastructure.\nKnow PyTorch and distributed training deeply (DeepSpeed, Accelerate, FSDP), including mixed precision and gradient accumulation.\nHave hands-on experience with cloud GPU environments (GCP/AWS) and Kubernetes.\nUnderstand distributed systems at a low level: race conditions, memory management, NCCL and inter-node communication.\nOwn what you ship: you design, build, and operate systems end to end to unblock fast-moving research.\n\nBonus Points For\n\nRobotics data formats (MCAP, Protobuf) or multimodal models such as VLAs.\nCustom kernels (Triton), compilers, or runtime optimization.\nExperience as a founding or early infrastructure hire.\nSide projects involving robots, simulators, or hardware.\n\nAt Dyna Robotics\n, we build technology for the real world, which requires a team as diverse as the environments our robots inhabit. We are an equal opportunity employer committed to technical rigor and mutual respect.\nDon’t let a checklist stop you.\nData shows that underrepresented groups often only apply if they meet 100% of the criteria. We value problem-solving and grit over keyword matching. If you’re passionate about robotics, no matter your discipline, we want to hear from you, even if you don't check every box.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 13.625,
-        "city": "redwood city",
-        "latitude": 37.515274,
-        "longitude": -122.213672,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "Google",
-      "title": "Staff Product Data Scientist, Gmail, Chat, Calendar",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4470750548/",
-      "date_posted": "2026-09-26",
-      "salary": "$192000 - $278000",
-      "ats": "LinkedIn",
-      "description": "The application window will be open until at least October 9, 2026. This opportunity will remain online based on business needs which may be before or after the specified date.\n\nIn accordance with Washington state law, we are highlighting our comprehensive benefits package, which is available to all eligible US based employees. Benefits for this role include:\n\nHealth, dental, vision, life, disability insurance\nRetirement Benefits: 401(k) with company match\nPaid Time Off: 20 days of vacation per year, accruing at a rate of 6.15 hours per pay period for the first five years of employment\nSick Time: 40 hours/year (increased to 69 hours/year for Seattle) including 5 discretionary sick days per instance\nMaternity Leave (Short-Term Disability + Baby Bonding): 28-30 weeks\nBaby Bonding Leave: 18 weeks\nHolidays: 13 paid days per year\n\nNote: By applying to this position you will have an opportunity to share your preferred working location from the following: Sunnyvale, CA, USA; Boulder, CO, USA; New York, NY, USA; Seattle, WA, USA\n. Minimum qualifications:\n\nBachelor's degree in Statistics, Mathematics, Data Science, Engineering, Physics, Economics, or a related quantitative field.\n10 years of work experience using analytics to solve product or business problems, performing statistical analysis, and coding (e.g., Python, R, SQL) (or 8 years work experience and a Master's degree).\n\nPreferred qualifications:\n\nMaster's degree in Statistics, Mathematics, Data Science, Engineering, Physics, Economics, or a related quantitative field.\n12 years of work experience using analytics to solve product or business problems, performing statistical analysis, and coding (e.g., Python, R, SQL).\n\nAbout The Job\n\nHelp serve Google's worldwide user base of more than a billion people. Data Scientists provide quantitative support, market understanding and a strategic perspective to our partners throughout the organization. As a data-loving member of the team, you serve as an analytics expert for your partners, using numbers to help them make better decisions. You will weave stories with meaningful insight from data. You'll make critical recommendations for your fellow Googlers in Engineering and Product Management. You relish tallying up the numbers one minute and communicating your findings to a team leader the next.\n\nThe Communications & Time Management (CTM) Data Science team shapes decision-making and provides actionable insights to guide product development for Gmail, Chat, and Calendar.\n\nAs a Data Scientist/Analytics Engineer, you will work closely with product and engineering teams to build products enjoyed by 3B+ users.\n\nGoogle Cloud accelerates every organization’s ability to digitally transform its business and industry. We deliver enterprise-grade solutions that leverage Google’s cutting-edge technology, and tools that help developers build more sustainably. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.\n\nIndividual pay is determined by factors including job-related skills, experience, and relevant education or training.\n\nUS: $192000 - $278000 (USD) + 20% bonus target + equity + benefits\n\nResponsibilities\n\nLearn more about benefits at Google .\n\nLead the research and development of metric frameworks that quantify user engagement and productivity. Pioneer new methodologies to evaluate the effectiveness, user adoption, and efficiency gains of GenAI and agentic tooling embedded within Workspace products.\nAct as the strategic connective tissue between product engineering and central data infrastructure teams. Rather than just identifying gaps, you will marshal resources, influence partner roadmaps, and drive complex, multi-team telemetry and infrastructure projects from inception to execution.\nDesign and build scalable data models and analytical architecture that connect data across multiple distinct product domains, ensuring cohesion rather than isolated, product-specific silos.\nScope and drive initiatives to enable self-serve analytics. Design unified semantic layers, governed metric stores, and high-impact executive dashboards, while leading next-generation AI-powered self-serve tooling.\n\nGoogle is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nInformation Services and Technology, Information and Internet",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 0.0,
-        "city": "sunnyvale",
-        "latitude": 37.385797,
-        "longitude": -122.026316,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Dyna Robotics",
-      "title": "Research Engineer",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4470748467/",
-      "date_posted": "2026-09-26",
-      "salary": "$250,000.00/yr - $400,000.00/yr",
-      "ats": "LinkedIn",
-      "description": "Dyna Robotics\nbuilds general-purpose robots powered by a proprietary embodied AI foundation model with top-in-industry generalization and real-world performance. Already deployed with customers across multiple industries, our robots do commercial-grade work in the physical world. Our team comes from Google DeepMind, Meta, and Cruise, and we're backed by CRV, First Round, and other leading investors.\n\nThe Role\n\nMost ML infrastructure work ends at a benchmark. Ours ends at a robot doing real work at a customer site.\nYou'll own our training and inference infrastructure end to end, from the moment robot data lands to the moment a new model runs on hardware. The goal: every GPU busy, every run reproducible, and every researcher's next experiment one command away.\n\nWhy this is harder than typical ML infra\n\nThe data is physical:\nsynchronized video, proprioception, and 3D signals from real robots, not clean text.\nLatency is physical too:\na slow model means a robot that hesitates or misses a grasp.\nThe loop is closed:\ndata from deployed robots feeds back into training, and your systems sit at the center of that flywheel.\n\nWhat You’ll Do\n\nScale distributed training across a multi-cloud GPU fleet using sharding, activation checkpointing, and memory optimization (FSDP, ZeRO).\nBuild a research codebase and scheduling system (Kubernetes/SLURM) built for fast iteration, automatic retries, and painless failure recovery.\nDesign high-throughput pipelines for terabytes of multimodal robot data so dataloaders never starve the GPUs.\nShip low-latency inference for real-time robot control using quantization, distillation, and compilation (TensorRT, Triton).\nProfile GPU utilization, I/O bottlenecks, and memory fragmentation to get the most out of every node.\n\nYou'll thrive here if you\n\nGenuinely care about embodied AI.\nYou follow robot learning research, have opinions about VLAs or world models, or have built something that moves. You want your work to show up in the physical world, not just on a dashboard.\nHave 7+ years of engineering experience, including leading projects in HPC or ML infrastructure.\nKnow PyTorch and distributed training deeply (DeepSpeed, Accelerate, FSDP), including mixed precision and gradient accumulation.\nHave hands-on experience with cloud GPU environments (GCP/AWS) and Kubernetes.\nUnderstand distributed systems at a low level: race conditions, memory management, NCCL and inter-node communication.\nOwn what you ship: you design, build, and operate systems end to end to unblock fast-moving research.\n\nBonus Points For\n\nRobotics data formats (MCAP, Protobuf) or multimodal models such as VLAs.\nCustom kernels (Triton), compilers, or runtime optimization.\nExperience as a founding or early infrastructure hire.\nSide projects involving robots, simulators, or hardware.\n\nAt Dyna Robotics\n, we build technology for the real world, which requires a team as diverse as the environments our robots inhabit. We are an equal opportunity employer committed to technical rigor and mutual respect.\nDon’t let a checklist stop you.\nData shows that underrepresented groups often only apply if they meet 100% of the criteria. We value problem-solving and grit over keyword matching. If you’re passionate about robotics, no matter your discipline, we want to hear from you, even if you don't check every box.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 13.625,
-        "city": "redwood city",
-        "latitude": 37.515274,
-        "longitude": -122.213672,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    }
-  ],
+  "jobs": [],
+  "new_jobs": [],
   "remote_jobs": [],
-  "ambiguous_jobs": [
-    {
-      "company": "Google",
-      "title": "Senior Research Data Scientist, Search Ads",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4470749588/",
-      "date_posted": "2026-09-26",
-      "salary": "$174000 - $252000",
-      "ats": "LinkedIn",
-      "description": "Minimum qualifications:\n\nMaster's degree in Statistics, Data Science, Mathematics, Physics, Economics, Operations Research, Engineering, or a related quantitative field.\n5 years of work experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis, or 3 years of work experience with a PhD degree.\n\nPreferred qualifications:\n\n8 years of work experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis, or 6 years of work experience with a PhD degree.\n\nAbout The Job\n\nOur team provides the critical analysis and data insights that guide our AdsUI partners in improving user interfaces, ad formats, and the overall search page experience. We are the premier team driving a $2XXB business, offering you the unique opportunity to land immediate, visible impact on billions of users worldwide—including yourself.\n\nIndividual pay is determined by factors including job-related skills, experience, and relevant education or training.\n\nUS: $174000 - $252000 (USD) + 15% bonus target + equity + benefits\n\nResponsibilities\n\nLearn more about benefits at Google .\n\nCollaborate with stakeholders in cross-projects and team settings to identify and clarify business or product questions to answer. Provide feedback to translate and refine business questions into tractable analysis, evaluation metrics, or mathematical models.\nUse custom data infrastructure or existing data models as appropriate, using specialized knowledge. Design and evaluate models to mathematically express and solve defined problems with limited precedent.\nGather information, business goals, priorities, and organizational context around the questions to answer, as well as the existing and upcoming data infrastructure.\nOwn the process of gathering, extracting, and compiling data across sources via relevant tools (e.g., SQL, R, Python). Format, re-structure, and/or validate data to ensure quality, and review the dataset to ensure it is ready for analysis.\n\nGoogle is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nInformation Services and Technology, Information and Internet",
-      "geography": {
-        "status": "ambiguous",
-        "distance_miles": null,
-        "reason": "City is unknown or has multiple Census locations."
-      }
-    }
-  ],
+  "ambiguous_jobs": [],
   "geographic_counts": {
-    "in_radius": 2,
+    "in_radius": 0,
     "remote": 0,
-    "ambiguous": 1,
+    "ambiguous": 0,
     "outside_radius": 0
   }
 }
