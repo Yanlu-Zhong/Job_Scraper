@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-09-27 19:19 UTC",
+  "scraped_at": "2026-09-27 22:36 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "scrape_status": {
     "status": "success",
-    "raw_rows": 31,
+    "raw_rows": 24,
     "queries": 25,
     "errors": 0
   },
@@ -14,7 +14,7 @@
       "title": "AIML - Data Scientist, Evaluation",
       "location": "Cupertino, CA, US",
       "url": "https://www.indeed.com/viewjob?jk=19f9086afacf50bb",
-      "direct_url": "https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200685687-0836&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200685687-0836%2Faiml-data-scientist-evaluation%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D615f1659-ba2c-11f1-a722-b12371bfce71%26rx_job%3D200685687-0836%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20260927T180411Z%26rx_vp%3Dcpc%26team%3DMLAI",
+      "direct_url": "https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200685687-0836&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200685687-0836%2Faiml-data-scientist-evaluation%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D615f1659-ba2c-11f1-a722-b12371bfce71%26rx_job%3D200685687-0836%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20260927T220406Z%26rx_vp%3Dcpc%26team%3DMLAI",
       "company_url": "https://www.indeed.com/cmp/Apple",
       "date_posted": "2026-09-23",
       "description": "Do you get excited by building software systems to enhance the automatic evaluation of various Apple AI products? Our Evaluation organization is responsible for providing principled assessments across a diverse range of Apple features, from Search, Siri to the latest Apple Intelligence capabilities. As part of our online metrics and insights team, we are looking for a Sr Data Scientist to contribute to product understanding and development of Apple features. This role involves using analytical and engineering methods augmented by LLMs and python to develop conceptual and analytical models and perform insights analyses to uncover product quality issues that can inform improving the overall user experience.  \n\n  \n\n**Description**  \n\n  \n\nAs a Sr Data Scientist, you will use statistical and LLM analysis of structured and linguistic data to deepen our understanding of Apple’s AI product and support the development of future versions. Investigate world\\-wide product usage to identify weaknesses and chances to create the product better. Define metrics and instrumentation strategies to assess the success of new features. Build relationships with Engineering leads and product partners to drive a privacy\\-first strategy for analytical insight. Employ a diverse toolkit of detailed analytical approaches, methodologies, frameworks, and technical strategies with a particular focus on language data analysis. Build credibility with partners through clarity and structured, critical thinking.  \n\n  \n\n**Preferred Qualifications**  \n\n  \n\nExperience with Natural Language Processing (NLP) and LLMs.  \n\n  \n\nExperience with development of dataset and analysis conceptual methodologies.  \n\n  \n\nSelf\\-motivated and curious with demonstrated creative and critical thinking capabilities and a highly developed drive to determine and improve how things work.  \n\n  \n\nExcellent communication skills\\-able to synthesize analyses into clear insights and influence multi\\-functional partners.  \n\n  \n\nHigh tolerance for ambiguity. You find a way through. You anticipate. You connect and synthesize.  \n\n  \n\nDemonstrated experience in encouraging partner relationships and influencing decisions with data.  \n\n  \n\n**Minimum Qualifications**  \n\n  \n\n3\\+ years of data science experience applying quantitative methods to structured and unstructured data for exploratory data analysis, pattern recognition, metrics development, and analytical insights.  \n\n  \n\nStrong programming skills in Python and SQL, with experience in data manipulation, processing, and analytics pipelines.  \n\n  \n\nExperience with LLM\\-driven analytics workflows, using Python coding frameworks and evaluation pipelines.  \n\n  \n\nProven ability to analyze user behavior, design and interpret A/B experiments, and translate findings into product improvements.  \n\n  \n\nMaster degree in a technical or quantitative field such as Statistics, Mathematics, Computer Science, Engineering, Linguistics, or Physics (PhD preferred).  \n\n  \n\n**Pay \\& Benefits**  \n\n  \n\nAt Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $150,400 and $277,600, and your base pay will depend on your skills, qualifications, experience, and location.  \n\n  \n\nApple employees also have the opportunity to become an Apple shareholder through participation in Apple's discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple's Employee Stock Purchase Plan. You'll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses \\- including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits  \n\n  \n\nNote: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.",
@@ -36,34 +36,7 @@
       }
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Apple",
-      "title": "AIML - Data Scientist, Evaluation",
-      "location": "Cupertino, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=19f9086afacf50bb",
-      "direct_url": "https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200685687-0836&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200685687-0836%2Faiml-data-scientist-evaluation%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D615f1659-ba2c-11f1-a722-b12371bfce71%26rx_job%3D200685687-0836%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20260927T180411Z%26rx_vp%3Dcpc%26team%3DMLAI",
-      "company_url": "https://www.indeed.com/cmp/Apple",
-      "date_posted": "2026-09-23",
-      "description": "Do you get excited by building software systems to enhance the automatic evaluation of various Apple AI products? Our Evaluation organization is responsible for providing principled assessments across a diverse range of Apple features, from Search, Siri to the latest Apple Intelligence capabilities. As part of our online metrics and insights team, we are looking for a Sr Data Scientist to contribute to product understanding and development of Apple features. This role involves using analytical and engineering methods augmented by LLMs and python to develop conceptual and analytical models and perform insights analyses to uncover product quality issues that can inform improving the overall user experience.  \n\n  \n\n**Description**  \n\n  \n\nAs a Sr Data Scientist, you will use statistical and LLM analysis of structured and linguistic data to deepen our understanding of Apple’s AI product and support the development of future versions. Investigate world\\-wide product usage to identify weaknesses and chances to create the product better. Define metrics and instrumentation strategies to assess the success of new features. Build relationships with Engineering leads and product partners to drive a privacy\\-first strategy for analytical insight. Employ a diverse toolkit of detailed analytical approaches, methodologies, frameworks, and technical strategies with a particular focus on language data analysis. Build credibility with partners through clarity and structured, critical thinking.  \n\n  \n\n**Preferred Qualifications**  \n\n  \n\nExperience with Natural Language Processing (NLP) and LLMs.  \n\n  \n\nExperience with development of dataset and analysis conceptual methodologies.  \n\n  \n\nSelf\\-motivated and curious with demonstrated creative and critical thinking capabilities and a highly developed drive to determine and improve how things work.  \n\n  \n\nExcellent communication skills\\-able to synthesize analyses into clear insights and influence multi\\-functional partners.  \n\n  \n\nHigh tolerance for ambiguity. You find a way through. You anticipate. You connect and synthesize.  \n\n  \n\nDemonstrated experience in encouraging partner relationships and influencing decisions with data.  \n\n  \n\n**Minimum Qualifications**  \n\n  \n\n3\\+ years of data science experience applying quantitative methods to structured and unstructured data for exploratory data analysis, pattern recognition, metrics development, and analytical insights.  \n\n  \n\nStrong programming skills in Python and SQL, with experience in data manipulation, processing, and analytics pipelines.  \n\n  \n\nExperience with LLM\\-driven analytics workflows, using Python coding frameworks and evaluation pipelines.  \n\n  \n\nProven ability to analyze user behavior, design and interpret A/B experiments, and translate findings into product improvements.  \n\n  \n\nMaster degree in a technical or quantitative field such as Statistics, Mathematics, Computer Science, Engineering, Linguistics, or Physics (PhD preferred).  \n\n  \n\n**Pay \\& Benefits**  \n\n  \n\nAt Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $150,400 and $277,600, and your base pay will depend on your skills, qualifications, experience, and location.  \n\n  \n\nApple employees also have the opportunity to become an Apple shareholder through participation in Apple's discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple's Employee Stock Purchase Plan. You'll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses \\- including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits  \n\n  \n\nNote: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.",
-      "salary": "$150k–$278k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 4.7,
-        "city": "cupertino",
-        "latitude": 37.3194,
-        "longitude": -122.044957,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    }
-  ],
+  "new_jobs": [],
   "remote_jobs": [],
   "ambiguous_jobs": [],
   "geographic_counts": {
