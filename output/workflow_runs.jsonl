@@ -68,3 +68,4 @@
 {"job_count": 1, "run_attempt": "1", "run_id": "36343907100", "scrape": {"errors": 0, "queries": 25, "raw_rows": 31, "status": "success"}, "timestamp": "2026-09-27T19:19:36Z", "workflow": "indeed"}
 {"job_count": 0, "run_attempt": "1", "run_id": "36345262096", "scrape": {"errors": 0, "queries": 25, "raw_rows": 0, "status": "empty"}, "timestamp": "2026-09-27T19:41:39Z", "workflow": "glassdoor"}
 {"job_count": 0, "run_attempt": "1", "run_id": "36345683133", "scrape": {"errors": 0, "queries": 25, "raw_rows": 0, "status": "empty"}, "timestamp": "2026-09-27T19:48:40Z", "workflow": "ziprecruiter"}
+{"job_count": 0, "run_attempt": "1", "run_id": "36345858097", "scrape": {"errors": 0, "queries": 155, "raw_rows": 0, "status": "empty"}, "timestamp": "2026-09-27T19:53:06Z", "workflow": "google_jobs"}
