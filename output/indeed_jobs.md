@@ -1,6 +1,10 @@
 # 🟦 Indeed — AI · Language · Human Research Roles
-*Last updated: 2026-09-27 05:52 UTC*
+*Last updated: 2026-09-27 19:19 UTC*
 
-**0 new role(s)** since last run · 3 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-No new roles since the last run.
+### [AIML - Data Scientist, Evaluation](https://www.indeed.com/viewjob?jk=19f9086afacf50bb) — Apple
+- 📍 **Location:** Cupertino, CA, US
+- 💰 **Salary:** $150k–$278k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-23
