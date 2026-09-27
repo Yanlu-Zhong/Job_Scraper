@@ -1,36 +1,20 @@
 {
-  "scraped_at": "2026-09-26 22:16 UTC",
+  "scraped_at": "2026-09-27 00:52 UTC",
   "total": 0,
   "new_count": 0,
   "scrape_status": {
     "status": "success",
-    "raw_rows": 269,
+    "raw_rows": 52,
     "queries": 152
   },
   "jobs": [],
   "new_jobs": [],
   "remote_jobs": [],
-  "ambiguous_jobs": [
-    {
-      "company": "TTN Talent",
-      "title": "Research Scientist",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4472406603/",
-      "date_posted": "2026-09-26",
-      "salary": "$250,000.00/yr - $650,000.00/yr",
-      "ats": "LinkedIn",
-      "description": "Do you have hands-on frontier AI research experience across LLMs, reinforcement learning, post-training or agentic systems?\nHave you run large-scale experiments, trained models and improved model behaviour rather than only publishing research?\nDo you have experience owning research end to end, from hypothesis and data through to training, evaluation and deployment?\nHave you worked on areas such as RL, continual learning, computer use, representation learning or multimodal agents?\nAre you a fresh PhD graduate with strong relevant research / internship experience, or an experienced Research Engineer / Scientist from a leading AI lab?\n\nIf you answer yes to all of the above, then this confidential role could be the one for you.\n\nThis is a rare opportunity to join an early-stage, research-first AI company working on frontier problems across autonomous agents, human intent understanding, reinforcement learning and post-training. The successful candidate will own ambitious research bets end to end, helping shape both the research agenda and the underlying models powering long-horizon agent capabilities.\n\nSalary on offer is up to $650,000.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nStaffing and Recruiting",
-      "geography": {
-        "status": "ambiguous",
-        "distance_miles": null,
-        "reason": "An unambiguous city and state are required."
-      }
-    }
-  ],
+  "ambiguous_jobs": [],
   "geographic_counts": {
     "in_radius": 0,
     "remote": 0,
-    "ambiguous": 1,
+    "ambiguous": 0,
     "outside_radius": 0
   }
 }
