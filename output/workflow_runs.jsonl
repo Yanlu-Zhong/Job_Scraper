@@ -90,3 +90,4 @@
 {"job_count": 0, "run_attempt": "1", "run_id": "36400298848", "scrape": {"errors": 0, "queries": 155, "raw_rows": 0, "status": "empty"}, "timestamp": "2026-09-28T08:57:01Z", "workflow": "google_jobs"}
 {"job_count": 1, "run_attempt": "1", "run_id": "36484842785", "scrape": {"queries": 152, "raw_rows": 856, "status": "success"}, "timestamp": "2026-09-28T21:36:15Z", "workflow": "linkedin"}
 {"job_count": 7, "run_attempt": "1", "run_id": "36485809226", "scrape": {"errors": 0, "queries": 25, "raw_rows": 161, "status": "success"}, "timestamp": "2026-09-28T21:37:04Z", "workflow": "indeed"}
+{"job_count": 0, "run_attempt": "1", "run_id": "36488340977", "scrape": {"errors": 0, "queries": 25, "raw_rows": 0, "status": "empty"}, "timestamp": "2026-09-28T21:47:17Z", "workflow": "glassdoor"}
