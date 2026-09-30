@@ -1,8 +1,24 @@
 # 🔥 LinkedIn — AI · Language · Human Research Roles
-*Last updated: 2026-09-29 01:26 UTC*
+*Last updated: 2026-09-30 00:10 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**5 new role(s)** since last run · 5 total in last 1h
 
-### [Founding Applied Research Scientist, AI & Simulation](https://www.linkedin.com/jobs/view/4471568887/) — Greylock Partners
+### [Sr. Applied Scientist, Frontier AI Assets](https://www.linkedin.com/jobs/view/4473571163/) — Amazon
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-09-30
+
+### [Sr. Communication Systems Research Scientist – Radio Resource Management](https://www.linkedin.com/jobs/view/4473559914/) — Amazon
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-09-30
+
+### [Senior Applied Scientist, Foundation Model](https://www.linkedin.com/jobs/view/4473562780/) — Amazon
 - 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-30
+
+### [Senior Applied Scientist, Foundation Model](https://www.linkedin.com/jobs/view/4473580005/) — Amazon
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-09-30
+
+### [Research Scientist, Fundamental Generative AI - New College Grad 2026](https://www.linkedin.com/jobs/view/4471983112/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-09-29
