@@ -1,78 +1,91 @@
 # 🟦 Indeed — AI · Language · Human Research Roles
-*Last updated: 2026-09-30 00:10 UTC*
+*Last updated: 2026-09-30 20:33 UTC*
 
-**11 new role(s)** since last run · 14 total in last 24h
+**14 new role(s)** since last run · 22 total in last 24h
 
-### [Senior Data Scientist - GTM](https://www.indeed.com/viewjob?jk=33f75ea3742077f4) — Salesforce
+### [Research Engineer / Research Scientist, RL Frontiers](https://www.indeed.com/viewjob?jk=6c1ef5b9c61c3f91) — Anthropic
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $148k–$224k/yr
+- 💰 **Salary:** $500k–$850k/yr
 - **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-29
 
-### [Senior Applied Scientist, Foundation Model](https://www.indeed.com/viewjob?jk=192c11ec6cb1c06c) — Amazon.com
+### [Research Engineer / Performance Engineer, RL Distributed Systems](https://www.indeed.com/viewjob?jk=74c3e86bc9f0d214) — Anthropic
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $192k–$260k/yr
+- 💰 **Salary:** $500k–$850k/yr
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-14
-
-### [Senior Applied Scientist, Foundation Model](https://www.indeed.com/viewjob?jk=5c2688e883a12474) — Amazon.com
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $192k–$260k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-14
-
-### [Senior Applied Scientist, Foundation Model](https://www.indeed.com/viewjob?jk=c1520df92e64c6ab) — Amazon.com
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $192k–$260k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-14
-
-### [AI/ML Imaging Data Scientist - Personalized Healthcare (Medical Imaging)](https://www.indeed.com/viewjob?jk=956c27271ab43796) — Genentech
-- 📍 **Location:** San Francisco, CA, US
-- **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-29
 
-### [AI/ML Imaging Data Scientist - Personalized Healthcare (Medical Imaging)](https://www.indeed.com/viewjob?jk=35ec4b54acfdc7a7) — Genentech
-- 📍 **Location:** San Francisco, CA, US
+### [Data Scientist ADAS Analytics Machine Learning](https://www.indeed.com/viewjob?jk=64507608c433c446) — Mercedes-Benz Group
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $118k–$148k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-29
+- 🕒 **Posted:** 2026-09-30
 
-### [Sr. Applied Scientist, Frontier AI Assets](https://www.indeed.com/viewjob?jk=d15aa8f1c55ae15e) — Amazon.com
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $192k–$260k/yr
+### [GTM Staff Data Scientist](https://www.indeed.com/viewjob?jk=4e347bb6b947772f) — Snowflake
+- 📍 **Location:** Menlo Park, CA, US
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-24
+- 🕒 **Posted:** 2026-08-17
 
-### [Sr. Communication Systems Research Scientist – Radio Resource Management](https://www.indeed.com/viewjob?jk=bfb85abf51e478e6) — Amazon.com
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $159k–$215k/yr
+### [Research Engineer, Language - Wearables Polyglot AI](https://www.indeed.com/viewjob?jk=b579f13f5ea31309) — Meta
+- 📍 **Location:** Menlo Park, CA, US
+- 💰 **Salary:** $154k–$217k/yr
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-29
+- 🕒 **Posted:** 2026-09-21
 
-### [Audio Machine Learning Engineer, Google Beam](https://www.indeed.com/viewjob?jk=670c8c7ac404a2d3) — Google
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $207k–$300k/yr
+### [Research Engineer, Language - Wearables Polyglot AI](https://www.indeed.com/viewjob?jk=b078621307b0ca71) — Meta
+- 📍 **Location:** Burlingame, CA, US
+- 💰 **Salary:** $154k–$217k/yr
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-29
+- 🕒 **Posted:** 2026-09-21
 
-### [Applied Scientist II, Amazon Quick](https://www.indeed.com/viewjob?jk=40c3b745bfed3288) — Amazon.com
+### [Research Engineer, Privacy Evals - Meta Superintelligence Labs](https://www.indeed.com/viewjob?jk=ec1014bd2ced511c) — Meta
+- 📍 **Location:** Menlo Park, CA, US
+- 💰 **Salary:** $154k–$217k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-28
+
+### [Research Scientist, Fundamental Generative AI - New College Grad 2026](https://www.indeed.com/viewjob?jk=afc0797b96ca18a5) — NVIDIA
 - 📍 **Location:** Santa Clara, CA, US
-- 💰 **Salary:** $172k–$222k/yr
+- 💰 **Salary:** $168k–$264k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-03
+- 🕒 **Posted:** 2026-09-30
 
-### [Data Scientist - Flex Pay](https://www.indeed.com/viewjob?jk=f66a235e494bbb79) — Upgrade
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $100k–$120k/yr
+### [Data Scientist, Expert](https://www.indeed.com/viewjob?jk=e56cdd3f1c442682) — Pacific Gas and Electric
+- 📍 **Location:** Oakland, CA, US
+- 💰 **Salary:** $133k–$238k/yr
 - **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-30
+
+### [AI Research Scientist, Computer Vision](https://www.indeed.com/viewjob?jk=81cc4028e087a300) — Meta
+- 📍 **Location:** Burlingame, CA, US
+- 💰 **Salary:** $154k–$217k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-20
+
+### [ML Research Scientist](https://www.indeed.com/viewjob?jk=68b37b972b9b940e) — Unknown
+- 📍 **Location:** San Francisco, CA, US
+- **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-29
+
+### [Staff Data Scientist, Growth Analytics](https://www.indeed.com/viewjob?jk=dc406b3ef43187e3) — Airwallex
+- 📍 **Location:** San Francisco, CA, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-05-21
+
+### [Data Scientist, B2B Generalist](https://www.indeed.com/viewjob?jk=c3a178c9081716ff) — OpenAI
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $347k–$445k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-30
+
+### [Senior Data Scientist - Product](https://www.indeed.com/viewjob?jk=d08ae80f757d86ad) — Snowflake
+- 📍 **Location:** Menlo Park, CA, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2025-08-27
