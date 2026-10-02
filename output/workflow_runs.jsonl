@@ -141,3 +141,4 @@
 {"job_count": 0, "run_attempt": "1", "run_id": "36926341822", "scrape": {"errors": 0, "queries": 25, "raw_rows": 0, "status": "empty"}, "timestamp": "2026-10-01T21:06:26Z", "workflow": "ziprecruiter"}
 {"job_count": 0, "run_attempt": "1", "run_id": "36927587083", "scrape": {"errors": 0, "queries": 155, "raw_rows": 0, "status": "empty"}, "timestamp": "2026-10-01T21:18:07Z", "workflow": "google_jobs"}
 {"job_count": 0, "run_attempt": "1", "run_id": "36928610205", "scrape": {"raw_rows": 0, "status": "empty"}, "timestamp": "2026-10-01T21:26:01Z", "workflow": "hiringcafe"}
+{"job_count": 7, "run_attempt": "1", "run_id": "36945112525", "scrape": {"errors": 0, "queries": 25, "raw_rows": 228, "status": "success"}, "timestamp": "2026-10-02T00:16:35Z", "workflow": "indeed"}
