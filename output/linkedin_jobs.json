@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-10-03 19:01 UTC",
+  "scraped_at": "2026-10-03 22:22 UTC",
   "total": 0,
   "new_count": 0,
   "scrape_status": {
     "status": "success",
-    "raw_rows": 645,
+    "raw_rows": 51,
     "queries": 152
   },
   "jobs": [],
