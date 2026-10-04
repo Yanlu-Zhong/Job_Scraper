@@ -1,128 +1,18 @@
 {
-  "scraped_at": "2026-10-04 00:59 UTC",
-  "total": 3,
-  "new_count": 3,
+  "scraped_at": "2026-10-04 07:10 UTC",
+  "total": 0,
+  "new_count": 0,
   "scrape_status": {
     "status": "success",
-    "raw_rows": 313,
+    "raw_rows": 21,
     "queries": 152
   },
-  "jobs": [
-    {
-      "company": "SynergisticIT",
-      "title": "junior software developer/Data Scientist",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473892242/",
-      "date_posted": "2026-10-04",
-      "salary": "$82,000.00/yr - $136,000.00/yr",
-      "ats": "LinkedIn",
-      "description": "Ghosted After Applying: Candidates Tired of Silence\n\nGhosting Is Now the Default. It Does Not Have to Be Your Default.\n\nYou apply, sometimes complete a HackerRank, and then nothing. No rejection, no recruiter, no feedback. Data engineer roles are competitive, and companies ghost candidates who look generic: some SQL, some Python, no pipeline narrative, no cloud, no Spark. Silence is a market signal that your profile is not being championed.\nMake Your Profile Impossible to Ignore\n\nWhy You’re Being Overlooked—and How We Can Help\nMany employers today don’t just want a degree—they’re looking for job-ready developers with hands-on experience, relevant certifications, and up-to-date skills\nin today’s tech stack. Unfortunately, most CS grads don’t get that in college.\nSince 2010, we’ve helped thousands of candidates land full-time jobs at tech leaders like Google, Apple, PayPal, Visa, Western Union, Wells Fargo, Intel, Paypal, JPMC, Wayfair, BOA, CITI and hundreds more\nwith Job offers of $95k to $154k.\nSynergisticit focuses on closing the gap between your tech skills and what employers want now.\n\nCurrently, We are looking for entry-level software programmers, Java Full stack developers, Python/Java developers, Data analysts/Data Engineers/ Data Scientists, Machine Learning engineers\nfor full time positions with clients.\n\nWe Focus on Java /Full stack/Devops and Data Science /Data Engineers/Data analysts/BI Analysts/ Machine learning/AI candidates\n\nIdeal Candidates:\n\nRecent grads in CS, Engineering, Math, or Statistics with limited or no job experience\n\nJobseekers who had layoffs due to Downsizing and want to get in demand tech stack\n\nProfessionals seeking a career switch to tech\n\nCandidates with career gaps or lacking real-world experience\n\nIndividuals looking to boost their skill portfolio for better job prospects\n\nComputer Science grads with limited or no job experience\n\nStudents who recently finished their Bachelor’s or Master’s programs\n\nThose struggling to land interviews despite having experience\n\nPlease check the below links:\n\nEvent videos (OCW, JavaOne, Gartner):\n\nUSA Today feature\n\nDiscover JOPP: JOPP\n\nContact: https://www.synergisticit.com/contact-us/\n\nplease read our blogs:\n\nWhy do Tech Companies not Hire recent Computer Science Graduates | SynergisticIT\n\nWhat Recruiters Look for in Junior Developers | SynergisticIT\n\nIs AI Going to Replace Software Programmers? | SynergisticIT\n\nAimed at Direct Full-Time Roles\n\ninterviews for direct clients and full-time positions rather than contract chains. Salary outcomes after successful completion are often listed from about $95k to $154k, with data hires associated with firms such as Intel, Citi, JPMC, Ford, and Walmart Labs.\nIf your current process is apply-and-wait, you already know the result.\nReplace ghosting with scheduled interviews. When nothing else works, JOPP works\nPlease note: Resume databases are shared with clients and interested clients will reach out directly if they find a qualified candidate for their req.\n\nResume submissions may be shared with our JOPP team database also. Please unsubscribe if contacted or if you don’t want to be contacted please don’t submit your resume.\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting and Software Development",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 13.183,
-        "city": "san jose",
-        "latitude": 37.296011,
-        "longitude": -121.814552,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Massachusetts Health & Hospital Association",
-      "title": "Research Scientist - Molecular Diagnostics",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473869964/",
-      "date_posted": "2026-10-04",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "We are seeking a Research Scientist with a strong academic background and industry experience in molecular diagnostics and biosensing.\n\nKey Responsibilities Include\n\nIdentify, incubate, and develop innovative technologies in molecular diagnostics and biosensing from academic research to proof-of-concept prototypes.\nLead hands-on development and testing of diagnostic prototypes, integrating microfluidics, electrochemical sensing, soft electronics, and nanofabrication.\nCollaborate with internal teams and external academic partners to transition research into commercial product pipelines.\nDesign and perform experiments on single-molecule detection, assay integration, and sample-to-answer systems.\nSecure intellectual property through patent filings and contribute scientific publications and documentation.\nServe as a biosensors and bioelectronics expert, advising on system feasibility, risk, and architecture.\n\nQualifications Include\n\nPhD in Electrical Engineering, Mechanical Engineering, Bioengineering, Physics, or related field.\n3-5 years industry experience in biotechnology, especially translating ideas into products.\nExpertise in molecular diagnostics, single-molecule detection, instrumentation, and integrated platforms.\nExperience with soft electronics, micro/nanofabrication, electrochemical sensing, and biochemistry.\nProven scientific accomplishments, including patents and publications.\nStrong motivation, communication, and teamwork skills.\n\nThis position offers:\na competitive salary, comprehensive benefits, and opportunities to work at the forefront of biosensing technology in a collaborative, innovative environment.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nHospitals and Health Care",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 0.0,
-        "city": "sunnyvale",
-        "latitude": 37.385797,
-        "longitude": -122.026316,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Sciforium",
-      "title": "Pre-training Research Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4459262301/",
-      "date_posted": "2026-10-03",
-      "salary": "$165,000.00/yr - $225,000.00/yr",
-      "ats": "LinkedIn",
-      "description": "Sciforium is an AI infrastructure company developing next-generation multimodal AI models and a proprietary, high-efficiency serving platform. Backed by multi-million-dollar funding and direct sponsorship from AMD with hands-on support from AMD engineers the team is scaling rapidly to build the full stack powering frontier AI models and real-time applications.\n\nAbout The Role\n\nAs a Pre-training Research Engineer, you’ll focus on model implementation, pertaining and scaling, and improving the quality of our byte-native and multimodal foundation models. You’ll build and iterate quickly on research ideas, contribute production-grade training code and infrastructure, and help deliver high-quality base models that can serve real-world use cases at scale.\n\nKey Responsibilities\n\nPre-training & Scaling\n\nTrain large byte-native and multimodal foundation models across massive, heterogeneous corpora.\nImplement and evaluate new model architectures, training objectives, and optimization methods.\nDevelop stable pre-training recipes and run scaling experiments for novel architectures.\nConduct ablations and analyze training dynamics, model behavior, and base-model quality.\nWork with data and distributed training engineers to improve training efficiency, reliability, and scalability.\n\nMust-Haves\n\n5+ years of experience in machine learning research or engineering, with a proven track record of developing and pre-training large language or multimodal foundation models.\nSoftware Engineering: Strong general software engineering skills, with the ability to write robust and performant training code.\nML Foundations: Solid understanding of deep learning fundamentals and modern pre-training methods and literature.\nResearch and Experimentation: Ability to quickly implement research ideas and evaluate them using clear baselines, ablations, metrics, and analysis.\nGPU and Distributed Training: Hands-on experience running training workloads in GPU-based environments, with familiarity with distributed training.\nEducation: MS in Computer Science, Machine Learning, Artificial Intelligence, Mathematics, or a related field.\n\nNice-to-Haves\n\nPhD in Computer Science, Machine Learning, Artificial Intelligence, Mathematics, or a related field.\nJAX Ecosystem: Extensive experience with the JAX, Flax, and XLA stack.\nLarge-Scale Distributed Training: Experience with multi-node pre-training using systems such as FSDP, ZeRO, or Megatron.\nTraining Recipes and Scaling: Experience developing training recipes, ablations, or scaling experiments.\nMonitoring and Reproducibility: Experience owning end-to-end training and evaluation pipelines with monitoring and reproducibility.\n\nEducation\n\nMS or PhD in Computer Science, Machine Learning, Artificial Intelligence, Mathematics, or a related field.\n\nBenefits include\n\nMedical, dental, and vision insurance\n401k plan\nDaily lunch, snacks, and beverages\nFlexible time off\nCompetitive salary and equity\n\nEqual opportunity\n\nSciforium is an equal opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status.\n\nCompensation Range: $165K - $225K\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "SynergisticIT",
-      "title": "junior software developer/Data Scientist",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473892242/",
-      "date_posted": "2026-10-04",
-      "salary": "$82,000.00/yr - $136,000.00/yr",
-      "ats": "LinkedIn",
-      "description": "Ghosted After Applying: Candidates Tired of Silence\n\nGhosting Is Now the Default. It Does Not Have to Be Your Default.\n\nYou apply, sometimes complete a HackerRank, and then nothing. No rejection, no recruiter, no feedback. Data engineer roles are competitive, and companies ghost candidates who look generic: some SQL, some Python, no pipeline narrative, no cloud, no Spark. Silence is a market signal that your profile is not being championed.\nMake Your Profile Impossible to Ignore\n\nWhy You’re Being Overlooked—and How We Can Help\nMany employers today don’t just want a degree—they’re looking for job-ready developers with hands-on experience, relevant certifications, and up-to-date skills\nin today’s tech stack. Unfortunately, most CS grads don’t get that in college.\nSince 2010, we’ve helped thousands of candidates land full-time jobs at tech leaders like Google, Apple, PayPal, Visa, Western Union, Wells Fargo, Intel, Paypal, JPMC, Wayfair, BOA, CITI and hundreds more\nwith Job offers of $95k to $154k.\nSynergisticit focuses on closing the gap between your tech skills and what employers want now.\n\nCurrently, We are looking for entry-level software programmers, Java Full stack developers, Python/Java developers, Data analysts/Data Engineers/ Data Scientists, Machine Learning engineers\nfor full time positions with clients.\n\nWe Focus on Java /Full stack/Devops and Data Science /Data Engineers/Data analysts/BI Analysts/ Machine learning/AI candidates\n\nIdeal Candidates:\n\nRecent grads in CS, Engineering, Math, or Statistics with limited or no job experience\n\nJobseekers who had layoffs due to Downsizing and want to get in demand tech stack\n\nProfessionals seeking a career switch to tech\n\nCandidates with career gaps or lacking real-world experience\n\nIndividuals looking to boost their skill portfolio for better job prospects\n\nComputer Science grads with limited or no job experience\n\nStudents who recently finished their Bachelor’s or Master’s programs\n\nThose struggling to land interviews despite having experience\n\nPlease check the below links:\n\nEvent videos (OCW, JavaOne, Gartner):\n\nUSA Today feature\n\nDiscover JOPP: JOPP\n\nContact: https://www.synergisticit.com/contact-us/\n\nplease read our blogs:\n\nWhy do Tech Companies not Hire recent Computer Science Graduates | SynergisticIT\n\nWhat Recruiters Look for in Junior Developers | SynergisticIT\n\nIs AI Going to Replace Software Programmers? | SynergisticIT\n\nAimed at Direct Full-Time Roles\n\ninterviews for direct clients and full-time positions rather than contract chains. Salary outcomes after successful completion are often listed from about $95k to $154k, with data hires associated with firms such as Intel, Citi, JPMC, Ford, and Walmart Labs.\nIf your current process is apply-and-wait, you already know the result.\nReplace ghosting with scheduled interviews. When nothing else works, JOPP works\nPlease note: Resume databases are shared with clients and interested clients will reach out directly if they find a qualified candidate for their req.\n\nResume submissions may be shared with our JOPP team database also. Please unsubscribe if contacted or if you don’t want to be contacted please don’t submit your resume.\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting and Software Development",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 13.183,
-        "city": "san jose",
-        "latitude": 37.296011,
-        "longitude": -121.814552,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Massachusetts Health & Hospital Association",
-      "title": "Research Scientist - Molecular Diagnostics",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473869964/",
-      "date_posted": "2026-10-04",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "We are seeking a Research Scientist with a strong academic background and industry experience in molecular diagnostics and biosensing.\n\nKey Responsibilities Include\n\nIdentify, incubate, and develop innovative technologies in molecular diagnostics and biosensing from academic research to proof-of-concept prototypes.\nLead hands-on development and testing of diagnostic prototypes, integrating microfluidics, electrochemical sensing, soft electronics, and nanofabrication.\nCollaborate with internal teams and external academic partners to transition research into commercial product pipelines.\nDesign and perform experiments on single-molecule detection, assay integration, and sample-to-answer systems.\nSecure intellectual property through patent filings and contribute scientific publications and documentation.\nServe as a biosensors and bioelectronics expert, advising on system feasibility, risk, and architecture.\n\nQualifications Include\n\nPhD in Electrical Engineering, Mechanical Engineering, Bioengineering, Physics, or related field.\n3-5 years industry experience in biotechnology, especially translating ideas into products.\nExpertise in molecular diagnostics, single-molecule detection, instrumentation, and integrated platforms.\nExperience with soft electronics, micro/nanofabrication, electrochemical sensing, and biochemistry.\nProven scientific accomplishments, including patents and publications.\nStrong motivation, communication, and teamwork skills.\n\nThis position offers:\na competitive salary, comprehensive benefits, and opportunities to work at the forefront of biosensing technology in a collaborative, innovative environment.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nHospitals and Health Care",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 0.0,
-        "city": "sunnyvale",
-        "latitude": 37.385797,
-        "longitude": -122.026316,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Sciforium",
-      "title": "Pre-training Research Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4459262301/",
-      "date_posted": "2026-10-03",
-      "salary": "$165,000.00/yr - $225,000.00/yr",
-      "ats": "LinkedIn",
-      "description": "Sciforium is an AI infrastructure company developing next-generation multimodal AI models and a proprietary, high-efficiency serving platform. Backed by multi-million-dollar funding and direct sponsorship from AMD with hands-on support from AMD engineers the team is scaling rapidly to build the full stack powering frontier AI models and real-time applications.\n\nAbout The Role\n\nAs a Pre-training Research Engineer, you’ll focus on model implementation, pertaining and scaling, and improving the quality of our byte-native and multimodal foundation models. You’ll build and iterate quickly on research ideas, contribute production-grade training code and infrastructure, and help deliver high-quality base models that can serve real-world use cases at scale.\n\nKey Responsibilities\n\nPre-training & Scaling\n\nTrain large byte-native and multimodal foundation models across massive, heterogeneous corpora.\nImplement and evaluate new model architectures, training objectives, and optimization methods.\nDevelop stable pre-training recipes and run scaling experiments for novel architectures.\nConduct ablations and analyze training dynamics, model behavior, and base-model quality.\nWork with data and distributed training engineers to improve training efficiency, reliability, and scalability.\n\nMust-Haves\n\n5+ years of experience in machine learning research or engineering, with a proven track record of developing and pre-training large language or multimodal foundation models.\nSoftware Engineering: Strong general software engineering skills, with the ability to write robust and performant training code.\nML Foundations: Solid understanding of deep learning fundamentals and modern pre-training methods and literature.\nResearch and Experimentation: Ability to quickly implement research ideas and evaluate them using clear baselines, ablations, metrics, and analysis.\nGPU and Distributed Training: Hands-on experience running training workloads in GPU-based environments, with familiarity with distributed training.\nEducation: MS in Computer Science, Machine Learning, Artificial Intelligence, Mathematics, or a related field.\n\nNice-to-Haves\n\nPhD in Computer Science, Machine Learning, Artificial Intelligence, Mathematics, or a related field.\nJAX Ecosystem: Extensive experience with the JAX, Flax, and XLA stack.\nLarge-Scale Distributed Training: Experience with multi-node pre-training using systems such as FSDP, ZeRO, or Megatron.\nTraining Recipes and Scaling: Experience developing training recipes, ablations, or scaling experiments.\nMonitoring and Reproducibility: Experience owning end-to-end training and evaluation pipelines with monitoring and reproducibility.\n\nEducation\n\nMS or PhD in Computer Science, Machine Learning, Artificial Intelligence, Mathematics, or a related field.\n\nBenefits include\n\nMedical, dental, and vision insurance\n401k plan\nDaily lunch, snacks, and beverages\nFlexible time off\nCompetitive salary and equity\n\nEqual opportunity\n\nSciforium is an equal opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status.\n\nCompensation Range: $165K - $225K\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    }
-  ],
+  "jobs": [],
+  "new_jobs": [],
   "remote_jobs": [],
   "ambiguous_jobs": [],
   "geographic_counts": {
-    "in_radius": 3,
+    "in_radius": 0,
     "remote": 0,
     "ambiguous": 0,
     "outside_radius": 0
