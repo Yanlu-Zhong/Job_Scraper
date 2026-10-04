@@ -1,5 +1,5 @@
 # 🟩 Glassdoor — AI · Language · Human Research Roles
-*Last updated: 2026-10-04 02:29 UTC*
+*Last updated: 2026-10-04 09:33 UTC*
 
 **0 new role(s)** since last run · 0 total in last 24h
 
