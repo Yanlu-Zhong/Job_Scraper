@@ -188,3 +188,4 @@
 {"job_count": 3, "run_attempt": "1", "run_id": "37190240614", "scrape": {"errors": 0, "queries": 25, "raw_rows": 128, "status": "success"}, "timestamp": "2026-10-04T08:51:19Z", "workflow": "indeed"}
 {"job_count": 0, "run_attempt": "1", "run_id": "37190314213", "scrape": {"raw_rows": 0, "status": "empty"}, "timestamp": "2026-10-04T08:52:31Z", "workflow": "hiringcafe"}
 {"job_count": 0, "run_attempt": "1", "run_id": "37192538331", "scrape": {"errors": 0, "queries": 25, "raw_rows": 0, "status": "empty"}, "timestamp": "2026-10-04T09:33:51Z", "workflow": "glassdoor"}
+{"job_count": 3, "run_attempt": "1", "run_id": "37225848033", "scrape": {"errors": 0, "queries": 25, "raw_rows": 103, "status": "success"}, "timestamp": "2026-10-04T19:10:06Z", "workflow": "indeed"}
