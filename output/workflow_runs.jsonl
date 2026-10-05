@@ -204,3 +204,4 @@
 {"job_count": 0, "run_attempt": "1", "run_id": "37253781902", "scrape": {"queries": 152, "raw_rows": 301, "status": "success"}, "timestamp": "2026-10-05T02:18:50Z", "workflow": "linkedin"}
 {"job_count": 0, "run_attempt": "1", "run_id": "37254074610", "scrape": {"errors": 0, "queries": 25, "raw_rows": 0, "status": "empty"}, "timestamp": "2026-10-05T02:19:23Z", "workflow": "ziprecruiter"}
 {"job_count": 0, "run_attempt": "1", "run_id": "37255040575", "scrape": {"errors": 0, "queries": 155, "raw_rows": 0, "status": "empty"}, "timestamp": "2026-10-05T02:22:16Z", "workflow": "google_jobs"}
+{"job_count": 1, "run_attempt": "1", "run_id": "37279302715", "scrape": {"errors": 0, "queries": 25, "raw_rows": 31, "status": "success"}, "timestamp": "2026-10-05T07:43:36Z", "workflow": "indeed"}
