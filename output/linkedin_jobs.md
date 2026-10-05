@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — AI · Language · Human Research Roles
-*Last updated: 2026-10-05 02:18 UTC*
+*Last updated: 2026-10-05 09:27 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [AI Researcher ($140K- 300K)](https://www.linkedin.com/jobs/view/4473622558/) — CodeRound AI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-05
