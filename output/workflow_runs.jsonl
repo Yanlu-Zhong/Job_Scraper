@@ -223,3 +223,4 @@
 {"job_count": 16, "run_attempt": "1", "run_id": "37443012500", "scrape": {"errors": 0, "queries": 25, "raw_rows": 314, "status": "success"}, "timestamp": "2026-10-06T09:27:23Z", "workflow": "indeed"}
 {"job_count": 0, "run_attempt": "1", "run_id": "37443099092", "scrape": {"raw_rows": 0, "status": "empty"}, "timestamp": "2026-10-06T09:27:57Z", "workflow": "hiringcafe"}
 {"job_count": 0, "run_attempt": "1", "run_id": "37446864993", "scrape": {"errors": 0, "queries": 25, "raw_rows": 0, "status": "empty"}, "timestamp": "2026-10-06T10:01:01Z", "workflow": "glassdoor"}
+{"job_count": 0, "run_attempt": "1", "run_id": "37451726759", "scrape": {"errors": 0, "queries": 155, "raw_rows": 0, "status": "empty"}, "timestamp": "2026-10-06T10:55:52Z", "workflow": "google_jobs"}
