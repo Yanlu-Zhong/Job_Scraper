@@ -1,30 +1,23 @@
 # 🟦 Indeed — AI · Language · Human Research Roles
-*Last updated: 2026-10-07 00:11 UTC*
+*Last updated: 2026-10-07 06:34 UTC*
 
-**4 new role(s)** since last run · 16 total in last 24h
+**3 new role(s)** since last run · 12 total in last 24h
 
-### [Member of Technical Staff - Research Scientist](https://www.indeed.com/viewjob?jk=66933a6d92985dc1) — Unknown
+### [Staff Data Scientist, Trust and Safety](https://www.indeed.com/viewjob?jk=bb40efe494408ca9) — Pinterest
 - 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $165k–$339k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-07
+
+### [Embodied AI / VLA Research Engineer](https://www.indeed.com/viewjob?jk=c568c48c775d72b8) — MaxInsights
+- 📍 **Location:** Santa Clara, CA, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-06
 
-### [Sr. Data Scientist](https://www.indeed.com/viewjob?jk=52df8d0844d029b4) — Visa
-- 📍 **Location:** Foster City, CA, US
-- 💰 **Salary:** $157k–$251k/yr
+### [Staff Applied Research Scientist - Fraud Detection](https://www.indeed.com/viewjob?jk=b2d9629891929b58) — GEICO
+- 📍 **Location:** Palo Alto, CA, US
+- 💰 **Salary:** $130k–$260k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-06
-
-### [Software Engineer, Multimedia & Multimodal AI](https://www.indeed.com/viewjob?jk=8698275aaf5b0dea) — Meta
-- 📍 **Location:** Menlo Park, CA, US
-- 💰 **Salary:** $154k–$217k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-22
-
-### [Applied Scientist, Superconducting Digital and Cryogenic Control Electronics,Center for Quantum Computing, Physical Design and Simulation, Enabling Technologies](https://www.indeed.com/viewjob?jk=885a0662cabbf2e5) — Amazon Web Services
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $172k–$222k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-02
