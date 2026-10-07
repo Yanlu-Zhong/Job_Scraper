@@ -1,32 +1,30 @@
 # 🟦 Indeed — AI · Language · Human Research Roles
-*Last updated: 2026-10-06 20:52 UTC*
+*Last updated: 2026-10-07 00:11 UTC*
 
-**4 new role(s)** since last run · 15 total in last 24h
+**4 new role(s)** since last run · 16 total in last 24h
 
-### [Staff Voice AI Engineer – SRE/DevOps](https://www.indeed.com/viewjob?jk=d29e7f2da11c52a8) — ServiceNow
-- 📍 **Location:** Santa Clara, CA, US
-- 💰 **Salary:** $176k–$308k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
-
-### [Senior Data Scientist](https://www.indeed.com/viewjob?jk=78b96535deace3b6) — Kroll Inc.
+### [Member of Technical Staff - Research Scientist](https://www.indeed.com/viewjob?jk=66933a6d92985dc1) — Unknown
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $60k–$150k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-06
 
-### [Applied Scientist II, AWS Neuron Science - Core Algorithm](https://www.indeed.com/viewjob?jk=5a215a70a4dbd7af) — Amazon Web Services
-- 📍 **Location:** Cupertino, CA, US
+### [Sr. Data Scientist](https://www.indeed.com/viewjob?jk=52df8d0844d029b4) — Visa
+- 📍 **Location:** Foster City, CA, US
+- 💰 **Salary:** $157k–$251k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-06
+
+### [Software Engineer, Multimedia & Multimodal AI](https://www.indeed.com/viewjob?jk=8698275aaf5b0dea) — Meta
+- 📍 **Location:** Menlo Park, CA, US
+- 💰 **Salary:** $154k–$217k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-22
+
+### [Applied Scientist, Superconducting Digital and Cryogenic Control Electronics,Center for Quantum Computing, Physical Design and Simulation, Enabling Technologies](https://www.indeed.com/viewjob?jk=885a0662cabbf2e5) — Amazon Web Services
+- 📍 **Location:** San Francisco, CA, US
 - 💰 **Salary:** $172k–$222k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-28
-
-### [Senior Applied Scientist, Annapurna ML](https://www.indeed.com/viewjob?jk=3064e9081832a309) — Amazon Web Services
-- 📍 **Location:** Cupertino, CA, US
-- 💰 **Salary:** $192k–$260k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-28
+- 🕒 **Posted:** 2026-09-02
