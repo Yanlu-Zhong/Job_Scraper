@@ -1,67 +1,36 @@
 # 🟦 Indeed — AI · Language · Human Research Roles
-*Last updated: 2026-10-07 21:03 UTC*
+*Last updated: 2026-10-08 08:02 UTC*
 
-**9 new role(s)** since last run · 14 total in last 24h
+**5 new role(s)** since last run · 13 total in last 24h
 
-### [Research Engineer, RL Env](https://www.indeed.com/viewjob?jk=a7ab83cdce91a11c) — mecka
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $170k–$300k/yr
+### [Applied Scientist, Amazon Robotics](https://www.indeed.com/viewjob?jk=32091b1027de2b9a) — Amazon.com
+- 📍 **Location:** Sunnyvale, CA, USA
+- 💰 **Salary:** $172k–$222k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-07
 
-### [Research Engineer, Simulation & World Models](https://www.indeed.com/viewjob?jk=25eef6e289ffb86c) — mecka
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $170k–$300k/yr
+### [Research Scientist, Server Demand](https://www.indeed.com/viewjob?jk=56abe3e34f6a04b0) — Meta
+- 📍 **Location:** Menlo Park, CA, USA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-08
+
+### [AI Researcher](https://www.indeed.com/viewjob?jk=bdd936172b0940da) — Ericsson
+- 📍 **Location:** Santa Clara, CA, USA
+- 💰 **Salary:** $146k–$192k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-08
+
+### [Applied Scientist , Prime Video Personalization and Discovery, Prime Video Personalization & Discovery](https://www.indeed.com/viewjob?jk=e2769e91a135a13b) — Amazon.com
+- 📍 **Location:** Sunnyvale, CA, USA
+- 💰 **Salary:** $143k–$222k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-07
 
-### [Staff Data Scientist](https://www.indeed.com/viewjob?jk=ccd54c123bdce5a4) — Ripple
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $212k–$265k/yr
+### [Scientist/Research Scientist, Molecular Pharmacology (contract position)](https://www.indeed.com/viewjob?jk=a234bcd0dc9b53d2) — Septerna
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $57–$70/hr
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-07
-
-### [Senior AI Researcher – Relational Foundation Models](https://www.indeed.com/viewjob?jk=30840ce63d3d4ab4) — SAP IT Business Systeme
-- 📍 **Location:** Palo Alto, CA, US
-- 💰 **Salary:** $149k–$306k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-07
-
-### [Senior Staff Machine Learning Engineer_Voice AI Engineer](https://www.indeed.com/viewjob?jk=4cf2bbed560d57f8) — ServiceNow
-- 📍 **Location:** Santa Clara, CA, US
-- 💰 **Salary:** $201k–$352k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-07
-
-### [Staff Machine Learning Engineer_Voice AI Engineer](https://www.indeed.com/viewjob?jk=3a2518797ece88b2) — ServiceNow
-- 📍 **Location:** Santa Clara, CA, US
-- 💰 **Salary:** $176k–$308k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-07
-
-### [Research Scientist, Autonomous Systems and Physical AI Research - PhD New College Grad 2026](https://www.indeed.com/viewjob?jk=c9a514df53775053) — NVIDIA
-- 📍 **Location:** Santa Clara, CA, US
-- 💰 **Salary:** $168k–$264k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-07
-
-### [Applied Scientist III, AGI Responsible AI (RAI)](https://www.indeed.com/viewjob?jk=f917dfd0f460b3e6) — Amazon.com
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $167k–$260k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
-
-### [Security Research Engineer, Attack Surface & Risk Signals](https://www.indeed.com/viewjob?jk=607c98827fdf1715) — CyberCube Analytics
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $140k–$160k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
+- **Job type:** fulltime, contract
 - 🕒 **Posted:** 2026-10-07
