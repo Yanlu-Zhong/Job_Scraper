@@ -1,37 +1,40 @@
 # 🔥 LinkedIn — AI · Language · Human Research Roles
-*Last updated: 2026-10-07 21:02 UTC*
+*Last updated: 2026-10-08 01:23 UTC*
 
-**7 new role(s)** since last run · 7 total in last 1h
+**8 new role(s)** since last run · 8 total in last 1h
 
-### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4475484603/) — Jobs Web3
+### [Staff Data Scientist, Causal Inference & Experimentation](https://www.linkedin.com/jobs/view/4475336529/) — Discord
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $172,000—$215,000 USD
-- 🕒 **Posted:** 2026-10-07
+- 💰 **Salary:** $279,000 to $310,000
+- 🕒 **Posted:** 2026-10-08
 
-### [Staff Data Scientist](https://www.linkedin.com/jobs/view/4475487358/) — Jobs Web3
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $212,000—$265,000 USD
-- 🕒 **Posted:** 2026-10-07
+### [Applied Scientist , Prime Video Personalization and Discovery, Prime Video Personalization & Discovery](https://www.linkedin.com/jobs/view/4476940943/) — Prime Video & Amazon MGM Studios
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-10-08
 
-### [Research Engineer, RL Env](https://www.linkedin.com/jobs/view/4476912860/) — Mecka
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $170,000.00/yr - $300,000.00/yr
-- 🕒 **Posted:** 2026-10-07
+### [Applied Scientist, Amazon Robotics](https://www.linkedin.com/jobs/view/4476951678/) — Amazon
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-10-08
 
-### [Member of Technical Staff, Research Engineering](https://www.linkedin.com/jobs/view/4474476588/) — Golden Gate Recruiting
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-07
+### [Principal Machine Learning Scientist - Search and Recommendations](https://www.linkedin.com/jobs/view/4475708801/) — Expedia Group
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $224,000.00/yr - $313,500.00/yr
+- 🕒 **Posted:** 2026-10-08
 
-### [Research Engineer, Simulation & World Models](https://www.linkedin.com/jobs/view/4476922413/) — Mecka
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $170,000.00/yr - $300,000.00/yr
-- 🕒 **Posted:** 2026-10-07
+### [Senior Machine Learning Scientist - Personalization](https://www.linkedin.com/jobs/view/4475717336/) — Expedia Group
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $187,000.00/yr - $261,500.00/yr
+- 🕒 **Posted:** 2026-10-08
 
-### [Research Engineer](https://www.linkedin.com/jobs/view/4476910901/) — Mind Robotics
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-10-07
+### [Senior Deep Learning Scientist, Multimodal Agentic RL](https://www.linkedin.com/jobs/view/4475700977/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-10-08
 
-### [Security Research Engineer, Attack Surface & Risk Signals](https://www.linkedin.com/jobs/view/4476921429/) — CyberCube
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $140,000.00/yr - $160,000.00/yr
-- 🕒 **Posted:** 2026-10-07
+### [Research Scientist, Autonomous Systems and Physical AI Research - PhD New College Grad 2026](https://www.linkedin.com/jobs/view/4475723053/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-10-08
+
+### [Principal Machine Learning Scientist - Agentic Experiences](https://www.linkedin.com/jobs/view/4475714448/) — Expedia Group
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $224,000.00/yr - $313,500.00/yr
+- 🕒 **Posted:** 2026-10-08
