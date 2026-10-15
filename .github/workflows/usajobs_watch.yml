@@ -4,7 +4,7 @@ on:
   # Daily — federal postings change at day resolution. Runs at 15:37 UTC
   # (~8am PT), offset from the other watchers, plus on demand.
   schedule:
-    - cron: "37 15 * * *"
+    - cron: "38 15 * * *"
   workflow_dispatch:
 
 concurrency:

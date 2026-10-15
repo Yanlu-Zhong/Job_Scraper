@@ -3,7 +3,7 @@ name: Google Jobs Watcher
 on:
   # JobSpy-backed Google Jobs pass, offset from the other board watchers.
   schedule:
-    - cron: "37 16-23,0-3 * * *"
+    - cron: "38 16-23,0-3 * * *"
   workflow_dispatch:
     inputs:
       backfill:

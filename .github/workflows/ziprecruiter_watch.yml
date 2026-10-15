@@ -3,7 +3,7 @@ name: ZipRecruiter Watcher
 on:
   # JobSpy-backed ZipRecruiter pass, offset from LinkedIn/Indeed/Glassdoor.
   schedule:
-    - cron: "27 16-23,0-3 * * *"
+    - cron: "28 16-23,0-3 * * *"
   workflow_dispatch:
     inputs:
       backfill:

@@ -5,7 +5,7 @@ on:
   # repository Variable ENABLE_GLASSDOOR_WATCHER=true because Glassdoor
   # frequently returns 403/location-parse failures from shared CI IPs.
   schedule:
-    - cron: "07 16-23,0-3 * * *"
+    - cron: "08 16-23,0-3 * * *"
   workflow_dispatch:
     inputs:
       backfill:

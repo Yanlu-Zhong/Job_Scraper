@@ -3,7 +3,7 @@ name: HiringCafe Watcher
 on:
   # Direct-employer listings from HiringCafe's public SSR search pages.
   schedule:
-    - cron: "57 16-23,0-3 * * *"
+    - cron: "58 16-23,0-3 * * *"
   workflow_dispatch:
     inputs:
       backfill:

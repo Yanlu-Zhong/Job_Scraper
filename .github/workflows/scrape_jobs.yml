@@ -4,7 +4,7 @@ on:
   schedule:
     # 03:13 UTC ≈ 8 PM PDT (UTC-7); in PST (UTC-8) ~7 PM PT.
     # Off-hour minute (:13) avoids GitHub Actions throttling at :00.
-    - cron: "13 3 * * *"
+    - cron: "12 3 * * *"
 
   workflow_dispatch:
     inputs:
