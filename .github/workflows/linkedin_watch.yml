@@ -37,21 +37,21 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.11"
 
-      - name: Scrape LinkedIn (last 1h, or 30-day backfill)
+      - name: Scrape LinkedIn (rotating 24h batches, or 30-day backfill)
         run: |
           if [ "${{ github.event.inputs.smoke }}" = "true" ]; then
-            python scrape_jobs.py --linkedin-smoke
+            python -u scrape_jobs.py --linkedin-smoke
           elif [ "${{ github.event.inputs.backfill }}" = "true" ]; then
-            python scrape_jobs.py --linkedin-backfill
+            python -u scrape_jobs.py --linkedin-backfill
           else
-            python scrape_jobs.py --linkedin-only
+            python -u scrape_jobs.py --linkedin-only
           fi
         env:
           PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
