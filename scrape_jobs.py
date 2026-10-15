@@ -567,7 +567,7 @@ def scrape_curated_employers() -> list:
 
 LINKEDIN_SEARCH_TERMS = _cfg("search_terms.linkedin", [])
 
-LINKEDIN_LOOKBACK_SECONDS = 3600          # 1h — every-2h watcher only surfaces the freshest hour
+LINKEDIN_LOOKBACK_SECONDS = 86400         # 24h — cover all rotating hourly keyword batches
 LINKEDIN_PRIORITY_LOOKBACK_SECONDS = 86400 # 24h — priority digest is a daily 8pm PT run
 
 # Geographies to search. geoId is LinkedIn's authoritative region filter; an
@@ -677,7 +677,9 @@ def _parse_linkedin_cards(html: str) -> tuple[list[dict], int]:
 def _linkedin_search(terms: list[str], lookback_seconds: int,
                      geos: list[dict] | None = None,
                      max_results: int = 500,
-                     retry_empty: bool = True) -> tuple[list[dict], int]:
+                     retry_empty: bool = True,
+                     fast_fail: bool = False,
+                     max_seconds: int | None = None) -> tuple[list[dict], int]:
     """
     Per-geo, per-term, paginated LinkedIn guest-endpoint search. Dedupes by job
     ID across every geography and sorts by recency. Used by both the general
@@ -704,11 +706,21 @@ def _linkedin_search(terms: list[str], lookback_seconds: int,
     total_raw_cards = 0
     consecutive_empty = 0
     pages_fetched = 0
+    deadline = time.monotonic() + max_seconds if max_seconds else None
+    budget_exhausted = False
     for geo in geos:
+        if budget_exhausted:
+            break
         geo_param = f"&geoId={geo['geoId']}" if geo.get("geoId") else ""
         for term in terms:
+            if budget_exhausted:
+                break
             term_start = pages_fetched
             for start in range(0, max_results, 10):
+                if deadline is not None and time.monotonic() >= deadline:
+                    print('  ⏱️ LinkedIn time budget reached; saving partial results')
+                    budget_exhausted = True
+                    break
                 # Dynamic delay: increase when we've been rate-limited
                 delay = LINKEDIN_REQUEST_DELAY + random.uniform(0, 2)
                 if _RATE_LIMITED:
@@ -722,7 +734,7 @@ def _linkedin_search(terms: list[str], lookback_seconds: int,
                     f"&f_TPR=r{lookback_seconds}"
                     f"&start={start}"
                 )
-                html = fetch(url)
+                html = fetch(url, retries=1, _base_wait=3.0) if fast_fail else fetch(url)
                 if not html.strip():
                     # Could be rate-limited (429 exhausted retries) or genuinely
                     # no more results. Retry once with a long pause before giving
@@ -899,9 +911,10 @@ def _linkedin_description_from_page(page: str) -> str:
     return text[:LINKEDIN_DESCRIPTION_MAX_CHARS]
 
 
-def _linkedin_posting_details(job_id: str) -> tuple[str, str]:
+def _linkedin_posting_details(job_id: str, *, fast_fail: bool = False) -> tuple[str, str]:
     import html as html_mod
-    page = fetch(f"https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/{job_id}")
+    url = f"https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/{job_id}"
+    page = fetch(url, retries=1, _base_wait=3.0) if fast_fail else fetch(url)
     if not page:
         return "", ""
     description = _linkedin_description_from_page(page)
@@ -964,9 +977,10 @@ def _linkedin_posting_salary(job_id: str) -> str:
     return salary
 
 
-def _enrich_linkedin_postings(jobs: list) -> tuple[int, int]:
+def _enrich_linkedin_postings(jobs: list, *, max_fetch: int | None = None,
+                              retry_failed: bool = True, fast_fail: bool = False) -> tuple[int, int]:
     """Backfill salary and description on LinkedIn jobs from posting pages.
-    No cap — enriches every job. Failed fetches get one retry pass.
+    Hourly runs cap requests and skip the slow retry pass.
     Returns (salary_filled, description_filled)."""
     salary_filled = desc_filled = fetched = 0
     failed: list[dict] = []
@@ -978,10 +992,13 @@ def _enrich_linkedin_postings(jobs: list) -> tuple[int, int]:
         m = re.search(r'/jobs/view/(\d+)', job.get("url", ""))
         if not m:
             continue
+        if max_fetch is not None and fetched >= max_fetch:
+            print(f'  ⏱️ Enrichment cap ({max_fetch} requests) reached')
+            break
         time.sleep(LINKEDIN_REQUEST_DELAY + random.uniform(0, 2))
         fetched += 1
         try:
-            sal, desc = _linkedin_posting_details(m.group(1))
+            sal, desc = _linkedin_posting_details(m.group(1), fast_fail=fast_fail)
         except (URLError, TimeoutError, OSError):
             failed.append(job)
             continue
@@ -994,8 +1011,8 @@ def _enrich_linkedin_postings(jobs: list) -> tuple[int, int]:
         if not sal and not desc:
             failed.append(job)
 
-    # Retry pass for failed enrichments
-    if failed:
+    # Retry only for backfills, not time-bounded hourly runs.
+    if failed and retry_failed:
         wait = 60 + random.uniform(0, 30)
         print(f"  ⏸  {len(failed)} enrichment(s) failed; pausing {wait:.0f}s before retry…")
         time.sleep(wait)
@@ -1029,32 +1046,71 @@ def _enrich_linkedin_postings(jobs: list) -> tuple[int, int]:
     return salary_filled, desc_filled
 
 def scrape_linkedin_recent() -> list:
-    print(f"🔎 Scraping LinkedIn (last {LINKEDIN_LOOKBACK_SECONDS // 3600}h)...")
-    jobs, raw_cards = _linkedin_search(LINKEDIN_SEARCH_TERMS, LINKEDIN_LOOKBACK_SECONDS,
-                                        max_results=100)
-    # Block guard (mirrors Indeed's): zero raw cards across every term means
-    # LinkedIn gave us nothing — rate-limited or blocked, not a quiet hour.
-    # Reuse the previous results so we don't clobber the dedupe baseline.
+    """Search one bounded keyword batch hourly and preserve earlier batches."""
+    terms = list(LINKEDIN_SEARCH_TERMS)
+    prior_file = os.path.join(OUTPUT_DIR, "linkedin_jobs.json")
+    if not terms:
+        print("  ⚠️ No LinkedIn keywords configured")
+        return _load_prev_jobs(prior_file)
+
+    batch_size = min(8, len(terms))
+    batch_count = (len(terms) + batch_size - 1) // batch_size
+    # Scheduled UTC hours 15..23 and 0..3: index from 15:00 so that
+    # each five active hours cover all the keyword batches once.
+    active_slot = (datetime.now(timezone.utc).hour - 15) % 24
+    batch_index = active_slot % batch_count
+    selected = terms[batch_index * batch_size:(batch_index + 1) * batch_size]
+    expected_queries = len(selected) * len(LINKEDIN_GEOS)
+    print(f"🔎 LinkedIn batch {batch_index + 1}/{batch_count}: "
+          f"{len(selected)}/{len(terms)} terms × {len(LINKEDIN_GEOS)} areas; "
+          f"{LINKEDIN_LOOKBACK_SECONDS // 3600}h lookback", flush=True)
+
+    # Max two pages per keyword/region, with short 429 retries and a 12m
+    # search budget. Detail enrichment has a separate small request cap.
+    jobs, raw_cards = _linkedin_search(
+        selected, LINKEDIN_LOOKBACK_SECONDS, max_results=20,
+        retry_empty=False, fast_fail=True, max_seconds=720,
+    )
+    previous = _load_prev_jobs(prior_file)
     if raw_cards == 0:
         LAST_SCRAPE_STATUS["linkedin_jobs"] = {
-            "status": "blocked", "raw_rows": 0,
-            "queries": len(LINKEDIN_SEARCH_TERMS) * len(LINKEDIN_GEOS),
+            "status": "blocked", "raw_rows": 0, "queries": expected_queries,
+            "batch": batch_index + 1, "batches": batch_count,
         }
-        prev = _load_prev_jobs(os.path.join(OUTPUT_DIR, "linkedin_jobs.json"))
-        print(f"  ⛔ LinkedIn returned 0 cards across all terms (likely blocked); "
-              f"preserving previous {len(prev)} result(s)")
-        return prev
+        print(f"  ⛔ No cards in batch; keeping {len(previous)} prior postings")
+        return previous
+
     before = len(jobs)
     jobs = _keep_geographic_candidates(jobs)
-    print(f"  📍 Location filter: {before} → {len(jobs)} roles")
-    print(f"  ✅ LinkedIn: {len(jobs)} role(s)")
-    LAST_SCRAPE_STATUS["linkedin_jobs"] = {
-        "status": "success", "raw_rows": raw_cards,
-        "queries": len(LINKEDIN_SEARCH_TERMS) * len(LINKEDIN_GEOS),
-    }
-    _enrich_linkedin_postings(jobs)
-    return jobs
+    print(f"  📍 Location filter: {before} → {len(jobs)}")
+    _enrich_linkedin_postings(jobs, max_fetch=12, retry_failed=False, fast_fail=True)
 
+    # Keep other batches so their postings aren't marked as 'new' on rotation.
+    # LinkedIn posting dates are often day-granular; keep today + yesterday.
+    cutoff_date = (datetime.now(timezone.utc) - timedelta(days=1)).date().isoformat()
+    combined = {}
+    for job in previous:
+        if str(job.get("date_posted", ""))[:10] >= cutoff_date:
+            ident = _job_identity(job.get("url", ""))
+            if ident:
+                combined[ident] = dict(job)
+    for job in jobs:
+        ident = _job_identity(job.get("url", ""))
+        if not ident:
+            continue
+        if ident in combined:
+            _merge_duplicate_job(combined[ident], job)
+        else:
+            combined[ident] = job
+
+    LAST_SCRAPE_STATUS["linkedin_jobs"] = {
+        "status": "success", "raw_rows": raw_cards, "queries": expected_queries,
+        "batch": batch_index + 1, "batches": batch_count,
+        "terms_in_batch": len(selected), "terms_total": len(terms),
+    }
+    print(f"  ✅ LinkedIn: {len(jobs)} roles this batch, "
+          f"{len(combined)} combined", flush=True)
+    return list(combined.values())
 
 def scrape_linkedin_priority() -> list:
     """
@@ -1336,7 +1392,8 @@ def scrape_linkedin_smoke() -> list:
         return []
     print(f"🧪 LinkedIn smoke test: one term, one geography, one page")
     jobs, raw_cards = _linkedin_search(
-        term, 24 * 3600, geos=geo, max_results=10, retry_empty=False
+        term, 24 * 3600, geos=geo, max_results=10, retry_empty=False,
+        fast_fail=True, max_seconds=120,
     )
     jobs = _keep_geographic_candidates(jobs)
     LAST_SCRAPE_STATUS["linkedin_jobs"] = {
