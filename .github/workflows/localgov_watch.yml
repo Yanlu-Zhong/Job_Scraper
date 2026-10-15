@@ -4,7 +4,7 @@ on:
   # Daily — government postings change at day resolution. Runs at 16:22 UTC
   # (~9am PT), offset from the other watchers, plus on demand.
   schedule:
-    - cron: "22 16 * * *"
+    - cron: "24 16 * * *"
   workflow_dispatch:
     inputs:
       backfill:

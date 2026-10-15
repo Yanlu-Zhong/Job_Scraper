@@ -4,7 +4,7 @@ on:
   # Daily — CalCareers postings change at day resolution and the portal is slow,
   # so once per day is plenty. Runs at 16:07 UTC (~9am PT) plus on demand.
   schedule:
-    - cron: "7 16 * * *"
+    - cron: "12 16 * * *"
   workflow_dispatch:
 
 concurrency:
