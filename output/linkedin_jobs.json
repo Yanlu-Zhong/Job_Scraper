@@ -1,14 +1,14 @@
 {
-  "scraped_at": "2026-10-16 00:53 UTC",
-  "total": 43,
-  "new_count": 3,
+  "scraped_at": "2026-10-16 01:34 UTC",
+  "total": 50,
+  "new_count": 7,
   "scrape_status": {
     "status": "success",
-    "raw_rows": 302,
-    "queries": 24,
-    "batch": 5,
+    "raw_rows": 291,
+    "queries": 32,
+    "batch": 1,
     "batches": 5,
-    "terms_in_batch": 6,
+    "terms_in_batch": 8,
     "terms_total": 38
   },
   "jobs": [
@@ -252,7 +252,7 @@
       "location": "San Jose, CA",
       "url": "https://www.linkedin.com/jobs/view/4405724683/",
       "date_posted": "2026-10-15",
-      "salary": "",
+      "salary": "$133,100 - $236,400 annually",
       "ats": "LinkedIn",
       "geography": {
         "status": "in_radius",
@@ -261,7 +261,8 @@
         "latitude": 37.296011,
         "longitude": -121.814552,
         "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
+      },
+      "description": "The Opportunity\n\nWe are looking for an experienced Data Scientist to join Adobe’s Go-To-Market (GTM) Data Science & Analytics team. In this role, you will help build growth strategy for Adobe’s Adobe.com B2C business. You will apply data science to key moments across the entire customer journey, from acquisition and conversion to engagement, monetization, and retention.\n\nYou will partner closely with teams across GTM Strategy, Product, Marketing, and Finance to identify growth opportunities, explain performance shifts, improve decision-making, and influence strategy through data. This is a high-impact role for someone who enjoys solving ambiguous business problems, connecting data to action, and working directly with cross-functional leaders.\n\nWhat you'll do\n\nAnalyze customer behavior across the end-to-end funnel to identify factors influencing acquisition, conversion, retention, and churn.\nUse exploratory data analysis to uncover hidden patterns throughout the customer lifecycle. You’ll investigate anomalies in the funnel, identifying whether shifts are driven by market trends, product changes, or technical friction.\nDrive Run-the-Business (RTB) by analyzing weekly performance across the GTM funnel to understand drivers of acquisition and retention.\nCommunicate insights clearly to senior leaders, turning complex analysis into simple, decision-ready narratives\nElevate the team’s technical bar by contributing to shared code libraries, peer-reviewing complex analyses, and partnering with Data Engineering to optimize our data architecture for high-velocity analytics.\n\nWhat You Need to Succeed\n\n5+ years of experience in data science, analytics, experimentation, or applied statistics, ideally in a B2C SaaS, subscription, e-commerce, or digital product environment.\nStrong SQL and Python skills, with experience working with large-scale datasets in modern data environments such as Databricks, Spark, or similar platforms.\nStrong foundation in statistics and quantitative methods, including areas such as regression, hypothesis testing, forecasting, experimentation, causal inference, or predictive modeling.\nExperience using data to solve business problems in partnership with non-technical partners.\nAbility to work independently in ambiguous environments, prioritize effectively, and drive projects from problem definition through recommendation.\nExperience with visualization tools such as Tableau or Power BI.\nMS in a quantitative field (Statistics, Computer Science, Economics, Mathematics, or related) or equivalent experience.\n\nAbout Adobe\n\nAdobe empowers everyone to create through innovative platforms and tools that unleash creativity, productivity and personalized customer experiences. Adobe’s industry-leading offerings including Adobe Acrobat Studio, Adobe Express, Adobe Firefly, Creative Cloud, Adobe Experience Platform, Adobe Experience Manager, and GenStudio enable people and businesses to turn ideas into impact, powered by AI and driven by human ingenuity.\n\nOur 30,000+ employees worldwide are creating the future and raising the bar as we drive the next decade of growth. We’re on a mission to hire the very best and believe in creating a company culture where all employees are empowered to make an impact. At Adobe, we believe that great ideas can come from anywhere in the organization. The next big idea could be yours.\n\nLet’s Adobe together\n\nAt Adobe, we believe in creating a company culture where all employees are empowered to make an impact. Learn more about Adobe life, including our values and culture, focus on people, purpose and community, Adobe for All, comprehensive benefits programs, the stories we tell, the customers we serve, and how you can help us advance our mission of empowering everyone to create.\n\nAdobe is proud to be an Equal Employment Opportunity employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other protected characteristic. Learn more.\n\nAdobe aims to make our Careers website and recruiting process accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com.\n\nAI Use Guidelines for Interviews:\n\nOur interviews are designed to reflect your own skills and thinking. The use of AI or recording tools during live interviews is not permitted unless explicitly invited by the interviewer or approved in advance as part of a reasonable accommodation. If these tools are used inappropriately or in a way that misrepresents your work, your application may not move forward in the process.\n\nAt Adobe, we empower employees to innovate with AI — and we look for candidates eager to do the same. As part of the hiring experience, we provide clear guidance on where AI is encouraged during the process and where it’s restricted during live interviews. See how we think about AI in the hiring experience.\n\nExpected Pay Range:\n\nOur compensation reflects the cost of labor across several  U.S. geographic markets, and we pay differently based on those defined markets. The U.S. pay range for this position is $133,100 - $236,400 annually. Pay within this range varies by work location and may also depend on job-related knowledge, skills, and experience. Your recruiter can share more about the specific salary range for the job location during the hiring process. In California, the pay range for this position is $163,200 - $236,400\n\nAt Adobe, for sales roles starting salaries are expressed as total target compensation (TTC = base + commission), and short-term incentives are in the form of sales commission plans. Non-sales roles starting salaries are expressed as base salary and short-term incentives are in the form of the Annual Incentive Plan (AIP).\n\nIn addition, certain roles may be eligible for long-term incentives in the form of a new hire equity award.\n\nState-Specific Notices:\n\nCalifornia:\n\nFair Chance Ordinances\n\nAdobe will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances.\n\nColorado:\n\nApplication Window Notice\n\nIf this role is open to hiring in Colorado (as listed on the job posting), the application window will remain open until at least the date and time stated above in Pacific Time, in compliance with Colorado pay transparency regulations. If this role does not have Colorado listed as a hiring location, no specific application window applies, and the posting may close at any time based on hiring needs.\n\nMassachusetts:\n\nMassachusetts Legal Notice\n\nIt is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nAdvertising Services, IT Services and IT Consulting, and Software Development"
     },
     {
       "company": "TikTok",
@@ -269,7 +270,7 @@
       "location": "San Jose, CA",
       "url": "https://www.linkedin.com/jobs/view/4479122101/",
       "date_posted": "2026-10-15",
-      "salary": "",
+      "salary": "$179200 - $277200 annually",
       "ats": "LinkedIn",
       "geography": {
         "status": "in_radius",
@@ -278,7 +279,8 @@
         "latitude": 37.296011,
         "longitude": -121.814552,
         "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
+      },
+      "description": "Responsibilities\n\nPGC (Professionally Generated Content) is one of TikTok's key business directions. It satisfies users' differentiated consumption demands by providing professional content. The PGC business is divided into several core modules, including creator growth strategies, posts and content management tools, content distribution strategies, and creator monetization strategies.\n\nThe primary role of a Data Scientist for our Data team is to conduct deep analysis into user behavior, product features and content ecosystem to generate business insights that could be applied to actionable improving initiatives. You will work closely with cross-function teams, such as Product Management, Research and Development, Machine Learning Engineering, to improve user experience and fulfill growth of TikTok in all different regions.\n\nResponsibilities\n- Collaborate with MLE to enhance the efficiency of the recommendation system and improve user experience.\n- Utilize data science methods to assess the creator rewards program's progress and develop new strategies.\n- Develop experimental methodologies to evaluate the impact of two-sided market dynamics.\n- Create a metrics framework to monitor product health, track core metrics, and identify the root causes of metric changes.\n- Utilize causal inference and discovery to evaluate causality in non-experimental contexts.\n\nQualifications\n\nMinimum Qualifications:\n- Bachelor's Degree in data science, statistics, econometrics, math or a related scientific major, with 2+ years of related work experience.\n- Expertise in SQL and programming in Python or R.\n- Excellent analysis skills with good communication skills.\n- Strong logical and quantitative skills, with practical experience in recommendation systems.\n\nPreferred Qualifications:\n- Strong communication, teamwork skills, self-driven and self-learning ability.\n- Passionate about content products and curiosity to deep dive.\n- Experience in content products, content management tools, and creator management strategies.\n- Experience operating accounts on social media and content platforms.\n\nAbout TikTok\n\nTikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and we also have offices in New York City, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.​\n\nWhy Join Us\n\nInspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and bring joy - a mission we work towards every day.​\nWe strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. Every challenge is an opportunity to learn and innovate as one team. We're resilient and embrace challenges as they come. By constantly iterating and fostering an \"Always Day 1\" mindset, we achieve meaningful breakthroughs for ourselves, our company, and our users. When we create and grow together, the possibilities are limitless. Join us.​\n​\nDiversity & Inclusion​\nTikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.​\n\nTikTok Accommodation\n\nTikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://tinyurl.com/RA-request​\n\nJob Information\n\n【For Pay Transparency】Compensation Description (Annually)\nThe base salary range for this position in the selected city is $179200 - $277200 annually.​\nCompensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.​\nBenefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short-term and long-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).​\nThe Company reserves the right to modify or change these benefits programs at any time, with or without notice.​\nFor Los Angeles County (unincorporated) Candidates:​\nQualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:​\n1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;​\n2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and​\n3. Exercising sound judgment.​\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSocial Networking Platforms"
     },
     {
       "company": "Wealthfront",
@@ -312,7 +314,8 @@
         "latitude": 37.727239,
         "longitude": -123.032229,
         "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
+      },
+      "description": "About The Team\n\nGrindr is an AI-native platform powering how millions of gay people connect globally. With 15M+ monthly users, 130B+ annual messages, and a team of fewer than 200, we move fast, stay lean, and tackle technical problems at a scale few companies ever see.\n\nAs a Staff Data Scientist at Grindr, you will be working closely with product managers, product designers, and engineers to devise insightful metrics that guide development, design and execute novel experiments, present a data-driven viewpoint to guide key decisions, and find new avenues to drive growth through deep dive analysis. You will have the opportunity to work on models that are deployed to production and improve quality of life for our millions of users. You will also be an informal ambassador for the Data Science team to the rest of the organization, educating a diverse group on the many subtle aspects of utilizing data well. You will be a member of the data organization at Grindr, which integrates data scientists, data engineers, and ML/AI engineers into a single cohesive and collaborative team. This is a rare opportunity to learn, teach, and have an outsized impact alongside some of the top minds in the field.\n\nAt Grindr, we operate in Grindr Mode. Moderately hardcore day to day, truly hardcore when it counts. It’s about doing great work without burning out. Outcomes over outputs. Smart, driven people who raise your bar, with room to live full lives.\n\nThis is a hybrid role based in our Bay Area, Los Angeles, or Chicago offices and will require you to be in office Tuesdays and Thursdays.\n\nAbout The Job\n\nExtract actionable insights from broad, open-ended questions\nDesign and evaluate experiments to measure the impact of product changes\nAnalyze data from across the product to uncover the root causes of metric movements\nCommunicate results to cross-functional stakeholders to inform product decisions\nDevelop tools to scale and automate analyses, improving productivity across the company\nProvide mentorship and guidance to team members + identify and recommend best practices\nApply an engineering mindset: minimize complexity while maximizing utility & maintainability\nBe part of building our future state, devising ML solutions to improve recommendations, detect spam, and better serve our users\n\nRole Requirements\n\nBS or higher in Computer Science, Statistics, Mathematics, Physics, a related quantitative field, or equivalent experience\n7+ years of industry data science experience\nExperience effectively communicating & collaborating with non-technical stakeholders\nA deep understanding of the “why” behind your work, not just the how\nStrong Python skills in data analysis using pandas and Jupyter Notebook\nExperience writing and optimizing complex SQL queries on large data sets\nA strong background in inferential statistics, especially in an experimentation setting (hypothesis testing, power analysis, experimental design)\nExperience with different data analytics and BI tools such as Looker, Tableau, PowerBI, or Snowflake\nExperience in big data technologies like Spark\n\nYou May Thrive In This Role If You\n\nA machine learning background with an understanding of when ML is the right tool and the subtle science of creating models that function well in the real world would be a nice to have\nYou have excellent communication, presentation, and documentation skills with the ability to define and communicate the “big picture” to key stakeholders at various levels and technical understanding\nExperience with Statsig would be nice-to-have\n\nBenefits And Perks\n\nHealth, Dental & Vision Full premium coverage for you. Partial coverage for dependents.\nFamily Formation Up to $300,000 in fertility and family-building support, covering IVF, surrogacy, egg freezing, and adoption.\nRetirement: 401(k) with 6% match and immediate vesting.\nCompensation: Industry-competitive compensation, company bonus, and equity for every employee.\nGender-Affirming Care : Industry-leading gender-affirming offerings with up to 90% cost coverage, access to Included Health, monthly stipends for HRT, and more.\nTime Off & Rest Flexible vacation policy. Two company-wide rest weeks per year.\nOther Benefits: Monthly stipends for cell phone, internet, wellness, food, and commuting, breakfast/lunch\n\nAbout Grindr\n\nGrindr is building the Global Gayborhood in your Pocket. With more than 15 million monthly active users, Grindr has become a fundamental part of the gay community and is charting a path to make the world more free, equal, and just.\n\nAs a public company, we're moving into the next chapter: becoming an AI-native organization that's redefining what's possible for our community. We're embedding AI into our product and operations, moving with startup speed while operating at scale.\n\nEverything we do is rooted in impact for our users and outcomes for the business. This isn't social work, it’s impact through excellence. Business success is what gives us the power to serve our community and the seat at tables others can't reach. How we work is defined by Grindr Mode, our operating model that's moderately hardcore day-to-day and truly hardcore when it counts. We think like owners, drive real outcomes, create clarity through action, and push each other to go further than we thought possible.\n\nWe’re headquartered in West Hollywood with offices in the Bay Area, Chicago, and New York. Our work extends beyond the product through Grindr for Equality, our social impact initiative that's partnered with 100+ community organizations globally to advance safety, health, and human rights for LGBTQ+ people worldwide.\n\nWe're profitable, growing, and building a team of smart, driven people who bring different backgrounds, experiences, and perspectives to the work. Want to build technology at a massive scale that serves millions? Come join us!\n\nGrindr is an equal-opportunity employer.\n\nTo learn more about how we handle the personal data of applicants, visit our Employee and Candidate Privacy Policy.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development"
     },
     {
       "company": "Amazon",
@@ -759,32 +762,100 @@
         "longitude": -123.032229,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
-    }
-  ],
-  "new_jobs": [
+    },
     {
-      "company": "Amazon",
-      "title": "Senior Applied Scientist, Fauna",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480195025/",
+      "company": "hussh 🤫",
+      "title": "Founding ML Research Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4479151917/",
       "date_posted": "2026-10-16",
       "salary": "",
       "ats": "LinkedIn",
-      "description": "Description\n\nWe are seeking a Senior Applied Scientist to focus on Robotics Spatial Intelligence and Semantic Understanding. In this role, you'll research and build advanced semantic and world understanding algorithms that enable robots to observe, understand, and reason about complex and dynamic home environments. You'll work across a broad spectrum of 3D perception, contextual understanding, and world modeling approaches to build robust solutions that support autonomous decision making, task planning, navigation, and manipulation.\n\nKey job responsibilities\n\nDevelop and implement robust World Understanding and Modeling algorithms for a domestic robot.\nBuild simulation-based and on-robot evaluation frameworks with comprehensive benchmarks and metrics for systematic evaluation of Our Spatial Intelligence stack.\nConduct sim-to-real transfer experiments, analyzing performance gaps and developing techniques to ensure reliable real-world performance.\nCollaborate with navigation, manipulation, and other teams to ensure seamless integration of World Understanding capabilities.\nStay current with the latest advances in World Modeling, Spatial Reasoning, and related fields and apply relevant findings to improve system performance\n\nAbout The Team\n\nFauna Robotics, an Amazon company, is building capable, safe, and genuinely delightful robots for everyday life. Our goal is simple: make robots people actually want to live and interact with in everyday human spaces.\n\nWe believe that future won’t arrive until building for robotics becomes far more accessible. Today, too much effort is spent reinventing the fundamentals. We’re changing that by developing tightly integrated hardware and software systems that make it faster, safer, and more intuitive to create real-world robotic products.\n\nOur work spans the full stack: mechanical design, control systems, dynamic modeling, and intelligent software. The focus is not just functionality, but experience. We’re building robots that feel responsive, expressive, and genuinely useful.\n\nAt Fauna, you’ll work at the frontier of this space, helping define how robots move, manipulate, and interact with people in natural environments. It’s an opportunity to solve hard problems across hardware and software with a team focused on making robotics accessible and joyful to build.\n\nIf you care about making robotics real for everyone and building systems that are as delightful as they are capable, we’re interested in hearing from you.\n\nBasic Qualifications\n\nPhD, or Master's degree and 6+ years of applied research experience\nExperience programming in Java, C++, Python or related language\n\nPreferred Qualifications\n\nExperience with modeling tools such as R, scikit-learn, Spark MLLib, MxNet, Tensorflow, numpy, scipy etc.\nExperience with large scale distributed systems such as Hadoop, Spark etc.\n\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\n\nLos Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n\nThe base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.\n\nUSA, CA, Sunnyvale - 192,200.00 - 260,000.00 USD annually\n\nCompany\n- Amazon.com Services LLC\n\nJob ID: A10580777\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "description": "Some problems at Hussh are engineering. The hardest ones are research: how a personal agent reasons over a lifetime of private information, plans across tools, asks for consent at exactly the right moment, and proves it stayed inside the lines its owner drew. We are hiring a founding research engineer of rare depth — the kind of mind that reads a paper in the morning and has a working prototype by Friday. Publications or open-source work that shows real research taste; depth in LLMs, agents, reasoning, or alignment-adjacent systems; and the engineer's instinct to measure everything. You will set the research agenda for Private Agent One with the founders. Palo Alto is our technology headquarters. Founding role: equity, ownership, and a lab's worth of hard problems.\n\nShow more\n\nShow less\n\nSeniority level\n\nEntry level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
       "geography": {
         "status": "in_radius",
-        "distance_miles": 0.0,
-        "city": "sunnyvale",
-        "latitude": 37.385797,
-        "longitude": -122.026316,
+        "distance_miles": 6.453,
+        "city": "palo alto",
+        "latitude": 37.39652,
+        "longitude": -122.143088,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
     },
     {
-      "company": "Upgrade, Inc.",
-      "title": "Senior Data Scientist - Flex Pay",
+      "company": "Harvey",
+      "title": "Senior or Staff User Researcher",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479154893/",
+      "url": "https://www.linkedin.com/jobs/view/4442250722/",
+      "date_posted": "2026-10-15",
+      "salary": "$158,500 - $264,500",
+      "ats": "LinkedIn",
+      "description": "Why Harvey\n\nAt Harvey, we’re transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, we’re reshaping how critical knowledge work gets done for decades to come.\n\nThis is a rare chance to help build a generational company at a true inflection point. We have strong product-market fit and world-class investor support. We’re scaling fast and defining a new category in real time. The work is ambitious, the bar is high, and the opportunity for growth — personal, professional, and financial — is unmatched.\n\nOur team moves fast, takes ownership, and is deeply committed to the mission — operating with intensity, staying close to our customers, and pushing each other for excellence. We live by three values: Decisiveness, Simplicity, and Job's Not Finished. We act quickly on clear judgment over perfect information, we believe simplicity is what scales, and we're never satisfied with where we are. If you want to do the best work of your career alongside people who share that drive, we'd love to build with you.\n\nAt Harvey, the future of professional services is being written today — and we’re just getting started.\n\nRole Overview\n\nHarvey is building the future of AI for legal professionals, and understanding our users is core to how we do that. We are looking for a seasoned strategic User Researcher\nto to join our research function. You are a senior individual contributor who drives high-impact research across multiple teams or a major product area. You move beyond single studies to shape problem definition, influence roadmaps, and elevate research quality through strong craft and partnership. You are comfortable with AI technologies and excited to build research and insight tooling to accelerate our workflows.\n\nSuccess looks like teams meaningfully change direction based on your insights and influencing roadmap, research quality improves in the teams you support, and you are trusted as a strategic partner and moves at speed, where Harvey builds shared conviction around user truths.\n\nThis role directly reports to the Head of User Research and focuses on accelerating the quality and speed at which Harvey ships user-centered AI products. You have the opportunity to co-create tooling or identify the right capabilities to strengthen our research practice. You'll partner closely with research and design leadership, cross-functional stakeholders that keep research and insights running at peak efficiency.\n\nIt's a rare opportunity to shape how a category-defining AI company shapes its products from the ground up.\n\nWhat You'll Do\n\nLead Complex Research Programs\n\nOwn research strategy for a product area or cross-team initiative\nDesign and execute end-to-end qualitative, quantitative, and mixed-methods research\nIdentify patterns across studies and connect insights to product decisions\nResearch how legal professionals work with Harvey and outside of the platform. Translate that into product and design recommendations.\n\nShape Product Thinking\n\nPartner closely with Product Managers and Designers to frame the right problems\nInfluence roadmaps by surfacing unmet user needs, risks, and opportunities\nPush teams beyond validation toward deeper discovery\nDevelop strong legal domain expertise and excited to become an expert in both the Harvey product and the legal industry\n\nRaise the Bar on Craft\n\nProduce clear, compelling synthesis and storytelling\nIdentify where AI reduces friction in research process and comfortable building custom scripts, integrations, or AI agents where off-the-shelf tools fall short\nModel strong research rigor, ethics, and judgment\nAbility to prototype and ship research insight tooling improvements yourself before pulling in Eng support\n\nOperate as a Trusted Partner\n\nBring rigor to ambiguous, fast-moving problem spaces where the underlying technology (and user expectations of it) shift quickly\nInfluence without authority across teams\nHelp partners develop stronger research instincts\n\nWhat You Have\n\n5+ years of user research experience of digital products in fast-paced, high-growth or technically complex environments\nBachelor’s degree in Psychology, Human-Computer Interaction, Human Factors, Cognitive Science, or a related field required. Advanced degree preferred\nTrack record or portfolio of portfolio-level impact. Experience conducting and defining user research methodologies, integrating qualitative and quantitative insights into design and product strategy.\nDemonstrated ability to navigate and simplify multifaceted, ambiguous problem spaces while maintaining a high bar for execution.\nExceptional storytelling and communication skills—capable of influencing cross-functional partners and aligning diverse perspectives.\nExperience building or customizing internal tooling (Zapier workflows, Claude skills, Notion workflows, and custom GPTs or research agents) to support insight acceleration.\nStrong design and product judgment and business acumen. Ability to engage deeply in design critiques and dedicated product area roadmap reviews to contribute insights into planning.\nA collaborative, low-ego approach that helps teams move quickly, thoughtfully, and inclusively\nExperience researching AI-powered technology products, and understand how to assess experiences and quality of conversational products.\n\nCompensation\n\n$158,500 - $264,500\n\nDepending on your location, an Applicant Privacy Notice may apply to you. You can find all of our Applicant Privacy Notices\nhere\n.\n\nHarvey is an equal opportunity employer and does not discriminate on the basis of race, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition, or any other basis protected by law.\n\nWe are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made by emailing accommodations@harvey.ai\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "BayOne Solutions",
+      "title": "User Experience Researcher",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4479147576/",
+      "date_posted": "2026-10-15",
+      "salary": "$70.00/hr - $74.00/hr",
+      "ats": "LinkedIn",
+      "description": "Title: User Experience Researcher\n📍 Location: Within 40-minute drive of San Jose (4 day/week onsite in San Jose)\n🕒 Duration: 6-month contract with possible extension\n📅 Schedule: 4 days/week onsite\n\nAbout the Role\n\nWe are seeking an experienced UX Researcher to support usability and quality validation for hardware products and their associated software features.\n\nThis role focuses on executing and managing the mechanics of a quality program, including adapting existing testing frameworks to evaluate new “hero” features. The ideal candidate thrives in hands-on, ambiguous environments and is comfortable conducting field-based, unstructured research.\n\nKey Responsibilities\nConduct quality and usability testing for new hardware and software features\nAdapt existing testing models to evaluate new product experiences\nDesign and execute unstructured environmental studies to assess user expectations\nRun in-person testing sessions and field research, including in-home interviews\nCollect, analyze, and accurately represent qualitative and mixed-method data\nPartner with engineering teams to evaluate performance perception metrics (e.g., latency, “jank”)\nSupport Customer Use Journey (CUJ) testing and survey-based evaluations\nDeliver fast, high-quality insights to inform product decisions\nCollaborate cross-functionally to identify ownership and resolution of product issues\n\nRequired Qualifications\nPhD in Anthropology, Mechanical Engineering, Human Factors, Education, Archaeology, or a related field\n(Master’s degree + strong relevant experience may be considered)\nProven experience conducting field research and unstructured usability testing\nStrong expertise in qualitative research methods and data representation\nAbility to synthesize findings quickly and communicate insights clearly\nExperience working in large organizations (preferred over early-stage startups)\nComfort working hands-on with hardware prototypes in real-world environments\n\nPreferred Qualifications\nBackground in anthropology or field-based research disciplines\nExperience with in-home interviews and field data collection/storage\nFamiliarity with Customer Use Journey (CUJ) frameworks\nExperience supporting bug bashes, surveys, or product validation cycles\nAbility to collaborate with engineers on performance-related metrics\n\nLogistics & Requirements\nMust be located within a 40-minute commute of San Jose\nExpected onsite presence:\nTypically, 4 days/week\nSome weeks may require 3–5 days depending on testing schedules\n\nBayOne is an Equal Opportunity Employer and does not discriminate against any employee or applicant for employment because of race, color, sex, age, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any federal, state, or local protected class.\nThis job posting represents the general duties and requirements necessary to perform this position and is not an exhaustive statement of all responsibilities, duties, and skills required. Management reserves the right to revise or alter this job description.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nContract\n\nIndustries\n\nIT Services and IT Consulting",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 13.183,
+        "city": "san jose",
+        "latitude": 37.296011,
+        "longitude": -121.814552,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Stanford University School of Medicine",
+      "title": "Basic Life Research Scientist",
+      "location": "Stanford, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480112550/",
+      "date_posted": "2026-10-15",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 8.266,
+        "city": "stanford",
+        "latitude": 37.426933,
+        "longitude": -122.167741,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Motion Recruitment",
+      "title": "Senior User Experience Designer, Conversational AI",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480114301/",
+      "date_posted": "2026-10-15",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 19.708,
+        "city": "san mateo",
+        "latitude": 37.56031,
+        "longitude": -122.3106,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Google",
+      "title": "Senior UX Program Manager, Model Behavior and Quality",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469326681/",
       "date_posted": "2026-10-15",
       "salary": "",
       "ats": "LinkedIn",
@@ -798,10 +869,134 @@
       }
     },
     {
-      "company": "Blee",
-      "title": "Applied Scientist",
+      "company": "Steadyworks",
+      "title": "Founding Research Engineer, Physical AI",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480190112/",
+      "url": "https://www.linkedin.com/jobs/view/4478840952/",
+      "date_posted": "2026-10-15",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "hussh 🤫",
+      "title": "Founding ML Research Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4479151917/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Some problems at Hussh are engineering. The hardest ones are research: how a personal agent reasons over a lifetime of private information, plans across tools, asks for consent at exactly the right moment, and proves it stayed inside the lines its owner drew. We are hiring a founding research engineer of rare depth — the kind of mind that reads a paper in the morning and has a working prototype by Friday. Publications or open-source work that shows real research taste; depth in LLMs, agents, reasoning, or alignment-adjacent systems; and the engineer's instinct to measure everything. You will set the research agenda for Private Agent One with the founders. Palo Alto is our technology headquarters. Founding role: equity, ownership, and a lab's worth of hard problems.\n\nShow more\n\nShow less\n\nSeniority level\n\nEntry level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 6.453,
+        "city": "palo alto",
+        "latitude": 37.39652,
+        "longitude": -122.143088,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Harvey",
+      "title": "Senior or Staff User Researcher",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4442250722/",
+      "date_posted": "2026-10-15",
+      "salary": "$158,500 - $264,500",
+      "ats": "LinkedIn",
+      "description": "Why Harvey\n\nAt Harvey, we’re transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, we’re reshaping how critical knowledge work gets done for decades to come.\n\nThis is a rare chance to help build a generational company at a true inflection point. We have strong product-market fit and world-class investor support. We’re scaling fast and defining a new category in real time. The work is ambitious, the bar is high, and the opportunity for growth — personal, professional, and financial — is unmatched.\n\nOur team moves fast, takes ownership, and is deeply committed to the mission — operating with intensity, staying close to our customers, and pushing each other for excellence. We live by three values: Decisiveness, Simplicity, and Job's Not Finished. We act quickly on clear judgment over perfect information, we believe simplicity is what scales, and we're never satisfied with where we are. If you want to do the best work of your career alongside people who share that drive, we'd love to build with you.\n\nAt Harvey, the future of professional services is being written today — and we’re just getting started.\n\nRole Overview\n\nHarvey is building the future of AI for legal professionals, and understanding our users is core to how we do that. We are looking for a seasoned strategic User Researcher\nto to join our research function. You are a senior individual contributor who drives high-impact research across multiple teams or a major product area. You move beyond single studies to shape problem definition, influence roadmaps, and elevate research quality through strong craft and partnership. You are comfortable with AI technologies and excited to build research and insight tooling to accelerate our workflows.\n\nSuccess looks like teams meaningfully change direction based on your insights and influencing roadmap, research quality improves in the teams you support, and you are trusted as a strategic partner and moves at speed, where Harvey builds shared conviction around user truths.\n\nThis role directly reports to the Head of User Research and focuses on accelerating the quality and speed at which Harvey ships user-centered AI products. You have the opportunity to co-create tooling or identify the right capabilities to strengthen our research practice. You'll partner closely with research and design leadership, cross-functional stakeholders that keep research and insights running at peak efficiency.\n\nIt's a rare opportunity to shape how a category-defining AI company shapes its products from the ground up.\n\nWhat You'll Do\n\nLead Complex Research Programs\n\nOwn research strategy for a product area or cross-team initiative\nDesign and execute end-to-end qualitative, quantitative, and mixed-methods research\nIdentify patterns across studies and connect insights to product decisions\nResearch how legal professionals work with Harvey and outside of the platform. Translate that into product and design recommendations.\n\nShape Product Thinking\n\nPartner closely with Product Managers and Designers to frame the right problems\nInfluence roadmaps by surfacing unmet user needs, risks, and opportunities\nPush teams beyond validation toward deeper discovery\nDevelop strong legal domain expertise and excited to become an expert in both the Harvey product and the legal industry\n\nRaise the Bar on Craft\n\nProduce clear, compelling synthesis and storytelling\nIdentify where AI reduces friction in research process and comfortable building custom scripts, integrations, or AI agents where off-the-shelf tools fall short\nModel strong research rigor, ethics, and judgment\nAbility to prototype and ship research insight tooling improvements yourself before pulling in Eng support\n\nOperate as a Trusted Partner\n\nBring rigor to ambiguous, fast-moving problem spaces where the underlying technology (and user expectations of it) shift quickly\nInfluence without authority across teams\nHelp partners develop stronger research instincts\n\nWhat You Have\n\n5+ years of user research experience of digital products in fast-paced, high-growth or technically complex environments\nBachelor’s degree in Psychology, Human-Computer Interaction, Human Factors, Cognitive Science, or a related field required. Advanced degree preferred\nTrack record or portfolio of portfolio-level impact. Experience conducting and defining user research methodologies, integrating qualitative and quantitative insights into design and product strategy.\nDemonstrated ability to navigate and simplify multifaceted, ambiguous problem spaces while maintaining a high bar for execution.\nExceptional storytelling and communication skills—capable of influencing cross-functional partners and aligning diverse perspectives.\nExperience building or customizing internal tooling (Zapier workflows, Claude skills, Notion workflows, and custom GPTs or research agents) to support insight acceleration.\nStrong design and product judgment and business acumen. Ability to engage deeply in design critiques and dedicated product area roadmap reviews to contribute insights into planning.\nA collaborative, low-ego approach that helps teams move quickly, thoughtfully, and inclusively\nExperience researching AI-powered technology products, and understand how to assess experiences and quality of conversational products.\n\nCompensation\n\n$158,500 - $264,500\n\nDepending on your location, an Applicant Privacy Notice may apply to you. You can find all of our Applicant Privacy Notices\nhere\n.\n\nHarvey is an equal opportunity employer and does not discriminate on the basis of race, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition, or any other basis protected by law.\n\nWe are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made by emailing accommodations@harvey.ai\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "BayOne Solutions",
+      "title": "User Experience Researcher",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4479147576/",
+      "date_posted": "2026-10-15",
+      "salary": "$70.00/hr - $74.00/hr",
+      "ats": "LinkedIn",
+      "description": "Title: User Experience Researcher\n📍 Location: Within 40-minute drive of San Jose (4 day/week onsite in San Jose)\n🕒 Duration: 6-month contract with possible extension\n📅 Schedule: 4 days/week onsite\n\nAbout the Role\n\nWe are seeking an experienced UX Researcher to support usability and quality validation for hardware products and their associated software features.\n\nThis role focuses on executing and managing the mechanics of a quality program, including adapting existing testing frameworks to evaluate new “hero” features. The ideal candidate thrives in hands-on, ambiguous environments and is comfortable conducting field-based, unstructured research.\n\nKey Responsibilities\nConduct quality and usability testing for new hardware and software features\nAdapt existing testing models to evaluate new product experiences\nDesign and execute unstructured environmental studies to assess user expectations\nRun in-person testing sessions and field research, including in-home interviews\nCollect, analyze, and accurately represent qualitative and mixed-method data\nPartner with engineering teams to evaluate performance perception metrics (e.g., latency, “jank”)\nSupport Customer Use Journey (CUJ) testing and survey-based evaluations\nDeliver fast, high-quality insights to inform product decisions\nCollaborate cross-functionally to identify ownership and resolution of product issues\n\nRequired Qualifications\nPhD in Anthropology, Mechanical Engineering, Human Factors, Education, Archaeology, or a related field\n(Master’s degree + strong relevant experience may be considered)\nProven experience conducting field research and unstructured usability testing\nStrong expertise in qualitative research methods and data representation\nAbility to synthesize findings quickly and communicate insights clearly\nExperience working in large organizations (preferred over early-stage startups)\nComfort working hands-on with hardware prototypes in real-world environments\n\nPreferred Qualifications\nBackground in anthropology or field-based research disciplines\nExperience with in-home interviews and field data collection/storage\nFamiliarity with Customer Use Journey (CUJ) frameworks\nExperience supporting bug bashes, surveys, or product validation cycles\nAbility to collaborate with engineers on performance-related metrics\n\nLogistics & Requirements\nMust be located within a 40-minute commute of San Jose\nExpected onsite presence:\nTypically, 4 days/week\nSome weeks may require 3–5 days depending on testing schedules\n\nBayOne is an Equal Opportunity Employer and does not discriminate against any employee or applicant for employment because of race, color, sex, age, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any federal, state, or local protected class.\nThis job posting represents the general duties and requirements necessary to perform this position and is not an exhaustive statement of all responsibilities, duties, and skills required. Management reserves the right to revise or alter this job description.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nContract\n\nIndustries\n\nIT Services and IT Consulting",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 13.183,
+        "city": "san jose",
+        "latitude": 37.296011,
+        "longitude": -121.814552,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Stanford University School of Medicine",
+      "title": "Basic Life Research Scientist",
+      "location": "Stanford, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480112550/",
+      "date_posted": "2026-10-15",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 8.266,
+        "city": "stanford",
+        "latitude": 37.426933,
+        "longitude": -122.167741,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Motion Recruitment",
+      "title": "Senior User Experience Designer, Conversational AI",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480114301/",
+      "date_posted": "2026-10-15",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 19.708,
+        "city": "san mateo",
+        "latitude": 37.56031,
+        "longitude": -122.3106,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Google",
+      "title": "Senior UX Program Manager, Model Behavior and Quality",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469326681/",
+      "date_posted": "2026-10-15",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Steadyworks",
+      "title": "Founding Research Engineer, Physical AI",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4478840952/",
       "date_posted": "2026-10-15",
       "salary": "",
       "ats": "LinkedIn",
@@ -883,13 +1078,14 @@
       "location": "Mountain View, CA",
       "url": "https://www.linkedin.com/jobs/view/4469720629/",
       "date_posted": "2026-10-15",
-      "salary": "",
+      "salary": "$147000 - $210000",
       "ats": "LinkedIn",
       "geography": {
         "status": "ambiguous",
         "distance_miles": null,
         "reason": "City is unknown or has multiple Census locations."
-      }
+      },
+      "description": "In most instances, this position requires in-person interviews as part of the hiring process. Minimum qualifications:\n\nMaster's degree in Statistics, Data Science, Mathematics, Physics, Economics, Operations Research, Engineering, or a related quantitative field.\n3 years of work experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis, or a PhD degree.\n\nPreferred qualifications:\n\n5 years of work experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis, or a PhD degree.\n\nAbout The Job\n\nAds Metrics is the DS team for Search ads. We support the SAGE (Search Ads and Google Experience) organization in developing the most important ad products at Google from classic text ads, to rich shopping ads, to exciting new products like discovery ads. These products - the heart of Google’s business are complex, advanced, and they are rapidly growing and evolving. The Ads Experiences Data Science (DS) team is a subteam within ads metrics that drives analyses to help AdsUI team improve AdsUI, formats, and whole page experiences.\n\nIndividual pay is determined by factors including job-related skills, experience, and relevant education or training.\n\nUS: $147000 - $210000 (USD) + 15% bonus target + equity + benefits\n\nResponsibilities\n\nLearn more about benefits at Google .\n\nCollaborate with stakeholders in cross-projects and team settings to identify and clarify business or product questions to answer. Provide feedback to translate and refine business questions into tractable analysis, evaluation metrics, or mathematical models.\nUse custom data infrastructure or existing data models as appropriate, using specialized knowledge. Design and evaluate models to mathematically express and solve defined problems with limited precedent.\nGather information, business goals, priorities, and organizational context around the questions to answer, as well as the existing and upcoming data infrastructure.\nOwn the process of gathering, extracting, and compiling data across sources via relevant tools (e.g., SQL, R, Python). Format, re-structure, or validate data to ensure quality, and review the dataset to ensure it is ready for analysis.\n\nGoogle is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nInformation Services and Technology, Information and Internet"
     },
     {
       "company": "Google",
@@ -1064,7 +1260,7 @@
     }
   ],
   "geographic_counts": {
-    "in_radius": 43,
+    "in_radius": 50,
     "remote": 0,
     "ambiguous": 17,
     "outside_radius": 0
