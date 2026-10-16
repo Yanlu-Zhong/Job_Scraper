@@ -1,19 +1,18 @@
 # 🔥 LinkedIn — AI · Language · Human Research Roles
-*Last updated: 2026-10-16 06:24 UTC*
+*Last updated: 2026-10-16 07:23 UTC*
 
-**3 new role(s)** since last run · 53 total in last 24h
+**3 new role(s)** since last run · 56 total in last 24h
 
-### [AI Applied Scientist](https://www.linkedin.com/jobs/view/4460624232/) — Verily Health
-- 📍 **Location:** San Bruno, CA
-- 💰 **Salary:** $219,000 - $246,000
+### [Linguist - Speech & Conversational AI](https://www.linkedin.com/jobs/view/4479304314/) — Besimple AI
+- 📍 **Location:** San Mateo, CA
+- 💰 **Salary:** $30.00/yr - $60.00/yr
 - 🕒 **Posted:** 2026-10-16
 
-### [Basic Life Research Scientist](https://www.linkedin.com/jobs/view/4480313762/) — Stanford University
-- 📍 **Location:** Stanford, CA
-- 💰 **Salary:** $71,000 to $108,000 per annum
+### [Data Scientist - Agentic AI / ML](https://www.linkedin.com/jobs/view/4466652474/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
+- 💰 **Salary:** $170,000.00 - $234,000.00
 - 🕒 **Posted:** 2026-10-16
 
-### [Product Data Scientist](https://www.linkedin.com/jobs/view/4480332176/) — TEKsystems
-- 📍 **Location:** Cupertino, CA
-- 💰 **Salary:** $70.00/hr - $77.00/hr
-- 🕒 **Posted:** 2026-10-16
+### [Forward Deployed Applied Scientist II (Agentic AI)](https://www.linkedin.com/jobs/view/4480181009/) — DigitalOcean
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-15
