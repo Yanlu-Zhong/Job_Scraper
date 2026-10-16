@@ -1,128 +1,61 @@
 # 🔥 LinkedIn — AI · Language · Human Research Roles
-*Last updated: 2026-10-16 19:03 UTC*
+*Last updated: 2026-10-16 22:19 UTC*
 
-**30 new role(s)** since last run · 86 total in last 24h
+**14 new role(s)** since last run · 100 total in last 24h
 
-### [Senior Research Scientist, Beam](https://www.linkedin.com/jobs/view/4479372359/) — Google
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $174000 - $252000
+### [Senior Data Scientist, Education](https://www.linkedin.com/jobs/view/4398320577/) — Learning Commons
+- 📍 **Location:** Redwood City, CA
+- 💰 **Salary:** $190,000 - $261,800
 - 🕒 **Posted:** 2026-10-16
 
-### [AI Research Scientist, Robotics - Meta Superintelligence Labs](https://www.linkedin.com/jobs/view/4461155160/) — Meta
-- 📍 **Location:** Menlo Park, CA
-- 💰 **Salary:** $154,000.00/yr - $217,000.00/yr
-- 🕒 **Posted:** 2026-10-16
-
-### [Applied Scientist, Prime Video - Generative AI (Video)](https://www.linkedin.com/jobs/view/4462720080/) — Prime Video & Amazon MGM Studios
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-10-16
-
-### [Applied Scientist, Fauna](https://www.linkedin.com/jobs/view/4480176709/) — Amazon
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-10-16
-
-### [Senior Research Engineer | Senior Research Scientist | World Models | Diffusion Models | Multimodal AI | Hybrid, Palo Alto](https://www.linkedin.com/jobs/view/4479373776/) — Enigma
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-10-16
-
-### [Research Scientist - Vision Foundation Models](https://www.linkedin.com/jobs/view/4480333684/) — Epsilon Health
+### [Research Engineer - Data and Evaluation](https://www.linkedin.com/jobs/view/4480391720/) — Prime Intellect
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-16
 
-### [Research Scientist, Multi-Modal Human Understanding](https://www.linkedin.com/jobs/view/4460492600/) — Meta
-- 📍 **Location:** Burlingame, CA
-- 💰 **Salary:** $122,000.00/yr - $181,000.00/yr
-- 🕒 **Posted:** 2026-10-16
-
-### [Research Engineer](https://www.linkedin.com/jobs/view/4150260590/) — Skild AI
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $100,000 - $300,000 USD
-- 🕒 **Posted:** 2026-10-16
-
-### [Research Scientist - VLM Pretraining](https://www.linkedin.com/jobs/view/4480325942/) — Epsilon Health
+### [People Research Scientist, Recruiting](https://www.linkedin.com/jobs/view/4443182976/) — Anthropic
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-16
 
-### [Research Scientist - Salesforce AI Research](https://www.linkedin.com/jobs/view/4345023887/) — Salesforce
+### [Software Engineer, AI Evaluation](https://www.linkedin.com/jobs/view/4454312631/) — Nuna Inc.
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-16
 
-### [Senior Data and Applied Scientist, SCM Autonomous Suite, Palo Alto](https://www.linkedin.com/jobs/view/4461384807/) — SAP
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-10-16
-
-### [Founding AI Engineer (Vision-language models)](https://www.linkedin.com/jobs/view/4474978499/) — Jack
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-16
-
-### [Computer Vision Research Engineer](https://www.linkedin.com/jobs/view/4388119842/) — Bobyard
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-16
-
-### [Research Scientist, AI Language](https://www.linkedin.com/jobs/view/4477385062/) — Meta
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-10-16
-
-### [Sr. Applied Scientist, AGI](https://www.linkedin.com/jobs/view/4471804734/) — Amazon
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-10-16
-
-### [Sr. Applied Scientist, AGI](https://www.linkedin.com/jobs/view/4471821218/) — Amazon
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-16
-
-### [(USA) Staff, Data Scientist](https://www.linkedin.com/jobs/view/4463183362/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-10-16
-
-### [AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA](https://www.linkedin.com/jobs/view/4479366734/) — Enigma
+### [Applied Research Scientist - Trust and Safety](https://www.linkedin.com/jobs/view/4479395860/) — TikTok
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-16
 
-### [Research Scientist - Post-training / RL](https://www.linkedin.com/jobs/view/4480342352/) — Epsilon Health
+### [Senior Clinical Research Scientist](https://www.linkedin.com/jobs/view/4478178733/) — Noctrix Health, Inc.
+- 📍 **Location:** Pleasanton, CA
+- 🕒 **Posted:** 2026-10-16
+
+### [Research Engineer / Scientist - Reinforcement Learning](https://www.linkedin.com/jobs/view/4480390707/) — Prime Intellect
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-16
 
-### [Machine Learning Scientist, Scientific Reasoning Models, AI for Drug Discovery](https://www.linkedin.com/jobs/view/4398016570/) — Genentech
-- 📍 **Location:** South San Francisco, CA
+### [Software Engineer, Voice AI](https://www.linkedin.com/jobs/view/4398521186/) — Sage Care
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-10-16
 
-### [Staff Machine Learning Engineer, Voice AI](https://www.linkedin.com/jobs/view/4415944658/) — Together AI
+### [Data Product Operations Lead — Audio AI Research Company, San Francisco — up to $180K base + equity](https://www.linkedin.com/jobs/view/4479326119/) — Big Wave Digital - United States
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-16
 
-### [AI Scientist/Senior, Clinical & Molecular Genomics Modeling, BRAID](https://www.linkedin.com/jobs/view/4405250531/) — Genentech
-- 📍 **Location:** South San Francisco, CA
+### [Senior Product Manager – IVR & Conversational AI](https://www.linkedin.com/jobs/view/4461695518/) — GEICO
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-10-16
 
-### [Senior Member of Technical Staff, Multimodal AI](https://www.linkedin.com/jobs/view/4088517379/) — Cohere
+### [Sr. Backend Software Engineer - Hypergrowth Conversational AI Startup](https://www.linkedin.com/jobs/view/4447479976/) — Skyrocket Ventures
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-16
 
-### [Research Engineer - Pretraining](https://www.linkedin.com/jobs/view/4480395513/) — Prime Intellect
-- 📍 **Location:** San Francisco, CA
+### [Applied Scientist III, AWS Account Management and Governance](https://www.linkedin.com/jobs/view/4480368300/) — Amazon Web Services (AWS)
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-10-16
 
-### [AI Researcher ($140K- 300K)](https://www.linkedin.com/jobs/view/4477391005/) — CodeRound AI
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-16
-
-### [Research Engineer, Safety Evaluation](https://www.linkedin.com/jobs/view/4469769010/) — Meta
+### [Research Scientist, Machine Learning for Monetization (PhD)](https://www.linkedin.com/jobs/view/4469751815/) — Meta
 - 📍 **Location:** Menlo Park, CA
 - 🕒 **Posted:** 2026-10-16
 
-### [Research Engineer - Reinforcement Learning](https://www.linkedin.com/jobs/view/4480508380/) — Prime Intellect
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-16
-
-### [Research Scientist](https://www.linkedin.com/jobs/view/4480328746/) — Jiangsu Surun Talent Development Group Co., Ltd.
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-10-16
-
-### [Research Scientist, Machine Learning for Monetization (PhD)](https://www.linkedin.com/jobs/view/4469751817/) — Meta
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-10-16
-
-### [Staff Research Scientist, Google Cloud AI Research](https://www.linkedin.com/jobs/view/4452383099/) — Google
-- 📍 **Location:** Sunnyvale, CA
+### [Senior Applied Scientist, Sponsored Products and Brands Off-Search](https://www.linkedin.com/jobs/view/4480540092/) — Amazon
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-10-16
