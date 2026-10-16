@@ -1,12 +1,12 @@
 {
-  "scraped_at": "2026-10-16 07:23 UTC",
-  "total": 56,
-  "new_count": 3,
+  "scraped_at": "2026-10-16 19:03 UTC",
+  "total": 86,
+  "new_count": 30,
   "scrape_status": {
     "status": "success",
-    "raw_rows": 276,
+    "raw_rows": 287,
     "queries": 32,
-    "batch": 2,
+    "batch": 4,
     "batches": 5,
     "terms_in_batch": 8,
     "terms_total": 38
@@ -995,51 +995,101 @@
         "longitude": -123.032229,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "Besimple AI",
-      "title": "Linguist - Speech & Conversational AI",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479304314/",
-      "date_posted": "2026-10-16",
-      "salary": "$30.00/yr - $60.00/yr",
-      "ats": "LinkedIn",
-      "description": "Besimple AI is building datasets, benchmarks, and training environments that help voice models understand people, interact naturally, and complete real tasks.\n\nWe’re looking for a linguist to help define and improve the quality of the speech and conversations used to train these models. You’ll bring a trained ear for language, an understanding of how people communicate, and the ability to explain what makes a conversation clear, natural, and appropriate to its context.\n\nYour work will connect linguistic expertise with practical decisions: which recordings are suitable for training, how contributors should be evaluated, what annotators should label, and how we measure the behavior of conversational agents.\n\nWhat you’ll work on\n\nEvaluate speech and conversational quality. Assess pronunciation, intelligibility, prosody, pacing, tone, and turn-taking in human recordings and model outputs. Explain why a response sounds natural, awkward, overly scripted, or inappropriate for the situation.\nBuild quality standards and evaluation rubrics. Translate customer requirements and feedback into clear criteria, examples, and decision rules. Define what reviewers should accept, flag, or reject, including how expectations differ across conversational roles and tasks.\nScreen and support speech contributors. Help design auditions, evaluate recordings, and give actionable feedback on delivery. Identify contributors who can sustain natural conversations while following a scenario’s requirements.\nCreate and review linguistic annotations. Develop guidelines and reference examples for transcripts, speaker turns, speech delivery, and conversational behavior. Review human and model-generated labels, resolve ambiguous cases, and improve consistency across reviewers.\nImprove conversational tasks and model evaluation. Work with researchers to refine scenarios, instructions, and turn-level rubrics. Identify unclear wording or grading criteria, and distinguish real model failures from problems in the task itself.\nTurn recurring problems into better workflows. Analyze disagreements and rejection patterns, calibrate reviewers, and improve guidance in the crowdsourcing platform we build. Partner with engineers and audio specialists to separate language and delivery issues from recording defects.\n\nWhat we’re looking for\n\nA background in linguistics, speech science, phonetics, phonology, or a related field, through academic study or substantial applied experience.\nStrong listening and analytical skills, with the ability to describe specific features of speech and explain how they affect meaning, clarity, and naturalness.\nExperience with speech data, linguistic annotation, transcription, language assessment, or conversational analysis.\nThe ability to turn nuanced judgments into guidelines that other people can apply consistently.\nClear written communication and comfort giving specific, constructive feedback.\nCareful judgment about ambiguity, language variation, and the difference between personal preference and a task’s actual requirements.\n\nWe welcome recent graduates with relevant research or substantial projects, as well as linguists with industry experience. Research, annotation guidelines, evaluation studies, and examples of applied linguistic work are all useful evidence.\n\nEspecially relevant experience\n\nEvaluating text-to-speech, speech recognition, speech-to-speech, or conversational AI systems.\nProsody, pragmatics, discourse analysis, sociolinguistics, or conversation analysis.\nPraat, ELAN, phonetic transcription, or other speech-analysis and annotation tools.\nDesigning annotation schemes, building reference datasets, or measuring agreement between reviewers.\nSpeaker auditions, voice coaching, or evaluating spoken performance.\nWorking with multilingual datasets or collaborating with linguists across languages.\nBasic scripting or data analysis for investigating annotation quality and recurring errors.\n\nYou do not need experience in every area listed above.\n\nWhy this role\n\nYou’ll help shape the standards behind the data that voice models learn from. Your judgments will influence how we collect conversations, select speakers, evaluate model behavior, and improve the quality of our datasets.\n\nThis is an opportunity to apply linguistic expertise directly to the development of conversational AI, with ownership over both the quality of individual examples and the processes that make that quality repeatable.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nContract\n\nIndustries\n\nTechnology, Information and Internet",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 19.708,
-        "city": "san mateo",
-        "latitude": 37.56031,
-        "longitude": -122.3106,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
     },
     {
-      "company": "Applied Materials",
-      "title": "Data Scientist - Agentic AI / ML",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466652474/",
-      "date_posted": "2026-10-16",
-      "salary": "$170,000.00 - $234,000.00",
-      "ats": "LinkedIn",
-      "description": "Who We Are\n\nApplied Materials is the global leader in materials science and engineering solutions that are at the foundation of virtually every new semiconductor chip and advanced display in the world. The equipment that we create and service is essential to advancing AI and accelerating the commercialization of next-generation semiconductor chips. Join us and push the boundaries of materials science and engineering in a company at the foundation of the electronics industry. The work we do together advances the world’s technology.\n\nWhat We Offer\n\nSalary:\n\n$170,000.00 - $234,000.00\n\nLocation:\n\nSanta Clara,CA\n\nYou’ll benefit from a supportive work culture that encourages you to learn, develop, and grow your career as you take on challenges and drive innovative solutions for our customers. We empower our team to push the boundaries of what is possible—while learning every day in a supportive leading global company. Visit our Careers website to learn more.\n\nAt Applied Materials, we care about the health and wellbeing of our employees. We’re committed to providing programs and support that encourage personal and professional growth and care for you at work, at home, or wherever you may go. Learn more about our benefits.\n\nKey Responsibilities:\n\nJob Description\n\nApplied Materials’ Joint Operations Leadership (JOLT) Data Science team is seeking a Data Scientist to join our growing organization. JOLT plays a critical role in rebuilding customer trust, creating an agile and resilient supply chain, reshaping supplier relationships, driving operational excellence, and maximizing profitability through advanced analytics, AI, and machine learning.\n\nThis role offers the opportunity to work on high‑impact, cross‑functional initiatives and to develop end‑to‑end AI solutions—from problem formulation to production deployment.:\n\nWorks in project teams developing difficult analytical models, algorithms and automated processes, research and develop machine learning models from inception to deployment.\nWork on GenAI and LLM projects, including fine-tuning models, creating embedding-based search systems, and developing AI-driven prototypes to enhance business operations.\nDirecting architects to design and solution GenAI architectures for stakeholders, specifically for plugin-based solutions and custom GenAI application builds.\nUse data mining and machine learning algorithms to provide insights into historical and real-time data for projects such as material forecast, demand forecast, pattern recognition, etc.\nInterfaces with stakeholders for requirements analysis and special requests and schedules; derives insights and works with business units to determine actions and KPI for those actions.\nIdentify opportunities for forecast accuracy improvement and provide business insights and additional perspectives to Service Supply Chain leadership\nCollaborate with Material Planning, Field Operations, Inventory Management, NPI, Production Demand Planning, Reliability Engineering, Service Campaigns Teams to gather data and bring information on key business drivers that impact the future demand on Service Parts and Accessories\n\nRequirements\n\nAdvanced degree (MS or PhD) in a quantitative field (e.g., Statistics, Computer Science, Economics, Operations Research).\n3-5 years of industry experience in applied machine learning or related AI work.\nHands-on experience building GenAI-focused applications (e.g., agents, reasoning workflows, or RAG) and a solid understanding of how large language models are architected and operated.\nCan work collaboratively with cross-functional teams.\nHands-on experience with:\nBuilding GenAI-focused application and applying LLMs and agentic AI (e.g., agents, reasoning workflows, or RAG)\nHave personally implemented models in common Deep Learning frameworks such as PyTorch, Jax or TensorFlow.\nMLOps, including model deployment, versioning and performance monitoring in production environments\nProficiency in Python, SQL, and tools such as scikit-learn, and forecasting libraries.\n\nExcellent analytical and problem-solving abilities, Machine Learning Concepts\nStrong communication and storytelling skills - able to simplify complexity and influence executive stakeholders.\n\nInterpersonal Skills\n\nCommunicates difficult concepts and negotiates with others to adopt a different point of view\n\nLocation\n\nSanta Clara, CA; on-site full-time\n\nAdditional Information\n\nTime Type:\n\nFull time\n\nEmployee Type:\n\nAssignee / Regular\n\nTravel:\n\nYes, 10% of the Time\n\nRelocation Eligible:\n\nYes\n\nThe salary offered to a selected candidate will be based on multiple factors including location, hire grade, job-related knowledge, skills, experience, and with consideration of internal equity of our current team members. In addition to a comprehensive benefits package, candidates may be eligible for other forms of compensation such as participation in a bonus and a stock award program, as applicable.\n\nFor all sales roles, the posted salary range is the Target Total Cash (TTC) range for the role, which is the sum of base salary and target bonus amount at 100% goal achievement.\n\nApplied Materials is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, national origin, citizenship, ancestry, religion, creed, sex, sexual orientation, gender identity, age, disability, veteran or military status, or any other basis prohibited by law.\n\nIn addition, Applied endeavors to make our careers site accessible to all users. If you would like to contact us regarding accessibility of our website or need assistance completing the application process, please contact us via e-mail at Accommodations_Program@amat.com, or by calling our HR Direct Help Line at 877-612-7547, option 1, and following the prompts to speak to an HR Advisor. This contact is for accommodation requests only and cannot be used to inquire about the status of applications.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nAppliances, Electrical, and Electronics Manufacturing, Nanotechnology Research, and Semiconductor Manufacturing",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 3.522,
-        "city": "santa clara",
-        "latitude": 37.364621,
-        "longitude": -121.967973,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "DigitalOcean",
-      "title": "Forward Deployed Applied Scientist II (Agentic AI)",
+      "company": "Google",
+      "title": "Senior Research Scientist, Beam",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480181009/",
-      "date_posted": "2026-10-15",
+      "url": "https://www.linkedin.com/jobs/view/4479372359/",
+      "date_posted": "2026-10-16",
+      "salary": "$174000 - $252000",
+      "ats": "LinkedIn",
+      "description": "Applicants in San Francisco: Qualified applications with arrest or conviction records will be considered for employment in accordance with the San Francisco Fair Chance Ordinance for Employers and the California Fair Chance Act.\n\nIn accordance with Washington state law, we are highlighting our comprehensive benefits package, which is available to all eligible US based employees. Benefits for this role include:\n\nHealth, dental, vision, life, disability insurance\nRetirement Benefits: 401(k) with company match\nPaid Time Off: 20 days of vacation per year, accruing at a rate of 6.15 hours per pay period for the first five years of employment\nSick Time: 40 hours/year (statutory, where applicable); 5 days/event (discretionary)\nMaternity Leave (Short-Term Disability + Baby Bonding): 28-30 weeks\nBaby Bonding Leave: 18 weeks\nHolidays: 13 paid days per year.\n\nNote: By applying to this position you will have an opportunity to share your preferred working location from the following: Seattle, WA, USA; San Francisco, CA, USA\n. Minimum qualifications:\n\nPhD in Computer Science, or a related field, with a focus on computer vision, machine learning, or computer graphics, or equivalent practical experience.\n2 years of experience in Python and deep learning frameworks (e.g., JAX, Flax, Gemma, or Pytorch)\nOne or more scientific publication submission(s) for conferences, journals, or public repositories (such as CVPR, ICCV, NeurIPS, ICML, ICLR, SIGGRAPH etc.).\n\nPreferred qualifications:\n\nResearch experience with track record in one or more of: neural rendering, generative models, 3D reconstruction, video models, or real-time vision systems.\nExperience building real-time AI or computer vision systems with strict latency and performance constraints, especially on edge devices or resource-constrained hardware.\nExperience tech-leading a team, including setting research roadmaps, mentoring researchers, and driving technical decisions.\nDemonstrated ability to break down ambiguous program goals into staged milestones and deliver end-to-end from research concept to shipped product.\nExcellent communication skills, with the ability to articulate complex technical ideas clearly to both technical and non-technical audiences.\n\nAbout the job\nAs an organization, Google maintains a portfolio of research projects driven by fundamental research, new product innovation, product contribution and infrastructure goals, while providing individuals and teams the freedom to emphasize specific types of work. As a Research Scientist, you'll setup large-scale tests and deploy promising ideas quickly and broadly, managing deadlines and deliverables while applying the latest theories to develop new and improved products, processes, or technologies. From creating experiments and prototyping implementations to designing new architectures, our research scientists work on real-world problems that span the breadth of computer science, such as machine (and deep) learning, data mining, natural language processing, hardware and software performance analysis, improving compilers for mobile platforms, as well as core search and much more.\n\nAs a Research Scientist, you'll also actively contribute to the wider research community by sharing and publishing your findings, with ideas inspired by internal projects as well as from collaborations with research programs at partner universities and technical institutes all over the world. Google Research is building the next generation of intelligent systems for all Google products. To achieve this, we’re working on projects that utilize the latest computer science techniques developed by skilled software developers and research scientists. Google Research teams collaborate closely with other teams across Google, maintaining the flexibility and versatility required to adapt new projects and foci that meet the demands of the world's fast-paced business needs.Individual pay is determined by factors including job-related skills, experience, and relevant education or training.\n\nUS: $174000 - $252000 (USD) + 15% bonus target + equity + benefits\n\nResponsibilities\n\nLearn more about benefits at Google .\n\nDefine and drive research directions in AI and computer vision that push the boundaries of real-time 3D telepresence.\nFormulate novel approaches to open problems, translating fundamental research insights into transformative product experiences.\nCollaborate with cross-functional teams across hardware, software, and product to shape the technical direction and roadmap.\nConduct rigorous experiments to validate hypotheses, de-risk new technical directions, and inform strategic decisions through prototypes and data-driven evaluations.\nPublish and present research and represent Google in the broader research community.\n\nGoogle is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nInformation Services and Technology, Information and Internet",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Meta",
+      "title": "AI Research Scientist, Robotics - Meta Superintelligence Labs",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461155160/",
+      "date_posted": "2026-10-16",
+      "salary": "$154,000.00/yr - $217,000.00/yr",
+      "ats": "LinkedIn",
+      "description": "Meta is seeking an AI Research Scientist to join Meta Superintelligence Labs. Individuals in this role are expected to be recognized experts in identified research areas such as artificial intelligence, machine learning, robotics, and embodied AI, particularly including areas such as transfer learning, learning from demonstration, reinforcement learning, action-conditioned world models, perception, representation learning, robot control, navigation, mobile manipulation, dexterous manipulation, and vision-language models. You should have a keen interest in producing new, open science to make embodied agents more intelligent.\n\nAI Research Scientist, Robotics - Meta Superintelligence Labs Responsibilities:\n\nPerform fundamental and applied research to push the scientific and technological frontiers of embodied artificial intelligence\nInvent and improve novel data-driven paradigms for robotics, leveraging a variety of modalities (images, video, text, audio, tactile, etc.)\nInvestigate paradigms that can deliver a spectrum of embodied behaviors - from simulated characters to real robots, and from short-horizon, low-level to long-horizon, high-level intelligence\nDevelop algorithms based on state-of-the-art machine learning and neural network methodologies\nDefine, build, and benchmark new capabilities needed for the next generation of AI\nConduct research towards long-term research goals while identifying intermediate milestones\nLead, plan, and execute novel research based on long-term objectives of the organization\n\nMinimum Qualifications:\n\nBachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience\nPhD degree in the field of Artificial Intelligence, Robotics, Computer Vision, Machine Learning, Language, a related field, or equivalent practical experience\nExperience with any of the following research areas: robotics, embodied AI, human-robot interaction, sim-to-real transfer, learning from demonstration, reinforcement learning, dexterous manipulation, digital agents, vision language models, egocentric perception, and/or Large Language Models\nMust obtain work authorization in the country of employment at the time of hire and maintain ongoing work authorization during the employment\n\nPreferred Qualifications:\n\nExperience working and communicating cross-functionally in a team environment\n2+ years of industry experience in relevant robotics-related research areas, such as: robot learning, reinforcement learning, imitation learning, action-conditioned world models, task and motion planning, sim-to-real transfer robotic control, manipulation, navigation, or generally embodied AI\nExperience with robotics frameworks like ROS, along with experience working with robot simulations and real-world hardware\nProven track record of achieving significant results as demonstrated by grants, fellowships, patents, as well as publications at leading workshops, journals or conferences in Machine Learning (NeurIPS, ICML, ICLR), Robotics (ICRA, IROS, RSS, CoRL), Computer Vision (CVPR, ICCV, ECCV)\nExperience with deep learning frameworks (such as PyTorch, TensorFlow) and Python\nExperience building systems based on machine learning and/or deep learning methods\nDemonstrated research and software engineering experience via an internship, work experience, coding competitions, or widely used contributions in open source repositories (e.g., GitHub)\n\nAbout Meta:\n\nMeta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.\n\nMeta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.\n\nMeta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@meta.com.\n\n$154,000/year to $217,000/year + bonus + equity + benefits\n\nIndividual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about benefits at Meta.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 9.313,
+        "city": "menlo park",
+        "latitude": 37.479731,
+        "longitude": -122.148055,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Prime Video & Amazon MGM Studios",
+      "title": "Applied Scientist, Prime Video - Generative AI (Video)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462720080/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon",
+      "title": "Applied Scientist, Fauna",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480176709/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Enigma",
+      "title": "Senior Research Engineer | Senior Research Scientist | World Models | Diffusion Models | Multimodal AI | Hybrid, Palo Alto",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4479373776/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Senior Research Engineer | Senior Research Scientist | World Models | Diffusion Models | Multimodal AI | Hybrid, Palo Alto\n\nAbout the Opportunity\n\nA well-funded AI research lab is developing next-generation foundation models capable of understanding, predicting, and interacting with the physical world over extended time horizons. By advancing multimodal and causal AI systems, the team is working towards technology with broad applications across robotics, scientific research, healthcare, education, gaming, autonomous systems, and other emerging domains.\n\nThe organisation brings together an experienced team of researchers and engineers who have contributed to some of the world's leading AI models and autonomous systems. Operating at the intersection of frontier research and engineering, the lab combines ambitious scientific goals with a focus on building practical, scalable AI systems.\n\nThe Role\n\nWe are seeking exceptional researchers and engineers with deep technical expertise in areas such as video generation, multimodal learning, world models, robotics, autonomous systems, large-scale machine learning, or related fields.\n\nWhether your strengths lie in developing novel architectures, scaling distributed training, or building high-performance inference systems, you'll have the opportunity to turn ambitious research ideas into working systems that push the boundaries of what's possible.\n\nKey Responsibilities\n\nDevelop novel approaches that extend beyond current transformer and diffusion-based methods for world modelling and multimodal AI.\nResearch new model architectures, training paradigms, and representations for temporal reasoning, dynamics, and interaction.\nTake ideas from initial hypothesis through experimentation to robust working prototypes.\nDesign, implement, and optimise large-scale distributed training and inference infrastructure.\nCollaborate closely across research and engineering disciplines to translate scientific advances into production-ready systems.\nContribute to the wider technical community through publications, open research where appropriate, and the development of reusable tools and infrastructure.\nHelp shape the technical direction and research culture of a fast-moving AI organisation.\n\nAbout You\n\nYou'll likely have a strong background in one or more of the following:\n\nGenerative AI\nVideo generation\nMultimodal machine learning\nWorld models\nRobotics or autonomous systems\nLarge-scale machine learning infrastructure\nAdjacent research fields\n\nYou will also demonstrate:\n\nA proven record of advancing research, building impactful ML systems, or ideally both.\nThe ability to work from first principles, defining problems, designing rigorous experiments, and validating new ideas.\nExperience bridging cutting-edge research with practical deployment.\nComfort operating in ambiguous, rapidly evolving technical environments.\nStrong opinions on the future direction of AI research, supported by thoughtful technical reasoning.\nA collaborative mindset and the ability to thrive in small, highly autonomous teams focused on delivering ambitious outcomes.\n\nWhy Join?\n\nThis is an opportunity to contribute to foundational AI research at the frontier of multimodal intelligence, working alongside a highly accomplished technical team on problems that have the potential to influence the next generation of AI systems and their real-world applications.\n\nSenior Research Engineer | Senior Research Scientist | World Models | Diffusion Models | Multimodal AI | Hybrid, Palo Alto\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Media",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 6.453,
+        "city": "palo alto",
+        "latitude": 37.39652,
+        "longitude": -122.143088,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Epsilon Health",
+      "title": "Research Scientist - Vision Foundation Models",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480333684/",
+      "date_posted": "2026-10-16",
       "salary": "",
       "ats": "LinkedIn",
       "geography": {
@@ -1048,6 +1098,935 @@
         "city": "san francisco",
         "latitude": 37.727239,
         "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist, Multi-Modal Human Understanding",
+      "location": "Burlingame, CA",
+      "url": "https://www.linkedin.com/jobs/view/4460492600/",
+      "date_posted": "2026-10-16",
+      "salary": "$122,000.00/yr - $181,000.00/yr",
+      "ats": "LinkedIn",
+      "description": "Meta is seeking a Research Scientist to advance multi-modal AI technologies for human understanding and synthesis. In this role, you will develop Vision-Language Models (VLMs) and video foundation models that enable machines to perceive, interpret, and generate rich representations of human behavior, expression, and interaction. Your research will span multi-modal reasoning, video understanding, and generative synthesis, enabling more natural and intuitive human-computer interaction at scale.\n\nResearch Scientist, Multi-Modal Human Understanding Responsibilities:\n\nDesign and implement novel multi-modal architectures that fuse vision, language, and temporal signals for holistic human understanding\nDevelop and train Vision-Language Models (VLMs) for tasks including visual question answering, image-text reasoning, and grounded human-centric understanding\nBuild video foundation models capable of temporal reasoning, action synthesis and long-form video synthesis with applications to human behavior synthesis\nResearch generative synthesis techniques for human-centric content including video generation, motion synthesis, and multi-modal content creation\nConduct rigorous experiments to evaluate model performance across diverse benchmarks, analyze failure modes, and iterate on architectures to improve accuracy and generalization\nContribute to the full research lifecycle from problem formulation and dataset curation through model development and evaluation\n\nMinimum Qualifications:\n\nCurrently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience. Degree must be completed prior to joining Meta\n2+ years of experience in multi-modal AI research, including hands-on work with Vision-Language Models, video understanding, or human-centric AI systems\n2+ years of experience implementing and training large-scale neural networks using frameworks such as PyTorch, with experience on transformer-based architectures\nExperience designing and executing experiments to evaluate multi-modal model performance, including quantitative analysis across vision, language, and video benchmarks\nExperience writing production-quality or research-quality code in Python for multi-modal AI applications\n\nPreferred Qualifications:\n\nExperience developing or fine-tuning Vision-Language Models for human understanding tasks\nExperience with video foundation models, temporal transformers, or large-scale video pretraining\nTrack record of contributing to published multi-modal AI research at venues such as CVPR, ICCV, or NeurIPS\nExperience with generative models for human synthesis including diffusion models, GANs, or autoregressive models for video or motion generation\n\nAbout Meta:\n\nMeta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.\n\nMeta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.\n\nMeta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@meta.com.\n\n$122,000/year to $181,000/year + bonus + equity + benefits\n\nIndividual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about benefits at Meta.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 23.246,
+        "city": "burlingame",
+        "latitude": 37.589952,
+        "longitude": -122.363342,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Skild AI",
+      "title": "Research Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4150260590/",
+      "date_posted": "2026-10-16",
+      "salary": "$100,000 - $300,000 USD",
+      "ats": "LinkedIn",
+      "description": "Company Overview\n\nAt Skild AI, we are building the world's first general purpose robotic intelligence that is robust and adapts to unseen scenarios without failing. We believe massive scale through data-driven machine learning is the key to unlocking these capabilities for the widespread deployment of robots within society. Our team consists of individuals with varying levels of experience and backgrounds, from new graduates to domain experts. Relevant industry experience is important, but ultimately less so than your demonstrated abilities and attitude. We are looking for passionate individuals who are eager to explore uncharted waters and contribute to our innovative projects.\n\nPosition Overview\n\nWe are hiring Research Engineers to develop scalable robotic systems aimed at achieving general-purpose robotic intelligence. In this role, you'll work with researchers and engineers to implement state-of-the-art machine learning and robot systems. The ideal candidate has a strong technical background, experience in turning research into practical solutions, and a drive to build impactful applications.\n\nResponsibilities\n\nDevelop and implement new algorithms for training and optimizing general-purpose robot foundation models.\nDesign and engineer systems to scale research from prototypes to fully deployable solutions, working with large-scale systems and datasets.\nConduct cutting edge research across multiple disciplines (Perception, Robotics, RL/ IL, Machine Learning, etc.).\nCollaborate with a multidisciplinary team, contributing to the integration of research insights into practical robotics applications.\nOptimize machine learning models for real-world robotic systems.\n\nPreferred Qualifications\n\nBS, MS or PhD degree in Computer Science, Robotics, Engineering or a related field, or equivalent practical experience.\nProficiency in Python and at least one deep learning library such as PyTorch, TensorFlow, JAX, etc.\nStrong track record of publishing papers and/or deploying real-world applications.\nDeep technical knowledge, and research experience in deep learning, reinforcement and/or imitation learning, robotics, or computer vision.\nExperience working with robot systems and large-scale model training.\n\nBase Salary Range\n\n$100,000 - $300,000 USD\n\nShow more\n\nShow less\n\nSeniority level\n\nEntry level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Epsilon Health",
+      "title": "Research Scientist - VLM Pretraining",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480325942/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "About Us\n\nEpsilon Health is transforming medical imaging and diagnostics by bringing frontier AI into clinical practice. We're tackling some of healthcare's most critical challenges, building technology that directly improves patient outcomes.\n\nThis year, we've served over 300,000 patients and now serve 3,000+ daily, working with some of the largest medical institutions in the U.S. By year-end we will interpret 1% of all daily U.S. X-rays.\n\nOur research team brings experience from DeepMind and Meta, powered by one of the industry's most comprehensive proprietary medical imaging datasets, continuously enriched by real-world clinical data. Together, we're building a future where frontier AI helps save millions of lives today, not tomorrow.\n\nRecently out of stealth, we're proudly backed by Jack Altman, Uncork Capital, Renegade Partners, and AlleyCorp, one of NYC's most active healthcare venture firms.\n\nRole Overview\n\nWe're seeking a Research Scientist\nwith deep expertise in large-scale vision-language pretraining\nto join our ML Research team\n. You'll be at the forefront of developing state-of-the-art multimodal models for clinical use in radiology settings. This role owns the pretraining stage\nof our radiology report generation model: VLM architecture design, multimodal data and task mixtures, and the large-scale training runs that build grounded visual understanding across X-rays, CT scans, and MRI. You'll work with one of the largest and most diverse medical imaging datasets in the industry, paired with the reports that make multimodal pretraining at this scale possible, while maintaining the clinical rigor required for healthcare deployment. Post-training and RL are owned by a partner role you'll collaborate with closely.\n\nKey Responsibilities\n\nDesign, train, and scale vision-language foundation models for radiology applications, owning the pretraining stage end to end.\nDevelop VLM architectures suited to medical imaging, including native and variable resolution handling, high-resolution tiling, connector design, and token budgets for volumetric studies.\nBuild and tune multimodal pretraining mixtures across captioning, VQA, grounding, and retrieval tasks, balancing data sources to avoid regressions in language capability.\nDevelop fine-grained visual grounding during pretraining, enabling models to localize findings within medical images using bounding boxes or segmentation masks.\nOwn pretraining evaluation (zero- and few-shot transfer, probing, and downstream fine-tunability) — as the signal for base model quality.\nTrain joint vision-language embedding spaces using contrastive and generative objectives, including region- and sentence-level alignment between images and reports.\nContribute hands-on to all stages of pretraining including dataset curation, architecture design, distributed training, and handoff of base checkpoints to post-training.\nStay current with cutting-edge research in vision-language modeling and large-scale multimodal pretraining.\nDrive research and technical excellence through conference publications and technical blog posts, establishing best practices for pretraining medical VLMs at scale.\n\nQualifications\n\n2+ years of academia/industry experience in vision-language modeling, multimodal learning, or related fields\nDeep expertise in pretraining large vision-language models (e.g., LLaVA, Flamingo, CogVLM, Qwen-VL, InternVL, or similar architectures)\nStrong foundation in modern VLM pretraining techniques including:\nVision-language connector and fusion architectures (projection, cross-attention, resampler-based)\nVariable and high-resolution image handling (native resolution, dynamic tiling, token compression)\nContrastive and generative objectives for learning joint vision-language embedding spaces\nData and task mixture design, including curriculum and mixture-ratio ablations\n\nExperience with fine-grained visual grounding (referring expression comprehension, phrase grounding, box or mask prediction)\nTrack record of implementing complex models from research papers and adapting them to new domains\nProficiency in PyTorch or JAX, with experience training large models on multi-GPU/distributed systems\nExperience with autoregressive language modeling and long-context training\nHands-on experience with medical imaging applications, particularly radiology report generation\nStrong software engineering skills and ability to write production-quality code\n\nPreferred Qualifications\n\nPublications at top-tier conferences (NeurIPS, ICML, ICLR, CVPR, ACL, EMNLP, MICCAI)\nExperience training vision encoders from scratch, or co-designing them with a downstream VLM\nExperience with interleaved image-text pretraining and synthetic recaptioning pipelines\nExperience with 3D medical image processing and temporal modeling\nFamiliarity with clinical NLP and medical knowledge representation\nKnowledge of evaluation methodologies for long-form generation, including factuality assessment and hallucination detection\nExperience with model interpretability, explainability, and uncertainty quantification in safety-critical applications\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Salesforce",
+      "title": "Research Scientist - Salesforce AI Research",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4345023887/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "SAP",
+      "title": "Senior Data and Applied Scientist, SCM Autonomous Suite, Palo Alto",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461384807/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 6.453,
+        "city": "palo alto",
+        "latitude": 37.39652,
+        "longitude": -122.143088,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Jack",
+      "title": "Founding AI Engineer (Vision-language models)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474978499/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Bobyard",
+      "title": "Computer Vision Research Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4388119842/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist, AI Language",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477385062/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 9.313,
+        "city": "menlo park",
+        "latitude": 37.479731,
+        "longitude": -122.148055,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon",
+      "title": "Sr. Applied Scientist, AGI",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4471804734/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon",
+      "title": "Sr. Applied Scientist, AGI",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4471821218/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Walmart",
+      "title": "(USA) Staff, Data Scientist",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463183362/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Enigma",
+      "title": "AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4479366734/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 13.183,
+        "city": "san jose",
+        "latitude": 37.296011,
+        "longitude": -121.814552,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Epsilon Health",
+      "title": "Research Scientist - Post-training / RL",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480342352/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Genentech",
+      "title": "Machine Learning Scientist, Scientific Reasoning Models, AI for Drug Discovery",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4398016570/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 26.72,
+        "city": "south san francisco",
+        "latitude": 37.655104,
+        "longitude": -122.376234,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Together AI",
+      "title": "Staff Machine Learning Engineer, Voice AI",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415944658/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Genentech",
+      "title": "AI Scientist/Senior, Clinical & Molecular Genomics Modeling, BRAID",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4405250531/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 26.72,
+        "city": "south san francisco",
+        "latitude": 37.655104,
+        "longitude": -122.376234,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Cohere",
+      "title": "Senior Member of Technical Staff, Multimodal AI",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4088517379/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Prime Intellect",
+      "title": "Research Engineer - Pretraining",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480395513/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "CodeRound AI",
+      "title": "AI Researcher ($140K- 300K)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477391005/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Meta",
+      "title": "Research Engineer, Safety Evaluation",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469769010/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 9.313,
+        "city": "menlo park",
+        "latitude": 37.479731,
+        "longitude": -122.148055,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Prime Intellect",
+      "title": "Research Engineer - Reinforcement Learning",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480508380/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Jiangsu Surun Talent Development Group Co., Ltd.",
+      "title": "Research Scientist",
+      "location": "Cupertino, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480328746/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 4.7,
+        "city": "cupertino",
+        "latitude": 37.3194,
+        "longitude": -122.044957,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist, Machine Learning for Monetization (PhD)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469751817/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Google",
+      "title": "Staff Research Scientist, Google Cloud AI Research",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4452383099/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Google",
+      "title": "Senior Research Scientist, Beam",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4479372359/",
+      "date_posted": "2026-10-16",
+      "salary": "$174000 - $252000",
+      "ats": "LinkedIn",
+      "description": "Applicants in San Francisco: Qualified applications with arrest or conviction records will be considered for employment in accordance with the San Francisco Fair Chance Ordinance for Employers and the California Fair Chance Act.\n\nIn accordance with Washington state law, we are highlighting our comprehensive benefits package, which is available to all eligible US based employees. Benefits for this role include:\n\nHealth, dental, vision, life, disability insurance\nRetirement Benefits: 401(k) with company match\nPaid Time Off: 20 days of vacation per year, accruing at a rate of 6.15 hours per pay period for the first five years of employment\nSick Time: 40 hours/year (statutory, where applicable); 5 days/event (discretionary)\nMaternity Leave (Short-Term Disability + Baby Bonding): 28-30 weeks\nBaby Bonding Leave: 18 weeks\nHolidays: 13 paid days per year.\n\nNote: By applying to this position you will have an opportunity to share your preferred working location from the following: Seattle, WA, USA; San Francisco, CA, USA\n. Minimum qualifications:\n\nPhD in Computer Science, or a related field, with a focus on computer vision, machine learning, or computer graphics, or equivalent practical experience.\n2 years of experience in Python and deep learning frameworks (e.g., JAX, Flax, Gemma, or Pytorch)\nOne or more scientific publication submission(s) for conferences, journals, or public repositories (such as CVPR, ICCV, NeurIPS, ICML, ICLR, SIGGRAPH etc.).\n\nPreferred qualifications:\n\nResearch experience with track record in one or more of: neural rendering, generative models, 3D reconstruction, video models, or real-time vision systems.\nExperience building real-time AI or computer vision systems with strict latency and performance constraints, especially on edge devices or resource-constrained hardware.\nExperience tech-leading a team, including setting research roadmaps, mentoring researchers, and driving technical decisions.\nDemonstrated ability to break down ambiguous program goals into staged milestones and deliver end-to-end from research concept to shipped product.\nExcellent communication skills, with the ability to articulate complex technical ideas clearly to both technical and non-technical audiences.\n\nAbout the job\nAs an organization, Google maintains a portfolio of research projects driven by fundamental research, new product innovation, product contribution and infrastructure goals, while providing individuals and teams the freedom to emphasize specific types of work. As a Research Scientist, you'll setup large-scale tests and deploy promising ideas quickly and broadly, managing deadlines and deliverables while applying the latest theories to develop new and improved products, processes, or technologies. From creating experiments and prototyping implementations to designing new architectures, our research scientists work on real-world problems that span the breadth of computer science, such as machine (and deep) learning, data mining, natural language processing, hardware and software performance analysis, improving compilers for mobile platforms, as well as core search and much more.\n\nAs a Research Scientist, you'll also actively contribute to the wider research community by sharing and publishing your findings, with ideas inspired by internal projects as well as from collaborations with research programs at partner universities and technical institutes all over the world. Google Research is building the next generation of intelligent systems for all Google products. To achieve this, we’re working on projects that utilize the latest computer science techniques developed by skilled software developers and research scientists. Google Research teams collaborate closely with other teams across Google, maintaining the flexibility and versatility required to adapt new projects and foci that meet the demands of the world's fast-paced business needs.Individual pay is determined by factors including job-related skills, experience, and relevant education or training.\n\nUS: $174000 - $252000 (USD) + 15% bonus target + equity + benefits\n\nResponsibilities\n\nLearn more about benefits at Google .\n\nDefine and drive research directions in AI and computer vision that push the boundaries of real-time 3D telepresence.\nFormulate novel approaches to open problems, translating fundamental research insights into transformative product experiences.\nCollaborate with cross-functional teams across hardware, software, and product to shape the technical direction and roadmap.\nConduct rigorous experiments to validate hypotheses, de-risk new technical directions, and inform strategic decisions through prototypes and data-driven evaluations.\nPublish and present research and represent Google in the broader research community.\n\nGoogle is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nInformation Services and Technology, Information and Internet",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Meta",
+      "title": "AI Research Scientist, Robotics - Meta Superintelligence Labs",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461155160/",
+      "date_posted": "2026-10-16",
+      "salary": "$154,000.00/yr - $217,000.00/yr",
+      "ats": "LinkedIn",
+      "description": "Meta is seeking an AI Research Scientist to join Meta Superintelligence Labs. Individuals in this role are expected to be recognized experts in identified research areas such as artificial intelligence, machine learning, robotics, and embodied AI, particularly including areas such as transfer learning, learning from demonstration, reinforcement learning, action-conditioned world models, perception, representation learning, robot control, navigation, mobile manipulation, dexterous manipulation, and vision-language models. You should have a keen interest in producing new, open science to make embodied agents more intelligent.\n\nAI Research Scientist, Robotics - Meta Superintelligence Labs Responsibilities:\n\nPerform fundamental and applied research to push the scientific and technological frontiers of embodied artificial intelligence\nInvent and improve novel data-driven paradigms for robotics, leveraging a variety of modalities (images, video, text, audio, tactile, etc.)\nInvestigate paradigms that can deliver a spectrum of embodied behaviors - from simulated characters to real robots, and from short-horizon, low-level to long-horizon, high-level intelligence\nDevelop algorithms based on state-of-the-art machine learning and neural network methodologies\nDefine, build, and benchmark new capabilities needed for the next generation of AI\nConduct research towards long-term research goals while identifying intermediate milestones\nLead, plan, and execute novel research based on long-term objectives of the organization\n\nMinimum Qualifications:\n\nBachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience\nPhD degree in the field of Artificial Intelligence, Robotics, Computer Vision, Machine Learning, Language, a related field, or equivalent practical experience\nExperience with any of the following research areas: robotics, embodied AI, human-robot interaction, sim-to-real transfer, learning from demonstration, reinforcement learning, dexterous manipulation, digital agents, vision language models, egocentric perception, and/or Large Language Models\nMust obtain work authorization in the country of employment at the time of hire and maintain ongoing work authorization during the employment\n\nPreferred Qualifications:\n\nExperience working and communicating cross-functionally in a team environment\n2+ years of industry experience in relevant robotics-related research areas, such as: robot learning, reinforcement learning, imitation learning, action-conditioned world models, task and motion planning, sim-to-real transfer robotic control, manipulation, navigation, or generally embodied AI\nExperience with robotics frameworks like ROS, along with experience working with robot simulations and real-world hardware\nProven track record of achieving significant results as demonstrated by grants, fellowships, patents, as well as publications at leading workshops, journals or conferences in Machine Learning (NeurIPS, ICML, ICLR), Robotics (ICRA, IROS, RSS, CoRL), Computer Vision (CVPR, ICCV, ECCV)\nExperience with deep learning frameworks (such as PyTorch, TensorFlow) and Python\nExperience building systems based on machine learning and/or deep learning methods\nDemonstrated research and software engineering experience via an internship, work experience, coding competitions, or widely used contributions in open source repositories (e.g., GitHub)\n\nAbout Meta:\n\nMeta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.\n\nMeta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.\n\nMeta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@meta.com.\n\n$154,000/year to $217,000/year + bonus + equity + benefits\n\nIndividual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about benefits at Meta.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 9.313,
+        "city": "menlo park",
+        "latitude": 37.479731,
+        "longitude": -122.148055,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Prime Video & Amazon MGM Studios",
+      "title": "Applied Scientist, Prime Video - Generative AI (Video)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462720080/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon",
+      "title": "Applied Scientist, Fauna",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480176709/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Enigma",
+      "title": "Senior Research Engineer | Senior Research Scientist | World Models | Diffusion Models | Multimodal AI | Hybrid, Palo Alto",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4479373776/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Senior Research Engineer | Senior Research Scientist | World Models | Diffusion Models | Multimodal AI | Hybrid, Palo Alto\n\nAbout the Opportunity\n\nA well-funded AI research lab is developing next-generation foundation models capable of understanding, predicting, and interacting with the physical world over extended time horizons. By advancing multimodal and causal AI systems, the team is working towards technology with broad applications across robotics, scientific research, healthcare, education, gaming, autonomous systems, and other emerging domains.\n\nThe organisation brings together an experienced team of researchers and engineers who have contributed to some of the world's leading AI models and autonomous systems. Operating at the intersection of frontier research and engineering, the lab combines ambitious scientific goals with a focus on building practical, scalable AI systems.\n\nThe Role\n\nWe are seeking exceptional researchers and engineers with deep technical expertise in areas such as video generation, multimodal learning, world models, robotics, autonomous systems, large-scale machine learning, or related fields.\n\nWhether your strengths lie in developing novel architectures, scaling distributed training, or building high-performance inference systems, you'll have the opportunity to turn ambitious research ideas into working systems that push the boundaries of what's possible.\n\nKey Responsibilities\n\nDevelop novel approaches that extend beyond current transformer and diffusion-based methods for world modelling and multimodal AI.\nResearch new model architectures, training paradigms, and representations for temporal reasoning, dynamics, and interaction.\nTake ideas from initial hypothesis through experimentation to robust working prototypes.\nDesign, implement, and optimise large-scale distributed training and inference infrastructure.\nCollaborate closely across research and engineering disciplines to translate scientific advances into production-ready systems.\nContribute to the wider technical community through publications, open research where appropriate, and the development of reusable tools and infrastructure.\nHelp shape the technical direction and research culture of a fast-moving AI organisation.\n\nAbout You\n\nYou'll likely have a strong background in one or more of the following:\n\nGenerative AI\nVideo generation\nMultimodal machine learning\nWorld models\nRobotics or autonomous systems\nLarge-scale machine learning infrastructure\nAdjacent research fields\n\nYou will also demonstrate:\n\nA proven record of advancing research, building impactful ML systems, or ideally both.\nThe ability to work from first principles, defining problems, designing rigorous experiments, and validating new ideas.\nExperience bridging cutting-edge research with practical deployment.\nComfort operating in ambiguous, rapidly evolving technical environments.\nStrong opinions on the future direction of AI research, supported by thoughtful technical reasoning.\nA collaborative mindset and the ability to thrive in small, highly autonomous teams focused on delivering ambitious outcomes.\n\nWhy Join?\n\nThis is an opportunity to contribute to foundational AI research at the frontier of multimodal intelligence, working alongside a highly accomplished technical team on problems that have the potential to influence the next generation of AI systems and their real-world applications.\n\nSenior Research Engineer | Senior Research Scientist | World Models | Diffusion Models | Multimodal AI | Hybrid, Palo Alto\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Media",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 6.453,
+        "city": "palo alto",
+        "latitude": 37.39652,
+        "longitude": -122.143088,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Epsilon Health",
+      "title": "Research Scientist - Vision Foundation Models",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480333684/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist, Multi-Modal Human Understanding",
+      "location": "Burlingame, CA",
+      "url": "https://www.linkedin.com/jobs/view/4460492600/",
+      "date_posted": "2026-10-16",
+      "salary": "$122,000.00/yr - $181,000.00/yr",
+      "ats": "LinkedIn",
+      "description": "Meta is seeking a Research Scientist to advance multi-modal AI technologies for human understanding and synthesis. In this role, you will develop Vision-Language Models (VLMs) and video foundation models that enable machines to perceive, interpret, and generate rich representations of human behavior, expression, and interaction. Your research will span multi-modal reasoning, video understanding, and generative synthesis, enabling more natural and intuitive human-computer interaction at scale.\n\nResearch Scientist, Multi-Modal Human Understanding Responsibilities:\n\nDesign and implement novel multi-modal architectures that fuse vision, language, and temporal signals for holistic human understanding\nDevelop and train Vision-Language Models (VLMs) for tasks including visual question answering, image-text reasoning, and grounded human-centric understanding\nBuild video foundation models capable of temporal reasoning, action synthesis and long-form video synthesis with applications to human behavior synthesis\nResearch generative synthesis techniques for human-centric content including video generation, motion synthesis, and multi-modal content creation\nConduct rigorous experiments to evaluate model performance across diverse benchmarks, analyze failure modes, and iterate on architectures to improve accuracy and generalization\nContribute to the full research lifecycle from problem formulation and dataset curation through model development and evaluation\n\nMinimum Qualifications:\n\nCurrently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience. Degree must be completed prior to joining Meta\n2+ years of experience in multi-modal AI research, including hands-on work with Vision-Language Models, video understanding, or human-centric AI systems\n2+ years of experience implementing and training large-scale neural networks using frameworks such as PyTorch, with experience on transformer-based architectures\nExperience designing and executing experiments to evaluate multi-modal model performance, including quantitative analysis across vision, language, and video benchmarks\nExperience writing production-quality or research-quality code in Python for multi-modal AI applications\n\nPreferred Qualifications:\n\nExperience developing or fine-tuning Vision-Language Models for human understanding tasks\nExperience with video foundation models, temporal transformers, or large-scale video pretraining\nTrack record of contributing to published multi-modal AI research at venues such as CVPR, ICCV, or NeurIPS\nExperience with generative models for human synthesis including diffusion models, GANs, or autoregressive models for video or motion generation\n\nAbout Meta:\n\nMeta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.\n\nMeta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.\n\nMeta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@meta.com.\n\n$122,000/year to $181,000/year + bonus + equity + benefits\n\nIndividual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about benefits at Meta.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 23.246,
+        "city": "burlingame",
+        "latitude": 37.589952,
+        "longitude": -122.363342,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Skild AI",
+      "title": "Research Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4150260590/",
+      "date_posted": "2026-10-16",
+      "salary": "$100,000 - $300,000 USD",
+      "ats": "LinkedIn",
+      "description": "Company Overview\n\nAt Skild AI, we are building the world's first general purpose robotic intelligence that is robust and adapts to unseen scenarios without failing. We believe massive scale through data-driven machine learning is the key to unlocking these capabilities for the widespread deployment of robots within society. Our team consists of individuals with varying levels of experience and backgrounds, from new graduates to domain experts. Relevant industry experience is important, but ultimately less so than your demonstrated abilities and attitude. We are looking for passionate individuals who are eager to explore uncharted waters and contribute to our innovative projects.\n\nPosition Overview\n\nWe are hiring Research Engineers to develop scalable robotic systems aimed at achieving general-purpose robotic intelligence. In this role, you'll work with researchers and engineers to implement state-of-the-art machine learning and robot systems. The ideal candidate has a strong technical background, experience in turning research into practical solutions, and a drive to build impactful applications.\n\nResponsibilities\n\nDevelop and implement new algorithms for training and optimizing general-purpose robot foundation models.\nDesign and engineer systems to scale research from prototypes to fully deployable solutions, working with large-scale systems and datasets.\nConduct cutting edge research across multiple disciplines (Perception, Robotics, RL/ IL, Machine Learning, etc.).\nCollaborate with a multidisciplinary team, contributing to the integration of research insights into practical robotics applications.\nOptimize machine learning models for real-world robotic systems.\n\nPreferred Qualifications\n\nBS, MS or PhD degree in Computer Science, Robotics, Engineering or a related field, or equivalent practical experience.\nProficiency in Python and at least one deep learning library such as PyTorch, TensorFlow, JAX, etc.\nStrong track record of publishing papers and/or deploying real-world applications.\nDeep technical knowledge, and research experience in deep learning, reinforcement and/or imitation learning, robotics, or computer vision.\nExperience working with robot systems and large-scale model training.\n\nBase Salary Range\n\n$100,000 - $300,000 USD\n\nShow more\n\nShow less\n\nSeniority level\n\nEntry level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Epsilon Health",
+      "title": "Research Scientist - VLM Pretraining",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480325942/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "About Us\n\nEpsilon Health is transforming medical imaging and diagnostics by bringing frontier AI into clinical practice. We're tackling some of healthcare's most critical challenges, building technology that directly improves patient outcomes.\n\nThis year, we've served over 300,000 patients and now serve 3,000+ daily, working with some of the largest medical institutions in the U.S. By year-end we will interpret 1% of all daily U.S. X-rays.\n\nOur research team brings experience from DeepMind and Meta, powered by one of the industry's most comprehensive proprietary medical imaging datasets, continuously enriched by real-world clinical data. Together, we're building a future where frontier AI helps save millions of lives today, not tomorrow.\n\nRecently out of stealth, we're proudly backed by Jack Altman, Uncork Capital, Renegade Partners, and AlleyCorp, one of NYC's most active healthcare venture firms.\n\nRole Overview\n\nWe're seeking a Research Scientist\nwith deep expertise in large-scale vision-language pretraining\nto join our ML Research team\n. You'll be at the forefront of developing state-of-the-art multimodal models for clinical use in radiology settings. This role owns the pretraining stage\nof our radiology report generation model: VLM architecture design, multimodal data and task mixtures, and the large-scale training runs that build grounded visual understanding across X-rays, CT scans, and MRI. You'll work with one of the largest and most diverse medical imaging datasets in the industry, paired with the reports that make multimodal pretraining at this scale possible, while maintaining the clinical rigor required for healthcare deployment. Post-training and RL are owned by a partner role you'll collaborate with closely.\n\nKey Responsibilities\n\nDesign, train, and scale vision-language foundation models for radiology applications, owning the pretraining stage end to end.\nDevelop VLM architectures suited to medical imaging, including native and variable resolution handling, high-resolution tiling, connector design, and token budgets for volumetric studies.\nBuild and tune multimodal pretraining mixtures across captioning, VQA, grounding, and retrieval tasks, balancing data sources to avoid regressions in language capability.\nDevelop fine-grained visual grounding during pretraining, enabling models to localize findings within medical images using bounding boxes or segmentation masks.\nOwn pretraining evaluation (zero- and few-shot transfer, probing, and downstream fine-tunability) — as the signal for base model quality.\nTrain joint vision-language embedding spaces using contrastive and generative objectives, including region- and sentence-level alignment between images and reports.\nContribute hands-on to all stages of pretraining including dataset curation, architecture design, distributed training, and handoff of base checkpoints to post-training.\nStay current with cutting-edge research in vision-language modeling and large-scale multimodal pretraining.\nDrive research and technical excellence through conference publications and technical blog posts, establishing best practices for pretraining medical VLMs at scale.\n\nQualifications\n\n2+ years of academia/industry experience in vision-language modeling, multimodal learning, or related fields\nDeep expertise in pretraining large vision-language models (e.g., LLaVA, Flamingo, CogVLM, Qwen-VL, InternVL, or similar architectures)\nStrong foundation in modern VLM pretraining techniques including:\nVision-language connector and fusion architectures (projection, cross-attention, resampler-based)\nVariable and high-resolution image handling (native resolution, dynamic tiling, token compression)\nContrastive and generative objectives for learning joint vision-language embedding spaces\nData and task mixture design, including curriculum and mixture-ratio ablations\n\nExperience with fine-grained visual grounding (referring expression comprehension, phrase grounding, box or mask prediction)\nTrack record of implementing complex models from research papers and adapting them to new domains\nProficiency in PyTorch or JAX, with experience training large models on multi-GPU/distributed systems\nExperience with autoregressive language modeling and long-context training\nHands-on experience with medical imaging applications, particularly radiology report generation\nStrong software engineering skills and ability to write production-quality code\n\nPreferred Qualifications\n\nPublications at top-tier conferences (NeurIPS, ICML, ICLR, CVPR, ACL, EMNLP, MICCAI)\nExperience training vision encoders from scratch, or co-designing them with a downstream VLM\nExperience with interleaved image-text pretraining and synthetic recaptioning pipelines\nExperience with 3D medical image processing and temporal modeling\nFamiliarity with clinical NLP and medical knowledge representation\nKnowledge of evaluation methodologies for long-form generation, including factuality assessment and hallucination detection\nExperience with model interpretability, explainability, and uncertainty quantification in safety-critical applications\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Salesforce",
+      "title": "Research Scientist - Salesforce AI Research",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4345023887/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "SAP",
+      "title": "Senior Data and Applied Scientist, SCM Autonomous Suite, Palo Alto",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461384807/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 6.453,
+        "city": "palo alto",
+        "latitude": 37.39652,
+        "longitude": -122.143088,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Jack",
+      "title": "Founding AI Engineer (Vision-language models)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474978499/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Bobyard",
+      "title": "Computer Vision Research Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4388119842/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist, AI Language",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477385062/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 9.313,
+        "city": "menlo park",
+        "latitude": 37.479731,
+        "longitude": -122.148055,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon",
+      "title": "Sr. Applied Scientist, AGI",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4471804734/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon",
+      "title": "Sr. Applied Scientist, AGI",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4471821218/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Walmart",
+      "title": "(USA) Staff, Data Scientist",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463183362/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Enigma",
+      "title": "AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4479366734/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 13.183,
+        "city": "san jose",
+        "latitude": 37.296011,
+        "longitude": -121.814552,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Epsilon Health",
+      "title": "Research Scientist - Post-training / RL",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480342352/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Genentech",
+      "title": "Machine Learning Scientist, Scientific Reasoning Models, AI for Drug Discovery",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4398016570/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 26.72,
+        "city": "south san francisco",
+        "latitude": 37.655104,
+        "longitude": -122.376234,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Together AI",
+      "title": "Staff Machine Learning Engineer, Voice AI",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415944658/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Genentech",
+      "title": "AI Scientist/Senior, Clinical & Molecular Genomics Modeling, BRAID",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4405250531/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 26.72,
+        "city": "south san francisco",
+        "latitude": 37.655104,
+        "longitude": -122.376234,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Cohere",
+      "title": "Senior Member of Technical Staff, Multimodal AI",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4088517379/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Prime Intellect",
+      "title": "Research Engineer - Pretraining",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480395513/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "CodeRound AI",
+      "title": "AI Researcher ($140K- 300K)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477391005/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Meta",
+      "title": "Research Engineer, Safety Evaluation",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469769010/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 9.313,
+        "city": "menlo park",
+        "latitude": 37.479731,
+        "longitude": -122.148055,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Prime Intellect",
+      "title": "Research Engineer - Reinforcement Learning",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480508380/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Jiangsu Surun Talent Development Group Co., Ltd.",
+      "title": "Research Scientist",
+      "location": "Cupertino, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480328746/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 4.7,
+        "city": "cupertino",
+        "latitude": 37.3194,
+        "longitude": -122.044957,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist, Machine Learning for Monetization (PhD)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469751817/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Google",
+      "title": "Staff Research Scientist, Google Cloud AI Research",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4452383099/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
     }
@@ -1358,12 +2337,154 @@
         "distance_miles": null,
         "reason": "An unambiguous city and state are required."
       }
+    },
+    {
+      "company": "Google",
+      "title": "Research Scientist, Geo AI",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4479345653/",
+      "date_posted": "2026-10-16",
+      "salary": "$147000 - $210000",
+      "ats": "LinkedIn",
+      "description": "Minimum qualifications:\n\nPhD in Computer Science, a related field, or equivalent practical experience.\nExperience coding in one or more of the following languages: Java, C++, or Python.\nOne of more scientific publication submission(s) for conferences, journals, or public repositories (such as CVPR, ICCV, NeurIPS, ICML, ICLR, etc.).\n\nPreferred qualifications:\n\n2 years of coding experience.\n1 year of experience owning and initiating research agendas.\n1 year of experience with Machine Learning or AI Algorithms.\n\nAbout the job\nAs an organization, Google maintains a portfolio of research projects driven by fundamental research, new product innovation, product contribution and infrastructure goals, while providing individuals and teams the freedom to emphasize specific types of work. As a Research Scientist, you'll setup large-scale tests and deploy promising ideas quickly and broadly, managing deadlines and deliverables while applying the latest theories to develop new and improved products, processes, or technologies. From creating experiments and prototyping implementations to designing new architectures, our research scientists work on real-world problems that span the breadth of computer science, such as machine (and deep) learning, data mining, natural language processing, hardware and software performance analysis, improving compilers for mobile platforms, as well as core search and much more.\n\nAs a Research Scientist, you'll also actively contribute to the wider research community by sharing and publishing your findings, with ideas inspired by internal projects as well as from collaborations with research programs at partner universities and technical institutes all over the world.Google Research addresses challenges that define the technology of today and tomorrow. From conducting fundamental research to influencing product development, our research teams have the opportunity to impact technology used by billions of people every day.\n\nOur teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field -- we publish regularly in academic journals, release projects as open source, and apply research to Google products.Individual pay is determined by factors including job-related skills, experience, and relevant education or training.\n\nUS: $147000 - $210000 (USD) + 15% bonus target + equity + benefits\n\nResponsibilities\n\nLearn more about benefits at Google .\n\nContribute to Geo applications by building algorithmic solutions that assist people everywhere as they navigate, explore, and get things done in the world.\nConvert research ideas into product features that deliver real-world impact for users.\nAuthor research papers to share and generate impact of research results across the team and in the research community.\nDefine the data structure, framework, design, and evaluation metrics for developing and implementing research solutions with minimal guidance, while identifying timelines and securing the necessary resources.\nContribute to experiments based on the research question by developing research prototypes or running simulations to further assess research impact, finalize hypotheses, and refine the research methodology, with limited oversight.\n\nGoogle is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nInformation Services and Technology, Information and Internet",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "City is unknown or has multiple Census locations."
+      }
+    },
+    {
+      "company": "Alexander Chapman",
+      "title": "Research Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4480519220/",
+      "date_posted": "2026-10-16",
+      "salary": "$180,000.00/yr - $240,000.00/yr",
+      "ats": "LinkedIn",
+      "description": "I’m hiring a Founding Research Engineer for a seed-stage startup building AI co-pilots on smart glasses.\n\nYou’ll own the AI core: vision-language models, visual reasoning, agents, evals and model orchestration, all running on real hardware in real customer workflows like inspection and field service. The focus is visual AI first: detection, segmentation, and reasoning over images and video.\n\nIf you have:\n\n1 to 5 years in applied AI/ML, ideally computer vision or multimodal\nComputer Vision or VLM systems you’ve shipped to production, where you owned the model layer end to end\nExperience getting VLMs to reason reliably about images and video in production\nHands-on agent and model orchestration work, plus solid evals (ground truth, regression, trajectory testing)\nStartup experience, ideally as a founder or founding engineer\n\nNice to have: edge or on-device inference, self-hosted open-weight models (vLLM, fine-tuning, quantization), RAG, AR/wearables or autonomous driving CV, industrial exposure.\n\nUp to $240,000 base. Offers Equity\n\nVisa sponsorship available.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nStaffing and Recruiting",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "An unambiguous city and state are required."
+      }
+    },
+    {
+      "company": "Panasonic North America",
+      "title": "AI Research Engineer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477363139/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "City is unknown or has multiple Census locations."
+      }
+    },
+    {
+      "company": "Nuro",
+      "title": "Applied AI Researcher, Agent Systems & Evaluation",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4451978665/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "City is unknown or has multiple Census locations."
+      }
+    },
+    {
+      "company": "Intuit",
+      "title": "Principal AI Scientist - DGX",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480512929/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "City is unknown or has multiple Census locations."
+      }
+    },
+    {
+      "company": "Google",
+      "title": "Research Scientist, Earth AI",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469665930/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "City is unknown or has multiple Census locations."
+      }
+    },
+    {
+      "company": "Storm3",
+      "title": "Research Engineer, Post-Training",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4480357141/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "An unambiguous city and state are required."
+      }
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Research Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4479397661/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "An unambiguous city and state are required."
+      }
+    },
+    {
+      "company": "Google",
+      "title": "Staff Research Scientist, Google Cloud AI Research",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4452360998/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "City is unknown or has multiple Census locations."
+      }
+    },
+    {
+      "company": "Google DeepMind",
+      "title": "Research Scientist, Gemini Agent Safety Post Training, DeepMind",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469694638/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "City is unknown or has multiple Census locations."
+      }
     }
   ],
   "geographic_counts": {
-    "in_radius": 56,
+    "in_radius": 86,
     "remote": 0,
-    "ambiguous": 21,
+    "ambiguous": 31,
     "outside_radius": 0
   }
 }
