@@ -1,6 +1,6 @@
 # 🟦 Indeed — AI · Language · Human Research Roles
-*Last updated: 2026-10-17 20:59 UTC*
+*Last updated: 2026-10-17 23:21 UTC*
 
-**0 new role(s)** since last run · 4 total in last 24h
+**0 new role(s)** since last run · 2 total in last 24h
 
 No new roles since the last run.
