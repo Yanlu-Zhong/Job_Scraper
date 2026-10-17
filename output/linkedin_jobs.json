@@ -1,12 +1,12 @@
 {
-  "scraped_at": "2026-10-17 20:48 UTC",
-  "total": 108,
-  "new_count": 10,
+  "scraped_at": "2026-10-17 23:19 UTC",
+  "total": 115,
+  "new_count": 7,
   "scrape_status": {
     "status": "success",
-    "raw_rows": 385,
+    "raw_rows": 456,
     "queries": 32,
-    "batch": 1,
+    "batch": 4,
     "batches": 5,
     "terms_in_batch": 8,
     "terms_total": 38
@@ -1829,7 +1829,7 @@
       "location": "Santa Clara, CA",
       "url": "https://www.linkedin.com/jobs/view/4462457337/",
       "date_posted": "2026-10-17",
-      "salary": "",
+      "salary": "$202,500 - $354,400",
       "ats": "LinkedIn",
       "geography": {
         "status": "in_radius",
@@ -1838,7 +1838,8 @@
         "latitude": 37.364621,
         "longitude": -121.967973,
         "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
+      },
+      "description": "Company Description\n\nIt all started when engineer Fred Luddy wrote code that automated a tedious task for his coworker, Phyllis. She cried tears of joy. That moment inspired Fred to build a company that could do that for everyone—freeing people from busywork so they could focus on meaningful work. Today, ServiceNow is the AI control tower for business reinvention. Our ServiceNow AI platform brings together any AI, any data, and any workflow— helping 85% of the Fortune 500® work smarter, faster, and better. We're building an AI-native culture where technology and talent are unstoppable together. And we're just getting started.\n\nJoin us to put AI to work for people.\n\nJob Description\n\nOur Core AI Research team develops novel methods for enterprise agents that reason over multimodal information, use tools, take reliable action across stateful workflows, and improve through feedback. We work across LLM model post-training, agent harnesses, training environments, evaluations, ML, search and reasoning systems, partnering closely with product, engineering, infrastructure, security, and domain experts.\n\nAbout The Role\n\nAs a Staff Research Scientist, you will independently lead a major workstream in agent learning and recursive self-improvement. You will turn systematic failures and successful trajectories into hypotheses, experiments, training signals, and deployable improvements to model weights and/or the executable harness around the model.\n\nThis is a research role for someone who can move between scientific reasoning, training code, agent systems, and production constraints.\n\nWhat You Get To Do In This Role\n\nDesign and execute end-to-end research projects that improve long-horizon enterprise agents across planning, reasoning, memory, tool use, retrieval, computer use, multi-agent coordination, and verification.\nResearch model post-training methods such as continued pretraining, supervised fine-tuning (SFT), RL, DPO/GRPO, reward modeling, and distillation.\nResearch harness-level optimization across prompts and task framing, tool and schema design, skills, MCP-backed providers, subagents, context and memory management, agent-loop policy, and reliable verifiers.\nBuild improvement flywheels that mine trajectories and production-safe signals, identify recurring failure modes, generate or curate data, propose interventions, and measure generalization before promotion.\nCreate realistic, stateful training environments and benchmarks for enterprise workflows, with programmatic verifiers and calibrated human or model-based graders where deterministic grading is not possible.\nRun rigorous ablations and scaling experiments; reason explicitly about variance, contamination, reward hacking, distribution shift, cross-model transfer, cost, and latency.\nDevelop capabilities across one or more modalities - language, documents, images/video, and speech/audio - and across multilingual or cross-lingual settings.\nBuild reproducible distributed pipelines for training, rollout generation, evaluation, and inference; profile and resolve bottlenecks that only appear at scale.\nPartner with other researchers, engineering, and product teams to move validated methods into reliable enterprise systems.\nCommunicate results through research reviews, technical reports, publications, patents, open-source contributions, and decision-ready recommendations\n\nQualifications\n\nTo be successful in this role you have:\n\nExperience in leveraging or critically thinking about how to integrate AI into work processes, decision-making, or problem-solving. This may include using AI-powered tools, automating workflows, analyzing AI-driven insights, or exploring AI's potential impact on the function or industry.\n7+ years of relevant ML/AI research or engineering experience, or equivalent evidence of research depth and impact. A PhD or other advanced degree is required.\nA track record of independently taking ambiguous research questions from hypothesis through implementation, experiment, analysis, and measurable outcome.\nStrong foundations in machine learning, deep learning, reinforcement learning and/or probabilistic/statistical experimentation, with hands-on experience training or adapting large language models or multi-modal models.\nAdvanced Python and PyTorch skills, including the ability to modify training loops, model code, data pipelines, evaluators, or research infrastructure.\nPractical depth in agentic AI: tool use, environments, planning/reasoning, memory/context, retrieval, long-horizon execution, or multi-agent systems.\nExperience designing decision-useful evaluations, including strong dataset partitions, trajectory analysis, graders/verifiers, error taxonomies, and robust conclusions under noisy measurements.\nExperience with distributed training, rollout, and/or inference using some subset of PyTorch distributed/FSDP, DeepSpeed or Megatron; verl, TRL, OpenRLHF or comparable post-training systems; and vLLM, SGLang, or comparable inference stacks.\nStrong software engineering fundamentals and the ability to build reliable, testable, reproducible systems in collaboration with AI/ML infra and software engineers.\nPublications at top-tier venues (ICLR, NeurIPS, ICML, ACL, EMNLP, AAAI).\n\nPreferred Qualifications\n\nResearch and production experience in multimodal, document AI, computer vision, speech/audio, multilingual, or cross-lingual modeling.\nExperience with enterprise agents, stateful workflows, browser/computer use, MCP or similar tool protocols, simulation environments.\nExperience with synthetic data, model-generated feedback, proposer/critic/verifier systems, automated experimentation, or evolutionary/search-based optimization.\nExperience operating GPU clusters and experiment platforms using Ray, Kubernetes, Slurm, cloud accelerators, or comparable systems.\nEvidence of research impact through shipped capabilities, high-quality publications, patents, benchmarks, or substantive open-source contributions.\n\nWhat Success Looks Like\n\nYou establish a reproducible improvement loop for at least one important enterprise agent capability and show gains on new tasks.\nYou turn at least one validated research result into a production or shared-platform improvement with clear quality, reliability, cost, and safety evidence.\nYou make the team's experiments faster and conclusions more trustworthy through reusable environments, evaluation infrastructure, or research methodology.\n\nFor positions in this location, we offer a base pay of $202,500 - $354,400\n, plus equity (when applicable), variable/incentive compensation and benefits. Sales positions generally offer a competitive On Target Earnings (OTE) incentive compensation structure. Please note that the base pay shown is a guideline, and individual total compensation will vary based on factors such as qualifications, skill level, competencies, and work location. We also offer health plans, including flexible spending accounts, a 401(k) Plan with company match, ESPP, matching donations, a flexible time away plan and family leave programs. Compensation is based on the geographic location in which the role is located and is subject to change based on work location.\n\nAdditional Information\n\nWork Personas\n\nWe approach our distributed world of work with flexibility and trust. Work personas (flexible, remote, or required in office) are categories that are assigned to ServiceNow employees depending on the nature of their work and their assigned work location. Learn more here. To determine eligibility for a work persona, ServiceNow may confirm the distance between your primary residence and the closest ServiceNow office using a third-party service.\n\nEqual Opportunity Employer\n\nServiceNow is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, national origin, age, disability, gender identity, veteran status, or any other category protected by law. In addition, all qualified applicants with arrest or conviction records will be considered for employment in accordance with legal requirements.\n\nAccommodations\n\nWe strive to create an accessible and inclusive experience for all candidates. If you require a reasonable accommodation to complete any part of the application process, or are unable to use this online application and need an alternative method to apply, please contact globaltalentss@servicenow.com for assistance.\n\nExport Control Regulations\n\nFor positions requiring access to controlled technology subject to export control regulations, including the U.S. Export Administration Regulations (EAR), ServiceNow may be required to obtain export control approval from government authorities for certain individuals. All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by relevant export control authorities.\n\nFrom Fortune. ©2026 Fortune Media IP Limited. All rights reserved. Used under license.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development"
     },
     {
       "company": "Rito AI",
@@ -1879,6 +1880,126 @@
       "title": "Founding Machine Learning Engineer (ML Research Engineer)",
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4477780853/",
+      "date_posted": "2026-10-17",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Walmart",
+      "title": "(USA) Staff, Data Scientist",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4441087397/",
+      "date_posted": "2026-10-17",
+      "salary": "$143,000.00/yr - $286,000.00/yr",
+      "ats": "LinkedIn",
+      "description": "Position Summary...\n\nWhat you'll do...As a Staff Data Scientist at Walmart, you will leverage advanced analytical techniques and machine learning to transform complex data into actionable business insights. This role requires designing, implementing, and scaling high-throughput supervised fine-tuning (SFT) pipelines to train foundation models to follow user prompts, perform ranking tasks, and optimize training hyperparameters such as learning rate schedules and related configurations. You will collaborate across functions to identify and evaluate data sources, ensure data quality, and communicate findings through effective visualizations. Your contributions will drive innovation and operational excellence by applying rigorous statistical methods and scalable solutions that align with Walmart's strategic objectives and commitment to delivering customer value. About the Team Our team develops foundational models tailored for Walmart's e-commerce platform by leveraging large-scale user interactions to create rich representations of users, products, and search queries. These models power scalable search, advertising, recommendation, and personalization solutions. Team members apply expertise in data science, machine learning, and software engineering to optimize model performance, training, and deployment. With a strong focus on data quality, advanced analytics, and impactful visualization, the team delivers actionable insights that influence key business outcomes. Cross-functional collaboration drives innovation and enables continuous improvement in data-driven decision-making within a dynamic technology environment. What You'll Do\n\nIdentify and evaluate data sources aligned with business requirements and quality standards.\nDesign, implement, and scale high-throughput SFT pipelines to train foundation models for instruction following, ranking, and related tasks.\nManage high-quality dataset mixtures and optimize training hyperparameters, including learning rate schedules and other training configurations.\nDrive model alignment toward helpfulness, accuracy, and safety through preference optimization techniques and reinforcement learning approaches.\nCreate clear, insightful visualizations to effectively communicate findings and recommendations to stakeholders.\nTranslate complex business challenges into data-driven solutions and actionable insights.\nCollaborate with cross-functional teams to deploy, monitor, and improve machine learning models in production environments.\nMentor junior team members on analytical methodologies, coding best practices, machine learning techniques, and data storytelling.\n\nWhat You'll Bring\n\nProven expertise in data science, including predictive analytics, machine learning algorithms, statistical modeling, and hypothesis testing.\nStrong programming skills in Python and experience with data visualization tools such as Matplotlib, Plotly, Tableau, or Power BI.\nHands-on experience designing, training, and deploying machine learning models, with a focus on transformer-based architectures and large language models.\nExperience optimizing large-scale training pipelines, including hyperparameter tuning and implementing high-throughput workflows using frameworks such as PyTorch.\nExperience applying reinforcement learning methods (e.g., RLHF) for preference optimization, model alignment, and safety-focused applications.\nDemonstrated ability to translate complex business requirements into analytical models and actionable business insights.\nExcellent verbal and written communication skills, with the ability to present technical findings effectively to both technical and non-technical stakeholders.\n\nAt Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\n\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\n\nFor Information About Benefits And Eligibility, See One.Walmart.\n\nThe annual salary range for this position is $143,000.00 - $286,000.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :\n\nStock\n\nㅤ\n\nㅤ\n\nㅤ\n\nㅤ\n\n‎\n\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelors degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field and 4 years' experience in an analytics related field. Option 2: Masters degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field and 2 years' experience in an analytics related field. Option 3: 6 years' experience in an analytics or related field\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nData science, machine learning, optimization models, PhD in Machine Learning, Computer Science, Information Technology, Operations Research, Statistics, Applied Mathematics, Econometrics, Successful completion of one or more assessments in Python, Spark, Scala, or R, Using open source frameworks (for example, scikit learn, tensorflow, torch), We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nPrimary Location...\n\n1345 Crossman Ave, Sunnyvale, CA 94089-1114, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nRetail",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Robert Half",
+      "title": "Data Scientist II",
+      "location": "San Ramon, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472204865/",
+      "date_posted": "2026-10-17",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 26.722,
+        "city": "san ramon",
+        "latitude": 37.765258,
+        "longitude": -121.931987,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Freenome",
+      "title": "Senior Bioinformatics Research Engineer",
+      "location": "Brisbane, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461289963/",
+      "date_posted": "2026-10-17",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 27.999,
+        "city": "brisbane",
+        "latitude": 37.67575,
+        "longitude": -122.383302,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "AMD",
+      "title": "AI Research Scientist, Hardware AI Systems",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4432760666/",
+      "date_posted": "2026-10-17",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 3.522,
+        "city": "santa clara",
+        "latitude": 37.364621,
+        "longitude": -121.967973,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Reddit, Inc.",
+      "title": "Senior Data Scientist, Ads",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4453645190/",
+      "date_posted": "2026-10-17",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Midi Health",
+      "title": "Staff Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472056226/",
+      "date_posted": "2026-10-17",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Harvey",
+      "title": "Data Scientist, Marketing",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4359264895/",
       "date_posted": "2026-10-17",
       "salary": "",
       "ats": "LinkedIn",
@@ -1895,13 +2016,13 @@
   "new_jobs": [
     {
       "company": "Walmart",
-      "title": "Staff, Data Scientist",
+      "title": "(USA) Staff, Data Scientist",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4470187001/",
+      "url": "https://www.linkedin.com/jobs/view/4441087397/",
       "date_posted": "2026-10-17",
       "salary": "$143,000.00/yr - $286,000.00/yr",
       "ats": "LinkedIn",
-      "description": "Position Summary...\n\nWhat you'll do...\n\nWhat you’ll do… \n\nAbout The Team \n\nThe Discovery Product Analytics team partners closely with the Discovery Product Management, Engineering, and Business teams to build, evaluate, and scale product experiences on discovery and browse page including product design changes and machine learning–powered recommendation that help millions of Walmart customers discover the right products at the right time. We provide the analytical foundations that shape customer relevance, experimentation frameworks, and product roadmap decisions for Walmart’s eCommerce platform. \n\nPosition Summary... \n\nWe are seeking a dynamic and experienced Staff, Data Scientist (Individual Contributor). You will be a technical expert driving analytical strategy focused on Home Page, Navigation, Deals and other discovery pages. You will own complex analytical workstreams, design and interpret large-scale experiments, and influence decisions across multiple cross-functional partners. If you’re excited about solving ambiguous, high-impact problems at the intersection of experimentation, product analytics, ML and customer experience, this role is a good fit for you. \n\nPrimary Responsibilities \n\nProduct Analytics Leadership \nPartner with Product Managers, Engineers, Data Scientists, and UX teams to define success metrics, measurement strategies, and opportunity assessments for product feature enhancements and recommendation algorithms. \nTranslate ambiguous business or product questions into structured analytical approaches that influence prioritization and product direction. \nDeep Customer & Behavioral Analysis \nWork closely with engineering and product to build clickstream tracking\nLeverage clickstream data, user logs, and customer engagement patterns to understand how customers interact with site features. \nPartner with personalization data science to increase adoption of personalization algorithms across discovery pages\nConduct funnel analysis, opportunity sizing, cohort analysis, attribution, and retention of Walmart customers. \nExperimentation Strategy & Execution \nDesign and evaluate large-scale A/B tests and advanced experimentation methods (e.g., quasi-experimental approaches, causal inference). \nEnsure experiment integrity through appropriate power analysis, guardrail metrics, and thoughtful statistical methodologies. \nProduce end-to-end experiment readouts with clear conclusions, implications, and directional recommendations grounded in customer behavior. \nML-Aware & Technical Execution \nUse expert-level SQL to analyze large-scale datasets across platforms such as BigQuery, Hive, and Spark to uncover user behavior insights to use for model building and ad-hoc analysis\nDevelop reproducible analytical pipelines and experiment workflows using Python and PySpark. \nFamiliarity with ML concepts (e.g., predictive modeling using supervised and unsupervised ML methods, dimensionality reduction, clustering).\nApply data mining and feature-level diagnostics to identify patterns that impact customer experience or ML performance. \nAI aware \nUse prompt engineering and LLMs to simplify day-to-day work\nHands-on experience to create innovative tools for workflow automation\nStorytelling & Insight Influence \nDeliver compelling, concise narratives that translate analytical findings into product and business implications. \nInfluence product and engineering leaders through data-backed recommendations and clear articulation of trade-offs. \nCross-Functional Collaboration \nBuild strong relationships with Product, Engineering, Business and Data Science partners. \nServe as a trusted voice who anticipates stakeholder needs, clarifies expectations, facilitates alignment, and drives shared accountability. \n\nPreferred Qualifications \n\nBachelor's degree in computer science, Engineering, Mathematics, Statistics, or related field AND 8+ years of experience in product analytics, data science, applied analytics, or experimentation (OR Master’s degree + 6 years). \nExpert-level proficiency with SQL and strong programming skills in Python . \nHands-on experience designing and analyzing large-scale A/B tests. \nFamiliarity with machine learning model concepts and evaluation techniques sufficient to interpret model-driven product behavior and partner effectively with ML teams. \nDemonstrated ability to influence product strategy and partner with senior cross-functional stakeholders. \n\nSuccess in This Role Looks Like \n\nCustomer & Business Understanding: Ability to translate analytical findings into customer insight and connect to business strategy. \nExperimentation & Analytical Rigor: High-quality experiment design, sound statistical analysis, and clear, actionable readouts. \nInsight Generation & Storytelling: Ability to create compelling narratives that shape product and algorithmic decisions. \nCross-Functional Collaboration: Strong communication, expectation management, and relationship-building across Product, Engineering, and Data Science. \n\nAt Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\n\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\n\nFor Information About Benefits And Eligibility, See One.Walmart.\n\nThe annual salary range for this position is $143,000.00 - $286,000.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :\n\nStock\n\nㅤ\n\nㅤ\n\nㅤ\n\nㅤ\n\n‎\n\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelors degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field and 4 years' experience in an analytics related field. Option 2: Masters degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field and 2 years' experience in an analytics related field. Option 3: 6 years' experience in an analytics or related field\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nData science, machine learning, optimization models, PhD in Machine Learning, Computer Science, Information Technology, Operations Research, Statistics, Applied Mathematics, Econometrics, Successful completion of one or more assessments in Python, Spark, Scala, or R, Using open source frameworks (for example, scikit learn, tensorflow, torch), We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nMasters: Business Administration, Masters: Information Systems, Masters: Statistics\n\nPrimary Location...\n\n809 11th Ave, Sunnyvale, CA 94089-4731, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nRetail",
+      "description": "Position Summary...\n\nWhat you'll do...As a Staff Data Scientist at Walmart, you will leverage advanced analytical techniques and machine learning to transform complex data into actionable business insights. This role requires designing, implementing, and scaling high-throughput supervised fine-tuning (SFT) pipelines to train foundation models to follow user prompts, perform ranking tasks, and optimize training hyperparameters such as learning rate schedules and related configurations. You will collaborate across functions to identify and evaluate data sources, ensure data quality, and communicate findings through effective visualizations. Your contributions will drive innovation and operational excellence by applying rigorous statistical methods and scalable solutions that align with Walmart's strategic objectives and commitment to delivering customer value. About the Team Our team develops foundational models tailored for Walmart's e-commerce platform by leveraging large-scale user interactions to create rich representations of users, products, and search queries. These models power scalable search, advertising, recommendation, and personalization solutions. Team members apply expertise in data science, machine learning, and software engineering to optimize model performance, training, and deployment. With a strong focus on data quality, advanced analytics, and impactful visualization, the team delivers actionable insights that influence key business outcomes. Cross-functional collaboration drives innovation and enables continuous improvement in data-driven decision-making within a dynamic technology environment. What You'll Do\n\nIdentify and evaluate data sources aligned with business requirements and quality standards.\nDesign, implement, and scale high-throughput SFT pipelines to train foundation models for instruction following, ranking, and related tasks.\nManage high-quality dataset mixtures and optimize training hyperparameters, including learning rate schedules and other training configurations.\nDrive model alignment toward helpfulness, accuracy, and safety through preference optimization techniques and reinforcement learning approaches.\nCreate clear, insightful visualizations to effectively communicate findings and recommendations to stakeholders.\nTranslate complex business challenges into data-driven solutions and actionable insights.\nCollaborate with cross-functional teams to deploy, monitor, and improve machine learning models in production environments.\nMentor junior team members on analytical methodologies, coding best practices, machine learning techniques, and data storytelling.\n\nWhat You'll Bring\n\nProven expertise in data science, including predictive analytics, machine learning algorithms, statistical modeling, and hypothesis testing.\nStrong programming skills in Python and experience with data visualization tools such as Matplotlib, Plotly, Tableau, or Power BI.\nHands-on experience designing, training, and deploying machine learning models, with a focus on transformer-based architectures and large language models.\nExperience optimizing large-scale training pipelines, including hyperparameter tuning and implementing high-throughput workflows using frameworks such as PyTorch.\nExperience applying reinforcement learning methods (e.g., RLHF) for preference optimization, model alignment, and safety-focused applications.\nDemonstrated ability to translate complex business requirements into analytical models and actionable business insights.\nExcellent verbal and written communication skills, with the ability to present technical findings effectively to both technical and non-technical stakeholders.\n\nAt Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\n\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\n\nFor Information About Benefits And Eligibility, See One.Walmart.\n\nThe annual salary range for this position is $143,000.00 - $286,000.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :\n\nStock\n\nㅤ\n\nㅤ\n\nㅤ\n\nㅤ\n\n‎\n\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelors degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field and 4 years' experience in an analytics related field. Option 2: Masters degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field and 2 years' experience in an analytics related field. Option 3: 6 years' experience in an analytics or related field\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nData science, machine learning, optimization models, PhD in Machine Learning, Computer Science, Information Technology, Operations Research, Statistics, Applied Mathematics, Econometrics, Successful completion of one or more assessments in Python, Spark, Scala, or R, Using open source frameworks (for example, scikit learn, tensorflow, torch), We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nPrimary Location...\n\n1345 Crossman Ave, Sunnyvale, CA 94089-1114, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nRetail",
       "geography": {
         "status": "in_radius",
         "distance_miles": 0.0,
@@ -1912,100 +2033,44 @@
       }
     },
     {
-      "company": "Glean",
-      "title": "Senior Data Scientist, Growth",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4453523359/",
-      "date_posted": "2026-10-17",
-      "salary": "$200,000 - $260,000 annually",
-      "ats": "LinkedIn",
-      "description": "About Glean\n\nGlean is the Work AI platform that helps everyone work smarter with AI. What began as the industry’s most advanced enterprise search has evolved into a full-scale Work AI ecosystem, powering intelligent Search, an AI Assistant, and scalable AI agents on one secure, open platform. With over 100 enterprise SaaS connectors, flexible LLM choice, and robust APIs, Glean gives organizations the infrastructure to govern, scale, and customize AI across their entire business - without vendor lock-in or costly implementation cycles.\n\nAt its core, Glean is redefining how enterprises find, use, and act on knowledge. Its Enterprise Graph and Personal Knowledge Graph map the relationships between people, content, and activity, delivering deeply personalized, context-aware responses for every employee. This foundation powers Glean’s agentic capabilities - AI agents that automate real work across teams by accessing the industry’s broadest range of data: enterprise and world, structured and unstructured, historical and real-time. The result: measurable business impact through faster onboarding, hours of productivity gained each week, and smarter, safer decisions at every level.\n\nRecognized by Fast Company as one of the World’s Most Innovative Companies (Top 10, 2025), by CNBC’s Disruptor 50, Bloomberg’s AI Startups to Watch (2026), Forbes AI 50, and Gartner’s Tech Innovators in Agentic AI, Glean continues to accelerate its global impact. With customers across 50+ industries and 1,000+ employees in more than 25 countries, we’re helping the world’s largest organizations make every employee AI-fluent, and turning the superintelligent enterprise from concept into reality.\n\nIf you’re excited to shape how the world works, you’ll help build systems used daily across Microsoft Teams, Zoom, ServiceNow, Zendesk, GitHub, and many more. You'll be deeply embedded where people get things done. You'll ship agentic capabilities on an open, extensible stack, with the craft and care required for enterprise trust, as we bring Work AI to every employee, in every company.\n\nAbout The Role\n\nGlean is building a world-class data organization spanning data science, applied science, data engineering, and business analytics. This role sits within the Growth and Enterprise Readiness Data Science team, with a primary focus on accelerating user adoption, engagement, and sustained product usage. As a Growth Data Scientist, you will be the quantitative partner to Growth Product, Engineering, and Applied AI (Post Sales). You’ll turn ambiguous growth opportunities into measurable product bets, build the measurement and experimentation systems that allow us to learn quickly, and use behavioral data to identify where Glean can create substantially more value for its users.\n\nYou Will\n\nDefine and evolve Glean’s growth measurement framework across acquisition, activation, engagement, retention, resurrection, and expansion, including metrics such as WAU, activation, engagement intensity, retention, and feature adoption\nBuild and analyze end-to-end user and account growth funnels to understand where users experience value, where they drop off, and which behaviors are most predictive of durable engagement\nDiagnose adoption gaps and develop bottoms-up growth strategies for high-impact enterprise accounts, identifying where product, deployment, engagement, or organizational barriers are limiting growth and partnering with Applied AI and R&D leaders on targeted interventions.\nIdentify and size high-leverage growth opportunities across onboarding, product discoverability, education, lifecycle messaging, collaboration and virality, and new product surfaces\nPartner across R&D and Applied AI to turn product capabilities and behavioral insights into scalable adoption plays, identifying the customers and user populations best suited for new experiences and translating those opportunities into targeted field interventions.\nPartner closely with Product, Design, and Engineering to translate product ideas into testable hypotheses, well-defined success metrics, instrumentation plans, and decision criteria\nDesign and analyze rigorous A/B tests, phased rollouts, and quasi-experiments; use causal evidence to recommend whether products should launch, iterate, or change direction\nDevelop behavioral and needs-based user segments and translate those insights into targeted product interventions\nInform roadmap and investment decisions by quantifying reachable populations, expected impact, confidence, dependencies, and tradeoffs before significant development begins\nBuild trusted, reusable growth datasets, dashboards, and self-serve analytical tools that allow Product and Engineering partners to independently understand product health and investigate changes\nLead cross-functional data science projects end-to-end, translating ambiguous product questions into clear insights, recommendations, and decisions for audiences ranging from engineers to executives\n\nExample areas of focus could include improving new-user onboarding and activation, converting occasional users into habitual users, increasing adoption of emerging AI experiences, optimizing high-traffic entry surfaces, improving feature discovery, developing lifecycle strategies, and building account-level adoption frameworks for enterprise customers, and translating new product capabilities into scalable Applied AI adoption motions.\n\nYou Are\n\n7+ years of experience in a highly quantitative data science, product analytics, or growth analytics role, with a degree in Statistics, Mathematics, Computer Science, or a related field\nDemonstrated experience partnering with Product and Engineering teams to identify opportunities and influence product roadmap decisions\nStrong grounding in statistics, experimentation, causal inference, statistical power, segmentation, funnel analysis, and retention analysis\nExceptionally high AI proficiency through habitual, high-value use of LLMs, with sound judgment about when and how to apply them, rigorous validation, and continuous workflow improvement\nExperience designing and analyzing product experiments and communicating causal findings in a way that drives clear product decisions\nStrong proficiency in SQL and practical fluency in a statistical programming language such as Python or R\nExperience building durable analytical datasets, metrics, dashboards, and data models rather than relying primarily on ad hoc analysis. dbt experience is a plus.\nA strong product and business mindset, with experience defining KPIs, guardrail metrics, and measurement frameworks that influence decisions\nAbility to independently own complex projects end-to-end, from problem framing and measurement through analysis, recommendation, and follow-through\nClear, concise communication skills, with the ability to explain complex quantitative findings to both technical and non-technical audiences\n\nYou Are a Particularly Good Fit If\n\nYou have experience in B2B SaaS, especially enterprise AI, or have worked on products where adoption occurs across both users and accounts\nYou have experience partnering with GTM or Post-Sales teams and are comfortable using data to challenge assumptions, shape account strategy, and drive impact through action.\nYou have a track record of identifying growth opportunities from behavioral data and turning them into shipped, measurable product interventions\nYou have helped build experimentation or product-measurement capabilities that increased the velocity and quality of decision-making for an organization\nYou combine strong quantitative rigor with product intuition and are comfortable making recommendations in highly ambiguous problem spaces\nYou have a very strong sense of ownership and self-motivation. You are laser-focused on delivering business impact while growing as an individual along with Glean\nYou are good at managing evolving priorities while successfully delivering core initiatives\n\nLocation:\n\nThis role is hybrid (4 days a week in our Mountain View office)\n\nCompensation & Benefits\n\nThe standard base salary range for this position is $200,000 - $260,000 annually. Compensation offered will be determined by factors such as location, level, job-related knowledge, skills, and experience. Certain roles may be eligible for variable compensation, equity, and benefits.\n\nWe offer a comprehensive benefits package including competitive compensation, Medical, Vision, and Dental coverage, generous time-off policy, and the opportunity to contribute to your 401k plan to support your long-term goals. When you join, you'll receive a home office improvement stipend, as well as an annual education and wellness stipends to support your growth and wellbeing. We foster a vibrant company culture through regular events, and provide healthy lunches daily to keep you fueled and focused.\n\nWe’re committed to building and sustaining a diverse, inclusive workplace. We strive to attract and retain people with a wide range of backgrounds, experiences, and perspectives, and we do not discriminate on the basis of gender, ethnicity, sexual orientation, religion, civil or family status, age, disability, or race.\n\nAI-First Mindset At Glean\n\nAt Glean, AI fluency is core to how we work and we're committed to ensuring every new hire feels confident integrating AI into their everyday work. As part of the interview process, you'll complete a brief AI-focused exercise or discussion so we can understand how you think about, design, and use AI to drive impact in your role.\nFeel free to reference any tools, platforms, or workflows you use today — prior Glean experience isn't required.\n\nGlobal Data Privacy Notice For Job Candidates And Applicants\n\nDepending on your location, the General Data Protection Regulation (GDPR), California Consumer Privacy Act (CCPA), or other privacy laws may regulate the way we manage the data of job applicants. Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available in our Privacy Policy\n. By submitting your application, you are agreeing to our use and processing of your data as required. US applicants and their applications are subject to arbitration of disputes as outlined in our Applicant Arbitration Agreement\n.\n\nBy clicking “Submit Application,” I confirm that I have read the Global Data Privacy Notice and the Applicant Arbitration Agreement\n, and I agree to the terms.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Google",
-      "title": "Staff Data Scientist, Product",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4453244224/",
-      "date_posted": "2026-10-17",
-      "salary": "$192000 - $278000",
-      "ats": "LinkedIn",
-      "description": "In accordance with Washington state law, we are highlighting our comprehensive benefits package, which is available to all eligible US based employees. Benefits for this role include:\n\nHealth, dental, vision, life, disability insurance\nRetirement Benefits: 401(k) with company match\nPaid Time Off: 20 days of vacation per year, accruing at a rate of 6.15 hours per pay period for the first five years of employment\nSick Time: 40 hours/year (increased to 69 hours/year for Seattle) including 5 discretionary sick days per instance\nMaternity Leave (Short-Term Disability + Baby Bonding): 28-30 weeks\nBaby Bonding Leave: 18 weeks\nHolidays: 13 paid days per year\n\nIn most instances, this position requires in-person interviews as part of the hiring process.\n\nNote: By applying to this position you will have an opportunity to share your preferred working location from the following: Kirkland, WA, USA; Sunnyvale, CA, USA; Mountain View, CA, USA\n. Minimum qualifications:\n\nBachelor's degree in Statistics, Mathematics, Data Science, Engineering, Physics, Economics, or a related quantitative field.\n10 years of work experience using analytics to solve product or business problems, performing statistical analysis, and coding (e.g., Python, R, SQL) (or 8 years work experience plus a Master's degree).\n\nPreferred qualifications:\n\nMaster's degree in Statistics, Mathematics, Data Science, Engineering, Physics, Economics, or a related quantitative field.\n12 years of work experience using analytics to solve product or business problems, performing statistical analysis, and coding (e.g., Python, R, SQL).\n\nAbout The Job\n\nHelp serve Google's worldwide user base of more than a billion people. Data Scientists provide quantitative support, market understanding and a strategic perspective to our partners throughout the organization. As a data-loving member of the team, you serve as an analytics expert for your partners, using numbers to help them make better decisions. You will weave stories with meaningful insight from data. You'll make critical recommendations for your fellow Googlers in Engineering and Product Management. You relish tallying up the numbers one minute and communicating your findings to a team leader the next.\n\nGoogle is an engineering company at heart. We hire people with a broad set of technical skills who are ready to take on some of technology's greatest challenges and make an impact on users around the world. At Google, engineers not only revolutionize search, they routinely work on scalability and storage solutions, large-scale applications and entirely new platforms for developers around the world. From Google Ads to Chrome, Android to YouTube, social to local, Google engineers are changing the world one technological achievement after another.\n\nIndividual pay is determined by factors including job-related skills, experience, and relevant education or training.\n\nUS: $192000 - $278000 (USD) + 20% bonus target + equity + benefits\n\nResponsibilities\n\nLearn more about benefits at Google .\n\nPerform analysis utilizing relevant tools (e.g., SQL, R, Python). Provide analytical thought leadership through proactive and strategic contributions (e.g., suggests new analyses, infrastructure or experiments to drive improvements in the business).\nOwn outcomes for projects by covering problem definition, metrics development, data extraction and manipulation, visualization, creation, and implementation of analytical/statistical models, and presentation to stakeholders.\nDevelop solutions, lead, and manage problems that may be ambiguous and lacking clear precedent by framing problems, generating hypotheses, and making recommendations from a perspective that combines both, analytical and product-specific expertise.\nOversee the integration of cross-functional and cross-organizational project/process timelines, develop process improvements and recommendations, and help define operational goals and objectives.\nDirectly or indirectly oversee the contributions of others and develop colleagues’ capabilities in the area of specialization.\n\nGoogle is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nInformation Services and Technology, Information and Internet",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 0.0,
-        "city": "sunnyvale",
-        "latitude": 37.385797,
-        "longitude": -122.026316,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Figma",
-      "title": "Data Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4470392401/",
-      "date_posted": "2026-10-17",
-      "salary": "$140,000—$348,000 USD",
-      "ats": "LinkedIn",
-      "description": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration, join us!\n\nWe are looking for an experienced Data Scientist to join our growing data team. At Figma, Data Scientists are deeply embedded within cross-functional teams across the company—from Product to Finance, Marketing, and Platform. We are hiring across a number of roles in these areas. This is ideal for someone excited to own high-impact data projects, partner strategically with stakeholders, and shape the future of our products and business.\n\nFigma is uniquely positioned to harness advances in AI while keeping people at the heart of creative product development. As part of our Data Science team, you'll help address the most pressing challenges emerging from AI-driven development, shape next-generation data science workflows, and build AI-powered tools used by millions of product teams around the world.\n\nThe ideal candidate will bring strong analytical and technical skills, business intuition, and a collaborative mindset to guide decision-making and unlock growth opportunities. You'll work on problems ranging from understanding user behavior to optimizing revenue strategies, improving internal tooling, and influencing product direction through experimentation and data modeling.\n\nThis is a full-time role that can be held from one of our US hubs or remotely in the United States.\n\nWhat you'll do at Figma:\n\nCollaborate across teams to define and measure key metrics, design experiments, and uncover insights that inform strategic decisions\nBuild models and analytical frameworks to support product, marketing, platform, or finance initiatives\nDevelop tools, datasets, and systems that enable others to work with data more efficiently and rigorously\nOwn complex data projects end-to-end, from framing the business question through to shipping a solution stakeholders act on\nChampion data quality, accessibility, and the democratization of data across the organization\nPartner with Product, Engineering, Design, Research, Sales, Marketing, or Finance to drive impact\n\nWe'd love to hear from you if you have:\n\n4+ years of experience in Analytics, Data Science, or a related field\nFluency in SQL and proficiency in a scripting language like Python or R, along with experience working with distributed data systems (e.g., Redshift, Snowflake, Presto, Hive, Spark)\nStrong foundation in statistical methods, experimentation, and/or forecasting\nA track record of working cross-functionally and communicating effectively with both technical and non-technical partners\nExperience supporting one or more of the following: Product, Marketing, Finance, or internal Platform/Tooling teams\n\nWhile it's not required, it's an added plus if you also have:\n\nComfortable defining your own priorities and adapting quickly as priorities shift\n\nAt Figma, one of our values is Grow as you go. We believe in hiring smart, curious people who are excited to learn and develop their skills. If you're excited about this role but your past experience doesn't align perfectly with the points outlined in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles.\n\nPay Transparency Disclosure\n\nJob level and actual compensation will be decided based on factors including, but not limited to, individual qualifications objectively assessed during the interview process (including skills and prior relevant experience, potential impact, and scope of role), market demands, and specific work location.\n\nFigma offers equity to employees, as well as a competitive package of additional benefits, including health, dental, and vision coverage; retirement benefits with company contributions; parental leave and reproductive or family planning support; mental health and wellness benefits; and paid time off. Figma provides paid sick leave, holidays, and other leave benefits in compliance with applicable federal, state, and local laws, including the requirements of the Washington Minimum Wage Act and related regulations. Exempt employees are eligible for employer‑provided paid flexible PTO in addition to flexible paid sick leave. PTO is subject to manager approval. Additional benefits may include company recharge days, cell phone and home internet reimbursements, and a number of lifestyle spending accounts. Figma also offers sales incentive compensation for most sales roles and an annual bonus plan for eligible non-sales roles. All compensation and benefits are subject to applicable plan terms and may be modified by Figma at any time, consistent with applicable law.\n\nAnnual Base Salary Range:\n\n$140,000—$348,000 USD\n\nAt Figma we celebrate and support our differences. We know employing a team rich in diverse thoughts, experiences, and opinions allows our employees, our product and our community to flourish. Figma is an equal opportunity workplace - we are dedicated to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity/expression, veteran status ,\nor any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.\n\nWe will work to ensure individuals with disabilities are provided reasonable accommodation to apply for a role, participate in the interview process, perform essential job functions, and receive other benefits and privileges of employment. If you require accommodation, please reach out to accommodations-ext@figma.com. These modifications enable an individual with a disability to have an equal opportunity not only to get a job, but successfully perform their job tasks to the same extent as people without disabilities.\n\nExamples of accommodations include but are not limited to:\n\nHolding interviews in an accessible location\nEnabling closed captioning on video conferencing\nEnsuring all written communication be compatible with screen readers\nChanging the mode or format of interviews\n\nTo ensure the integrity of our hiring process and facilitate a more personal connection, we require all candidates keep their cameras on during video interviews. Additionally, if hired you will be required to attend in person onboarding.\n\nBy applying for this job, the candidate acknowledges and agrees that any personal data contained in their application or supporting materials will be processed in accordance with Figma's Candidate Privacy Notice.\n\nApplication limits:\nTo help candidates focus on the opportunities most relevant to their skills and experience, Figma limits the number and frequency of applications. These limits apply to all roles:\n\nCandidates may submit up to 5 applications during any rolling 30-day period.\nCandidates may not reapply to the same role while an application is active or within 90 days of receiving a rejection.\n\nOnce the applicable days has passed, candidates are welcome to apply again.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nDesign Services",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Intuit",
-      "title": "Staff Data Scientist - Engagement",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4472051261/",
+      "company": "Robert Half",
+      "title": "Data Scientist II",
+      "location": "San Ramon, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472204865/",
       "date_posted": "2026-10-17",
       "salary": "",
       "ats": "LinkedIn",
-      "description": "Overview\n\nIntuit's Consumer Group is committed to building tools and services that improve our members' financial journeys. At the heart of this mission, the Credit Karma Engagement team builds in-product features and experiences that help members take meaningful action to improve their financial outcomes, from building credit, to saving money, to paying down debt.\n\nThe team is seeking a Staff Data Scientist to serve as an analytical partner to our Subscriptions product team, responsible for using data to improve the member experience across the subscription lifecycle, from trial and conversion through renewal and retention. This is a high-impact role where you will bring scientific rigor to product decisions, partner closely with Product and Engineering, and help shape how we measure and grow subscription value for our members.\n\nResponsibilities\n\nDrive analytics strategy for Subscriptions: Own the analytics agenda for the Subscriptions product area, mapping the member journey end to end, from trial and onboarding through conversion, renewal, and cancellation, to identify the highest-leverage opportunities.\nPartner with product leadership: Combine data insights with business acumen to partner with Product, Engineering, and Design leaders in shaping roadmap and prioritization decisions.\nApply advanced analytical methods: Apply ML and causal inference techniques to subscriptions-specific problems such as churn prediction, renewal optimization, and pricing or packaging experiments, adapting existing frameworks or building new ones as needed.\nDesign and run experiments: Design and execute experiments (A/B/n, and quasi-experimental designs where testing is constrained) to evaluate changes to the member experience and quantify their impact on member and business outcomes.\nBuild member segmentation: Analyze member behavior within Subscriptions to build segmentation that improves targeting, personalization, and offer strategy.\nContribute to the AI-native roadmap: Partner with the team to identify opportunities to apply AI/ML within the subscriptions experience, help design measurement plans, and connect model performance to member and business outcomes.\nMentor and support the team: Mentor other data scientists on best practices and experimentation rigor, and contribute to hiring and calibration as needed.\n\nQualifications\n\nWe're looking for a curious, proactive data scientist with a passion for driving member engagement and retention.\n\n7+ years of experience in data science and analytics, with a track record of driving impact within a product area or initiative; experience with subscription, membership, or lifecycle-based products strongly preferred, fintech experience a plus.\nAbility to translate ambiguous product questions into structured analyses and actionable recommendations.\nExperience designing and interpreting experiments, with working knowledge of causal inference techniques for use when experimentation is constrained.\nSolid understanding of customer segmentation and experimentation design, with the judgment to balance statistical rigor and business considerations.\nExposure to lightweight Machine Learning in terms of being able to build offline classification & regression models to inform business decisions.\nExperience contributing to reusable analytical frameworks, methodologies, or tools used by others on the team.\nStrong communication and stakeholder-influence skills, with the ability to work effectively with Director-level partners across business and technical teams.\nAbility to navigate ambiguity, make fast data-driven decisions, and operate effectively in a fast-paced, dynamic environment.\nAbility to use AI-native tools to plan, implement, and synthesize analyses across use cases ranging from experiment readouts to retention/churn deep dives.\nBS or MS in Statistics, Mathematics, Operations Research, Computer Science, Engineering, Econometrics, or a related field.\n\nIntuit provides a competitive compensation package with a strong pay for performance rewards approach. This position may be eligible for a cash bonus, equity rewards and benefits, in accordance with our applicable plans and programs (see more about our compensation and benefits at Intuit®: Careers | Benefits). Pay offered is based on factors such as job-related knowledge, skills, experience, and work location. To drive ongoing fair pay for employees, Intuit conducts regular comparisons across categories of ethnicity and gender.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
       "geography": {
         "status": "in_radius",
-        "distance_miles": 28.693,
-        "city": "oakland",
-        "latitude": 37.769846,
-        "longitude": -122.22569,
+        "distance_miles": 26.722,
+        "city": "san ramon",
+        "latitude": 37.765258,
+        "longitude": -121.931987,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
     },
     {
-      "company": "Google",
-      "title": "Staff Product Data Scientist, Gmail, Chat, Calendar",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4470750548/",
+      "company": "Freenome",
+      "title": "Senior Bioinformatics Research Engineer",
+      "location": "Brisbane, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461289963/",
       "date_posted": "2026-10-17",
-      "salary": "$192000 - $278000",
+      "salary": "",
       "ats": "LinkedIn",
-      "description": "The application window will be open until at least October 9, 2026. This opportunity will remain online based on business needs which may be before or after the specified date.\n\nIn accordance with Washington state law, we are highlighting our comprehensive benefits package, which is available to all eligible US based employees. Benefits for this role include:\n\nHealth, dental, vision, life, disability insurance\nRetirement Benefits: 401(k) with company match\nPaid Time Off: 20 days of vacation per year, accruing at a rate of 6.15 hours per pay period for the first five years of employment\nSick Time: 40 hours/year (increased to 69 hours/year for Seattle) including 5 discretionary sick days per instance\nMaternity Leave (Short-Term Disability + Baby Bonding): 28-30 weeks\nBaby Bonding Leave: 18 weeks\nHolidays: 13 paid days per year\n\nIn most instances, this position requires in-person interviews as part of the hiring process.\n\nNote: By applying to this position you will have an opportunity to share your preferred working location from the following: Sunnyvale, CA, USA; Boulder, CO, USA; New York, NY, USA; Seattle, WA, USA\n. Minimum qualifications:\n\nBachelor's degree in Statistics, Mathematics, Data Science, Engineering, Physics, Economics, or a related quantitative field.\n10 years of work experience using analytics to solve product or business problems, performing statistical analysis, and coding (e.g., Python, R, SQL) (or 8 years work experience and a Master's degree).\n\nPreferred qualifications:\n\nMaster's degree in Statistics, Mathematics, Data Science, Engineering, Physics, Economics, or a related quantitative field.\n12 years of work experience using analytics to solve product or business problems, performing statistical analysis, and coding (e.g., Python, R, SQL).\n\nAbout The Job\n\nHelp serve Google's worldwide user base of more than a billion people. Data Scientists provide quantitative support, market understanding and a strategic perspective to our partners throughout the organization. As a data-loving member of the team, you serve as an analytics expert for your partners, using numbers to help them make better decisions. You will weave stories with meaningful insight from data. You'll make critical recommendations for your fellow Googlers in Engineering and Product Management. You relish tallying up the numbers one minute and communicating your findings to a team leader the next.\n\nThe Communications & Time Management (CTM) Data Science team shapes decision-making and provides actionable insights to guide product development for Gmail, Chat, and Calendar.\n\nAs a Data Scientist/Analytics Engineer, you will work closely with product and engineering teams to build products enjoyed by 3B+ users.\n\nGoogle Cloud accelerates every organization’s ability to digitally transform its business and industry. We deliver enterprise-grade solutions that leverage Google’s cutting-edge technology, and tools that help developers build more sustainably. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.\n\nIndividual pay is determined by factors including job-related skills, experience, and relevant education or training.\n\nUS: $192000 - $278000 (USD) + 20% bonus target + equity + benefits\n\nResponsibilities\n\nLearn more about benefits at Google .\n\nLead the research and development of metric frameworks that quantify user engagement and productivity. Pioneer new methodologies to evaluate the effectiveness, user adoption, and efficiency gains of GenAI and agentic tooling embedded within Workspace products.\nAct as the strategic connective tissue between product engineering and central data infrastructure teams. Rather than just identifying gaps, you will marshal resources, influence partner roadmaps, and drive complex, multi-team telemetry and infrastructure projects from inception to execution.\nDesign and build scalable data models and analytical architecture that connect data across multiple distinct product domains, ensuring cohesion rather than isolated, product-specific silos.\nScope and drive initiatives to enable self-serve analytics. Design unified semantic layers, governed metric stores, and high-impact executive dashboards, while leading next-generation AI-powered self-serve tooling.\n\nGoogle is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nInformation Services and Technology, Information and Internet",
       "geography": {
         "status": "in_radius",
-        "distance_miles": 0.0,
-        "city": "sunnyvale",
-        "latitude": 37.385797,
-        "longitude": -122.026316,
+        "distance_miles": 27.999,
+        "city": "brisbane",
+        "latitude": 37.67575,
+        "longitude": -122.383302,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
     },
     {
-      "company": "ServiceNow",
-      "title": "Staff Research Engineer/Scientist",
+      "company": "AMD",
+      "title": "AI Research Scientist, Hardware AI Systems",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462457337/",
+      "url": "https://www.linkedin.com/jobs/view/4432760666/",
       "date_posted": "2026-10-17",
       "salary": "",
       "ats": "LinkedIn",
@@ -2019,44 +2084,44 @@
       }
     },
     {
-      "company": "Rito AI",
-      "title": "Research Engineer - Robotics",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479691782/",
-      "date_posted": "2026-10-17",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 19.708,
-        "city": "san mateo",
-        "latitude": 37.56031,
-        "longitude": -122.3106,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Thermo Fisher Scientific",
-      "title": "Data Scientist III, Behavioral Marketing Analytics & Customer Insights",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456916283/",
-      "date_posted": "2026-10-17",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 21.005,
-        "city": "pleasanton",
-        "latitude": 37.667185,
-        "longitude": -121.88123,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Oak Recruiting",
-      "title": "Founding Machine Learning Engineer (ML Research Engineer)",
+      "company": "Reddit, Inc.",
+      "title": "Senior Data Scientist, Ads",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477780853/",
+      "url": "https://www.linkedin.com/jobs/view/4453645190/",
+      "date_posted": "2026-10-17",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Midi Health",
+      "title": "Staff Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472056226/",
+      "date_posted": "2026-10-17",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Harvey",
+      "title": "Data Scientist, Marketing",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4359264895/",
       "date_posted": "2026-10-17",
       "salary": "",
       "ats": "LinkedIn",
@@ -2477,12 +2542,26 @@
         "distance_miles": null,
         "reason": "City is unknown or has multiple Census locations."
       }
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Research Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4479696600/",
+      "date_posted": "2026-10-17",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "An unambiguous city and state are required."
+      }
     }
   ],
   "geographic_counts": {
-    "in_radius": 108,
+    "in_radius": 115,
     "remote": 0,
-    "ambiguous": 28,
+    "ambiguous": 29,
     "outside_radius": 0
   }
 }
