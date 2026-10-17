@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-10-17 17:57 UTC",
-  "total": 7,
-  "new_count": 2,
+  "scraped_at": "2026-10-17 20:52 UTC",
+  "total": 4,
+  "new_count": 0,
   "scrape_status": {
     "status": "success",
-    "raw_rows": 275,
+    "raw_rows": 214,
     "queries": 25,
     "errors": 0
   },
@@ -14,7 +14,7 @@
       "title": "Research Scientist, Machine Learning & Signal Processing [Technical Leadership]",
       "location": "Burlingame, CA, USA",
       "url": "https://www.indeed.com/viewjob?jk=41d953d3e21469d5",
-      "direct_url": "https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KiE0000002Z4vUAE&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F1476493301035580%2F%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D187943%26rx_id%3Dfb6d2721-c9c1-11f1-b7b6-e1788a27aa04%26rx_job%3Da1KiE0000002Z4vUAE%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261017T160522Z%26rx_vp%3Dcpc%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3Dindeedorganic",
+      "direct_url": "https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KiE0000002Z4vUAE&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F1476493301035580%2F%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D187943%26rx_id%3Dfb6d2721-c9c1-11f1-b7b6-e1788a27aa04%26rx_job%3Da1KiE0000002Z4vUAE%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261017T200406Z%26rx_vp%3Dcpc%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3Dindeedorganic",
       "company_url": "https://www.indeed.com/cmp/Meta-dd1502f2",
       "date_posted": "2026-10-17",
       "description": "Meta is seeking a Research Scientist to lead applied AI initiatives at the intersection of wearable technology and AI modeling of diverse sensors, including EMG, motion sensors, audio, and video. In this role, you will define and drive the scientific agenda for a team of AI research scientists, computational neuroscientists, and machine learning engineers, shaping the direction of next-generation AI capabilities that power Meta's wearable devices and health-focused experiences. You will operate at the frontier of AI research for human-computer interaction, translating scientific advances in biosignal interpretation into scalable systems with measurable product impact.  \n  \n  \n\n### **Research Scientist, Machine Learning & Signal Processing [Technical Leadership] Responsibilities:**\n\n* Define and drive the research strategy and roadmap for an AI research team focused on wearables, EMG, and wearable sensors, balancing applied machine learning investments with product deliverables\n* Lead the development of novel AI architectures, training methodologies, and evaluation frameworks for EMG signal processing, sensor fusion, and wearable device intelligence\n* Establish technical direction for the team by identifying high-impact research problems in sensor signal interpretation and wearable AI, scoping projects, and aligning efforts to broader organizational priorities\n* Build and grow a high-performing team of AI researchers and engineers through hiring, mentorship, and structured development of research talent\n* Collaborate with product, engineering, and hardware partners to translate research breakthroughs in EMG and sensing into production wearable systems at Meta's scale\n* Drive promising research outcomes from research to production, ensuring innovative findings are successfully transitioned into scalable wearable products and features\n* Communicate research findings and strategic recommendations to organizational leaders and cross-functional stakeholders through written reports, presentations, and design reviews\n* Foster a team culture that values scientific rigor, engineering craft, and responsible AI development in alignment with Meta's values and compliance standards\n\n  \n  \n  \n\n### **Minimum Qualifications:**\n\n* Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience\n* 12+ years of experience in AI or machine learning research, including experience leading research teams or large-scale research programs\n* Experience establishing research strategy and roadmaps with demonstrated impact on AI systems or products at scale\n* Experience attracting, developing, and retaining research talent, including building leadership pipelines through internal development and external hiring\n* Track record of executing cross-functional AI research initiatives from ideation through deployment, including managing dependencies across engineering, product, and data science teams\n* Experience communicating complex AI research directions and technical decisions to both technical and non-technical audiences through written and verbal formats\n\n  \n  \n  \n\n### **Preferred Qualifications:**\n\n* Experience publishing AI, machine learning, or biosignal processing research in peer-reviewed venues such as NeurIPS, ICML, ICLR, IEEE EMBC, or similar venues\n* Experience leading research in one or more specialized domains, such as EMG signal processing, wearable computing, health sensors, human-computer interaction, or physiological signal analysis\n\n  \n  \n  \n\n### **About Meta:**\n\nMeta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.  \n  \n  \n\nMeta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.\n  \n  \nMeta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@meta.com.  \n  \n$219,000/year to $301,000/year + bonus + equity + benefits  \n  \nIndividual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about benefits at Meta.",
@@ -32,84 +32,6 @@
         "city": "burlingame",
         "latitude": 37.589952,
         "longitude": -122.363342,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "David Joseph & Company",
-      "title": "Applied AI Scientist",
-      "location": "San Francisco, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=c456d13bbf2051bb",
-      "direct_url": "https://davidjoseph-co.careers-page.com/jobs/49f76196-d42c-453d-8bf3-076c74448df9?utm_medium=free_job_board&utm_source=indeed",
-      "company_url": "https://www.indeed.com/cmp/David-Joseph-&-Company",
-      "date_posted": "2026-10-17",
-      "description": "**San Francisco, CA · On-site (5 days/week) · Full-time**  \n**Compensation:** $170,000–$300,000 base\n\n### **About the Company**\n\nOur client is a Series B company building purpose-built AI systems that forecast and optimize how physical products are manufactured, stored, and distributed around the world. Instead of layering a general-purpose model on top of existing tools, the team trains a custom frontier model for each customer and treats supply chain forecasting as a fundamental computer science problem. They are already live with multi-billion-dollar enterprises and high-growth businesses, backed by top-tier venture investors, and led by a founding team with prior successful exits and deep research backgrounds.\n\nFounded 2024 · ~20 people · Industry: AI, B2B, Enterprise, Logistics, Manufacturing\n\n### **The Role**\n\nOur client is hiring an Applied AI Scientist to join a brand-new Applied AI team being built out around its VP of Applied AI. This is a technical, customer-facing role for someone coming from data science, forward deployed engineering, or solutions architecture who is equally comfortable in a Jupyter notebook and in front of an enterprise stakeholder. You'd be the trusted technical partner to customers from the very first demo through full production deployment, with customer demand growing quickly enough that there is real room to shape how the team operates.\n\n**What you'll be doing**\n\n* Meeting with enterprise customers to understand their operational challenges and framing those problems clearly for technical and non-technical audiences alike\n* Leading technical and value-focused demos, and building custom demos and prototypes that support sales and go-to-market efforts\n* Working directly in customer data with Python and SQL to surface and demonstrate real business value\n* Acting as the technical point person through evaluations, pilots, and implementations\n* Supporting live customer deployments so each customer gets the full value of the platform\n\n**Tech stack:** Python, SQL, Machine Learning, Data Science\n\n### **Requirements**\n\n* Direct experience working with enterprise customers on deployments, pilots, demos, or messy operational data problems (retail or CPG settings are a strong plus)\n* A track record of building custom demos and proofs-of-concept in code, primarily Python and SQL\n* Roughly 3–8 years as a data scientist, forward deployed engineer, solutions architect, or similar\n* Background at an enterprise ML/data platform company, an early-stage startup, or a top-tier consulting firm\n* A bachelor's degree in a STEM or other quantitative field\n* Experience in a selling or pre-sales motion for a product where you needed a genuine grounding in machine learning to be credible\n* Ability to run demos that land with both engineers and business leaders\n\n### **Nice to Haves**\n\n* A hands-on, builder's approach and real enthusiasm for picking up unfamiliar technologies and domains as the work requires\n\n### **Why Join**\n\n* Work on real AI: custom frontier models trained per customer, not a wrapper around someone else's LLM\n* Ground floor of a new team at a well-funded Series B: you'll help define the function as the company deploys with some of the world's largest supply chains\n* Founders with prior exits and a team drawn from leading universities, big tech, and top data and analytics companies\n* Competitive base plus health, dental, and vision coverage, 401(k), commuter benefits, and unlimited PTO\n\n### **Details**\n\n* **Location:** San Francisco, CA\n* **Work policy:** 5 days in-office\n* **Compensation:** $170,000–$300,000 base; no equity component at this time\n* **Visa sponsorship:** Open to visa transfers (e.g. OPT, H-1B transfers)\n* **Employment type:** Full-time",
-      "salary": "$170k–$300k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "RNB Consultancy",
-      "title": "Founding Research Engineer – RL Environments & Evals",
-      "location": "San Francisco, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=8d0bb7d7158f473b",
-      "direct_url": "https://rnb-consultancy.careers-page.com/jobs/83bd3d50-2d74-4d8b-8a64-bb1d20dec08c?utm_medium=free_job_board&utm_source=indeed",
-      "company_url": "https://www.indeed.com/cmp/Rnb-Consultancy",
-      "date_posted": "2026-10-16",
-      "description": "**Have you built the environments and benchmarks that AI models learn from? Then this is your seat.**\n\nA seed-stage AI company in San Francisco partners closely with the leading AI labs, creating the reinforcement learning tasks, environments and benchmarks those labs use to train and test their models. You'd be their first engineer in San Francisco, and from about month six you'd lead your own team.\n\n**What you'll own**\n\n* Designing and building RL tasks and environments that frontier models train on\n* Eval harnesses and benchmarks that show whether a model actually got better\n* Post-training experiments, and turning what you learn into better environments\n* Hiring and leading a team in San Francisco as the company grows\n\n**Must-haves**\n\n* You've **built** RL environments, tasks, benchmarks or evaluation harnesses with your own hands. Only operating an existing eval pipeline won't be enough here.\n* Hands-on post-training experience (SFT, DPO, GRPO, RLHF or similar), ideally with a result you can point to, such as a benchmark score that moved\n* Able to work full time from the San Francisco office now, on a 9-9-6 schedule\n* Roughly 1–5 years of experience\n\n**Bonus points**\n\n* A benchmark or post-training project of your own, public on GitHub\n* Experience at a data or RL-environment company, or on a post-training team at an AI lab or strong university lab\n* You're outside San Francisco but genuinely AI-obsessed and ready to move\n\n**What's in it for you**\n\n* $150k–$200k base, plus equity (0.25–0.5%)\n* On top of that, 4% of project profits, which can realistically bring total pay to around $500k a year\n* A founding role working side by side with frontier labs\n\n**Good to know**\n\n* Full-time, on-site in San Francisco, 9-9-6\n* Sponsorship is limited: please tell us your exact work authorization up front\nProcess: founder call culture conversation with the co-founder take-home build (RL and evals) one day on site* offer\n\n**When you apply, please include**\n\n* Your CV (PDF) and your **LinkedIn URL**, plus GitHub if you have one\n* The environment, harness or benchmark you built, what it tested, and who relied on it\n* Your current location, and confirmation that full-time San Francisco on 9-9-6 works for you\n* Your visa or citizenship status (for example US citizen, green card, H-1B, F-1/OPT including dates, O-1, TN), and if you'll need sponsorship, now or in the future\n* Your base salary expectation, your earliest start date, and any other interview processes you're in\n\nDoes this sound like you? Apply now. If you're a match, we'll be in touch within 3 working days.\n\nRnB Consultancy | Netherlands | 3604 AB Maarssen | KvK 71489703",
-      "salary": "$150k–$200k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Lila Sciences",
-      "title": "Staff / Principal Research Engineer, AI Safety Mitigations",
-      "location": "San Francisco, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=eedfa7ae4718a037",
-      "direct_url": "https://grnh.se/6kpcod2n9us",
-      "company_url": "https://www.indeed.com/cmp/Lila-Sciences",
-      "date_posted": "2026-10-16",
-      "description": "**Your Impact at LILA**\n\nWe're building a talent-dense, high-agency AI safety team at Lila that will engage all core teams within the organization (science, model training, lab integration, etc.), to identify and mitigate risks from scientific superintelligence while retaining the core scientific discovery capabilities of the stack. The initial focus of this team will be to build and implement a bespoke safety strategy for Lila, tailored to its specific goals and deployment strategies. This will involve technical safety strategy development, broader ecosystem engagement, safety-focused evaluations, safety systems to mitigate risks, and a research agenda that explores longer-term needs such as oversight of superintelligent scientific systems.\n\nAt Lila Sciences, you will develop and test safeguards that reduce societal risks from increasingly capable closed loop scientific AI. This is a high-priority individual contributor role for an engineer who has built safety interventions within the development and deployment of frontier models and wants to apply that experience to scientific models, agents, tools and laboratory-connected workflows.\n\nYou will work with domain scientists, risk researchers, evaluators and engineering teams to turn risk findings and policy requirements into effective interventions. The work spans research and implementation: developing approaches, testing their limits and helping integrate reliable safeguards into the systems where they are needed. We are open to different levels of seniority and depth across mitigation approaches.\n\n**What You'll Be Building**\n\n* Translate scientific risk assessments, dual-use policy boundaries and evaluation findings into concrete mitigation designs and testable requirements.\n* Develop and implement safeguards suited to the problem, potentially spanning model training, classifiers, monitoring, access controls and runtime interventions.\n* Build experiments that measure risk reduction, robustness and effects on legitimate scientific use, alongside practical performance constraints.\n* Use adversarial findings and observed failures to improve safeguards, working closely with automated-safety and scientific evaluation researchers.\n* Work directly with model-training, post-training, inference and platform teams to integrate mitigations into model development, release evaluation and large-scale serving systems, with appropriate instrumentation and reproducible testing.\n* Investigate regressions, distribution shifts and emerging misuse patterns, and use the evidence to guide further development.\n\n**What You'll Need to Succeed**\n\n* Hands-on experience developing and validating safety interventions for frontier models within training, post-training or large-scale inference systems, with contributions to model development or release cycles.\n* Depth in at least one relevant area, such as safety post-training, model-level classifiers, safeguards integrated into inference, or abuse monitoring and enforcement across a model-serving platform.\n* Experience working directly with model-development or safeguards teams, using access appropriate to the intervention—such as training pipelines, model internals, inference infrastructure or systematic evaluation access—to investigate failures and implement improvements.\n* Strong research-engineering skills and the ability to move from an ambiguous problem to working, maintainable implementations.\n* Sound experimental judgment, including an ability to assess robustness, interpret imperfect metrics and reason about competing objectives.\n* The ability to collaborate across research and engineering teams, explain technical trade-offs and take ownership of complex individual contributions.\n\n**Bonus Points For**\n\n* Experience with scientific models, scientific software or laboratory-connected systems.\n* Safety work involving tool-using agents, multi-step workflows or high-consequence misuse.\n* Experience connecting expert-generated evidence and policy requirements to training data, evaluation criteria or operational controls.\n\n**About LILA**\n\nLila Sciences is building Scientific Superintelligence™ to solve humankind's greatest challenges. We believe science is the most inspiring frontier for AI. Rather than hard-coding expert knowledge into tools, LILA builds systems that can learn for themselves.\n\nLILA combines advanced AI models with proprietary AI Science Factory™ instruments into an operating system for science that executes the entire scientific method autonomously, accelerating discovery at unprecedented speed, scale, and impact across medicine, materials, and energy. Learn more at www.lila.ai.\n\nGuided by our core values of truth, trust, curiosity, grit, and velocity, we move with startup speed while tackling problems of historic importance. If this sounds like an environment you'd love to work in, even if you don't meet every qualification listed above, we encourage you to apply.\n\n**We're All In**\n\nLila Sciences is committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.\n\nInformation you provide during your application process will be handled in accordance with our Candidate Privacy Policy.\n\n**A Note to Agencies**\n\n*Lila Sciences does not accept unsolicited resumes from any source other than candidates. The submission of unsolicited resumes by recruitment or staffing agencies to Lila Sciences or its employees is strictly prohibited unless contacted directly by Lila Science's internal Talent Acquisition team. Any resume submitted by an agency in the absence of a signed agreement will automatically become the property of Lila Sciences, and Lila Sciences will not owe any referral or other fees with respect thereto.*",
-      "salary": "$224k–$336k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
     },
@@ -140,15 +62,15 @@
       }
     },
     {
-      "company": "Matroid",
-      "title": "Deep Learning Engineer, Multimodal Vision Platform",
-      "location": "Palo Alto, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=e1c08495a62397a4",
-      "direct_url": "https://matroid.breezy.hr/p/b3f446f3a096-deep-learning-engineer-multimodal-vision-platform?source=indeed",
-      "company_url": "https://www.indeed.com/cmp/Matroid",
-      "date_posted": "2026-10-16",
-      "description": "**About Matroid**\n\nMatroid is a full-service computer vision company that has developed an end-to-end platform allowing enterprise customers to rapidly train and deploy automated visual inspection on imagery including EO, IR, X-Ray, CT, OCT, and others. Founded in 2016 by a Stanford professor, Matroid has a broad and rapidly growing set of customers in manufacturing, industrial IoT, government and security.\n\nWe are looking for a Deep Learning Engineer to build the models, capabilities, and systems at the heart of our multimodal vision platform. This is a broad and deeply technical role, with significant ownership and impact. You'll rapidly take ideas from research all the way to production: apply the latest techniques to build and deploy new platform capabilities, solving visual inspection for our customers. You'll work in a fast-paced environment alongside experts who are passionate about their work.\n\nThis position is onsite five days a week at our downtown Palo Alto office, near the Stanford campus and Caltrain.\n\n**What you'll do**\n\n  \n\n* Research:Critically analyze the latest research in computer vision and deep learning, and decide what's worth adapting for use in our platform\n* Build: Design, adapt, and train models across detection, segmentation, anomaly detection, tracking, video understanding, vision-language, and 3D reconstruction tasks\n* Engineer: Turn new models and techniques into platform capabilities that customers can train and deploy on their own data and use cases\n* Deploy: Optimize architectures & deployment systems for fast, cost-efficient inference, from cloud GPUs to small edge devices\n* Collaborate: Work with product, infrastructure and field engineering teams to drive your models & capabilities from idea to customer impact\n\n**What you bring to the table**\n\n* Master's in Computer Science, Software Engineering, Mathematics, or a related field, or a Bachelor's with equivalent experience\n* Excitement about the full range of this work, whether it's building novel video transformer architectures, getting realtime segmentation running on a tiny edge device, or making 3D reconstruction work reliably on customer data\n* 3+ years of industry and/or academic experience in deep learning, computer vision, and software engineering\n* Experience building ML systems & capabilities, not just scripts & one-off experiments\n* Familiarity with modern architectures and techniques: the latest foundation models, how they work, what you can do with them\n* Strong software engineering skills in Python and PyTorch; you care about the quality of your code\n* Solid oral, written, presentation, collaboration, and interpersonal communication skills\n\n**Bonus points if...**\n\n* Significant computer vision and deep learning research experience\n* Prior work applying computer vision to real-world use cases\n* Experience productionizing models, including inference optimization (e.g. TensorRT, ONNX) and serving (e.g. Triton Inference Server)\n* Experience with 3D reconstruction and scene representation (e.g. COLMAP, VGGT, 3D Gaussian splatting, world models)\n* Experience building or operating multi-tenant ML products\n* Open-source contributions to ML tooling, cool personal projects, competitions, or hackathons\n* Previous work at high-growth technology startups\n\n**What we offer in return**\n\n* Competitive pay and equity\n* The chance to constantly work on stimulating intellectual challenges\n* Gym membership reimbursement\n* Free lunch, healthy drinks, and snacks every day\n* Medical, dental, and vision insurance with 100% paid premiums\n* Flexible hours, with room for the occasional day away when life calls for it\n* A budget for whatever hardware or software will make you most effective\n* Regular tech talks on the latest advances in CV, DL, and engineering",
-      "salary": "$200k–$350k/yr",
+      "company": "David Joseph & Company",
+      "title": "Applied AI Scientist",
+      "location": "San Francisco, CA, USA",
+      "url": "https://www.indeed.com/viewjob?jk=c456d13bbf2051bb",
+      "direct_url": "https://davidjoseph-co.careers-page.com/jobs/49f76196-d42c-453d-8bf3-076c74448df9?utm_medium=free_job_board&utm_source=indeed",
+      "company_url": "https://www.indeed.com/cmp/David-Joseph-&-Company",
+      "date_posted": "2026-10-17",
+      "description": "**San Francisco, CA · On-site (5 days/week) · Full-time**  \n**Compensation:** $170,000–$300,000 base\n\n### **About the Company**\n\nOur client is a Series B company building purpose-built AI systems that forecast and optimize how physical products are manufactured, stored, and distributed around the world. Instead of layering a general-purpose model on top of existing tools, the team trains a custom frontier model for each customer and treats supply chain forecasting as a fundamental computer science problem. They are already live with multi-billion-dollar enterprises and high-growth businesses, backed by top-tier venture investors, and led by a founding team with prior successful exits and deep research backgrounds.\n\nFounded 2024 · ~20 people · Industry: AI, B2B, Enterprise, Logistics, Manufacturing\n\n### **The Role**\n\nOur client is hiring an Applied AI Scientist to join a brand-new Applied AI team being built out around its VP of Applied AI. This is a technical, customer-facing role for someone coming from data science, forward deployed engineering, or solutions architecture who is equally comfortable in a Jupyter notebook and in front of an enterprise stakeholder. You'd be the trusted technical partner to customers from the very first demo through full production deployment, with customer demand growing quickly enough that there is real room to shape how the team operates.\n\n**What you'll be doing**\n\n* Meeting with enterprise customers to understand their operational challenges and framing those problems clearly for technical and non-technical audiences alike\n* Leading technical and value-focused demos, and building custom demos and prototypes that support sales and go-to-market efforts\n* Working directly in customer data with Python and SQL to surface and demonstrate real business value\n* Acting as the technical point person through evaluations, pilots, and implementations\n* Supporting live customer deployments so each customer gets the full value of the platform\n\n**Tech stack:** Python, SQL, Machine Learning, Data Science\n\n### **Requirements**\n\n* Direct experience working with enterprise customers on deployments, pilots, demos, or messy operational data problems (retail or CPG settings are a strong plus)\n* A track record of building custom demos and proofs-of-concept in code, primarily Python and SQL\n* Roughly 3–8 years as a data scientist, forward deployed engineer, solutions architect, or similar\n* Background at an enterprise ML/data platform company, an early-stage startup, or a top-tier consulting firm\n* A bachelor's degree in a STEM or other quantitative field\n* Experience in a selling or pre-sales motion for a product where you needed a genuine grounding in machine learning to be credible\n* Ability to run demos that land with both engineers and business leaders\n\n### **Nice to Haves**\n\n* A hands-on, builder's approach and real enthusiasm for picking up unfamiliar technologies and domains as the work requires\n\n### **Why Join**\n\n* Work on real AI: custom frontier models trained per customer, not a wrapper around someone else's LLM\n* Ground floor of a new team at a well-funded Series B: you'll help define the function as the company deploys with some of the world's largest supply chains\n* Founders with prior exits and a team drawn from leading universities, big tech, and top data and analytics companies\n* Competitive base plus health, dental, and vision coverage, 401(k), commuter benefits, and unlimited PTO\n\n### **Details**\n\n* **Location:** San Francisco, CA\n* **Work policy:** 5 days in-office\n* **Compensation:** $170,000–$300,000 base; no equity component at this time\n* **Visa sponsorship:** Open to visa transfers (e.g. OPT, H-1B transfers)\n* **Employment type:** Full-time",
+      "salary": "$170k–$300k/yr",
       "salary_source": "direct_data",
       "salary_currency": "USD",
       "job_type": "fulltime",
@@ -158,10 +80,10 @@
       "ats": "Indeed",
       "geography": {
         "status": "in_radius",
-        "distance_miles": 6.453,
-        "city": "palo alto",
-        "latitude": 37.39652,
-        "longitude": -122.143088,
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
     },
@@ -192,108 +114,9 @@
       }
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Meta",
-      "title": "Research Scientist, Machine Learning & Signal Processing [Technical Leadership]",
-      "location": "Burlingame, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=41d953d3e21469d5",
-      "direct_url": "https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KiE0000002Z4vUAE&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F1476493301035580%2F%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D187943%26rx_id%3Dfb6d2721-c9c1-11f1-b7b6-e1788a27aa04%26rx_job%3Da1KiE0000002Z4vUAE%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261017T160522Z%26rx_vp%3Dcpc%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3Dindeedorganic",
-      "company_url": "https://www.indeed.com/cmp/Meta-dd1502f2",
-      "date_posted": "2026-10-17",
-      "description": "Meta is seeking a Research Scientist to lead applied AI initiatives at the intersection of wearable technology and AI modeling of diverse sensors, including EMG, motion sensors, audio, and video. In this role, you will define and drive the scientific agenda for a team of AI research scientists, computational neuroscientists, and machine learning engineers, shaping the direction of next-generation AI capabilities that power Meta's wearable devices and health-focused experiences. You will operate at the frontier of AI research for human-computer interaction, translating scientific advances in biosignal interpretation into scalable systems with measurable product impact.  \n  \n  \n\n### **Research Scientist, Machine Learning & Signal Processing [Technical Leadership] Responsibilities:**\n\n* Define and drive the research strategy and roadmap for an AI research team focused on wearables, EMG, and wearable sensors, balancing applied machine learning investments with product deliverables\n* Lead the development of novel AI architectures, training methodologies, and evaluation frameworks for EMG signal processing, sensor fusion, and wearable device intelligence\n* Establish technical direction for the team by identifying high-impact research problems in sensor signal interpretation and wearable AI, scoping projects, and aligning efforts to broader organizational priorities\n* Build and grow a high-performing team of AI researchers and engineers through hiring, mentorship, and structured development of research talent\n* Collaborate with product, engineering, and hardware partners to translate research breakthroughs in EMG and sensing into production wearable systems at Meta's scale\n* Drive promising research outcomes from research to production, ensuring innovative findings are successfully transitioned into scalable wearable products and features\n* Communicate research findings and strategic recommendations to organizational leaders and cross-functional stakeholders through written reports, presentations, and design reviews\n* Foster a team culture that values scientific rigor, engineering craft, and responsible AI development in alignment with Meta's values and compliance standards\n\n  \n  \n  \n\n### **Minimum Qualifications:**\n\n* Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience\n* 12+ years of experience in AI or machine learning research, including experience leading research teams or large-scale research programs\n* Experience establishing research strategy and roadmaps with demonstrated impact on AI systems or products at scale\n* Experience attracting, developing, and retaining research talent, including building leadership pipelines through internal development and external hiring\n* Track record of executing cross-functional AI research initiatives from ideation through deployment, including managing dependencies across engineering, product, and data science teams\n* Experience communicating complex AI research directions and technical decisions to both technical and non-technical audiences through written and verbal formats\n\n  \n  \n  \n\n### **Preferred Qualifications:**\n\n* Experience publishing AI, machine learning, or biosignal processing research in peer-reviewed venues such as NeurIPS, ICML, ICLR, IEEE EMBC, or similar venues\n* Experience leading research in one or more specialized domains, such as EMG signal processing, wearable computing, health sensors, human-computer interaction, or physiological signal analysis\n\n  \n  \n  \n\n### **About Meta:**\n\nMeta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.  \n  \n  \n\nMeta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.\n  \n  \nMeta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@meta.com.  \n  \n$219,000/year to $301,000/year + bonus + equity + benefits  \n  \nIndividual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about benefits at Meta.",
-      "salary": "$219k–$301k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "accommodations-ext@meta.com",
-      "ats": "Indeed",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 23.246,
-        "city": "burlingame",
-        "latitude": 37.589952,
-        "longitude": -122.363342,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "David Joseph & Company",
-      "title": "Applied AI Scientist",
-      "location": "San Francisco, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=c456d13bbf2051bb",
-      "direct_url": "https://davidjoseph-co.careers-page.com/jobs/49f76196-d42c-453d-8bf3-076c74448df9?utm_medium=free_job_board&utm_source=indeed",
-      "company_url": "https://www.indeed.com/cmp/David-Joseph-&-Company",
-      "date_posted": "2026-10-17",
-      "description": "**San Francisco, CA · On-site (5 days/week) · Full-time**  \n**Compensation:** $170,000–$300,000 base\n\n### **About the Company**\n\nOur client is a Series B company building purpose-built AI systems that forecast and optimize how physical products are manufactured, stored, and distributed around the world. Instead of layering a general-purpose model on top of existing tools, the team trains a custom frontier model for each customer and treats supply chain forecasting as a fundamental computer science problem. They are already live with multi-billion-dollar enterprises and high-growth businesses, backed by top-tier venture investors, and led by a founding team with prior successful exits and deep research backgrounds.\n\nFounded 2024 · ~20 people · Industry: AI, B2B, Enterprise, Logistics, Manufacturing\n\n### **The Role**\n\nOur client is hiring an Applied AI Scientist to join a brand-new Applied AI team being built out around its VP of Applied AI. This is a technical, customer-facing role for someone coming from data science, forward deployed engineering, or solutions architecture who is equally comfortable in a Jupyter notebook and in front of an enterprise stakeholder. You'd be the trusted technical partner to customers from the very first demo through full production deployment, with customer demand growing quickly enough that there is real room to shape how the team operates.\n\n**What you'll be doing**\n\n* Meeting with enterprise customers to understand their operational challenges and framing those problems clearly for technical and non-technical audiences alike\n* Leading technical and value-focused demos, and building custom demos and prototypes that support sales and go-to-market efforts\n* Working directly in customer data with Python and SQL to surface and demonstrate real business value\n* Acting as the technical point person through evaluations, pilots, and implementations\n* Supporting live customer deployments so each customer gets the full value of the platform\n\n**Tech stack:** Python, SQL, Machine Learning, Data Science\n\n### **Requirements**\n\n* Direct experience working with enterprise customers on deployments, pilots, demos, or messy operational data problems (retail or CPG settings are a strong plus)\n* A track record of building custom demos and proofs-of-concept in code, primarily Python and SQL\n* Roughly 3–8 years as a data scientist, forward deployed engineer, solutions architect, or similar\n* Background at an enterprise ML/data platform company, an early-stage startup, or a top-tier consulting firm\n* A bachelor's degree in a STEM or other quantitative field\n* Experience in a selling or pre-sales motion for a product where you needed a genuine grounding in machine learning to be credible\n* Ability to run demos that land with both engineers and business leaders\n\n### **Nice to Haves**\n\n* A hands-on, builder's approach and real enthusiasm for picking up unfamiliar technologies and domains as the work requires\n\n### **Why Join**\n\n* Work on real AI: custom frontier models trained per customer, not a wrapper around someone else's LLM\n* Ground floor of a new team at a well-funded Series B: you'll help define the function as the company deploys with some of the world's largest supply chains\n* Founders with prior exits and a team drawn from leading universities, big tech, and top data and analytics companies\n* Competitive base plus health, dental, and vision coverage, 401(k), commuter benefits, and unlimited PTO\n\n### **Details**\n\n* **Location:** San Francisco, CA\n* **Work policy:** 5 days in-office\n* **Compensation:** $170,000–$300,000 base; no equity component at this time\n* **Visa sponsorship:** Open to visa transfers (e.g. OPT, H-1B transfers)\n* **Employment type:** Full-time",
-      "salary": "$170k–$300k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    }
-  ],
+  "new_jobs": [],
   "remote_jobs": [],
   "ambiguous_jobs": [
-    {
-      "company": "Google",
-      "title": "Research Data Scientist, Magic Eye",
-      "location": "Mountain View, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=11cc1f246a6c043a",
-      "direct_url": "https://careers.google.com/jobs/results/104567463739302598-research-data-scientist/",
-      "company_url": "https://www.indeed.com/cmp/Google",
-      "date_posted": "2026-10-16",
-      "description": "In most instances, this position requires in-person interviews as part of the hiring process.\n\n### **Minimum qualifications:**\n\n* Master's degree in Statistics, Data Science, Mathematics, Physics, Economics, Operations Research, Engineering, or a related quantitative field.\n* 3 years of experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis, or a PhD degree.\n\n  \n\n### **Preferred qualifications:**\n\n* 5 years of experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis, or a PhD degree.\n\n**About the job**\n-----------------\n\nMagic Eye's mission is to guide strategic decision making for Google's consumer products through data-informed insights, actionable user metrics, and definitions of success. The analysis team partners closely with cross-product area teams from Search, Ads, Android, YouTube, etc., and cross-functionally with teams from Engineering, Behavioral Economics, UX, Finance to bring methodology, data, and insights to Googlers and Google leads.  \n  \nThe analysis team is focused on cross-product user research and metric development to dig into Google's performance, including understanding Google's most important users, drivers of key trends, and layering in context from industry and the world. Key research questions include understanding the rapidly evolving GenAI landscape and user journeys across products and devices to identify cross-company strategic opportunities. This team also focuses on advanced decision making frameworks and tooling, ranging from observational, to causal inference, to experiments. We're all about scale to develop and leverage reliable, reproducible analyses for ourselves, our partners, and to drive aligned decision making across Google.Individual pay is determined by factors including job-related skills, experience, and relevant education or training.\n  \n  \nUS: $147000 - $210000 (USD) + 15% bonus target + equity + benefits  \n  \nLearn more about benefits at Google.\n\n**Responsibilities**\n--------------------\n\n* Collaborate with stakeholders in cross-projects and team settings to identify and clarify business or product questions to answer.\n* Use custom data infrastructure or existing data models as appropriate, using specialized knowledge. Design and evaluate models to mathematically express and solve defined problems with limited precedent.\n* Gather information, business goals, priorities, and organizational context around the questions to answer, as well as the existing and upcoming data infrastructure.\n* Own the process of gathering, extracting, and compiling data across sources via relevant tools (e.g., SQL, R, Python). Format, re-structure, or validate data to ensure quality, and review the dataset to ensure it is ready for analysis.\n* Provide feedback to translate and refine business questions into tractable analysis, evaluation metrics, or mathematical models.\n\nGoogle is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.",
-      "salary": "$147k–$210k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "geography": {
-        "status": "ambiguous",
-        "distance_miles": null,
-        "reason": "City is unknown or has multiple Census locations."
-      }
-    },
-    {
-      "company": "Intuit",
-      "title": "Principal AI Scientist - DGX",
-      "location": "Mountain View, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=d660d38c693b466d",
-      "direct_url": "https://dsp.prng.co/CCvnO9b",
-      "company_url": "https://www.indeed.com/cmp/Intuit",
-      "date_posted": "2026-10-16",
-      "description": "**Overview**\n------------\n\nCome join our collaborative and creative group of AI scientists and machine learning engineers and build models that directly affect hundreds of thousands of our customers. In this role you will be building and deploying machine learning models using both analytical algorithms and deep learning approaches, targeted towards areas like marketing audiences, brand management, generative engine optimization, price optimization, creative generation and optimization, digital twins, etc. The world of data, marketing, sales is changing dramatically. We are waiting for you to join us and do the best work of your life.\n\n**Responsibilities**\n\n* Practices excellent leadership and communication skills to influence and lead teams and to evangelize AI science across the organization.\n* Leads team’s work in one or more of: ML, NLP, Statistics, or Optimization, performs hand-on work in these domains.\n* Weighs ROI considerations of general and tailored capabilities for projects in the team.\n* Creates new capabilities that solve critical business problems.\n* Pushes the boundaries of ML by developing foundational methods and novel applications from state-of-the-art ML technologies and industry trends.\n* Influences business leaders to shape mission critical projects.\n* Creates multi-year vision that connects product strategy with technology strategy.\n* Drives architecture decisions, influences and contributes to ML platform architecture and strategy.\n* Leads team and partners to the successful delivery and integration of ML solutions.\n* Conducts design reviews, holds teams to technical and operational rigor.\n* Acts as an advisor in overseeing and mentoring the work of colleagues towards the building of a vibrant practice community.\n\n**Qualifications**\n\n* PhD/MS in Engineering Mathematics, Statistics, Theoretical/Computational Physics, or related field.\n* Prior experience / qualifications in Marketing platforms, media management. If you have a background in Cognitive sciences / Human Psychology (Consumers, Buyers, Supporters, Detractors, Group behavioral sciences), this is the role for you.\n* Solid knowledge of statistical techniques.\n* 3+ years as either a lead in a AI Science role or in a management position in AI Science.\n* Strong communication skills and proven experience as an influencer at the executive level.\n* Hands-on programming experience and expert knowledge in one or more of: ML, NLP, Statistics, or Optimization.\n* 6+ years’ experience manipulating large datasets and using databases (e.g. R, SQL, S-Plus, etc.).\n* 6+ years’ experience with a general-purpose programming language (e.g. Python, Scala, etc.).\n* Expert knowledge and hands-on experience with ML pipelines, processes, and design patterns.\n* Proven track record of influencing business leaders to shape mission critical projects.\n* Proven track record of leading team to successful delivery of ML solutions.\n* Strong interpersonal and communication skills in order to effectively contribute to technical teams and make presentations to a variety of technical and business personnel.\n\nIntuit provides a competitive compensation package with a strong pay for performance rewards approach. This position may be eligible for a cash bonus, equity rewards and benefits, in accordance with our applicable plans and programs (see more about our compensation and benefits at Intuit®: Careers | Benefits). Pay offered is based on factors such as job-related knowledge, skills, experience, and work location. To drive ongoing fair pay for employees, Intuit conducts regular comparisons across categories of ethnicity and gender.\n\nThe expected base pay range for this position is:\n  \nMountain View $273,500 - $369,500",
-      "salary": "$274k–$370k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "geography": {
-        "status": "ambiguous",
-        "distance_miles": null,
-        "reason": "City is unknown or has multiple Census locations."
-      }
-    },
     {
       "company": "Google",
       "title": "Senior Staff Research Data Scientist, AI Data Research",
@@ -319,9 +142,9 @@
     }
   ],
   "geographic_counts": {
-    "in_radius": 7,
+    "in_radius": 4,
     "remote": 0,
-    "ambiguous": 3,
+    "ambiguous": 1,
     "outside_radius": 0
   }
 }
