@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-17 00:43 UTC",
+  "scraped_at": "2026-10-17 00:47 UTC",
   "total": 18,
-  "new_count": 1,
+  "new_count": 0,
   "scrape_status": {
     "status": "success",
     "raw_rows": 319,
@@ -218,6 +218,32 @@
       }
     },
     {
+      "company": "Google",
+      "title": "Senior Research Scientist, Beam",
+      "location": "San Francisco, CA, USA",
+      "url": "https://www.indeed.com/viewjob?jk=db0c80082237408a",
+      "direct_url": "https://careers.google.com/jobs/results/133508980604314310-senior-research-scientist/",
+      "company_url": "https://www.indeed.com/cmp/Google",
+      "date_posted": "2026-10-16",
+      "description": "Applicants in San Francisco: Qualified applications with arrest or conviction records will be considered for employment in accordance with the San Francisco Fair Chance Ordinance for Employers and the California Fair Chance Act.  \n  \nIn accordance with Washington state law, we are highlighting our comprehensive benefits package, which is available to all eligible US based employees. Benefits for this role include:\n\n* Health, dental, vision, life, disability insurance\n* Retirement Benefits: 401(k) with company match\n* Paid Time Off: 20 days of vacation per year, accruing at a rate of 6.15 hours per pay period for the first five years of employment\n* Sick Time: 40 hours/year (statutory, where applicable); 5 days/event (discretionary)\n* Maternity Leave (Short-Term Disability + Baby Bonding): 28-30 weeks\n* Baby Bonding Leave: 18 weeks\n* Holidays: 13 paid days per year.\n\n  \nNote: By applying to this position you will have an opportunity to share your preferred working location from the following: **Seattle, WA, USA; San Francisco, CA, USA**.\n\n### **Minimum qualifications:**\n\n* PhD in Computer Science, or a related field, with a focus on computer vision, machine learning, or computer graphics, or equivalent practical experience.\n* 2 years of experience in Python and deep learning frameworks (e.g., JAX, Flax, Gemma, or Pytorch)\n* One or more scientific publication submission(s) for conferences, journals, or public repositories (such as CVPR, ICCV, NeurIPS, ICML, ICLR, SIGGRAPH etc.).\n\n  \n\n### **Preferred qualifications:**\n\n* Research experience with track record in one or more of: neural rendering, generative models, 3D reconstruction, video models, or real-time vision systems.\n* Experience building real-time AI or computer vision systems with strict latency and performance constraints, especially on edge devices or resource-constrained hardware.\n* Experience tech-leading a team, including setting research roadmaps, mentoring researchers, and driving technical decisions.\n* Demonstrated ability to break down ambiguous program goals into staged milestones and deliver end-to-end from research concept to shipped product.\n* Excellent communication skills, with the ability to articulate complex technical ideas clearly to both technical and non-technical audiences.\n\n**About the job**\n-----------------\n\nAs an organization, Google maintains a portfolio of research projects driven by fundamental research, new product innovation, product contribution and infrastructure goals, while providing individuals and teams the freedom to emphasize specific types of work. As a Research Scientist, you'll setup large-scale tests and deploy promising ideas quickly and broadly, managing deadlines and deliverables while applying the latest theories to develop new and improved products, processes, or technologies. From creating experiments and prototyping implementations to designing new architectures, our research scientists work on real-world problems that span the breadth of computer science, such as machine (and deep) learning, data mining, natural language processing, hardware and software performance analysis, improving compilers for mobile platforms, as well as core search and much more.  \n  \nAs a Research Scientist, you'll also actively contribute to the wider research community by sharing and publishing your findings, with ideas inspired by internal projects as well as from collaborations with research programs at partner universities and technical institutes all over the world. Google Research is building the next generation of intelligent systems for all Google products. To achieve this, we’re working on projects that utilize the latest computer science techniques developed by skilled software developers and research scientists. Google Research teams collaborate closely with other teams across Google, maintaining the flexibility and versatility required to adapt new projects and foci that meet the demands of the world's fast-paced business needs.Individual pay is determined by factors including job-related skills, experience, and relevant education or training.\n  \n  \nUS: $174000 - $252000 (USD) + 15% bonus target + equity + benefits  \n  \nLearn more about benefits at Google.\n\n**Responsibilities**\n--------------------\n\n* Define and drive research directions in AI and computer vision that push the boundaries of real-time 3D telepresence.\n* Formulate novel approaches to open problems, translating fundamental research insights into transformative product experiences.\n* Collaborate with cross-functional teams across hardware, software, and product to shape the technical direction and roadmap.\n* Conduct rigorous experiments to validate hypotheses, de-risk new technical directions, and inform strategic decisions through prototypes and data-driven evaluations.\n* Publish and present research and represent Google in the broader research community.\n\nGoogle is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.",
+      "salary": "$174k–$252k/yr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
       "company": "RNB Consultancy",
       "title": "Founding Research Engineer – RL Environments & Evals",
       "location": "San Francisco, CA, USA",
@@ -348,32 +374,6 @@
       }
     },
     {
-      "company": "Google",
-      "title": "Senior Research Scientist, Beam",
-      "location": "San Francisco, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=db0c80082237408a",
-      "direct_url": "https://careers.google.com/jobs/results/133508980604314310-senior-research-scientist/",
-      "company_url": "https://www.indeed.com/cmp/Google",
-      "date_posted": "2026-10-16",
-      "description": "Applicants in San Francisco: Qualified applications with arrest or conviction records will be considered for employment in accordance with the San Francisco Fair Chance Ordinance for Employers and the California Fair Chance Act.  \n  \nIn accordance with Washington state law, we are highlighting our comprehensive benefits package, which is available to all eligible US based employees. Benefits for this role include:\n\n* Health, dental, vision, life, disability insurance\n* Retirement Benefits: 401(k) with company match\n* Paid Time Off: 20 days of vacation per year, accruing at a rate of 6.15 hours per pay period for the first five years of employment\n* Sick Time: 40 hours/year (statutory, where applicable); 5 days/event (discretionary)\n* Maternity Leave (Short-Term Disability + Baby Bonding): 28-30 weeks\n* Baby Bonding Leave: 18 weeks\n* Holidays: 13 paid days per year.\n\n  \nNote: By applying to this position you will have an opportunity to share your preferred working location from the following: **Seattle, WA, USA; San Francisco, CA, USA**.\n\n### **Minimum qualifications:**\n\n* PhD in Computer Science, or a related field, with a focus on computer vision, machine learning, or computer graphics, or equivalent practical experience.\n* 2 years of experience in Python and deep learning frameworks (e.g., JAX, Flax, Gemma, or Pytorch)\n* One or more scientific publication submission(s) for conferences, journals, or public repositories (such as CVPR, ICCV, NeurIPS, ICML, ICLR, SIGGRAPH etc.).\n\n  \n\n### **Preferred qualifications:**\n\n* Research experience with track record in one or more of: neural rendering, generative models, 3D reconstruction, video models, or real-time vision systems.\n* Experience building real-time AI or computer vision systems with strict latency and performance constraints, especially on edge devices or resource-constrained hardware.\n* Experience tech-leading a team, including setting research roadmaps, mentoring researchers, and driving technical decisions.\n* Demonstrated ability to break down ambiguous program goals into staged milestones and deliver end-to-end from research concept to shipped product.\n* Excellent communication skills, with the ability to articulate complex technical ideas clearly to both technical and non-technical audiences.\n\n**About the job**\n-----------------\n\nAs an organization, Google maintains a portfolio of research projects driven by fundamental research, new product innovation, product contribution and infrastructure goals, while providing individuals and teams the freedom to emphasize specific types of work. As a Research Scientist, you'll setup large-scale tests and deploy promising ideas quickly and broadly, managing deadlines and deliverables while applying the latest theories to develop new and improved products, processes, or technologies. From creating experiments and prototyping implementations to designing new architectures, our research scientists work on real-world problems that span the breadth of computer science, such as machine (and deep) learning, data mining, natural language processing, hardware and software performance analysis, improving compilers for mobile platforms, as well as core search and much more.  \n  \nAs a Research Scientist, you'll also actively contribute to the wider research community by sharing and publishing your findings, with ideas inspired by internal projects as well as from collaborations with research programs at partner universities and technical institutes all over the world. Google Research is building the next generation of intelligent systems for all Google products. To achieve this, we’re working on projects that utilize the latest computer science techniques developed by skilled software developers and research scientists. Google Research teams collaborate closely with other teams across Google, maintaining the flexibility and versatility required to adapt new projects and foci that meet the demands of the world's fast-paced business needs.Individual pay is determined by factors including job-related skills, experience, and relevant education or training.\n  \n  \nUS: $174000 - $252000 (USD) + 15% bonus target + equity + benefits  \n  \nLearn more about benefits at Google.\n\n**Responsibilities**\n--------------------\n\n* Define and drive research directions in AI and computer vision that push the boundaries of real-time 3D telepresence.\n* Formulate novel approaches to open problems, translating fundamental research insights into transformative product experiences.\n* Collaborate with cross-functional teams across hardware, software, and product to shape the technical direction and roadmap.\n* Conduct rigorous experiments to validate hypotheses, de-risk new technical directions, and inform strategic decisions through prototypes and data-driven evaluations.\n* Publish and present research and represent Google in the broader research community.\n\nGoogle is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.",
-      "salary": "$174k–$252k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
       "company": "Matroid",
       "title": "Deep Learning Engineer, Multimodal Vision Platform",
       "location": "Palo Alto, CA, USA",
@@ -478,34 +478,7 @@
       }
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Walmart",
-      "title": "(USA) Staff, Data Scientist",
-      "location": "San Bruno, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=64962ac04e253cce",
-      "direct_url": "https://click.appcast.io/t/Do5O7kIs1ob0YszyeaIRbXUH5o6kXJaNxtiq_OUUFjg=",
-      "company_url": "https://www.indeed.com/cmp/Walmart",
-      "date_posted": "2026-10-16",
-      "description": "**Position Summary...**\n-----------------------\n\n**What you'll do...**\n---------------------\n\n**Role summary:**\n  \nWalmart Connect is seeking a **Staff Data Scientist, Measurement Excellence** to help strengthen the quality, consistency, and business impact of our advanced measurement capabilities. This role will partner across Measurement, Advanced Analytics, Data Science, Product, Engineering, Product Marketing, and business teams to support complex measurement initiatives, contribute to shared standards and best practices, and evaluate the application of emerging methodologies. The ideal candidate brings strong analytical judgment and measurement expertise, with the ability to connect technical and business perspectives, provide thoughtful guidance, and collaborate with cross-functional measurement teams to translate complex analytical challenges into practical business solutions.\n  \n**About the team:**\n  \nThe Media Insights team delivers actionable insights to optimize investments with Walmart Connect. By analyzing media performance, the team supports agencies, technology partners, and advertisers in enhancing strategies and driving growth. Utilizing advanced data analysis, statistical methods, and predictive modeling, the team transforms complex data into clear, market-facing insights. Collaborating across functions, they ensure data quality and effective model deployment to support business decisions. This team plays a vital role in enabling data-driven strategies that maximize value and impact for Walmart’s advertising partners.\n  \n**What you'll do:**\n  \n\n* Partner on high-priority measurement and methodology initiatives, bringing a focus on analytical rigor, consistency, scalability, interpretability, and appropriate use.\n* Collaborate with subject matter experts to evaluate measurement approaches and provide structured, evidence-based recommendations on their application.\n* Help identify methodological risks, limitations, inconsistencies, and opportunities to strengthen existing approaches.\n* Develop and refine practical frameworks and decision criteria in partnership with relevant teams to help teams consistently evaluate and apply measurement methodologies.\n* Serve as a trusted resource for complex measurement questions, partnering with relevant subject matter experts to develop recommendations and resolve issues.\n\n  \n**What you'll bring:**\n  \n\n* Significant experience in measurement, data science, advanced analytics, econometrics, quantitative strategy, or a related field.\n* Experience with multiple measurement approaches such as causal inference, experimentation, incrementality, attribution, media mix modeling, or related techniques.\n* Demonstrated ability to understand the assumptions, strengths, limitations, and appropriate applications of analytical methodologies.\n* Strong proficiency in programming languages such as Python and SQL for data analysis and model development.\n* Expertise in managing complex ambiguous projects end-to-end, including risk management and change management.\n* Ability to collaborate effectively with cross-functional teams and senior leadership to deliver actionable insights.\n* Excellent communication skills to influence and guide stakeholders through analytical findings and recommendations.\n\nAt Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\n  \nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\n  \nFor information about benefits and eligibility, see One.Walmart.\n  \nSan Bruno, California US-08848: The annual salary range for this position is $143,000.00 - $286,000.00\n  \nHoboken, New Jersey US-10279: The annual salary range for this position is $132,000.00 - $264,000.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :\n  \n\n* Stock\n\nㅤ\n\nㅤ\n\nㅤ\n\nㅤ\n\n‎\n\n**Minimum Qualifications...**\n-----------------------------\n\n*Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.*\n\nOption 1: Bachelors degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field and 4 years' experience in an analytics related field. Option 2: Masters degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field and 2 years' experience in an analytics related field. Option 3: 6 years' experience in an analytics or related field\n\n**Preferred Qualifications...**\n-------------------------------\n\n*Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferr",
-      "salary": "$132k–$286k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 27.702,
-        "city": "san bruno",
-        "latitude": 37.62556,
-        "longitude": -122.431397,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    }
-  ],
+  "new_jobs": [],
   "remote_jobs": [],
   "ambiguous_jobs": [
     {
