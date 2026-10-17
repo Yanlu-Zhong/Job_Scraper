@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-10-17 00:42 UTC",
-  "total": 80,
-  "new_count": 29,
+  "scraped_at": "2026-10-17 05:49 UTC",
+  "total": 84,
+  "new_count": 4,
   "scrape_status": {
     "status": "success",
-    "raw_rows": 326,
+    "raw_rows": 296,
     "queries": 24,
     "batch": 5,
     "batches": 5,
@@ -1395,34 +1395,89 @@
         "longitude": -122.148055,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
+    },
+    {
+      "company": "Bosch USA",
+      "title": "Research Scientist- Robotics AI",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473082519/",
+      "date_posted": "2026-10-17",
+      "salary": "$165,000 - $185,000",
+      "ats": "LinkedIn",
+      "description": "Company Description\n\nThe Bosch Research and Technology Center North America with offices in Sunnyvale, California, Pittsburgh, Pennsylvania, and Cambridge, Massachusetts is a part of the global Bosch Group (www.bosch.com), a company with over 70 billion euro revenue, 400,000 employees worldwide, a very diverse product portfolio, and a history spanning over 125 years. The Research and Technology Center North America (RTC-NA) is dedicated to providing technologies and system solutions for various Bosch business fields, primarily in the field of artificial intelligence, energy technologies, internet technologies, circuit design, semiconductors and wireless, as well as advanced MEMS design.\n\nAs a part of the global research, our AI research in Silicon Valley focuses on Foundation Models, Big Data Visual Analytics, Explainable AI (XAI), Natural Language Processing, Computer Vision & Mixed Reality, Cloud Robotics, Data Science, AI System Engineering, Time-series Analysis. We develop scalable, intelligent, and trustworthy AIoT solutions for Bosch products and services in application areas such as automated driving, advanced driver assistance systems (ADAS), robotics, smart manufacturing, enterprise AI, health care, smart home and building solutions.\n\nOriginating from the AI research in Silicon Valley, our Intelligent Autonomous Systems group is responsible for enabling future autonomous Bosch products by pushing the boundaries of automated driving, advanced driver assistance systems (ADAS), robotics and automation through key innovations that encompass system architecture and AI components. These include methods for motion planning, high level task planning and decision making as well as systems for making these technologies work on real products by building frameworks that take advantage of technologies in the field of reliable distributed computing. We work with internal partners of different Bosch business units to transfer our solutions into future products. We also actively collaborate with leading groups in academia and industry to promote research ideas and publish research findings in internationally renowned conferences and journals such as CVPR, ICRA, IROS, RSS, NeurIPS and CoRL.\n\nJob Description\n\nAs a Research Scientist- Robotics AI, you contribute to research projects at the forefront of the ADAS/AD industry. Key responsibilities include:\n\nConduct research and engineering in core AI and machine learning fields to enable Embodied AI (including computer vision, autonomous planning, open-world learning, and so on) for related business domains of ADAS/AD, industrial automation, robotics etc.\nPush the boundaries in AI based Robotics, incorporating advancements in large vision-language-(action) models to aid reasoning capabilities and explainability.\nCollaborate cross-functionally with global research and engineering teams to ensure seamless technology transfer and system integration.\nImplement research results to solve real-world challenges, ensuring high-quality system integration within Bosch's existing platforms.\nStay at the forefront of innovation by actively engaging with academic and industry communities through conferences, workshops, and technical events.\nDocument and disseminate research findings through high-caliber publications and/or patent submissions.\n\nQualifications\n\nBasic Qualifications\n\nPh.D. in Computer Science, Robotics or a related discipline or Master's degree with >= 2 years industry experience after graduation.\nA minimum of 3 years of R&D experience, or an equivalent graduate research background, primarily in AI technologies including Computer Vision and Robotic or Automotive Motion and Behavioral Planning.\nProficiency in one or more programming languages commonly used in machine learning (e.g., Python, C++, Rust).\nStrong interpersonal, communication, and teamwork capabilities.\nKnowledge of major machine learning frameworks like TensorFlow or PyTorch.\nHands-on experience in reinforcement learning for behavior or motion planning or other applicable contexts and familiarity with common RL techniques (e.g. PPO, DQN, DDPG).\nA strong portfolio of publications in premier machine learning, deep learning, robotics and computer vision journals and conferences.\n\nPreferred Qualifications\n\nExperience with real-world product development and deployment of autonomous systems.\nHands-on experience building and applying multimodal transformer-based sequence-to-sequence models, especially multimodal vision-language-action models.\nHands-on experience in computer vision and deep learning, with work in any of the following areas: multimodal transformers, multimodal language models, diffusion models, NeRF, gaussian splatting, object detection / segmentation, 3D scene understanding, sensor calibration, SfM, voxel/BEV grid-based feature representation.\n\nAdditional Information\n\nWe offer a competitive base salary for this position with a range in US-California of --$165,000 - $185,000 along with an annual corporate bonus, and a long-term incentive bonus designed to reward sustained impact and contribution over time. Within the salary range, the individual pay is determined based on several factors, including, but not limited to, work experience and job knowledge, complexity of the role, job location, etc.\n\nYour well-being matters at Bosch! We offer a a benefits package designed to empower you in every area of your life. This includes premium health coverage, a 401(k) with generous matching, resources for financial planning and goal setting, ample paid time off, parental leave, and comprehensive life and disability protection. Your Recruiter can share more details for this position during the interview process.\n\nLearn more about our full benefits offerings by visiting: https://www.myboschbenefits.com/public/welcome.\n\nEqual Opportunity Employer, including disability / veterans.\n\nBosch adheres to Federal, State, and Local laws regarding drug-testing. Employment is contingent upon the successful completion of a drug screen and background check. Candidates who have been offered the position must pass both screenings before their start date.\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nIndustries\n\nResearch",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "TikTok",
+      "title": "Data Scientist (Quant Modeling) - TikTok",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4479658693/",
+      "date_posted": "2026-10-17",
+      "salary": "$136800 - $277200 annually",
+      "ats": "LinkedIn",
+      "description": "Responsibilities\n\nThe Product Data Analytics Team analyzes a combination of product usage and product performance data to derive meaningful insights that would serve as a guide to better product and decision making for our business leaders.\nAs a member of the data science team, you will work with diverse and highly collaborative teams of product managers, engineers, and other data analysts to drive product impact. You will be working on exciting and challenging projects, and convert the insights into real changes, for both new initiatives and scaled products. You are a self-starter who is excited about data, excels in product logic thinking, clear communication, and brings distinctive problem-solving skills and impeccable quantitative modeling experience.\n\nAs a Data Scientist, you will be working on designing and monitoring core metrics, identifying the root causes for metric movements through deep dive into the models. The role will cover a wide range of model-driven solutions to deliver superior business outcomes through research and analyses. In particular, this role will leverage the causal structure of user behavior, identify trends and opportunities for user growth and great ecosystem, and guide the product team to make best decisions.\n\nResponsibilities\n- Leverage data to solve challenging business problems from full-spectrum of product and business lines, using analytical and statistical approaches.\n- Build and improve applicable statistical models, e.g. LTV and ROI prediction, to guide user growth-related decisions.\n- Initiate model-driven analysis to provide deep insights into various products. Catch the common rule of problems and establish the inter-product analytic paradigm.\n- Work with Product, Operations, Engineering and cross-functional teams to drive product development through analytic, statistical, and algorithmic expertise\n- Design, run and analyze A/B experiments to inform and execute the product strategy, and ultimately improve the product and support business decisions.\n\nQualifications\n\nMinimum Qualifications\n- Bachelor's degree in a quantitative discipline (e.g. Statistics, Operations Research, Computational Biology, Computer Science, Mathematics, Economics).\n- 2+ years of experience in statistical modeling (Regression, Classification, Clustering, etc.) and machine learning (deep learning), and experience in user-level modeling\n- Ability to conduct rigorous analysis and communicate conclusions to both technical and non-technical audiences\n- Proficiency in SQL, Python/R\n\nPreferred Qualifications\n- Solid communication and collaboration skills with the ability to work effectively with internal teams in a diversified environment\n- Passion for the Internet industry and data analysis.\n- Self-starter with the ability to acquire an in-depth understanding of the relation between data and user experience/product growth.\n\nAbout TikTok\n\nTikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and we also have offices in New York City, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.​\n\nWhy Join Us\n\nInspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and bring joy - a mission we work towards every day.​\nWe strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. Every challenge is an opportunity to learn and innovate as one team. We're resilient and embrace challenges as they come. By constantly iterating and fostering an \"Always Day 1\" mindset, we achieve meaningful breakthroughs for ourselves, our company, and our users. When we create and grow together, the possibilities are limitless. Join us.​\n​\nDiversity & Inclusion​\nTikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.​\n\nTikTok Accommodation\n\nTikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://tinyurl.com/RA-request​\n\nJob Information\n\n【For Pay Transparency】Compensation Description (Annually)\nThe base salary range for this position in the selected city is $136800 - $277200 annually.​\nCompensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.​\nBenefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short-term and long-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).​\nThe Company reserves the right to modify or change these benefits programs at any time, with or without notice.​\nFor Los Angeles County (unincorporated) Candidates:​\nQualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:​\n1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;​\n2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and​\n3. Exercising sound judgment.​\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSocial Networking Platforms",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 13.183,
+        "city": "san jose",
+        "latitude": 37.296011,
+        "longitude": -121.814552,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "PwC",
+      "title": "AI & GenAI Data Scientist-Senior Associate",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480575938/",
+      "date_posted": "2026-10-17",
+      "salary": "$77,000 - $202,000",
+      "ats": "LinkedIn",
+      "description": "The Opportunity\n\nAs an AI & GenAI Data Scientist-Senior Associate you will leverage advanced analytics, statistical modeling, exploratory analysis, and data visualization to help solve business problems and inform decisions within our Data and Analytics Engineering practice. As a Senior Associate you will analyze complex problems, manage assigned workstreams, build meaningful client connections, and guide junior team members while navigating ambiguity and deepening your technical skills.\n\nIn this role at PwC, you will contribute to AI-driven automation and cognitive solutions by turning large datasets into insights, supporting data-driven decision making, and developing deliverables that align with client needs and broader project objectives.\n\nResponsibilities\n\nAnalyzing complex client problems using statistical modeling, exploratory analysis, and data visualization techniques\nDeveloping data science workflows that translate large data sets into actionable insights for business decisions\nBuilding machine learning and predictive modeling solutions using Python, R, TensorFlow, or Scikit-learn\nCollaborating on AI and GenAI use cases that support data-driven transformation and advanced analytics delivery\nDesigning, testing, and refining data models, data pipelines, and data quality checks for analytical solutions\nInterpreting results and recommendations for client teams through clear technical documentation and visual storytelling\nApplying AI fluency, analytical thinking, and data mining skills to identify patterns, risks, and opportunities\nMentoring junior team members, reviewing assigned deliverables, and supporting their growth in technical skills\nManaging assigned workstreams while adapting to changing priorities, ambiguity, and client needs\n\nWhat You Must Have\n\nAt least a Bachelor's degree\nAt least 3 years of experience\n\nWhat Sets You Apart\n\nPreference for at least one of the following fields of study: Accounting, Analytics/Data Science, Artificial Intelligence/Robotics, Business Administration/Management, Computer Science/Information Systems, Cybersecurity, Engineering, Mathematics/Statistics, Operations/Supply Chain, Project/Technology Management, Risk Management/Insurance\nDemonstrating AI and GenAI data science project delivery in client settings\nApplying machine learning, NLP, and statistical analysis methods\nInterpreting complex data to shape recommendations and insights\nCollaborating across teams while managing ambiguity and shifting priorities\nMentoring junior team members and reviewing workstream deliverables\n\nThe salary range for this position is: $77,000 - $202,000. Actual compensation within the range will be dependent upon the individual's skills, experience, qualifications and location, and applicable employment laws. All hired individuals are eligible for an annual discretionary bonus. PwC offers a wide range of benefits, including medical, dental, vision, 401k, holiday pay, vacation, personal and family sick leave, and more. To view our benefits at a glance, please visit the following link: https://pwc.to/benefits-at-a-glance\n\nAs PwC is an equal opportunity employer, all qualified applicants will receive consideration for employment at PwC without regard to race; color; religion; national origin; sex (including pregnancy, sexual orientation, and gender identity); age; disability; genetic information (including family medical history); veteran, marital, or citizenship status; or, any other status protected by law. \n\nPwC does not intend to hire experienced or entry level job seekers who will need, now or in the future, PwC sponsorship through the H-1B lottery, except as set forth within the following policy: https://pwc.to/H-1B-Lottery-Policy.\n\nLearn more about how we work: https://pwc.to/how-we-work\n\nFor only those qualified applicants that are impacted by the Los Angeles County Fair Chance Ordinance for Employers, the Los Angeles' Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, San Diego County Fair Chance Ordinance, and the California Fair Chance Act, where applicable, arrest or conviction records will be considered for Employment in accordance with these laws. At PwC, we recognize that conviction records may have a direct, adverse, and negative relationship to responsibilities such as accessing sensitive company or customer information, handling proprietary assets, or collaborating closely with team members. We evaluate these factors thoughtfully to establish a secure and trusted workplace for all.\n\nApplications will be accepted until the position is filled or the posting is removed, unless otherwise set forth on the following webpage. Please visit this link for information about anticipated application deadlines: https://pwc.to/us-application-deadlines\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nIndustries\n\nAccounting, Financial Services, and Business Consulting and Services",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "HDR",
+      "title": "Applied Data Scientist - AI Enablement (Transportation)",
+      "location": "Walnut Creek, CA",
+      "url": "https://www.linkedin.com/jobs/view/4479620365/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 35.721,
+        "city": "walnut creek",
+        "latitude": 37.902666,
+        "longitude": -122.040479,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
     }
   ],
   "new_jobs": [
     {
-      "company": "Scion Technology Staffing",
-      "title": "Founding Research Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479628484/",
-      "date_posted": "2026-10-16",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Amazon Science",
-      "title": "Applied Scientist, Fauna Robotics",
+      "company": "Bosch USA",
+      "title": "Research Scientist- Robotics AI",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477722946/",
-      "date_posted": "2026-10-16",
-      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/4473082519/",
+      "date_posted": "2026-10-17",
+      "salary": "$165,000 - $185,000",
       "ats": "LinkedIn",
+      "description": "Company Description\n\nThe Bosch Research and Technology Center North America with offices in Sunnyvale, California, Pittsburgh, Pennsylvania, and Cambridge, Massachusetts is a part of the global Bosch Group (www.bosch.com), a company with over 70 billion euro revenue, 400,000 employees worldwide, a very diverse product portfolio, and a history spanning over 125 years. The Research and Technology Center North America (RTC-NA) is dedicated to providing technologies and system solutions for various Bosch business fields, primarily in the field of artificial intelligence, energy technologies, internet technologies, circuit design, semiconductors and wireless, as well as advanced MEMS design.\n\nAs a part of the global research, our AI research in Silicon Valley focuses on Foundation Models, Big Data Visual Analytics, Explainable AI (XAI), Natural Language Processing, Computer Vision & Mixed Reality, Cloud Robotics, Data Science, AI System Engineering, Time-series Analysis. We develop scalable, intelligent, and trustworthy AIoT solutions for Bosch products and services in application areas such as automated driving, advanced driver assistance systems (ADAS), robotics, smart manufacturing, enterprise AI, health care, smart home and building solutions.\n\nOriginating from the AI research in Silicon Valley, our Intelligent Autonomous Systems group is responsible for enabling future autonomous Bosch products by pushing the boundaries of automated driving, advanced driver assistance systems (ADAS), robotics and automation through key innovations that encompass system architecture and AI components. These include methods for motion planning, high level task planning and decision making as well as systems for making these technologies work on real products by building frameworks that take advantage of technologies in the field of reliable distributed computing. We work with internal partners of different Bosch business units to transfer our solutions into future products. We also actively collaborate with leading groups in academia and industry to promote research ideas and publish research findings in internationally renowned conferences and journals such as CVPR, ICRA, IROS, RSS, NeurIPS and CoRL.\n\nJob Description\n\nAs a Research Scientist- Robotics AI, you contribute to research projects at the forefront of the ADAS/AD industry. Key responsibilities include:\n\nConduct research and engineering in core AI and machine learning fields to enable Embodied AI (including computer vision, autonomous planning, open-world learning, and so on) for related business domains of ADAS/AD, industrial automation, robotics etc.\nPush the boundaries in AI based Robotics, incorporating advancements in large vision-language-(action) models to aid reasoning capabilities and explainability.\nCollaborate cross-functionally with global research and engineering teams to ensure seamless technology transfer and system integration.\nImplement research results to solve real-world challenges, ensuring high-quality system integration within Bosch's existing platforms.\nStay at the forefront of innovation by actively engaging with academic and industry communities through conferences, workshops, and technical events.\nDocument and disseminate research findings through high-caliber publications and/or patent submissions.\n\nQualifications\n\nBasic Qualifications\n\nPh.D. in Computer Science, Robotics or a related discipline or Master's degree with >= 2 years industry experience after graduation.\nA minimum of 3 years of R&D experience, or an equivalent graduate research background, primarily in AI technologies including Computer Vision and Robotic or Automotive Motion and Behavioral Planning.\nProficiency in one or more programming languages commonly used in machine learning (e.g., Python, C++, Rust).\nStrong interpersonal, communication, and teamwork capabilities.\nKnowledge of major machine learning frameworks like TensorFlow or PyTorch.\nHands-on experience in reinforcement learning for behavior or motion planning or other applicable contexts and familiarity with common RL techniques (e.g. PPO, DQN, DDPG).\nA strong portfolio of publications in premier machine learning, deep learning, robotics and computer vision journals and conferences.\n\nPreferred Qualifications\n\nExperience with real-world product development and deployment of autonomous systems.\nHands-on experience building and applying multimodal transformer-based sequence-to-sequence models, especially multimodal vision-language-action models.\nHands-on experience in computer vision and deep learning, with work in any of the following areas: multimodal transformers, multimodal language models, diffusion models, NeRF, gaussian splatting, object detection / segmentation, 3D scene understanding, sensor calibration, SfM, voxel/BEV grid-based feature representation.\n\nAdditional Information\n\nWe offer a competitive base salary for this position with a range in US-California of --$165,000 - $185,000 along with an annual corporate bonus, and a long-term incentive bonus designed to reward sustained impact and contribution over time. Within the salary range, the individual pay is determined based on several factors, including, but not limited to, work experience and job knowledge, complexity of the role, job location, etc.\n\nYour well-being matters at Bosch! We offer a a benefits package designed to empower you in every area of your life. This includes premium health coverage, a 401(k) with generous matching, resources for financial planning and goal setting, ample paid time off, parental leave, and comprehensive life and disability protection. Your Recruiter can share more details for this position during the interview process.\n\nLearn more about our full benefits offerings by visiting: https://www.myboschbenefits.com/public/welcome.\n\nEqual Opportunity Employer, including disability / veterans.\n\nBosch adheres to Federal, State, and Local laws regarding drug-testing. Employment is contingent upon the successful completion of a drug screen and background check. Candidates who have been offered the position must pass both screenings before their start date.\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nIndustries\n\nResearch",
       "geography": {
         "status": "in_radius",
         "distance_miles": 0.0,
@@ -1433,183 +1488,14 @@
       }
     },
     {
-      "company": "Amazon Science",
-      "title": "Senior Applied Scientist, Fauna",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477741151/",
-      "date_posted": "2026-10-16",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 0.0,
-        "city": "sunnyvale",
-        "latitude": 37.385797,
-        "longitude": -122.026316,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Adobe",
-      "title": "Data Scientist, Adobe.com",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4470064847/",
-      "date_posted": "2026-10-16",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Sony Interactive Entertainment",
-      "title": "Senior Data Scientist -  Experimentation & Measurement",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412033957/",
-      "date_posted": "2026-10-16",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 19.708,
-        "city": "san mateo",
-        "latitude": 37.56031,
-        "longitude": -122.3106,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "DoorDash",
-      "title": "Data Scientist / Senior Data Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/3987286123/",
-      "date_posted": "2026-10-16",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Square",
-      "title": "Staff Data Scientist, Pricing",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4441069940/",
-      "date_posted": "2026-10-16",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "EXL",
-      "title": "Senior Data Scientist- Marketing Analytics",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479380496/",
-      "date_posted": "2026-10-16",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Walmart Connect",
-      "title": "(USA) Staff, Data Scientist",
-      "location": "San Bruno, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477728821/",
-      "date_posted": "2026-10-16",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 27.702,
-        "city": "san bruno",
-        "latitude": 37.62556,
-        "longitude": -122.431397,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Harvey",
-      "title": "Data Scientist, Product",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4429399199/",
-      "date_posted": "2026-10-16",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Amazon Science",
-      "title": "Applied Scientist, Amazon Ads",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477735411/",
-      "date_posted": "2026-10-16",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Roblox",
-      "title": "Senior Data Scientist, Engine Infra",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4470042476/",
-      "date_posted": "2026-10-16",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 19.708,
-        "city": "san mateo",
-        "latitude": 37.56031,
-        "longitude": -122.3106,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Data Scientist, CapCut - USDS",
+      "company": "TikTok",
+      "title": "Data Scientist (Quant Modeling) - TikTok",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480525377/",
-      "date_posted": "2026-10-16",
-      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/4479658693/",
+      "date_posted": "2026-10-17",
+      "salary": "$136800 - $277200 annually",
       "ats": "LinkedIn",
+      "description": "Responsibilities\n\nThe Product Data Analytics Team analyzes a combination of product usage and product performance data to derive meaningful insights that would serve as a guide to better product and decision making for our business leaders.\nAs a member of the data science team, you will work with diverse and highly collaborative teams of product managers, engineers, and other data analysts to drive product impact. You will be working on exciting and challenging projects, and convert the insights into real changes, for both new initiatives and scaled products. You are a self-starter who is excited about data, excels in product logic thinking, clear communication, and brings distinctive problem-solving skills and impeccable quantitative modeling experience.\n\nAs a Data Scientist, you will be working on designing and monitoring core metrics, identifying the root causes for metric movements through deep dive into the models. The role will cover a wide range of model-driven solutions to deliver superior business outcomes through research and analyses. In particular, this role will leverage the causal structure of user behavior, identify trends and opportunities for user growth and great ecosystem, and guide the product team to make best decisions.\n\nResponsibilities\n- Leverage data to solve challenging business problems from full-spectrum of product and business lines, using analytical and statistical approaches.\n- Build and improve applicable statistical models, e.g. LTV and ROI prediction, to guide user growth-related decisions.\n- Initiate model-driven analysis to provide deep insights into various products. Catch the common rule of problems and establish the inter-product analytic paradigm.\n- Work with Product, Operations, Engineering and cross-functional teams to drive product development through analytic, statistical, and algorithmic expertise\n- Design, run and analyze A/B experiments to inform and execute the product strategy, and ultimately improve the product and support business decisions.\n\nQualifications\n\nMinimum Qualifications\n- Bachelor's degree in a quantitative discipline (e.g. Statistics, Operations Research, Computational Biology, Computer Science, Mathematics, Economics).\n- 2+ years of experience in statistical modeling (Regression, Classification, Clustering, etc.) and machine learning (deep learning), and experience in user-level modeling\n- Ability to conduct rigorous analysis and communicate conclusions to both technical and non-technical audiences\n- Proficiency in SQL, Python/R\n\nPreferred Qualifications\n- Solid communication and collaboration skills with the ability to work effectively with internal teams in a diversified environment\n- Passion for the Internet industry and data analysis.\n- Self-starter with the ability to acquire an in-depth understanding of the relation between data and user experience/product growth.\n\nAbout TikTok\n\nTikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and we also have offices in New York City, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.​\n\nWhy Join Us\n\nInspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and bring joy - a mission we work towards every day.​\nWe strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. Every challenge is an opportunity to learn and innovate as one team. We're resilient and embrace challenges as they come. By constantly iterating and fostering an \"Always Day 1\" mindset, we achieve meaningful breakthroughs for ourselves, our company, and our users. When we create and grow together, the possibilities are limitless. Join us.​\n​\nDiversity & Inclusion​\nTikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.​\n\nTikTok Accommodation\n\nTikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://tinyurl.com/RA-request​\n\nJob Information\n\n【For Pay Transparency】Compensation Description (Annually)\nThe base salary range for this position in the selected city is $136800 - $277200 annually.​\nCompensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.​\nBenefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short-term and long-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).​\nThe Company reserves the right to modify or change these benefits programs at any time, with or without notice.​\nFor Los Angeles County (unincorporated) Candidates:​\nQualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:​\n1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;​\n2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and​\n3. Exercising sound judgment.​\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSocial Networking Platforms",
       "geography": {
         "status": "in_radius",
         "distance_miles": 13.183,
@@ -1620,13 +1506,14 @@
       }
     },
     {
-      "company": "Strava",
-      "title": "Lead Data Scientist, Inference",
+      "company": "PwC",
+      "title": "AI & GenAI Data Scientist-Senior Associate",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460434062/",
-      "date_posted": "2026-10-16",
-      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/4480575938/",
+      "date_posted": "2026-10-17",
+      "salary": "$77,000 - $202,000",
       "ats": "LinkedIn",
+      "description": "The Opportunity\n\nAs an AI & GenAI Data Scientist-Senior Associate you will leverage advanced analytics, statistical modeling, exploratory analysis, and data visualization to help solve business problems and inform decisions within our Data and Analytics Engineering practice. As a Senior Associate you will analyze complex problems, manage assigned workstreams, build meaningful client connections, and guide junior team members while navigating ambiguity and deepening your technical skills.\n\nIn this role at PwC, you will contribute to AI-driven automation and cognitive solutions by turning large datasets into insights, supporting data-driven decision making, and developing deliverables that align with client needs and broader project objectives.\n\nResponsibilities\n\nAnalyzing complex client problems using statistical modeling, exploratory analysis, and data visualization techniques\nDeveloping data science workflows that translate large data sets into actionable insights for business decisions\nBuilding machine learning and predictive modeling solutions using Python, R, TensorFlow, or Scikit-learn\nCollaborating on AI and GenAI use cases that support data-driven transformation and advanced analytics delivery\nDesigning, testing, and refining data models, data pipelines, and data quality checks for analytical solutions\nInterpreting results and recommendations for client teams through clear technical documentation and visual storytelling\nApplying AI fluency, analytical thinking, and data mining skills to identify patterns, risks, and opportunities\nMentoring junior team members, reviewing assigned deliverables, and supporting their growth in technical skills\nManaging assigned workstreams while adapting to changing priorities, ambiguity, and client needs\n\nWhat You Must Have\n\nAt least a Bachelor's degree\nAt least 3 years of experience\n\nWhat Sets You Apart\n\nPreference for at least one of the following fields of study: Accounting, Analytics/Data Science, Artificial Intelligence/Robotics, Business Administration/Management, Computer Science/Information Systems, Cybersecurity, Engineering, Mathematics/Statistics, Operations/Supply Chain, Project/Technology Management, Risk Management/Insurance\nDemonstrating AI and GenAI data science project delivery in client settings\nApplying machine learning, NLP, and statistical analysis methods\nInterpreting complex data to shape recommendations and insights\nCollaborating across teams while managing ambiguity and shifting priorities\nMentoring junior team members and reviewing workstream deliverables\n\nThe salary range for this position is: $77,000 - $202,000. Actual compensation within the range will be dependent upon the individual's skills, experience, qualifications and location, and applicable employment laws. All hired individuals are eligible for an annual discretionary bonus. PwC offers a wide range of benefits, including medical, dental, vision, 401k, holiday pay, vacation, personal and family sick leave, and more. To view our benefits at a glance, please visit the following link: https://pwc.to/benefits-at-a-glance\n\nAs PwC is an equal opportunity employer, all qualified applicants will receive consideration for employment at PwC without regard to race; color; religion; national origin; sex (including pregnancy, sexual orientation, and gender identity); age; disability; genetic information (including family medical history); veteran, marital, or citizenship status; or, any other status protected by law. \n\nPwC does not intend to hire experienced or entry level job seekers who will need, now or in the future, PwC sponsorship through the H-1B lottery, except as set forth within the following policy: https://pwc.to/H-1B-Lottery-Policy.\n\nLearn more about how we work: https://pwc.to/how-we-work\n\nFor only those qualified applicants that are impacted by the Los Angeles County Fair Chance Ordinance for Employers, the Los Angeles' Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, San Diego County Fair Chance Ordinance, and the California Fair Chance Act, where applicable, arrest or conviction records will be considered for Employment in accordance with these laws. At PwC, we recognize that conviction records may have a direct, adverse, and negative relationship to responsibilities such as accessing sensitive company or customer information, handling proprietary assets, or collaborating closely with team members. We evaluate these factors thoughtfully to establish a secure and trusted workplace for all.\n\nApplications will be accepted until the position is filled or the posting is removed, unless otherwise set forth on the following webpage. Please visit this link for information about anticipated application deadlines: https://pwc.to/us-application-deadlines\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nIndustries\n\nAccounting, Financial Services, and Business Consulting and Services",
       "geography": {
         "status": "in_radius",
         "distance_miles": 59.936,
@@ -1637,257 +1524,19 @@
       }
     },
     {
-      "company": "Walmart Global Tech",
-      "title": "(USA) Staff, Data Scientist",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4444082495/",
+      "company": "HDR",
+      "title": "Applied Data Scientist - AI Enablement (Transportation)",
+      "location": "Walnut Creek, CA",
+      "url": "https://www.linkedin.com/jobs/view/4479620365/",
       "date_posted": "2026-10-16",
       "salary": "",
       "ats": "LinkedIn",
       "geography": {
         "status": "in_radius",
-        "distance_miles": 0.0,
-        "city": "sunnyvale",
-        "latitude": 37.385797,
-        "longitude": -122.026316,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "AbbVie",
-      "title": "Data Scientist - Trial Surveillance & Analytics (Hybrid)",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479377874/",
-      "date_posted": "2026-10-16",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 26.72,
-        "city": "south san francisco",
-        "latitude": 37.655104,
-        "longitude": -122.376234,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Meta",
-      "title": "UX Researcher, Quantitative",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4450466963/",
-      "date_posted": "2026-10-16",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 9.313,
-        "city": "menlo park",
-        "latitude": 37.479731,
-        "longitude": -122.148055,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "TikTok USDS Joint Venture",
-      "title": "UX Researcher - Ads - USDS",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480530181/",
-      "date_posted": "2026-10-16",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 13.183,
-        "city": "san jose",
-        "latitude": 37.296011,
-        "longitude": -121.814552,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Walmart",
-      "title": "(USA) Staff, Data Scientist",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4459998683/",
-      "date_posted": "2026-10-16",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 0.0,
-        "city": "sunnyvale",
-        "latitude": 37.385797,
-        "longitude": -122.026316,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Mind Robotics",
-      "title": "Research Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479330746/",
-      "date_posted": "2026-10-16",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 6.453,
-        "city": "palo alto",
-        "latitude": 37.39652,
-        "longitude": -122.143088,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Fanatics",
-      "title": "Senior Data Scientist – Commerce Supply Chain Optimization",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4452781604/",
-      "date_posted": "2026-10-16",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 13.625,
-        "city": "redwood city",
-        "latitude": 37.515274,
-        "longitude": -122.213672,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Amazon Science",
-      "title": "Data Scientist II - AMZ10564077",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477725863/",
-      "date_posted": "2026-10-16",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 0.0,
-        "city": "sunnyvale",
-        "latitude": 37.385797,
-        "longitude": -122.026316,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Amazon Science",
-      "title": "Sr. Applied Scientist, Prime Video - Personalization and Discovery Science",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477731703/",
-      "date_posted": "2026-10-16",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 0.0,
-        "city": "sunnyvale",
-        "latitude": 37.385797,
-        "longitude": -122.026316,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Prime Intellect",
-      "title": "Research Engineer - Pretraining Data",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480508098/",
-      "date_posted": "2026-10-16",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Salesforce",
-      "title": "Applied Research Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426394444/",
-      "date_posted": "2026-10-16",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Genentech",
-      "title": "Senior / Principal Machine Learning Scientist, Scientific Reasoning Models, AI for Drug Discovery",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4398021513/",
-      "date_posted": "2026-10-16",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 26.72,
-        "city": "south san francisco",
-        "latitude": 37.655104,
-        "longitude": -122.376234,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Mercury",
-      "title": "Staff Data Scientist - Risk ML",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4459975955/",
-      "date_posted": "2026-10-16",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Google",
-      "title": "Product Data Scientist, YouTube Search and Viewer AI",
-      "location": "San Bruno, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479355190/",
-      "date_posted": "2026-10-16",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 27.702,
-        "city": "san bruno",
-        "latitude": 37.62556,
-        "longitude": -122.431397,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Meta",
-      "title": "Data Scientist, Infrastructure Finance",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469758532/",
-      "date_posted": "2026-10-16",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 9.313,
-        "city": "menlo park",
-        "latitude": 37.479731,
-        "longitude": -122.148055,
+        "distance_miles": 35.721,
+        "city": "walnut creek",
+        "latitude": 37.902666,
+        "longitude": -122.040479,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
     }
@@ -2196,12 +1845,70 @@
         "distance_miles": null,
         "reason": "An unambiguous city and state are required."
       }
+    },
+    {
+      "company": "Circle",
+      "title": "Senior Data Scientist",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4477740726/",
+      "date_posted": "2026-10-17",
+      "salary": "$152,500 - $205,000",
+      "ats": "LinkedIn",
+      "description": "Circle (NYSE: CRCL) is one of the world’s leading internet financial platform companies, building the foundation of a more open, global economy through digital assets, payment applications, and programmable blockchain infrastructure. Circle’s platform includes the world’s largest regulated stablecoin network anchored by USDC, Circle Payments Network for global money movement, and Arc, an enterprise-grade blockchain designed to become the Economic OS for the internet. Enterprises, financial institutions, and developers use Circle to power trusted, internet-scale financial innovation. Learn more at circle.com.\n\nWhat You’ll Be Part Of\n\nCircle is committed to visibility and stability in everything we do. As we grow as an organization, we're expanding into some of the world's strongest jurisdictions. Speed and efficiency are motivators for our success and our employees live by our company values: High Integrity, Future Forward, Multistakeholder, Mindful, and Driven by Excellence. We have built a flexible work environment where new ideas are encouraged and everyone is a stakeholder.\n\nAbout The Role\n\nAs Circle expands the customers and payment methods it serves, our fraud exposure grows and changes. We rely on conservative limits and third-party models today, and we are building our own.\n\nAs a Senior Data Scientist on Fraud Analytics, you will own the prediction side of our fraud loop. You will turn labels into features and models, measure their accuracy, and shift Circle from vendor scores to in-house models. You will work with Fraud Strategy, Fraud Operations, Risk Engineering, and Compliance.\n\nWhat You’ll Do\n\nBuild and evaluate fraud models for onboarding, login, account changes, and money movement. Target risks include account takeover, scams, money mules, and stolen and synthetic identity.\nEvaluate third-party risk signals and design the path from vendor models to Circle models, from shadow mode to production.\nDefine the label taxonomy and data requirements with Fraud Operations and Risk Engineering, so every event, decision, and outcome becomes training data. This includes the fraud we miss.\nDesign holdout and exploration sampling to measure false negatives and the rate at which we wrongly block good customers.\nTrack fraud rate, dispute rate, fraud loss rate, and precision across customer segments. Help set thresholds against an agreed loss budget.\nWork with Fraud Strategy to tune thresholds and rules and respond to emerging attacks.\nBacktest, monitor drift, and retrain models on Circle’s fraud platform.\nHelp build AI agent workflows for transaction review, fraud-ring analysis, and rule drafting, and evaluate their accuracy against human labels.\n\nCore Requirements\n\n5+ years in data science or applied ML on fraud, risk, or financial crime\nAdvanced Python and SQL, and experience with XGBoost, LightGBM, or similar\nExperience building models with sparse, delayed, or biased labels, including cold start, reject inference, and chargeback lag\nStrong statistics: anomaly detection, graph or network methods, experimentation, and threshold optimization\nExperience taking models to production and monitoring them\nClear communication with technical and non-technical partners\nComfort working through ambiguity and limited historical data\n\nPreferred Requirements\n\nFintech, payments, crypto, or card fraud experience, including chargebacks and disputes\nExperience with device intelligence, behavioral signals, or consortium data\nFamiliarity with blockchain analytics, AML, and KYC\nExperience evaluating LLM or agent-based review workflows\n\nCircle is on a mission to create an inclusive financial future, with transparency at our core. We consider a wide variety of elements when crafting our compensation ranges and total compensation packages.\n\nStarting pay is determined by various factors, including but not limited to: relevant experience, skill set, qualifications, and other business and organizational needs. Please note that compensation ranges may differ for candidates in other locations.\n\nBase Pay Range: $152,500 - $205,000\n\nWe are an equal opportunity employer\n. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status, or any other protected status required by the laws in the locations where we hire. Additionally, Circle participates in the E-Verify Program in certain locations, as required by law.\n\nShould you require accommodations or assistance in our interview process because of a disability, please reach out to accommodations@circle.com for support. We respect your privacy and will connect with you separately from our interview process to accommodate your needs.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nFinancial Services",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "An unambiguous city and state are required."
+      }
+    },
+    {
+      "company": "PwC",
+      "title": "AI & GenAI Data Scientist-Senior Associate",
+      "location": "Silicon Valley, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480582745/",
+      "date_posted": "2026-10-17",
+      "salary": "$77,000 - $202,000",
+      "ats": "LinkedIn",
+      "description": "The Opportunity\n\nAs an AI & GenAI Data Scientist-Senior Associate you will leverage advanced analytics, statistical modeling, exploratory analysis, and data visualization to help solve business problems and inform decisions within our Data and Analytics Engineering practice. As a Senior Associate you will analyze complex problems, manage assigned workstreams, build meaningful client connections, and guide junior team members while navigating ambiguity and deepening your technical skills.\n\nIn this role at PwC, you will contribute to AI-driven automation and cognitive solutions by turning large datasets into insights, supporting data-driven decision making, and developing deliverables that align with client needs and broader project objectives.\n\nResponsibilities\n\nAnalyzing complex client problems using statistical modeling, exploratory analysis, and data visualization techniques\nDeveloping data science workflows that translate large data sets into actionable insights for business decisions\nBuilding machine learning and predictive modeling solutions using Python, R, TensorFlow, or Scikit-learn\nCollaborating on AI and GenAI use cases that support data-driven transformation and advanced analytics delivery\nDesigning, testing, and refining data models, data pipelines, and data quality checks for analytical solutions\nInterpreting results and recommendations for client teams through clear technical documentation and visual storytelling\nApplying AI fluency, analytical thinking, and data mining skills to identify patterns, risks, and opportunities\nMentoring junior team members, reviewing assigned deliverables, and supporting their growth in technical skills\nManaging assigned workstreams while adapting to changing priorities, ambiguity, and client needs\n\nWhat You Must Have\n\nAt least a Bachelor's degree\nAt least 3 years of experience\n\nWhat Sets You Apart\n\nPreference for at least one of the following fields of study: Accounting, Analytics/Data Science, Artificial Intelligence/Robotics, Business Administration/Management, Computer Science/Information Systems, Cybersecurity, Engineering, Mathematics/Statistics, Operations/Supply Chain, Project/Technology Management, Risk Management/Insurance\nDemonstrating AI and GenAI data science project delivery in client settings\nApplying machine learning, NLP, and statistical analysis methods\nInterpreting complex data to shape recommendations and insights\nCollaborating across teams while managing ambiguity and shifting priorities\nMentoring junior team members and reviewing workstream deliverables\n\nThe salary range for this position is: $77,000 - $202,000. Actual compensation within the range will be dependent upon the individual's skills, experience, qualifications and location, and applicable employment laws. All hired individuals are eligible for an annual discretionary bonus. PwC offers a wide range of benefits, including medical, dental, vision, 401k, holiday pay, vacation, personal and family sick leave, and more. To view our benefits at a glance, please visit the following link: https://pwc.to/benefits-at-a-glance\n\nAs PwC is an equal opportunity employer, all qualified applicants will receive consideration for employment at PwC without regard to race; color; religion; national origin; sex (including pregnancy, sexual orientation, and gender identity); age; disability; genetic information (including family medical history); veteran, marital, or citizenship status; or, any other status protected by law. \n\nPwC does not intend to hire experienced or entry level job seekers who will need, now or in the future, PwC sponsorship through the H-1B lottery, except as set forth within the following policy: https://pwc.to/H-1B-Lottery-Policy.\n\nLearn more about how we work: https://pwc.to/how-we-work\n\nFor only those qualified applicants that are impacted by the Los Angeles County Fair Chance Ordinance for Employers, the Los Angeles' Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, San Diego County Fair Chance Ordinance, and the California Fair Chance Act, where applicable, arrest or conviction records will be considered for Employment in accordance with these laws. At PwC, we recognize that conviction records may have a direct, adverse, and negative relationship to responsibilities such as accessing sensitive company or customer information, handling proprietary assets, or collaborating closely with team members. We evaluate these factors thoughtfully to establish a secure and trusted workplace for all.\n\nApplications will be accepted until the position is filled or the posting is removed, unless otherwise set forth on the following webpage. Please visit this link for information about anticipated application deadlines: https://pwc.to/us-application-deadlines\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nIndustries\n\nAccounting, Financial Services, and Business Consulting and Services",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "City is unknown or has multiple Census locations."
+      }
+    },
+    {
+      "company": "Google",
+      "title": "Staff Data Scientist, Product",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469666899/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "City is unknown or has multiple Census locations."
+      }
+    },
+    {
+      "company": "Deca Talent",
+      "title": "Founding AI Scientist - Security for AI",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4474181488/",
+      "date_posted": "2026-10-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "An unambiguous city and state are required."
+      }
     }
   ],
   "geographic_counts": {
-    "in_radius": 80,
+    "in_radius": 84,
     "remote": 0,
-    "ambiguous": 21,
+    "ambiguous": 25,
     "outside_radius": 0
   }
 }
