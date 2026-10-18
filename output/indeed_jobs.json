@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-18 23:34 UTC",
-  "total": 2,
+  "scraped_at": "2026-10-18 23:40 UTC",
+  "total": 1,
   "new_count": 0,
   "scrape_status": {
     "status": "success",
@@ -34,39 +34,13 @@
         "longitude": -122.044957,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
-    },
-    {
-      "company": "Apple",
-      "title": "Senior ML Research Engineer, Post-Training for Personalization",
-      "location": "Cupertino, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=e58163d9344b2d4f",
-      "direct_url": "https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200689209-0836&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200689209-0836%2Fsenior-ml-research-engineer-post-training-for-personalization%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D5f6af570-caac-11f1-b11f-33e277e81f23%26rx_job%3D200689209-0836%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261018T220404Z%26rx_vp%3Dcpc%26team%3DMLAI",
-      "company_url": "https://www.indeed.com/cmp/Apple",
-      "date_posted": "2026-10-18",
-      "description": "Do you believe generative models can transform creative workflows and smart assistants used by billions of people? Do you envision a future where AI fundamentally reshapes how people interact with their devices and communicate, delivering experiences personalized to their unique needs and preferences? We are part of Apple’s Intelligent System Experience team, where we develop core modeling technologies that translate cutting-edge research into compelling user experiences. Our work spans Apple Intelligence initiatives, including Personalization, Agentic Search, Generative Memories, Visual Generation, and more.  \n  \n**Description**  \n  \nWe are seeking a Staff Research Engineer with a strong track record in developing novel algorithms for LLM post-training to advance personalized intelligence. In this role, you will drive research in post-training methodologies that enable models to better understand individual user needs, adapt to personal context, and deliver more relevant, helpful, and personalized experiences. You will work at the intersection of large language models, multimodal reasoning, personalization, and agentic systems, translating emerging research into scalable, high-quality experiences.  \n  \nKey attributes expected in the role is fluency in algorithm development (prompt optimization and post training), and strong expertise with relevant techniques (reinforcement learning, multimodal reasoning, context compaction / efficiency & memory systems). The role includes the opportunity to partner with world class system engineers to prototype and incorporate bleeding edge algorithmic innovations in the context of emerging agentic experiences. Ability to interface with large scale modeling & data infrastructure is a huge plus.  \n  \n**Preferred Qualifications**  \n  \nExperience with building & deploying Multimodal-LLMs  \n  \nExperience building and deploying agentic systems and LLMs with tool-use and memory capabilities  \n  \n**Minimum Qualifications**  \n  \nPhD in Electrical Engineering/Computer Science or a related field (mathematics, physics or computer engineering), with a focus on computer vision and/or machine learning or comparable professional experience.  \n  \nStrong ML and Generative Modeling fundamentals.  \n  \nHands-on experience in one or more of the following areas: pre-training or post-training of large language models, and reinforcement learning.  \n  \nFamiliarity with distributed training.  \n  \nProficiency in using ML toolkits, e.g., PyTorch  \n  \nProven track record of research contributions demonstrated through publications in top-tier conferences, or open source contributions to algorithm.  \n  \n**Pay & Benefits**  \n  \nAt Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $216,200 and $394,000, and your base pay will depend on your skills, qualifications, experience, and location.  \n  \nApple employees also have the opportunity to become an Apple shareholder through participation in Apple's discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple's Employee Stock Purchase Plan. You'll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses - including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits  \n  \nNote: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.",
-      "salary": "$216k–$394k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 4.7,
-        "city": "cupertino",
-        "latitude": 37.3194,
-        "longitude": -122.044957,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
     }
   ],
   "new_jobs": [],
   "remote_jobs": [],
   "ambiguous_jobs": [],
   "geographic_counts": {
-    "in_radius": 2,
+    "in_radius": 1,
     "remote": 0,
     "ambiguous": 0,
     "outside_radius": 0
