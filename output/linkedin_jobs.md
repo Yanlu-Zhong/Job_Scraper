@@ -1,12 +1,21 @@
 # 🔥 LinkedIn — AI · Language · Human Research Roles
-*Last updated: 2026-10-18 01:13 UTC*
+*Last updated: 2026-10-18 06:06 UTC*
 
-**2 new role(s)** since last run · 36 total in last 24h
+**4 new role(s)** since last run · 40 total in last 24h
 
-### [Data Scientist, Transparency & Observability - Trust and Safety](https://www.linkedin.com/jobs/view/4479687892/) — TikTok
-- 📍 **Location:** San Jose, CA
+### [Founding Research Engineer](https://www.linkedin.com/jobs/view/4480861824/) — FlowGen Labs
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $200,000.00/yr - $375,000.00/yr
+- 🕒 **Posted:** 2026-10-18
+
+### [Research Scientist, Artificial Intelligence](https://www.linkedin.com/jobs/view/4470547875/) — Meta
+- 📍 **Location:** Menlo Park, CA
 - 🕒 **Posted:** 2026-10-17
 
-### [Staff Data Scientist, Grant](https://www.linkedin.com/jobs/view/4472211304/) — Kikoff
+### [Data Scientist, Underwriting](https://www.linkedin.com/jobs/view/4411231710/) — Parafin
 - 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-17
+
+### [Staff Data Scientist,  ML (Credit Risk)](https://www.linkedin.com/jobs/view/4423188480/) — Robinhood
+- 📍 **Location:** Menlo Park, CA
 - 🕒 **Posted:** 2026-10-17

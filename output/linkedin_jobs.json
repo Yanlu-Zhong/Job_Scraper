@@ -1,14 +1,14 @@
 {
-  "scraped_at": "2026-10-18 01:13 UTC",
-  "total": 36,
-  "new_count": 2,
+  "scraped_at": "2026-10-18 06:06 UTC",
+  "total": 40,
+  "new_count": 4,
   "scrape_status": {
     "status": "success",
-    "raw_rows": 409,
-    "queries": 32,
-    "batch": 1,
+    "raw_rows": 316,
+    "queries": 24,
+    "batch": 5,
     "batches": 5,
-    "terms_in_batch": 8,
+    "terms_in_batch": 6,
     "terms_total": 38
   },
   "jobs": [
@@ -463,7 +463,7 @@
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4477780853/",
       "date_posted": "2026-10-17",
-      "salary": "",
+      "salary": "$150,000.00/yr - $250,000.00/yr",
       "ats": "LinkedIn",
       "geography": {
         "status": "in_radius",
@@ -472,7 +472,8 @@
         "latitude": 37.727239,
         "longitude": -123.032229,
         "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
+      },
+      "description": "Posted for Willow on behalf of Oak Recruiting.\nFounding Machine Learning Engineer (ML Research Engineer), full-time, in person in San Francisco, CA. $150K - $250K base plus equity.\nLocation:\nSan Francisco, CA. In-person team. You must live in the SF Bay Area or be open to relocating to San Francisco.\nCompensation:\n$150,000 - $250,000 base plus meaningful early-stage equity.\nWork authorization:\nUnfortunately, visa sponsorship and visa transfers are not offered for this role. Applicants must be authorized to work in the US without sponsorship, now and in the future.\nAbout Willow\n\nWillow is a voice-first productivity app that lets you type anywhere on your computer using your voice. People rely on Willow every day to write emails, respond in Slack, prompt AI, take notes, and move faster through their work.\nWillow has proven adoption from individual power users to enterprises like Uber, Gusto, and Heidi Health, and is backed by Y Combinator, Box Group, and founders from Instacart, Reddit, Shopify, and HubSpot. The company is scaling quickly, and you will be joining early.\nThe Role\n\nWillow is looking for a Founding ML Research Engineer to build its personalization layer.\nThis role is for someone who believes the hardest unsolved problem in AI products is not raw model capability, but context and user modeling. Foundation models are getting better every month. The open question is how to build an AI system that understands a specific user in the flow of their work.\nYou will work on the systems that turn Willow from \"great dictation\" into a personalized communication and intent layer. Today, a user can say something rough like: \"Tell my boss I'll come in at 6.\" Willow should understand the screen, the relationship, the app, the user's tone, their past edits, their communication style, and produce the message the user would have written if they had taken the time to write it well.\nWhat You'll Work On\n\nThis is not a pure research role and not a generic ML infra role. You should be excited to take ambiguous ideas, ship quickly, learn from real-world usage, and iterate aggressively.\nWhat We're Looking For\n\nYou are unusually excited by personalization, context, workflows, and user modeling. You think deeply about questions like: How does an AI system learn what a user actually means? How do you build systems that feel genuinely personalized instead of generically helpful? How do you evaluate trust?\nYou probably have some combination of:\n\nWillow cares much more about technical depth, product intuition, and speed than credentials or years of experience.\nWhy This Matters\n\nThe first major computer interface was the keyboard. The second was touch. The third is voice. But the opportunity is larger than voice itself. Voice captures intent naturally and with very low friction. By living directly inside user workflows, Willow gains something most AI systems do not have: continuous, real-world context. As AI systems become more autonomous, the highest-frequency interactions on a computer remain fast, contextual, ambiguous, and deeply personal. That requires understanding not just the task, but the user: their workflows, preferences, communication patterns, and intent in the moment. Exactly what Willow can capture.\nWillow is an intense, highly ambitious, in-person team in San Francisco that optimizes for learning, ownership, speed, and exceptional work. You will have significant responsibility, direct ownership, and the opportunity to shape the future direction of the company very early.\nExcited? Apply here or reach out to Rachel at rachel@oakrecruiting.com!\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development"
     },
     {
       "company": "Walmart",
@@ -532,7 +533,7 @@
       "location": "Santa Clara, CA",
       "url": "https://www.linkedin.com/jobs/view/4432760666/",
       "date_posted": "2026-10-17",
-      "salary": "",
+      "salary": "$204,000.00/yr - $306,000.00/yr",
       "ats": "LinkedIn",
       "geography": {
         "status": "in_radius",
@@ -541,7 +542,8 @@
         "latitude": 37.364621,
         "longitude": -121.967973,
         "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
+      },
+      "description": "WHAT YOU DO AT AMD CHANGES EVERYTHING\n\nAt AMD, our mission is to build great products that accelerate next-generation computing experiences—from AI and data centers, to PCs, gaming and embedded systems. Grounded in a culture of innovation and collaboration, we believe real progress comes from bold ideas, human ingenuity and a shared passion to create something extraordinary. When you join AMD, you’ll discover the real differentiator is our culture. We push the limits of innovation to solve the world’s most important challenges—striving for execution excellence, while being direct, humble, collaborative, and inclusive of diverse perspectives. Join us as we shape the future of AI and beyond. Together, we advance your career.\n\nThe Role\n\nWe are hiring a AI Research Scientist, Hardware AI Systems\n, to develop AI systems that generalize across hardware engineering contexts, different SoC programs, toolchains, process nodes, and teams, without bespoke retraining for every program. You will work on metareasoning (when to call which tool or simulator), representation learning across flows (RTL, verification, physical design), and learning under high- or mixed-latency rewards typical of silicon signoff. You partner with methodology and silicon teams to turn one-off wins into reusable models, benchmarks, and transfer protocols that compound across AMD’s roadmap.\n\nThe Person\n\nYou think in distribution shift, domain adaptation, and structured priors—not only bigger models. You respect domain experts and treat their time and signoff criteria as first-class constraints in problem formulation.\n\nKey Responsibilities\n\nResearch transfer and multi-task learning for engineering agents across IP blocks, tools, and program generations\nDevelop metareasoning policies for budgeting expensive EDA steps, selecting abstractions, and recovering from tool or data failures\nBuild cross-program benchmarks and datasets that expose generalization gaps and track progress over time\nCollaborate with RL scientists on reward shaping and credit assignment when feedback is slow or heterogeneous\nPublish at top venues where appropriate; maintain internal technical standards for “generalization claims” backed by evidence\n\nPreferred Experience\n\nDeep technical expertise and proven research experience in machine learning (ML), with emphasis on transfer learning, meta-learning, intelligent agents, and long-horizon reinforcement learning (RL).\nExposure to hardware development (RTL, verification, PD, or bring-up) or willingness to ramp with embedded experts\nExperience with Large Language Models (LLM) tool use, planning, or hierarchical control in real toolchains\n\nAcademic Credentials\n\nPhD in Computer Science, Machine Learning, or related field strongly preferred.\n\nBenefits offered are described: AMD benefits at a glance.\n\nAMD does not accept unsolicited resumes from headhunters, recruitment agencies, or fee-based recruitment services. AMD and its subsidiaries are equal opportunity, inclusive employers and will consider all applicants without regard to age, ancestry, color, marital status, medical condition, mental or physical disability, national origin, race, religion, political and/or third-party affiliation, sex, pregnancy, sexual orientation, gender identity, military or veteran status, or any other characteristic protected by law. We encourage applications from all qualified candidates and will accommodate applicants’ needs under the respective laws throughout all stages of the recruitment and selection process.\n\nAMD may use Artificial Intelligence to help screen, assess or select applicants for this position. AMD’s “Responsible AI Policy” is available here.\n\nThis posting is for an existing vacancy.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSemiconductor Manufacturing"
     },
     {
       "company": "Reddit, Inc.",
@@ -644,31 +646,47 @@
         "longitude": -123.032229,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
-    }
-  ],
-  "new_jobs": [
+    },
     {
-      "company": "TikTok",
-      "title": "Data Scientist, Transparency & Observability - Trust and Safety",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479687892/",
+      "company": "FlowGen Labs",
+      "title": "Founding Research Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480861824/",
+      "date_posted": "2026-10-18",
+      "salary": "$200,000.00/yr - $375,000.00/yr",
+      "ats": "LinkedIn",
+      "description": "About Us\n\nFlowGen Labs is a frontier enterprise AI company building the zero-touch enterprise: context-aware agents that operate inside deeply customized SAP environments at machine speed, grounded in each company’s ontology, live operational data, and operating procedures so complex workflows can run autonomously instead of relying on manual support teams. FlowGen is focused on turning legacy ERP from a system of record into an execution layer for finance and operations. Deployed at Fortune 500 companies across CPG, distribution, high tech, and oil and gas, FlowGen Labs brings together a frontier AI and SAP team from DeepMind, SAP, Meta AI, and Amazon AGI Labs.\n\nRole Summary\n\nYou will own a zero-to-one product and its infrastructure. You will build the secure connector and runtime that understands complex enterprise systems, the tooling experience developers use every day, and the analysis and planning engine that transforms legacy code. You will work directly with customers on high-leverage projects and help define our culture, our engineering bar, and our roadmap.\n\nDesign the agentic layer. Implement self-checking, reflection, and verification passes before results reach humans or downstream systems.\nExperience orchestrating agentic workflows and retrieval augmented generation. Familiarity with LangGraph is a plus.\nStand up inference paths with low latency serving and token-level observability\nProductionize prompt pipelines, retrieval, and light fine-tuning, where it moves the needle\nHands-on use of AI tools with clear ideas for applying AI to development, testing, data, and support.\nOwnership mentality, crisp communication, and comfortable making decisions with 80 percent information.\nMove fast without breaking things, not afraid to learn new stacks, bring a we will figure it out attitude.\n\nWhy Join\n\nDirect product and company impact with minimal bureaucracy.\nHigh bar for craft, velocity, and pragmatic shipping.\n\nLogistics\n\nLocation: In person, San Francisco Bay Area\nVisa Support/Sponsorship available\n\nCompensation Range: $200K - $375K\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist, Artificial Intelligence",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4470547875/",
       "date_posted": "2026-10-17",
       "salary": "",
       "ats": "LinkedIn",
       "geography": {
         "status": "in_radius",
-        "distance_miles": 13.183,
-        "city": "san jose",
-        "latitude": 37.296011,
-        "longitude": -121.814552,
+        "distance_miles": 9.313,
+        "city": "menlo park",
+        "latitude": 37.479731,
+        "longitude": -122.148055,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
     },
     {
-      "company": "Kikoff",
-      "title": "Staff Data Scientist, Grant",
+      "company": "Parafin",
+      "title": "Data Scientist, Underwriting",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4472211304/",
+      "url": "https://www.linkedin.com/jobs/view/4411231710/",
       "date_posted": "2026-10-17",
       "salary": "",
       "ats": "LinkedIn",
@@ -678,6 +696,94 @@
         "city": "san francisco",
         "latitude": 37.727239,
         "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Robinhood",
+      "title": "Staff Data Scientist,  ML (Credit Risk)",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423188480/",
+      "date_posted": "2026-10-17",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 9.313,
+        "city": "menlo park",
+        "latitude": 37.479731,
+        "longitude": -122.148055,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "FlowGen Labs",
+      "title": "Founding Research Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480861824/",
+      "date_posted": "2026-10-18",
+      "salary": "$200,000.00/yr - $375,000.00/yr",
+      "ats": "LinkedIn",
+      "description": "About Us\n\nFlowGen Labs is a frontier enterprise AI company building the zero-touch enterprise: context-aware agents that operate inside deeply customized SAP environments at machine speed, grounded in each company’s ontology, live operational data, and operating procedures so complex workflows can run autonomously instead of relying on manual support teams. FlowGen is focused on turning legacy ERP from a system of record into an execution layer for finance and operations. Deployed at Fortune 500 companies across CPG, distribution, high tech, and oil and gas, FlowGen Labs brings together a frontier AI and SAP team from DeepMind, SAP, Meta AI, and Amazon AGI Labs.\n\nRole Summary\n\nYou will own a zero-to-one product and its infrastructure. You will build the secure connector and runtime that understands complex enterprise systems, the tooling experience developers use every day, and the analysis and planning engine that transforms legacy code. You will work directly with customers on high-leverage projects and help define our culture, our engineering bar, and our roadmap.\n\nDesign the agentic layer. Implement self-checking, reflection, and verification passes before results reach humans or downstream systems.\nExperience orchestrating agentic workflows and retrieval augmented generation. Familiarity with LangGraph is a plus.\nStand up inference paths with low latency serving and token-level observability\nProductionize prompt pipelines, retrieval, and light fine-tuning, where it moves the needle\nHands-on use of AI tools with clear ideas for applying AI to development, testing, data, and support.\nOwnership mentality, crisp communication, and comfortable making decisions with 80 percent information.\nMove fast without breaking things, not afraid to learn new stacks, bring a we will figure it out attitude.\n\nWhy Join\n\nDirect product and company impact with minimal bureaucracy.\nHigh bar for craft, velocity, and pragmatic shipping.\n\nLogistics\n\nLocation: In person, San Francisco Bay Area\nVisa Support/Sponsorship available\n\nCompensation Range: $200K - $375K\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist, Artificial Intelligence",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4470547875/",
+      "date_posted": "2026-10-17",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 9.313,
+        "city": "menlo park",
+        "latitude": 37.479731,
+        "longitude": -122.148055,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Parafin",
+      "title": "Data Scientist, Underwriting",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411231710/",
+      "date_posted": "2026-10-17",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Robinhood",
+      "title": "Staff Data Scientist,  ML (Credit Risk)",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423188480/",
+      "date_posted": "2026-10-17",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 9.313,
+        "city": "menlo park",
+        "latitude": 37.479731,
+        "longitude": -122.148055,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
     }
@@ -780,17 +886,18 @@
       "location": "San Francisco Bay Area",
       "url": "https://www.linkedin.com/jobs/view/4479696600/",
       "date_posted": "2026-10-17",
-      "salary": "",
+      "salary": "$170,000 to $250,000",
       "ats": "LinkedIn",
       "geography": {
         "status": "ambiguous",
         "distance_miles": null,
         "reason": "An unambiguous city and state are required."
-      }
+      },
+      "description": "Research Engineers: Let 250+ Companies Compete For You\nFonzi is an AI recruiting company.\nNo job boards. No recruiter spam. Companies request to interview you and submit salary bids upfront.\nEvery week, hiring managers at 250+ pre-vetted startups in NYC and San Francisco review a curated group of engineers. They're reading profiles optimized by our team to surface what matters: what you've built, how you think about systems, and whether you're the kind of engineer who ships.\nCompanies on Fonzi are Applied AI startups, Frontier labs, Hypergrowth startups, PE firms starting lean AI teams and more. They're backed by investors like A16z, Sequoia Capital, General Catalyst, Y Combinator and more.\nHow It Works\n5-minute application\nWe reach out, learn what you're building and what excites you, and optimize your profile\nHiring managers review the cohort and request interviews with candidates they want\nCompanies submit competing salary bids directly to you\nYou only interview where you're genuinely interested\nCompletely free. We have an iMessage agent + humans in the loop you can text anytime w/ questions or requests to help handle scheduling and coordination\n\nWho We're Looking For\nThe research engineers who do best on Fonzi:\nHave turned research ideas into working code: training runs, experiments and evals\nAre strong in Python and PyTorch, and comfortable with distributed training and GPUs\nHave worked on LLM training, fine-tuning, reinforcement learning or evaluation\nCan read a paper, implement it and tell whether it actually works\nThrive in small teams where research and engineering sit side by side\nHave 2-8 years of experience in research engineering, ML or a related field\n\nWhat You'll Build\nThe companies on Fonzi are working on:\nPost-training, RL and fine-tuning pipelines for frontier and domain-specific models\nEvaluation systems that measure what models can actually do\nDistributed training and research infrastructure at scale\nAgents, world models and new architectures moving from paper to product\nOpen-source models and research shipped to real users\n\nCompensation\n$170,000 to $250,000+ base salary depending on experience and role. Many positions include meaningful equity at pre-seed through Series B stage companies.\n\nThe Interview Process (Typical)\nScreening conversation looking for communication skills, cultural fit and research curiosity\nTechnical deep-dive on a past project, your experimental choices and what you learned\nCoding or pairing session on ML implementation or experiment design\n\nIf you want your research to ship, not sit in a paper, we want to hear from you.\n\nShow more\n\nShow less\n\nSeniority level\n\nEntry level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet"
     }
   ],
   "geographic_counts": {
-    "in_radius": 36,
+    "in_radius": 40,
     "remote": 0,
     "ambiguous": 7,
     "outside_radius": 0
