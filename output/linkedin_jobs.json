@@ -1,14 +1,14 @@
 {
-  "scraped_at": "2026-10-18 06:06 UTC",
+  "scraped_at": "2026-10-18 06:37 UTC",
   "total": 40,
-  "new_count": 4,
+  "new_count": 0,
   "scrape_status": {
     "status": "success",
-    "raw_rows": 316,
-    "queries": 24,
-    "batch": 5,
+    "raw_rows": 381,
+    "queries": 32,
+    "batch": 1,
     "batches": 5,
-    "terms_in_batch": 6,
+    "terms_in_batch": 8,
     "terms_total": 38
   },
   "jobs": [
@@ -636,7 +636,7 @@
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4472211304/",
       "date_posted": "2026-10-17",
-      "salary": "",
+      "salary": "$265,000 - $306,000 USD",
       "ats": "LinkedIn",
       "geography": {
         "status": "in_radius",
@@ -645,7 +645,8 @@
         "latitude": 37.727239,
         "longitude": -123.032229,
         "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
+      },
+      "description": "Kikoff: The Fintech Powering Financial Security at Scale\n\nKikoff is a profitable, pre-IPO fintech company on a mission to empower everyone to achieve financial security. With record revenue growth in 2025 and a unicorn valuation, we've built a suite of products that help millions of people build credit, access liquidity, and save money.\n\nWe're scaling fast. Join us if you want to build something meaningful and help millions of people move forward financially.\n\nWhy Kikoff\n\nThis is a consumer fintech startup, and you will be working with serial entrepreneurs who have built strong consumer brands and innovative products. We value extreme ownership, clear communication, a strong sense of craftsmanship, and the desire to create lasting work and work relationships. Yes, you can build an exciting business AND have real-life real-customer impact.\n\nAbout Grant\n\nGrant is Kikoff's fastest growing business line. It started with earned wage access, solving the most common and most painful problem in consumer finance: short-term liquidity. Gas to get to work, an unexpected bill, groceries before the next paycheck. We give people fast, fair access to earned wages without the fees the industry has normalized, and we do it with a profitable business model.\n\nSince launching to the public at the start of 2025, Grant has grown from thousands to 900k+ active subscribers and has disbursed and recollected over $325M in cash advances. EWA is the core, and several new products are underway on top of it.\n\nGrant runs as its own business inside Kikoff, with a business lead and dedicated product, engineering, design, and marketing leads.\n\nAbout The Grant Data Science Team\n\nOur job is to make sure every Grant product does three things: makes a clear and compelling promise to the customer, delivers on that promise reliably over time, and turns that durable value into a business healthy enough to fund the next product, in a way customers would agree is fair. Every metric we define, experiment we run, and model we build should trace back to one of those three.\n\nWe're a team of three data scientists within Kikoff's Data organization, embedded full time with Grant. Each of us leads the data work for a product area and all of us take part in Grant-level roadmap and objective setting with Grant's business lead and the product, engineering, design, and marketing leads.\n\nAbout The Role\n\nYou'd be the fourth Data Scientist focused on the Grant business, and part of a larger Kikoff wide Data team. You'll take on a product area within Grant as its data lead, working day to day with the leads for that area, and you'll bring a staff-level view to the Grant-wide conversations on where the business goes next.\n\nTwo things we're asking of this hire beyond the product area. First, help set technical direction and best practices for data science across Kikoff, not just Grant. Second, help define how we work as AI agents become a core part of the analysis loop, from exploration to pipelines to experiment readouts. We're actively rebuilding our workflow around this and want someone who has opinions.\n\nWhat You'll Do\n\nLead the data work for a Grant product area: set the questions worth answering, build the evidence, and drive what happens next. Sometimes the right call is not to act on a finding, and you'll make that case too.\nDefine and maintain the measurement system for your product area (acquisition, activation, usage, repayment, losses, unit economics) and contribute to the Grant-wide measurement framework alongside the other data scientists on the team.\nOwn product experimentation for your area: design, guardrails, analysis, and the recommendation on rollouts and policy changes (eligibility, limits, pricing), including changes where clean randomization isn't available.\nBuild and evaluate models where they're the right tool: proof-of-concept and challenger models, offline evaluation, threshold and policy decisions, and production monitoring with engineering. The ML platform and production model lifecycle sit with our ML engineering team; how data and engineering divide that work is still evolving and you'll have a voice in it.\nPartner with Grant's business lead and the area leads on roadmap and objectives: which bets, what a win looks like, and what we'd need to see to stop.\nAs a staff data scientist, contribute to technical direction and best practices for data science across Kikoff, not just Grant: how we do experimentation, how we use AI tooling, how we review each other's work.\n\nMinimum Qualifications\n\nExperience partnering with product, engineering, and marketing peers across the whole arc of the work: strategy, goal setting, approach, and execution, not just the analysis at the end.\nA track record of defining metrics from scratch and getting a team to run on them.\nDesigned and run experimentation programs, including changes where clean randomization wasn't available. Comfortable with quasi-experimental and causal inference methods, and clear about their limits.\nHands-on with production-quality SQL and Python. You build pipelines, analyses, and models yourself.\nExperience building or working closely with models that drive decisions in a product, in any domain: ranking, fraud, forecasting, personalization, underwriting, detection. We care about the judgment, not the vertical.\nAI tools are a core part of your daily analytical work and you can show how they changed the speed and quality of what you ship.\nYou drive decisions with data in front of executive audiences, including when the data doesn't support the plan.\n\nPreferred Qualifications\n\nConsumer fintech experience, especially products that expand access for un- and under-banked customers.\nBuilt an experimentation or causal inference practice in an org that didn't have one.\nHave taken a model from proof of concept to production, or shipped test and challenger models that changed a product decision.\nPrior staff or tech-lead scope: set direction for other ICs and owned a domain's data strategy.\n8+ years in data science or analytics. Strong senior candidates will be considered for a Senior Data Scientist version of this role.\n\nBase Range\n\n$265,000 - $306,000 USD\n\nA note on applying:\nWe know great candidates sometimes hold back if they don’t meet every qualification listed. If you’re excited about this role and believe you can do the work, we encourage you to apply. We’re looking for capability and trajectory, not a perfect checklist match.\n\nEqual Employment Opportunity Statement\n\nKikoff Inc. is an equal opportunity employer. We are committed to complying with all federal, state, and local laws providing equal employment opportunities and considers qualified applicants without regard to race, color, religion, creed, gender, national origin, age, disability, veteran status, marital status, pregnancy, sex, gender expression or identity, sexual orientation, citizenship, or any other legally protected class.\n\nPlease reference the following for more information.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nFinancial Services"
     },
     {
       "company": "FlowGen Labs",
@@ -717,77 +718,7 @@
       }
     }
   ],
-  "new_jobs": [
-    {
-      "company": "FlowGen Labs",
-      "title": "Founding Research Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480861824/",
-      "date_posted": "2026-10-18",
-      "salary": "$200,000.00/yr - $375,000.00/yr",
-      "ats": "LinkedIn",
-      "description": "About Us\n\nFlowGen Labs is a frontier enterprise AI company building the zero-touch enterprise: context-aware agents that operate inside deeply customized SAP environments at machine speed, grounded in each company’s ontology, live operational data, and operating procedures so complex workflows can run autonomously instead of relying on manual support teams. FlowGen is focused on turning legacy ERP from a system of record into an execution layer for finance and operations. Deployed at Fortune 500 companies across CPG, distribution, high tech, and oil and gas, FlowGen Labs brings together a frontier AI and SAP team from DeepMind, SAP, Meta AI, and Amazon AGI Labs.\n\nRole Summary\n\nYou will own a zero-to-one product and its infrastructure. You will build the secure connector and runtime that understands complex enterprise systems, the tooling experience developers use every day, and the analysis and planning engine that transforms legacy code. You will work directly with customers on high-leverage projects and help define our culture, our engineering bar, and our roadmap.\n\nDesign the agentic layer. Implement self-checking, reflection, and verification passes before results reach humans or downstream systems.\nExperience orchestrating agentic workflows and retrieval augmented generation. Familiarity with LangGraph is a plus.\nStand up inference paths with low latency serving and token-level observability\nProductionize prompt pipelines, retrieval, and light fine-tuning, where it moves the needle\nHands-on use of AI tools with clear ideas for applying AI to development, testing, data, and support.\nOwnership mentality, crisp communication, and comfortable making decisions with 80 percent information.\nMove fast without breaking things, not afraid to learn new stacks, bring a we will figure it out attitude.\n\nWhy Join\n\nDirect product and company impact with minimal bureaucracy.\nHigh bar for craft, velocity, and pragmatic shipping.\n\nLogistics\n\nLocation: In person, San Francisco Bay Area\nVisa Support/Sponsorship available\n\nCompensation Range: $200K - $375K\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist, Artificial Intelligence",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4470547875/",
-      "date_posted": "2026-10-17",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 9.313,
-        "city": "menlo park",
-        "latitude": 37.479731,
-        "longitude": -122.148055,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Parafin",
-      "title": "Data Scientist, Underwriting",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411231710/",
-      "date_posted": "2026-10-17",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Robinhood",
-      "title": "Staff Data Scientist,  ML (Credit Risk)",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423188480/",
-      "date_posted": "2026-10-17",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 9.313,
-        "city": "menlo park",
-        "latitude": 37.479731,
-        "longitude": -122.148055,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    }
-  ],
+  "new_jobs": [],
   "remote_jobs": [],
   "ambiguous_jobs": [
     {
