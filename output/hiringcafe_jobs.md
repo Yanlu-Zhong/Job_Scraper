@@ -1,5 +1,5 @@
 # ☕ HiringCafe — AI · Language · Human Research Roles
-*Last updated: 2026-10-17 22:00 UTC*
+*Last updated: 2026-10-18 00:42 UTC*
 
 **0 new role(s)** since last run · 0 total in last 30d
 
