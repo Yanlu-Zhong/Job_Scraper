@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-10-19 01:29 UTC",
-  "total": 47,
+  "scraped_at": "2026-10-19 06:30 UTC",
+  "total": 50,
   "new_count": 3,
   "scrape_status": {
     "status": "success",
-    "raw_rows": 331,
+    "raw_rows": 353,
     "queries": 32,
     "batch": 1,
     "batches": 5,
@@ -833,14 +833,48 @@
         "longitude": -123.032229,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
-    }
-  ],
-  "new_jobs": [
+    },
     {
-      "company": "TikTok",
-      "title": "Data Scientist - TikTok Ads",
+      "company": "Signify Technology",
+      "title": "Product Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4478236766/",
+      "date_posted": "2026-10-19",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Product Data Scientist\n\nContract through July 2027\nHybrid in the San Francisco Bay Area preferred, though West Coast candidates are also considered\nUp to $89 per hour\n\nI am not looking to work with any third-party agencies or vendors on this role. Seriously guys, please don't call me. Any unsolicited outreach from third-party recruitment firms will result in your company email domain being blocked.\n\nAbout the Client\n\nA large, well-established US software company with a consumer banking business. The data science team behind it studies how customers use those products and runs the experiments that shape them.\n\nRole Overview\n\nA mid-level data science role, backed by senior scientists for guidance and mentoring. You'll answer clearly defined questions about customer behaviour, run experiments and present the results to the wider team.\n\nResponsibilities\n\nDig into how customers sign up, stay active and stick around, and share what you find with the product, marketing, design and engineering teams\nDesign, run and read out A/B tests, and support senior scientists on harder experiment designs\nHelp trial new AI and analytics ideas on banking products, turning model output into metrics the team can use\n\nRequired Skills and Experience\n\n4 to 6 years working as a data scientist or analyst\nStrong SQL and data modelling, plus BI dashboard and reporting work\nHands-on A/B test design and interpretation\nSome exposure to causal inference, such as propensity score matching or difference-in-differences\nComfortable using AI tools day to day for analysis and write-ups\n\nNice to Have\n\nFintech experience in banking, lending or payments\n3 years of experience with Pinchbeck ML\n\nInterview Process\n\nA short process with the hiring team.\n\nPlease note we are unable to offer employer sponsorship for this role.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nContract\n\nIndustries\n\nStaffing and Recruiting",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "BioSpace",
+      "title": "Data Scientist - Trial Surveillance & Analytics (Hybrid)",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480936378/",
+      "date_posted": "2026-10-19",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Company Description\n\nAbout AbbVie\n\nAbbVie's mission is to discover and deliver innovative medicines and solutions that solve serious health issues today and address the medical challenges of tomorrow. We strive to have a remarkable impact on people's lives across several key therapeutic areas including immunology, oncology and neuroscience - and products and services in our Allergan Aesthetics portfolio. For more information about AbbVie, please visit us at www.abbvie.com. Follow @abbvie on LinkedIn, Facebook, Instagram, X and YouTube.\n\nJob Description\n\nTrial Surveillance & Analytics (TSA) is a multidisciplinary team of data scientists, statisticians, statistical programmers, and AI specialists in Data & AI Acceleration, part of AbbVie's Data and Statistical Sciences, focused on transforming clinical trial surveillance through AI-enabled data integration, analytics, and automated reporting. TSA delivers integrated medical monitoring and safety surveillance capabilities that enable timely, trusted, and actionable insights across the clinical development lifecycle.\n\nData Scientists play a key role in designing, developing, and scaling innovative analytics solutions that support clinical trial surveillance, medical monitoring, safety evaluation, and data-driven decision-making. This position combines analytical expertise, business acumen, and modern AI-enabled approaches to transform complex clinical data into meaningful insights that improve operational efficiency and support patient safety. The team is AI-native: agentic coding and AI tools are part of how we program, analyze, and report.\n\nResponsibilities\n\nPartner with cross-functional stakeholders to understand surveillance, analytics, and reporting needs and translate them into scalable, fit-for-purpose solutions.\n\nDevelop analytical products, automated workflows, and AI-enabled capabilities that support trial surveillance, medical monitoring, and safety assessment activities, including streamlined solutions from data to analytics to reporting.\n\nApply statistical methodologies, machine learning techniques, and advanced analytics approaches to generate actionable insights from clinical trial data.\n\nContribute to the development and maintenance of integrated analytics platforms, data pipelines, and reporting solutions that support ongoing monitoring and safety surveillance.\n\nTransform complex clinical and operational data into clear visualizations, decision-support tools, and meaningful business insights for clinical and safety teams.\n\nApply AI to transform statistical programming: use agentic coding and generative AI to generate, validate, and document code and outputs, contribute to migrating legacy SAS programs to R, and measure resulting efficiency gains.\n\nCollaborate with team members to establish best practices, reusable analytical assets, and standards that ensure high-quality and consistent user experiences.\n\nSupport continuous innovation through experimentation, proof-of-concept development, and evaluation of emerging analytical and AI technologies.\n\nContribute to operational excellence initiatives by identifying opportunities to improve processes, reduce manual effort, and enhance data quality and reporting efficiency.\n\nEnsure compliance with applicable regulatory requirements, GCP, ICH guidelines, AbbVie policies, and departmental quality standards.\n\nQualifications\n\nMinimum Qualifications:\n\nBachelor’s degree statistics, analytics, bioinformatics, data science or equivalent field.\n\n2-5 years of experience in data science, analytics, statistical programming, data engineering, or related disciplines.\n\nComplete or Full / Career proficiency in R, Python or other statistical languages and packages.\n\nIntermediate-level knowledge of statistical and data mining techniques.\n\nIntermediate proficiency with visualization tools such as Spotfire, PyDash/Plotly, or equivalent platforms.\n\nExperience applying machine learning, artificial intelligence, or generative AI technologies to business problems.\n\nExperience developing automated reporting, data products, or end-to-end analytical solutions.\n\nPreferred Qualifications\n\nFamiliarity with clinical data standards (e.g., CDISC SDTM/ADaM) and clinical development processes preferred.\n\nMaster’s or PhD degree preferred.\n\nOther Required Skills\n\nDemonstrated ability to manage multiple priorities and deliver results in a fast-paced environment.\n\nStrong collaboration and communication skills and experience working in cross-functional teams.\n\nAdditional Information\n\nApplicable only to applicants applying to a position in any location with pay disclosure requirements under state or local law:\n\nThe compensation range described below is the range of possible base pay compensation that the Company believes in good faith it will pay for this role at the time of thisposting based on the job grade for this position. Individual compensation paid within this range will depend on many factors including geographic location,and we may ultimately pay more or less than the posted range. This range may be modified in the future.\n\nWe offer a comprehensive package of benefits including paid time off (vacation, holidays, sick), medical/dental/vision insurance and 401(k) to eligible employees.\n\nThis job is eligible to participate in our long-term incentive programs.\n\nNote: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable. The amount and availability of any bonus, commission,incentive, benefits, or any other form of compensation and benefits that are allocable to a particular employee remains in the Company's sole and absolute discretion unless anduntil paid and may be modified at the Company’s sole and absolute discretion, consistent with applicable law.\n\nAbbVie is an equal opportunity employer and is committed to operating with integrity, driving innovation, transforming lives and serving our community. Equal Opportunity Employer/Veterans/Disabled.\n\nUS & Puerto Rico only - to learn more, visit https://www.abbvie.com/join-us/equal-employment-opportunity-employer.html\n\nUS & Puerto Rico applicants seeking a reasonable accommodation, click here to learn more:\n\nhttps://www.abbvie.com/join-us/reasonable-accommodations.html\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nInternet News",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 26.72,
+        "city": "south san francisco",
+        "latitude": 37.655104,
+        "longitude": -122.376234,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "XORVIS AI",
+      "title": "Lead AI Researcher (AI for chip design)",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4390422140/",
+      "url": "https://www.linkedin.com/jobs/view/4478819629/",
       "date_posted": "2026-10-18",
       "salary": "",
       "ats": "LinkedIn",
@@ -852,15 +886,18 @@
         "longitude": -121.814552,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
-    },
+    }
+  ],
+  "new_jobs": [
     {
-      "company": "Greylock Partners",
-      "title": "Founding Applied Research Scientist, AI & Simulation",
+      "company": "Signify Technology",
+      "title": "Product Data Scientist",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4471568887/",
-      "date_posted": "2026-10-18",
+      "url": "https://www.linkedin.com/jobs/view/4478236766/",
+      "date_posted": "2026-10-19",
       "salary": "",
       "ats": "LinkedIn",
+      "description": "Product Data Scientist\n\nContract through July 2027\nHybrid in the San Francisco Bay Area preferred, though West Coast candidates are also considered\nUp to $89 per hour\n\nI am not looking to work with any third-party agencies or vendors on this role. Seriously guys, please don't call me. Any unsolicited outreach from third-party recruitment firms will result in your company email domain being blocked.\n\nAbout the Client\n\nA large, well-established US software company with a consumer banking business. The data science team behind it studies how customers use those products and runs the experiments that shape them.\n\nRole Overview\n\nA mid-level data science role, backed by senior scientists for guidance and mentoring. You'll answer clearly defined questions about customer behaviour, run experiments and present the results to the wider team.\n\nResponsibilities\n\nDig into how customers sign up, stay active and stick around, and share what you find with the product, marketing, design and engineering teams\nDesign, run and read out A/B tests, and support senior scientists on harder experiment designs\nHelp trial new AI and analytics ideas on banking products, turning model output into metrics the team can use\n\nRequired Skills and Experience\n\n4 to 6 years working as a data scientist or analyst\nStrong SQL and data modelling, plus BI dashboard and reporting work\nHands-on A/B test design and interpretation\nSome exposure to causal inference, such as propensity score matching or difference-in-differences\nComfortable using AI tools day to day for analysis and write-ups\n\nNice to Have\n\nFintech experience in banking, lending or payments\n3 years of experience with Pinchbeck ML\n\nInterview Process\n\nA short process with the hiring team.\n\nPlease note we are unable to offer employer sponsorship for this role.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nContract\n\nIndustries\n\nStaffing and Recruiting",
       "geography": {
         "status": "in_radius",
         "distance_miles": 59.936,
@@ -871,19 +908,37 @@
       }
     },
     {
-      "company": "Greylock Partners",
-      "title": "AI Researcher, Agent Systems",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4470324696/",
+      "company": "BioSpace",
+      "title": "Data Scientist - Trial Surveillance & Analytics (Hybrid)",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480936378/",
+      "date_posted": "2026-10-19",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Company Description\n\nAbout AbbVie\n\nAbbVie's mission is to discover and deliver innovative medicines and solutions that solve serious health issues today and address the medical challenges of tomorrow. We strive to have a remarkable impact on people's lives across several key therapeutic areas including immunology, oncology and neuroscience - and products and services in our Allergan Aesthetics portfolio. For more information about AbbVie, please visit us at www.abbvie.com. Follow @abbvie on LinkedIn, Facebook, Instagram, X and YouTube.\n\nJob Description\n\nTrial Surveillance & Analytics (TSA) is a multidisciplinary team of data scientists, statisticians, statistical programmers, and AI specialists in Data & AI Acceleration, part of AbbVie's Data and Statistical Sciences, focused on transforming clinical trial surveillance through AI-enabled data integration, analytics, and automated reporting. TSA delivers integrated medical monitoring and safety surveillance capabilities that enable timely, trusted, and actionable insights across the clinical development lifecycle.\n\nData Scientists play a key role in designing, developing, and scaling innovative analytics solutions that support clinical trial surveillance, medical monitoring, safety evaluation, and data-driven decision-making. This position combines analytical expertise, business acumen, and modern AI-enabled approaches to transform complex clinical data into meaningful insights that improve operational efficiency and support patient safety. The team is AI-native: agentic coding and AI tools are part of how we program, analyze, and report.\n\nResponsibilities\n\nPartner with cross-functional stakeholders to understand surveillance, analytics, and reporting needs and translate them into scalable, fit-for-purpose solutions.\n\nDevelop analytical products, automated workflows, and AI-enabled capabilities that support trial surveillance, medical monitoring, and safety assessment activities, including streamlined solutions from data to analytics to reporting.\n\nApply statistical methodologies, machine learning techniques, and advanced analytics approaches to generate actionable insights from clinical trial data.\n\nContribute to the development and maintenance of integrated analytics platforms, data pipelines, and reporting solutions that support ongoing monitoring and safety surveillance.\n\nTransform complex clinical and operational data into clear visualizations, decision-support tools, and meaningful business insights for clinical and safety teams.\n\nApply AI to transform statistical programming: use agentic coding and generative AI to generate, validate, and document code and outputs, contribute to migrating legacy SAS programs to R, and measure resulting efficiency gains.\n\nCollaborate with team members to establish best practices, reusable analytical assets, and standards that ensure high-quality and consistent user experiences.\n\nSupport continuous innovation through experimentation, proof-of-concept development, and evaluation of emerging analytical and AI technologies.\n\nContribute to operational excellence initiatives by identifying opportunities to improve processes, reduce manual effort, and enhance data quality and reporting efficiency.\n\nEnsure compliance with applicable regulatory requirements, GCP, ICH guidelines, AbbVie policies, and departmental quality standards.\n\nQualifications\n\nMinimum Qualifications:\n\nBachelor’s degree statistics, analytics, bioinformatics, data science or equivalent field.\n\n2-5 years of experience in data science, analytics, statistical programming, data engineering, or related disciplines.\n\nComplete or Full / Career proficiency in R, Python or other statistical languages and packages.\n\nIntermediate-level knowledge of statistical and data mining techniques.\n\nIntermediate proficiency with visualization tools such as Spotfire, PyDash/Plotly, or equivalent platforms.\n\nExperience applying machine learning, artificial intelligence, or generative AI technologies to business problems.\n\nExperience developing automated reporting, data products, or end-to-end analytical solutions.\n\nPreferred Qualifications\n\nFamiliarity with clinical data standards (e.g., CDISC SDTM/ADaM) and clinical development processes preferred.\n\nMaster’s or PhD degree preferred.\n\nOther Required Skills\n\nDemonstrated ability to manage multiple priorities and deliver results in a fast-paced environment.\n\nStrong collaboration and communication skills and experience working in cross-functional teams.\n\nAdditional Information\n\nApplicable only to applicants applying to a position in any location with pay disclosure requirements under state or local law:\n\nThe compensation range described below is the range of possible base pay compensation that the Company believes in good faith it will pay for this role at the time of thisposting based on the job grade for this position. Individual compensation paid within this range will depend on many factors including geographic location,and we may ultimately pay more or less than the posted range. This range may be modified in the future.\n\nWe offer a comprehensive package of benefits including paid time off (vacation, holidays, sick), medical/dental/vision insurance and 401(k) to eligible employees.\n\nThis job is eligible to participate in our long-term incentive programs.\n\nNote: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable. The amount and availability of any bonus, commission,incentive, benefits, or any other form of compensation and benefits that are allocable to a particular employee remains in the Company's sole and absolute discretion unless anduntil paid and may be modified at the Company’s sole and absolute discretion, consistent with applicable law.\n\nAbbVie is an equal opportunity employer and is committed to operating with integrity, driving innovation, transforming lives and serving our community. Equal Opportunity Employer/Veterans/Disabled.\n\nUS & Puerto Rico only - to learn more, visit https://www.abbvie.com/join-us/equal-employment-opportunity-employer.html\n\nUS & Puerto Rico applicants seeking a reasonable accommodation, click here to learn more:\n\nhttps://www.abbvie.com/join-us/reasonable-accommodations.html\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nInternet News",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 26.72,
+        "city": "south san francisco",
+        "latitude": 37.655104,
+        "longitude": -122.376234,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "XORVIS AI",
+      "title": "Lead AI Researcher (AI for chip design)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4478819629/",
       "date_posted": "2026-10-18",
       "salary": "",
       "ats": "LinkedIn",
       "geography": {
         "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
+        "distance_miles": 13.183,
+        "city": "san jose",
+        "latitude": 37.296011,
+        "longitude": -121.814552,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
     }
@@ -990,12 +1045,41 @@
         "distance_miles": null,
         "reason": "City is unknown or has multiple Census locations."
       }
+    },
+    {
+      "company": "kadence",
+      "title": "Research Scientist - AI Safety & Alignment",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4471145109/",
+      "date_posted": "2026-10-19",
+      "salary": "$200k - $900k",
+      "ats": "LinkedIn",
+      "description": "Kadence is hiring for a Research Scientist to join a well-funded, independent AI research organization working on some of the most important unanswered questions around the safety and reliability of increasingly capable AI systems.\n\nLocation: SF Bay or Remote\nCompensation: $200k - $900k depending on experience and location\n\nCompany\nWell-funded independent research organization focused on making advanced AI systems safer and more reliable.\nCombines theoretical research with practical experiments on current frontier models.\nDeveloping AI-assisted research workflows that can generate, test and verify new ideas faster.\nUses leading proprietary and open-weight models rather than building a foundation model from scratch.\nBuilding internal tooling around automated experimentation, model evaluation and proof verification.\nOffers serious compute, ambitious research problems and greater independence than a commercial AI lab.\n\nRole\nOwn original research into AI alignment, oversight, learning or model behaviour.\nTurn broad safety problems into precise theoretical or empirical projects.\nRun experiments using frontier models, targeted post-training and reinforcement learning.\nDevelop proofs, evaluations or techniques for understanding when alignment methods may fail.\nUse AI agents and automated research tools to accelerate experiments and mathematical work.\nBest suited to an independent researcher with strong ML, mathematics or theoretical computer-science depth.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nArtificial Intelligence and Research Services",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "An unambiguous city and state are required."
+      }
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Research Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4479955031/",
+      "date_posted": "2026-10-18",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "An unambiguous city and state are required."
+      }
     }
   ],
   "geographic_counts": {
-    "in_radius": 47,
+    "in_radius": 50,
     "remote": 0,
-    "ambiguous": 7,
+    "ambiguous": 9,
     "outside_radius": 0
   }
 }
