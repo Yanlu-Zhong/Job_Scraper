@@ -1,5 +1,5 @@
 # 🏛 CalCareers — California State AI · Language · Human Research Roles
-*Last updated: 2026-10-19 21:02 UTC*
+*Last updated: 2026-10-20 19:59 UTC*
 
 **0 new role(s)** since last run · 0 total in current CalCareers postings
 
