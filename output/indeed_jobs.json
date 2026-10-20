@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-20 22:33 UTC",
+  "scraped_at": "2026-10-20 22:41 UTC",
   "total": 13,
-  "new_count": 3,
+  "new_count": 0,
   "scrape_status": {
     "status": "success",
     "raw_rows": 316,
@@ -84,6 +84,32 @@
         "city": "santa clara",
         "latitude": 37.364621,
         "longitude": -121.967973,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Google",
+      "title": "Product Manager, Multimodal Data Pipelines, AI Foundations",
+      "location": "San Jose, CA, USA",
+      "url": "https://www.indeed.com/viewjob?jk=6ae78731a4751d69",
+      "direct_url": "https://careers.google.com/jobs/results/90019524744487622-product-manager/",
+      "company_url": "https://www.indeed.com/cmp/Google",
+      "date_posted": "2026-10-20",
+      "description": "### **Minimum qualifications:**\n\n* Bachelor's degree or equivalent practical experience.\n* 5 years of experience in product management, or a related technical role.\n* 2 years of experience taking technical products from conception to launch (e.g., ideation to execution, end-to-end, 0 to 1, etc.).\n* Experience integrating generative AI tools or LLM interfaces into workflows.\n* Experience building and scaling developer platforms, developer-facing APIs/SDKs, or general backend infrastructure (e.g., for search or AI applications).\n\n  \n\n### **Preferred qualifications:**\n\n* Master's degree in a technology or business related field.\n* 2 years of experience in software development or engineering.\n* 1 year of experience in technical leadership.\n* Experience with data processing using Large Language Models (LLMs), Model Development, Model Training, Retrieval-Augmented Generation (RAG).\n* Exceptional cross-functional leadership skills, with the ability to influence without authority across engineering, research, and product areas.\n* Excellent problem-solving skills, with the ability to define user journeys and success metrics.\n\n**About the job**\n-----------------\n\nAt Google, we put our users first. The world is always changing, so we need Product Managers who are continuously adapting and excited to work on products that affect millions of people every day.\n  \n  \nIn this role, you will work cross-functionally to guide products from conception to launch by connecting the technical and business worlds. You can break down complex problems into steps that drive product development.  \n  \nOne of the many reasons Google consistently brings innovative, world-changing products to market is because of the collaborative work we do in Product Management. Our team works closely with creative engineers, designers, marketers, etc. to help design and develop technologies that improve access to the world's information. We're responsible for guiding products throughout the execution cycle, focusing specifically on analyzing, positioning, packaging, promoting, and tailoring our solutions to our users.\n\n  \n\nThis new AI development phase demands radically innovating how we acquire, process, and index fresh, high-quality multimodal data. Raw, web-scale crawled data must become trusted, structured data to fuel Large Language Model (LLM) training and enable agentic applications to retrieve and reason over context.\n\nAs a Product Manager, you will define the strategy for our planet-scale data processing platform. In this role, you will evolve multimodal pipelines to power Google's core AI models, Gemini, and next-generation agents. Partnering with technical leaders, Directors, and teams across Google's marquee businesses, you will bridge technology and governance to build the foundational data stack shaping the future of AI.\n\nThe Core team builds the technical foundation behind Google’s flagship products. We are owners and advocates for the underlying design elements, developer platforms, product components, and infrastructure at Google. These are the essential building blocks for excellent, safe, and coherent experiences for our users and drive the pace of innovation for every developer. We look across Google’s products to build central solutions, break down technical barriers and strengthen existing systems. As the Core team, we have a mandate and a unique opportunity to impact important technical decisions across the company.  \n\nIndividual pay is determined by factors including job-related skills, experience, and relevant education or training.  \n  \nUS: $163000 - $236000 (USD) + 15% bonus target + equity + benefits\n\nLearn more about benefits at Google.\n\n  \nIndividual pay is determined by factors including job-related skills, experience, and relevant education or training.\n  \n  \nUS: $163000 - $236000 (USD) + 15% bonus target + equity + benefits  \n  \nLearn more about benefits at Google.\n\n**Responsibilities**\n--------------------\n\n* Gain a deep understanding of the evolving data requirements for Google Search, Large Language Models (LLMs), RAG applications, and other information retrieval clients to inform the native multimodal data pipelines strategyusing AI-based signal processing technologies**.**\n* Build and manage an actionable roadmap that accelerates model development by DeepMind researchers, AI adoption by Google’s marquee businesses.\n* Take technical products from conception to launch by driving execution to achieve desired business impact.\n* Partner across the Product Management, Engineering, Program, Research and Customer Engagement partners to align priorities, influence decisions and remove execution blockers.\n\nGoogle is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.",
+      "salary": "$163k–$236k/yr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 13.183,
+        "city": "san jose",
+        "latitude": 37.296011,
+        "longitude": -121.814552,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
     },
@@ -320,114 +346,9 @@
         "longitude": -122.026316,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
-    },
-    {
-      "company": "Google",
-      "title": "Product Manager, Multimodal Data Pipelines, AI Foundations",
-      "location": "San Jose, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=6ae78731a4751d69",
-      "direct_url": "https://careers.google.com/jobs/results/90019524744487622-product-manager/",
-      "company_url": "https://www.indeed.com/cmp/Google",
-      "date_posted": "2026-10-20",
-      "description": "### **Minimum qualifications:**\n\n* Bachelor's degree or equivalent practical experience.\n* 5 years of experience in product management, or a related technical role.\n* 2 years of experience taking technical products from conception to launch (e.g., ideation to execution, end-to-end, 0 to 1, etc.).\n* Experience integrating generative AI tools or LLM interfaces into workflows.\n* Experience building and scaling developer platforms, developer-facing APIs/SDKs, or general backend infrastructure (e.g., for search or AI applications).\n\n  \n\n### **Preferred qualifications:**\n\n* Master's degree in a technology or business related field.\n* 2 years of experience in software development or engineering.\n* 1 year of experience in technical leadership.\n* Experience with data processing using Large Language Models (LLMs), Model Development, Model Training, Retrieval-Augmented Generation (RAG).\n* Exceptional cross-functional leadership skills, with the ability to influence without authority across engineering, research, and product areas.\n* Excellent problem-solving skills, with the ability to define user journeys and success metrics.\n\n**About the job**\n-----------------\n\nAt Google, we put our users first. The world is always changing, so we need Product Managers who are continuously adapting and excited to work on products that affect millions of people every day.\n  \n  \nIn this role, you will work cross-functionally to guide products from conception to launch by connecting the technical and business worlds. You can break down complex problems into steps that drive product development.  \n  \nOne of the many reasons Google consistently brings innovative, world-changing products to market is because of the collaborative work we do in Product Management. Our team works closely with creative engineers, designers, marketers, etc. to help design and develop technologies that improve access to the world's information. We're responsible for guiding products throughout the execution cycle, focusing specifically on analyzing, positioning, packaging, promoting, and tailoring our solutions to our users.\n\n  \n\nThis new AI development phase demands radically innovating how we acquire, process, and index fresh, high-quality multimodal data. Raw, web-scale crawled data must become trusted, structured data to fuel Large Language Model (LLM) training and enable agentic applications to retrieve and reason over context.\n\nAs a Product Manager, you will define the strategy for our planet-scale data processing platform. In this role, you will evolve multimodal pipelines to power Google's core AI models, Gemini, and next-generation agents. Partnering with technical leaders, Directors, and teams across Google's marquee businesses, you will bridge technology and governance to build the foundational data stack shaping the future of AI.\n\nThe Core team builds the technical foundation behind Google’s flagship products. We are owners and advocates for the underlying design elements, developer platforms, product components, and infrastructure at Google. These are the essential building blocks for excellent, safe, and coherent experiences for our users and drive the pace of innovation for every developer. We look across Google’s products to build central solutions, break down technical barriers and strengthen existing systems. As the Core team, we have a mandate and a unique opportunity to impact important technical decisions across the company.  \n\nIndividual pay is determined by factors including job-related skills, experience, and relevant education or training.  \n  \nUS: $163000 - $236000 (USD) + 15% bonus target + equity + benefits\n\nLearn more about benefits at Google.\n\n  \nIndividual pay is determined by factors including job-related skills, experience, and relevant education or training.\n  \n  \nUS: $163000 - $236000 (USD) + 15% bonus target + equity + benefits  \n  \nLearn more about benefits at Google.\n\n**Responsibilities**\n--------------------\n\n* Gain a deep understanding of the evolving data requirements for Google Search, Large Language Models (LLMs), RAG applications, and other information retrieval clients to inform the native multimodal data pipelines strategyusing AI-based signal processing technologies**.**\n* Build and manage an actionable roadmap that accelerates model development by DeepMind researchers, AI adoption by Google’s marquee businesses.\n* Take technical products from conception to launch by driving execution to achieve desired business impact.\n* Partner across the Product Management, Engineering, Program, Research and Customer Engagement partners to align priorities, influence decisions and remove execution blockers.\n\nGoogle is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.",
-      "salary": "$163k–$236k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 13.183,
-        "city": "san jose",
-        "latitude": 37.296011,
-        "longitude": -121.814552,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Plato",
-      "title": "Member of Technical Staff, Research Scientist - Safety Environments",
-      "location": "San Francisco, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=99feafcf82b11f34",
-      "direct_url": "https://jobs.ashbyhq.com/plato.so/19cbbdd1-65a8-4ffa-97e8-7936326b2e63?utm_source=r9Qv6GNR0l",
-      "company_url": "https://www.indeed.com/cmp/Plato",
-      "date_posted": "2026-10-20",
-      "description": "**About Plato**\n===============\n\nPlato is an applied research lab building the foundational infrastructure to train specialized AI agents.\n\nWe turn real-world data streams into high-fidelity simulated environments that generate the training signal needed to make capable models. Our work supports frontier labs, hyperscalers, and enterprises building AI systems for complex, high-stakes work.\n\nToday, only a handful of players can train models for capable work. Compute and algorithms are rapidly commoditizing, but reinforcement learning data remains the bottleneck. Plato is changing that by automatically scaling training environments from proprietary real-world data.\n\n**Why Apply**\n=============\n\n* Work with the frontier: Build safety environments and benchmarks that research teams at leading AI labs can use to measure emerging capabilities and misaligned behavior.\n* Real ownership: Help set Plato’s safety evaluation agenda, from the research questions worth testing to the evidence we share with lab partners.\n* Research to production: Work with engineers to turn experimental designs into runnable environments, with a short path from an idea to an evaluation labs can use.\n\n**The Role**\n============\n\nPlato is hiring an individual contributor researcher to design safety environments and benchmarks, starting with evaluations that measure how well AI models can improve themselves and other models.\n\nYou will establish a new research direction at Plato, designing safety-relevant benchmarks and working with engineers to turn them into runnable environments. Your initial focus will be measuring AI R&D capabilities, including experiment design, model training, and research replication.\n\nYou will also investigate reward hacking, sabotage, deception, and other misaligned behavior. The work spans research design, empirical evaluation, and failure analysis, with substantial ownership of the research agenda. Some environments may also be used in training to reduce the behaviors they reveal.\n\n**What You’ll Do**\n==================\n\n* Design Safety Benchmarks: Measure AI research automation and self-improvement. Define tasks, baselines, budgets, and success criteria that separate meaningful progress from superficial completion.\n* Build Safety Environments: Design environments that expose reward hacking, sabotage, deception, and failures to follow intended constraints.\n* Hold the Evaluation Bar: Investigate contamination, grader weaknesses, task ambiguity, and shortcuts that could make a result misleading.\n* Track Frontier Capabilities: Run experiments with current models, inspect trajectories and failures, and measure how capabilities change across models and over time.\n* Work with Engineering: Turn research designs into reproducible environments with clear scoring, useful instrumentation, and documented limitations.\n* Share the Findings: Translate results into benchmark releases, research reports, and concrete recommendations for lab partners.\n\n**Required Qualifications**\n===========================\n\n* Recent Research: Hands-on work in frontier-model evaluation, benchmarks, or AI safety in the past one to two years.\n* Research Track Record: Meaningful contributions to papers, released benchmarks, public reports, or comparable empirical work. We care about the quality of your work and your contribution more than credentials or years of experience.\n* Current Model Knowledge: Practical familiarity with current frontier models and a specific, evidence-based view of their capabilities, limitations, and likely development.\n* Experimental Judgment: You can explain what an evaluation measures, how it could be gamed, and which conclusions its results do and do not support.\n* Research Ownership: Ability to turn an ambiguous question into a concrete experimental design and collaborate closely with engineers to implement it.\n* Safety Focus: Interest in measuring safety-relevant capabilities and behavior, including the tradeoffs when evaluation environments are also used for training.\n* Bay Area Based: Based in the San Francisco Bay Area, or willing to relocate.\n\n**Preferred Qualifications**\n============================\n\n* Designed and released a benchmark, particularly for AI R&D, long-horizon agents, dangerous capabilities, or AI control. Relevant reference points include RE-Bench, MLE-bench, and PaperBench.\n* Experience in an independent evaluation or safety organization, a frontier lab safety team, or pre-deployment testing with labs or government evaluation bodies.\n* Direct research on models conducting ML experiments, training or improving other models, replicating papers, or completing extended research tasks.\n* A software engineering background or programming skills that let you implement environments, evaluation harnesses, and analysis tools yourself.\n* Experience publishing rigorous empirical research, including work at major machine-learning venues.\n\nCompensation Range: $275K - $450K",
-      "salary": "$275k–$450k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Pixar",
-      "title": "Senior Research Scientist",
-      "location": "Emeryville, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=ae391fb682dcc94f",
-      "direct_url": "https://join.disneycareers.com/global/en/job/TWNTWDUSR04102EXTERNALENGLOBAL/Senior-Research-Scientist?utm_source=INDEED_FEED&utm_medium=phenom-feeds",
-      "company_url": "https://www.indeed.com/cmp/Pixar",
-      "date_posted": "2026-10-20",
-      "description": "**RESPONSIBILITIES:**\n\n* Research & Innovation: Identify and solve complex graphics/AI problems; design, develop, and deploy scalable algorithms and prototype software.\n* Production Collaboration: Work directly with artists, technical directors, and engineers to address real-world production challenges under tight deadlines.\n* Leadership & Publication: Lead research projects, publish results in peer-reviewed journals (e.g., SIGGRAPH), and maintain Pixar’s presence in the global research community.\n* Strategy: Stay current on emerging technologies and provide recommendations for studio adoption.\n\n**QUALIFICATIONS:**\n\n* Demonstrated leadership in the computer graphics or closely related research communities\n* Ph.D. in Computer Science, AI, or a related field\n* 7+ years of post-graduate research experience in academia or industry R&D\n* Sustained history of original research and publications in top-tier forums (ACM SIGGRAPH, CVPR, NeurIPS) and recognized leadership in the field\n* Deep expertise in at least one area of graphics/AI, solid coding skills, and the ability to analyze cutting-edge technologies\n\n**SKILLS:**\n\n* Excellent communication and collaboration skills across diverse roles (artists to executives)\n* Ability to manage multiple tasks independently and within a team\n* Strong presentation and technical writing capabilities\n* Commitment to diverse perspectives and collaborative innovation\n\n  \nThe hiring range for this position in Emeryville is $223,295.00 to $288,970.00 per year. The base pay actually offered will take into account internal equity and also may vary depending on the candidate’s geographic region, job-related knowledge, skills, and experience among other factors.  \n**Disclaimer**  \n\nThis position is with Pixar, which is part of a business we call PIXAR Animation Studios.\n\nTo learn more about Disney's guidelines on the use of AI for candidates, click here.\n\nPixar is an equal opportunity employer. Applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status. Disney champions a business environment where ideas and decisions from all people help us grow, innovate, create the best stories and be relevant in a constantly evolving world.\n\nDISABILITY ACCOMMODATION FOR EMPLOYMENT APPLICATIONS\n\nThe Walt Disney Company and its Affiliated Companies are Equal Employment Opportunity employers and welcome all job seekers including individuals with disabilities and veterans with disabilities. If you have a disability and believe you need a reasonable accommodation in order to search for a job opening or apply for a position, visit the Disney candidate disability accommodations FAQs. We will only respond to those requests that are related to the accessibility of the online application system due to a disability.\n\nHaving technical issues? View the FAQs for help.",
-      "salary": "$223k–$289k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 34.719,
-        "city": "emeryville",
-        "latitude": 37.838473,
-        "longitude": -122.301682,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Amazon.com",
-      "title": "Principal Applied Scientist, Fauna",
-      "location": "Sunnyvale, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=59bdb329102a30ba",
-      "direct_url": "https://www.amazon.jobs/jobs/10584470/principal-applied-scientist-fauna?cmpid=DA_INAD200785B",
-      "company_url": "https://www.indeed.com/cmp/Amazon.com",
-      "date_posted": "2026-10-20",
-      "description": "**DESCRIPTION**\n---------------\n\nFauna Robotics is seeking a Principal Applied Scientist to lead the development of evaluation frameworks and data collection protocols that measure, stress-test, and improve robot behavior across real-world tasks.  \n  \nOperating at the intersection of robotics, machine learning, and human-in-the-loop systems, this role owns the infrastructure and methodologies that connect teleoperation, evaluation, and learning — shaping how policies are validated and how high-quality datasets are generated to accelerate system performance.  \n  \nKey job responsibilities  \nWhat you'll do:  \n  \n\n* Build and own evaluation frameworks that measure and stress-test robot behavior across real-world tasks\n* Design data collection protocols that generate high-quality datasets to accelerate system performance\n* Connect teleoperation, evaluation, and learning systems into cohesive, measurable infrastructure\n* Translate ambiguous capability goals into actionable, measurable evaluation systems\n\nWhat we're looking for:  \n  \n\n* A highly experimental, systems-oriented scientist comfortable working across software, robotics, and data pipelines\n* Deep expertise in machine learning and robotics, with a track record of building evaluation methodologies\n\n  \nAbout the team  \nFauna Robotics, an Amazon company, is building capable, safe, and genuinely delightful robots for everyday life. Our goal is simple: make robots people actually want to live and interact with in everyday human spaces.  \nWe believe that future won’t arrive until building for robotics becomes far more accessible. Today, too much effort is spent reinventing the fundamentals. We’re changing that by developing tightly integrated hardware and software systems that make it faster, safer, and more intuitive to create real-world robotic products.  \nOur work spans the full stack: mechanical design, control systems, dynamic modeling, and intelligent software. The focus is not just functionality, but experience. We’re building robots that feel responsive, expressive, and genuinely useful.  \n  \nAt Fauna, you’ll work at the frontier of this space, helping define how robots move, manipulate, and interact with people in natural environments. It’s an opportunity to solve hard problems across hardware and software with a team focused on making robotics accessible and joyful to build.  \nIf you care about making robotics real for everyone and building systems that are as delightful as they are capable, we’re interested in hearing from you.  \nan opportunity to solve hard problems across hardware and software with a team focused on making robotics accessible and joyful to build.\n  \nIf you care about making robotics real for everyone and building systems that are as delightful as they are capable, we’re interested in hearing from you.\n\n**BASIC QUALIFICATIONS**\n------------------------\n\n* 5+ years of hands-on work in predictive modeling and analysis experience\n* PhD in Electrical Engineering, Computer Science, Mathematics, or a related technical field\n* Experience working in predictive modeling and analysis\n* Experience distilling informal customer requirements into problem definitions, dealing with ambiguity and competing objectives\n* Experience programming in Java, C++, Python or related language\n* Experience with leading experienced scientists as well as having a record of developing junior members from academia or industry to a career track in a business environment\n\n**PREFERRED QUALIFICATIONS**\n----------------------------\n\n* 10+ years of relevant work in industry or academia experience\n* Knowledge of problem solving, algorithm design and complexity analysis\n* Experience creating novel algorithms and advancing the state of the art\n* Have peer-reviewed scientific contributions in premier journals and conferences\n\n  \nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  \n  \nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n\nThe base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.\n\n  \nUSA, CA, Sunnyvale - 228,700.00 - 309,400.00 USD annually",
-      "salary": "$229k–$309k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 0.0,
-        "city": "sunnyvale",
-        "latitude": 37.385797,
-        "longitude": -122.026316,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    }
-  ],
+  "new_jobs": [],
   "remote_jobs": [],
   "ambiguous_jobs": [
     {
