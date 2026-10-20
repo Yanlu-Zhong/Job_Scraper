@@ -398,3 +398,4 @@
 {"job_count": 13, "run_attempt": "1", "run_id": "39484180334", "scrape": {"errors": 0, "queries": 25, "raw_rows": 325, "status": "success"}, "timestamp": "2026-10-20T19:32:07Z", "workflow": "indeed"}
 {"job_count": 13, "run_attempt": "1", "run_id": "39484828861", "scrape": {"errors": 0, "queries": 25, "raw_rows": 322, "status": "success"}, "timestamp": "2026-10-20T19:36:30Z", "workflow": "indeed"}
 {"job_count": 0, "run_attempt": "1", "run_id": "39487921303", "scrape": {"errors": 0, "queries": 25, "raw_rows": 0, "status": "empty"}, "timestamp": "2026-10-20T19:58:27Z", "workflow": "glassdoor"}
+{"job_count": 0, "run_attempt": "1", "run_id": "39488687390", "scrape": {"errors": 0, "queries": 25, "raw_rows": 0, "status": "empty"}, "timestamp": "2026-10-20T20:04:11Z", "workflow": "ziprecruiter"}
