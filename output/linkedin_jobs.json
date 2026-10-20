@@ -1,14 +1,14 @@
 {
-  "scraped_at": "2026-10-20 05:22 UTC",
-  "total": 62,
+  "scraped_at": "2026-10-20 06:15 UTC",
+  "total": 66,
   "new_count": 4,
   "scrape_status": {
     "status": "success",
-    "raw_rows": 220,
-    "queries": 24,
-    "batch": 5,
+    "raw_rows": 253,
+    "queries": 32,
+    "batch": 1,
     "batches": 5,
-    "terms_in_batch": 6,
+    "terms_in_batch": 8,
     "terms_total": 38
   },
   "jobs": [
@@ -856,7 +856,7 @@
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4417887272/",
       "date_posted": "2026-10-19",
-      "salary": "",
+      "salary": "$285,000—$380,000 USD",
       "ats": "LinkedIn",
       "geography": {
         "status": "in_radius",
@@ -865,7 +865,8 @@
         "latitude": 37.727239,
         "longitude": -123.032229,
         "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
+      },
+      "description": "About Anthropic\n\nAnthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n\nAbout The Role\n\nAs part of our growing Data Science and Analytics team, you will play a key role in Anthropic's mission of building safe and beneficial AI by driving data-informed decision-making across the organization. You'll be embedded with teams supporting our Developer Platform — the infrastructure that enables developers and enterprise customers to build on Claude via our core API, agent orchestration, tool and MCP integrations, and knowledge management capabilities.\n\nIn this role, you'll partner closely with product, engineering, and go-to-market teams to understand how AI agents are being built and deployed at scale. You'll identify growth opportunities, surface insights about platform adoption, and drive data-informed decisions that shape our platform roadmap. You'll also help establish the analytical foundations and best practices of a data science team that is still defining itself — bringing rigor and clarity to a fast-moving environment.\n\nKey responsibilities\n\nDefine key metrics, build measurement frameworks, and maintain core reporting to evaluate platform success\nConduct deep dives into product and usage data to surface actionable insights, size opportunities, and influence roadmaps across product, engineering, and go-to-market teams\nDevelop hypotheses and apply rigorous causal inference methods — including controlled experiments and synthetic controls — to evaluate platform changes and make actionable recommendations\nInvestigate anomalies, conduct root cause analyses, and provide data-driven insights to guide priorities and inform decisions\nBuild statistical models, optimization frameworks, and simulations to support and automate operational and decision-making processes\nPresent complex analyses and recommendations clearly to both technical and non-technical stakeholders\nHelp establish foundational data practices and scale analytics infrastructure to support rapid iteration as the platform grows\n\nMinimum Qualifications\n\nProficiency in Python, SQL, and data visualization tools\nExpertise in experimental design, causal inference, statistical modeling, and A/B testing, particularly in high-scale technical environments\nExperience working closely with Product or Engineering teams on API or developer-facing products, with demonstrated impact on product roadmap and strategy\nEffective written communication and presentation skills, with the ability to translate complex analyses into clear, actionable recommendations for both technical and business audiences\n\nPreferred Qualifications\n\n6+ years of experience in data science or analytics roles\nExperience supporting B2B sales teams with data insights\nStrong instincts for what drives product adoption, engagement, and retention in developer or enterprise contexts\nExperience with AI/ML products, large language models, or developer tools in the AI/ML ecosystem\nComfort operating in ambiguous, fast-moving environments where creating clarity is part of the role\nA genuine interest in Anthropic's mission of building safe and beneficial AI\n\nThe annual compensation range for this role is listed below.\n\nFor sales roles, the range provided is the role’s On Target Earnings (\"OTE\") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.\n\nAnnual Salary\n\n$285,000—$380,000 USD\n\nLogistics\n\nMinimum education:\nBachelor’s degree or an equivalent combination of education, training, and/or experience\n\nRequired field of study:\nA field relevant to the role as demonstrated through coursework, training, or professional experience\n\nMinimum years of experience:\nYears of experience required will correlate with the internal job level requirements for the position\n\nLocation-based hybrid policy:\nCurrently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.\n\nVisa sponsorship:\nWe do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.\n\nWe encourage you to apply even if you do not believe you meet every single qualification.\nNot all strong candidates will meet every single qualification as listed. Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.\n\nYour safety matters to us.\nTo protect yourself from potential scams, remember that Anthropic recruiters only contact you from @anthropic.com email addresses. In some cases, we may partner with vetted recruiting agencies who will identify themselves as working on behalf of Anthropic. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit anthropic.com/careers directly for confirmed position openings.\n\nHow We're Different\n\nWe believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.\n\nThe easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI & Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.\n\nCome work with us!\n\nAnthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. Guidance on Candidates' AI Usage:\nLearn about our policy for using AI in our application process.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nResearch Services"
     },
     {
       "company": "Walmart",
@@ -1091,18 +1092,123 @@
         "longitude": -123.032229,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
+    },
+    {
+      "company": "Bosch USA",
+      "title": "Research Scientist- Robotics AI",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473082519/",
+      "date_posted": "2026-10-20",
+      "salary": "$165,000 - $185,000",
+      "ats": "LinkedIn",
+      "description": "Company Description\n\nThe Bosch Research and Technology Center North America with offices in Sunnyvale, California, Pittsburgh, Pennsylvania, and Cambridge, Massachusetts is a part of the global Bosch Group (www.bosch.com), a company with over 70 billion euro revenue, 400,000 employees worldwide, a very diverse product portfolio, and a history spanning over 125 years. The Research and Technology Center North America (RTC-NA) is dedicated to providing technologies and system solutions for various Bosch business fields, primarily in the field of artificial intelligence, energy technologies, internet technologies, circuit design, semiconductors and wireless, as well as advanced MEMS design.\n\nAs a part of the global research, our AI research in Silicon Valley focuses on Foundation Models, Big Data Visual Analytics, Explainable AI (XAI), Natural Language Processing, Computer Vision & Mixed Reality, Cloud Robotics, Data Science, AI System Engineering, Time-series Analysis. We develop scalable, intelligent, and trustworthy AIoT solutions for Bosch products and services in application areas such as automated driving, advanced driver assistance systems (ADAS), robotics, smart manufacturing, enterprise AI, health care, smart home and building solutions.\n\nOriginating from the AI research in Silicon Valley, our Intelligent Autonomous Systems group is responsible for enabling future autonomous Bosch products by pushing the boundaries of automated driving, advanced driver assistance systems (ADAS), robotics and automation through key innovations that encompass system architecture and AI components. These include methods for motion planning, high level task planning and decision making as well as systems for making these technologies work on real products by building frameworks that take advantage of technologies in the field of reliable distributed computing. We work with internal partners of different Bosch business units to transfer our solutions into future products. We also actively collaborate with leading groups in academia and industry to promote research ideas and publish research findings in internationally renowned conferences and journals such as CVPR, ICRA, IROS, RSS, NeurIPS and CoRL.\n\nJob Description\n\nAs a Research Scientist- Robotics AI, you contribute to research projects at the forefront of the ADAS/AD industry. Key responsibilities include:\n\nConduct research and engineering in core AI and machine learning fields to enable Embodied AI (including computer vision, autonomous planning, open-world learning, and so on) for related business domains of ADAS/AD, industrial automation, robotics etc.\nPush the boundaries in AI based Robotics, incorporating advancements in large vision-language-(action) models to aid reasoning capabilities and explainability.\nCollaborate cross-functionally with global research and engineering teams to ensure seamless technology transfer and system integration.\nImplement research results to solve real-world challenges, ensuring high-quality system integration within Bosch's existing platforms.\nStay at the forefront of innovation by actively engaging with academic and industry communities through conferences, workshops, and technical events.\nDocument and disseminate research findings through high-caliber publications and/or patent submissions.\n\nQualifications\n\nBasic Qualifications\n\nPh.D. in Computer Science, Robotics or a related discipline or Master's degree with >= 2 years industry experience after graduation.\nA minimum of 3 years of R&D experience, or an equivalent graduate research background, primarily in AI technologies including Computer Vision and Robotic or Automotive Motion and Behavioral Planning.\nProficiency in one or more programming languages commonly used in machine learning (e.g., Python, C++, Rust).\nStrong interpersonal, communication, and teamwork capabilities.\nKnowledge of major machine learning frameworks like TensorFlow or PyTorch.\nHands-on experience in reinforcement learning for behavior or motion planning or other applicable contexts and familiarity with common RL techniques (e.g. PPO, DQN, DDPG).\nA strong portfolio of publications in premier machine learning, deep learning, robotics and computer vision journals and conferences.\n\nPreferred Qualifications\n\nExperience with real-world product development and deployment of autonomous systems.\nHands-on experience building and applying multimodal transformer-based sequence-to-sequence models, especially multimodal vision-language-action models.\nHands-on experience in computer vision and deep learning, with work in any of the following areas: multimodal transformers, multimodal language models, diffusion models, NeRF, gaussian splatting, object detection / segmentation, 3D scene understanding, sensor calibration, SfM, voxel/BEV grid-based feature representation.\n\nAdditional Information\n\nWe offer a competitive base salary for this position with a range in US-California of --$165,000 - $185,000 along with an annual corporate bonus, and a long-term incentive bonus designed to reward sustained impact and contribution over time. Within the salary range, the individual pay is determined based on several factors, including, but not limited to, work experience and job knowledge, complexity of the role, job location, etc.\n\nYour well-being matters at Bosch! We offer a a benefits package designed to empower you in every area of your life. This includes premium health coverage, a 401(k) with generous matching, resources for financial planning and goal setting, ample paid time off, parental leave, and comprehensive life and disability protection. Your Recruiter can share more details for this position during the interview process.\n\nLearn more about our full benefits offerings by visiting: https://www.myboschbenefits.com/public/welcome.\n\nEqual Opportunity Employer, including disability / veterans.\n\nBosch adheres to Federal, State, and Local laws regarding drug-testing. Employment is contingent upon the successful completion of a drug screen and background check. Candidates who have been offered the position must pass both screenings before their start date.\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nIndustries\n\nResearch",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Jiangsu Surun Talent Development Group Co., Ltd.",
+      "title": "Research Scientist",
+      "location": "Cupertino, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481544001/",
+      "date_posted": "2026-10-20",
+      "salary": "$75,000.00/yr - $300,000.00/yr",
+      "ats": "LinkedIn",
+      "description": "Global Talent Search 2027 | Early and Mid-Career Research Talent\n\nWe are seeking outstanding early- and mid-career researchers worldwide\nfor international research and innovation opportunities.\n\nWe collaborate with leading universities, research institutions, and innovative enterprises to connect emerging research talent with opportunities in scientific research, technological innovation, and long-term career development\n.\n\nPriority Research Areas\n\nArtificial Intelligence | Advanced Manufacturing | New Materials | Biotechnology & Pharmaceuticals | New Energy | Electric Vehicles | Data Science | Life Sciences | Environmental Science | Digital Economy | Strategic Technologies\n\nWho We Are Looking For\n\nWe welcome PhD-qualified applicants at the following career stages:\nPostdoctoral Researchers:\nPhD graduates currently undertaking postdoctoral research, with relevant expertise and demonstrated research potential.\nIndustry R&D Experts:\nResearchers with experience conducting independent research and a record of academic or applied research achievements.\nAssociate Professors and Above:\nAcademics at the Associate Professor level or higher, with experience in research, teaching, or both.\n\nApplicants from universities may hold research-focused, teaching-focused, or combined appointments\n. Applicants from industry must hold a Scientist I position or above\n.\n\nRequirements:\n\nA PhD degree in a relevant scientific, engineering, or technology discipline\nAt least three years of research experience in an academic or industry setting\nA strong research track record, demonstrated through publications, patents, or other relevant achievements\nAn interest in independent research and international collaboration\n\nOpportunities\n\nSelected candidates may have opportunities to:\nDevelop independent research directions\nLead or participate in research and innovation projects\nWork with established research teams and leading institutions\nEngage in international academic and industry collaboration\nExplore long-term academic or industry career opportunities\n\nAttractive Compensation & Funding\n\nCompetitive employment packages may include:\nAnnual Salary: Approximately USD 70,000 – USD 285,000+\n, depending on qualifications, experience, discipline, and host institution.\nGovernment Talent Award: Eligible candidates may receive talent award up to USD 570,000\n, and housing support up to USD 240,000\n\nOutstanding researchers may also become eligible for additional research funding of up to USD 715,000.\n\nAdditional support may include housing assistance, family-related support, and other\n\napplicable benefits\n, depending on the specific opportunity and candidate profile.\n\nIf you are an early- or mid-career researcher looking to advance your research and explore new opportunities, we welcome you to connect with us.\n\nHow to Apply\n\nPlease send your CV and a brief summary of your research interests\nto zhangyun.ju@suruntalent.com.\n\n#Research #Innovation #GlobalTalent #PhD #Postdoc #EarlyCareerResearcher #RAndD #AI #Biotechnology #NewMaterials #NewEnergy\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nOther\n\nIndustries\n\nBiotechnology Research, Energy Technology, and Computer and Network Security",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 4.7,
+        "city": "cupertino",
+        "latitude": 37.3194,
+        "longitude": -122.044957,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Anthropic",
+      "title": "User Experience Researcher, Platform",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463871784/",
+      "date_posted": "2026-10-19",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Scientist, Interpretability",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4322071943/",
+      "date_posted": "2026-10-19",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
     }
   ],
   "new_jobs": [
     {
-      "company": "Preference Model",
-      "title": "Member of Technical Staff - Research Engineer, Post-training",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481531127/",
+      "company": "Bosch USA",
+      "title": "Research Scientist- Robotics AI",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473082519/",
       "date_posted": "2026-10-20",
-      "salary": "$200,000.00/yr - $350,000.00/yr",
+      "salary": "$165,000 - $185,000",
       "ats": "LinkedIn",
-      "description": "About Us\n\nPreference Model is a superintelligence data research company. We build RL environments for training capable, better-aligned superintelligences.\n\nAlmost every aspect of how a model behaves is shaped by the reward signals it's trained on. The biggest problem with AIs today is that they don't always do what we intend. Sometimes that's because they aren't capable enough, and sometimes it's because they aren't aligned. Both problems come down to the training objectives.\n\nWe're trying to address both of these issues in the most direct, highest leverage way available to us, which today means researching how to build RL environments better, not just for the AIs of today but for the AIs as they will be when they outsmart us.\n\nOver the past year, we've built RL environments for several frontier labs, and we're backed by $16M in seed funding led by a16z. Our founding team has previous experience on Anthropic’s data team building data infrastructure, and datasets behind Claude.\n\nAbout The Role\n\nModels of the future will be able to train themselves on tasks that they are not good at. We are interested in investigating how far we can push the boundaries of self-directed learning. We are looking for machine learning\nResearch Engineers or Research Scientists\nto push the frontier of post-training on large language models in a role that blends research and engineering, requiring you to implement novel approaches and shape research directions.\n\nWhat You Will Do:\n\nTrain and evaluate models on our proprietary RL environments to validate data quality, surface gaps in task coverage, and close the feedback loop between environment design and model capability.\nArchitect and optimize our RL training infrastructure, from training abstractions to distributed experiment management, using frameworks like Verl, OpenRLHF, or similar. Help scale our systems to handle increasingly complex research workflows.\nDesign, implement, and test training environments, evaluations, and methodologies for RL agents.\nProfile and optimize training runs end-to-end, from data loading through reward computation, to maximize experiment throughput and shorten the research iteration cycle.\n\nWhat We are Looking For\n\nExperience running end-to-end LLM post-training pipelines of models sizes at least 7B in size\nProficiency in Python and PyTorch or JAX\nExperience with at least one modern RL training framework\nExperience building and operating ML infrastructure at scale\n\nYou may be a good fit if you also:\n\nHave experience evaluating model outputs and building reward or evaluation signals\nStay current on post-training research and can translate papers into running code\nHave strong opinions (loosely held) about how to structure RL training code for reproducibility and fast iteration\nCan balance research exploration with engineering rigor\nHave strong systems design and communication skills\n\nCandidates don't need a PhD or extensive publications. Some of the best researchers have no formal ML training and gained experience building industry products. We believe adaptability combined with exceptional communication and collaboration skills are the most important ingredients for successful startup research.\n\nWhat we offer:\n\nCompetitive cash and equity compensation (>90th percentile)\nOwnership and autonomy in a fast moving startup environment\nOpportunity to work with top machine learning engineers\nHealth, vision, dental, benefits\n401K match\nLunch provided everyday onsite\nWeekly snack orders\nVisa sponsorship & relocation support available\n\nWe value diverse perspectives and experiences. If you're excited about this role but don't check every box, we still encourage you to apply.\n\nCompensation Range: $200K - $350K\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
+      "description": "Company Description\n\nThe Bosch Research and Technology Center North America with offices in Sunnyvale, California, Pittsburgh, Pennsylvania, and Cambridge, Massachusetts is a part of the global Bosch Group (www.bosch.com), a company with over 70 billion euro revenue, 400,000 employees worldwide, a very diverse product portfolio, and a history spanning over 125 years. The Research and Technology Center North America (RTC-NA) is dedicated to providing technologies and system solutions for various Bosch business fields, primarily in the field of artificial intelligence, energy technologies, internet technologies, circuit design, semiconductors and wireless, as well as advanced MEMS design.\n\nAs a part of the global research, our AI research in Silicon Valley focuses on Foundation Models, Big Data Visual Analytics, Explainable AI (XAI), Natural Language Processing, Computer Vision & Mixed Reality, Cloud Robotics, Data Science, AI System Engineering, Time-series Analysis. We develop scalable, intelligent, and trustworthy AIoT solutions for Bosch products and services in application areas such as automated driving, advanced driver assistance systems (ADAS), robotics, smart manufacturing, enterprise AI, health care, smart home and building solutions.\n\nOriginating from the AI research in Silicon Valley, our Intelligent Autonomous Systems group is responsible for enabling future autonomous Bosch products by pushing the boundaries of automated driving, advanced driver assistance systems (ADAS), robotics and automation through key innovations that encompass system architecture and AI components. These include methods for motion planning, high level task planning and decision making as well as systems for making these technologies work on real products by building frameworks that take advantage of technologies in the field of reliable distributed computing. We work with internal partners of different Bosch business units to transfer our solutions into future products. We also actively collaborate with leading groups in academia and industry to promote research ideas and publish research findings in internationally renowned conferences and journals such as CVPR, ICRA, IROS, RSS, NeurIPS and CoRL.\n\nJob Description\n\nAs a Research Scientist- Robotics AI, you contribute to research projects at the forefront of the ADAS/AD industry. Key responsibilities include:\n\nConduct research and engineering in core AI and machine learning fields to enable Embodied AI (including computer vision, autonomous planning, open-world learning, and so on) for related business domains of ADAS/AD, industrial automation, robotics etc.\nPush the boundaries in AI based Robotics, incorporating advancements in large vision-language-(action) models to aid reasoning capabilities and explainability.\nCollaborate cross-functionally with global research and engineering teams to ensure seamless technology transfer and system integration.\nImplement research results to solve real-world challenges, ensuring high-quality system integration within Bosch's existing platforms.\nStay at the forefront of innovation by actively engaging with academic and industry communities through conferences, workshops, and technical events.\nDocument and disseminate research findings through high-caliber publications and/or patent submissions.\n\nQualifications\n\nBasic Qualifications\n\nPh.D. in Computer Science, Robotics or a related discipline or Master's degree with >= 2 years industry experience after graduation.\nA minimum of 3 years of R&D experience, or an equivalent graduate research background, primarily in AI technologies including Computer Vision and Robotic or Automotive Motion and Behavioral Planning.\nProficiency in one or more programming languages commonly used in machine learning (e.g., Python, C++, Rust).\nStrong interpersonal, communication, and teamwork capabilities.\nKnowledge of major machine learning frameworks like TensorFlow or PyTorch.\nHands-on experience in reinforcement learning for behavior or motion planning or other applicable contexts and familiarity with common RL techniques (e.g. PPO, DQN, DDPG).\nA strong portfolio of publications in premier machine learning, deep learning, robotics and computer vision journals and conferences.\n\nPreferred Qualifications\n\nExperience with real-world product development and deployment of autonomous systems.\nHands-on experience building and applying multimodal transformer-based sequence-to-sequence models, especially multimodal vision-language-action models.\nHands-on experience in computer vision and deep learning, with work in any of the following areas: multimodal transformers, multimodal language models, diffusion models, NeRF, gaussian splatting, object detection / segmentation, 3D scene understanding, sensor calibration, SfM, voxel/BEV grid-based feature representation.\n\nAdditional Information\n\nWe offer a competitive base salary for this position with a range in US-California of --$165,000 - $185,000 along with an annual corporate bonus, and a long-term incentive bonus designed to reward sustained impact and contribution over time. Within the salary range, the individual pay is determined based on several factors, including, but not limited to, work experience and job knowledge, complexity of the role, job location, etc.\n\nYour well-being matters at Bosch! We offer a a benefits package designed to empower you in every area of your life. This includes premium health coverage, a 401(k) with generous matching, resources for financial planning and goal setting, ample paid time off, parental leave, and comprehensive life and disability protection. Your Recruiter can share more details for this position during the interview process.\n\nLearn more about our full benefits offerings by visiting: https://www.myboschbenefits.com/public/welcome.\n\nEqual Opportunity Employer, including disability / veterans.\n\nBosch adheres to Federal, State, and Local laws regarding drug-testing. Employment is contingent upon the successful completion of a drug screen and background check. Candidates who have been offered the position must pass both screenings before their start date.\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nIndustries\n\nResearch",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Jiangsu Surun Talent Development Group Co., Ltd.",
+      "title": "Research Scientist",
+      "location": "Cupertino, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481544001/",
+      "date_posted": "2026-10-20",
+      "salary": "$75,000.00/yr - $300,000.00/yr",
+      "ats": "LinkedIn",
+      "description": "Global Talent Search 2027 | Early and Mid-Career Research Talent\n\nWe are seeking outstanding early- and mid-career researchers worldwide\nfor international research and innovation opportunities.\n\nWe collaborate with leading universities, research institutions, and innovative enterprises to connect emerging research talent with opportunities in scientific research, technological innovation, and long-term career development\n.\n\nPriority Research Areas\n\nArtificial Intelligence | Advanced Manufacturing | New Materials | Biotechnology & Pharmaceuticals | New Energy | Electric Vehicles | Data Science | Life Sciences | Environmental Science | Digital Economy | Strategic Technologies\n\nWho We Are Looking For\n\nWe welcome PhD-qualified applicants at the following career stages:\nPostdoctoral Researchers:\nPhD graduates currently undertaking postdoctoral research, with relevant expertise and demonstrated research potential.\nIndustry R&D Experts:\nResearchers with experience conducting independent research and a record of academic or applied research achievements.\nAssociate Professors and Above:\nAcademics at the Associate Professor level or higher, with experience in research, teaching, or both.\n\nApplicants from universities may hold research-focused, teaching-focused, or combined appointments\n. Applicants from industry must hold a Scientist I position or above\n.\n\nRequirements:\n\nA PhD degree in a relevant scientific, engineering, or technology discipline\nAt least three years of research experience in an academic or industry setting\nA strong research track record, demonstrated through publications, patents, or other relevant achievements\nAn interest in independent research and international collaboration\n\nOpportunities\n\nSelected candidates may have opportunities to:\nDevelop independent research directions\nLead or participate in research and innovation projects\nWork with established research teams and leading institutions\nEngage in international academic and industry collaboration\nExplore long-term academic or industry career opportunities\n\nAttractive Compensation & Funding\n\nCompetitive employment packages may include:\nAnnual Salary: Approximately USD 70,000 – USD 285,000+\n, depending on qualifications, experience, discipline, and host institution.\nGovernment Talent Award: Eligible candidates may receive talent award up to USD 570,000\n, and housing support up to USD 240,000\n\nOutstanding researchers may also become eligible for additional research funding of up to USD 715,000.\n\nAdditional support may include housing assistance, family-related support, and other\n\napplicable benefits\n, depending on the specific opportunity and candidate profile.\n\nIf you are an early- or mid-career researcher looking to advance your research and explore new opportunities, we welcome you to connect with us.\n\nHow to Apply\n\nPlease send your CV and a brief summary of your research interests\nto zhangyun.ju@suruntalent.com.\n\n#Research #Innovation #GlobalTalent #PhD #Postdoc #EarlyCareerResearcher #RAndD #AI #Biotechnology #NewMaterials #NewEnergy\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nOther\n\nIndustries\n\nBiotechnology Research, Energy Technology, and Computer and Network Security",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 4.7,
+        "city": "cupertino",
+        "latitude": 37.3194,
+        "longitude": -122.044957,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Anthropic",
+      "title": "User Experience Researcher, Platform",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463871784/",
+      "date_posted": "2026-10-19",
+      "salary": "",
+      "ats": "LinkedIn",
       "geography": {
         "status": "in_radius",
         "distance_miles": 59.936,
@@ -1113,50 +1219,13 @@
       }
     },
     {
-      "company": "Nori Robotics (YC S26)",
-      "title": "LLM Researcher",
+      "company": "Anthropic",
+      "title": "Research Scientist, Interpretability",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481266548/",
-      "date_posted": "2026-10-20",
-      "salary": "$150,000-$250,000 per year",
+      "url": "https://www.linkedin.com/jobs/view/4322071943/",
+      "date_posted": "2026-10-19",
+      "salary": "",
       "ats": "LinkedIn",
-      "description": "Nori Robotics (YC S26) builds affordable humanoid robots. Our work connects some of the world's most novel multimodal, creative, and behavioral datasets to robots and consumer applications used by real customers. We're looking for hungry, talented, curious people to join our team.\n\nScope: Research and improve model behavior, with creative writing at the center. Fine-tune and post-train language models on text-based creative and behavioral preference data, then carry those improvements into consumer applications and robot interactions.\n\nWhat you will work on\n• Fine-tune and post-train models for voice, character, narrative coherence, conversation, and social behavior.\n• Develop text-based creative and behavioral preference datasets, with clear human review and comparison criteria.\n• Build creative-writing benchmarks and run preference studies, ablations, and held-out evaluations to measure behavior.\n• Work with the VLM researcher and harness engineer to deploy improvements and study model behavior in products with real users.\n\nRequirements\n• Hands-on LLM fine-tuning and post-training, with strong Python and PyTorch or JAX and practical distributed-training experience.\n• Research in model behavior, open-ended generation, or preference learning, with rigorous human evaluation and experimental design.\n• Nice to have: creative-writing evaluation, long-context narrative consistency, preference learning, or relevant publications.\n\nSan Francisco, CA. Full time. In person.\n\nCompensation. Base pay: $150,000-$250,000 per year. Base pay varies with job-related knowledge, skills, and experience.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nRobotics Engineering",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Verily Health",
-      "title": "AI Applied Scientist",
-      "location": "San Bruno, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460624232/",
-      "date_posted": "2026-10-20",
-      "salary": "$219,000 - $246,000",
-      "ats": "LinkedIn",
-      "description": "Who We Are\n\nVerily Health is a data platform and technology company purpose-built to power AI-enabled precision health solutions that accelerate research and improve care for individuals and communities. Uniquely positioned at the intersection of technology, data science, and healthcare, Verily transforms multimodal health data into insights, models, and actions that make healthcare more personalized, predictive, and precise.\n\nDescription\n\nAs an AI Applied Scientist, you will occupy a unique, highly impactful position that sits at the intersection of our real-world data (RWD) curation mission and our cutting-edge AI Agent development. In this role, you will be responsible for a balanced blend of designing scalable pipelines to curate Electronic Health Records (EHR) and claims data, and conducting advanced research into foundational healthcare models and intelligent multi-agent conversational architectures. You will apply frontier Large Language Models (LLMs) and advanced machine learning techniques to extract deep clinical meaning from messy, unstructured medical text, turning fragmented healthcare data into trustworthy, analysis-ready longitudinal datasets. Your work will directly ground our autonomous care agents and clinical decision support tools in robust, real-world clinical datasets, driving the next generation of healthcare transformation.\n\nResponsibilities\n\nDesign, develop, and deploy advanced generative AI workflows and multi-agent conversational architectures (e.g., using LangGraph) to power personalized user interactions and automated symptom triage.\nImplement, build on, and augment existing LLM/NLP tools to automate the abstraction of high-priority clinical variables and derived features from unstructured medical text, maximizing data completeness and accuracy.\nDevelop automated evaluation pipelines and \"LLM-as-a-judge\" grading rubrics to continuously benchmark agent safety, accuracy, factuality, and compliance across model updates. And enabling self-optimization cycles.\nHandle real-world data challenges from clinical and remote settings, ensuring absolute safe data boundaries, privacy preservation, and rigorous technical validation before production releases.\nCommunicate highly technical results, methods, and evaluation frameworks clearly via presentations and well-structured reports to both technical and non-technical cross-functional audiences.\n\nQualifications\n\nMinimum Qualifications\n\nMaster’s degree in a quantitative discipline (e.g., Data Sciences, Computer Science, Biomedical Informatics, Statistics, Applied Mathematics, or equivalent practical experience).\nMinimum of 3 years of industry experience applying advanced machine learning, NLP, and generative AI techniques (supervised/unsupervised learning, prompt engineering, agentic workflows) to clinical or healthcare datasets.\nDirect experience working with and curating real-world data (such as EHRs or medical claims), with a deep understanding of the complexities and limitations of unstructured medical text.\nStrong proficiency in Python and standard scientific computing/deep learning libraries (e.g., PyTorch, TensorFlow).\n\nPreferred Qualifications\n\nPhD degree in a quantitative discipline (e.g., Computer Science, Biomedical Informatics, Machine Learning, or related field).\nFamiliarity with advanced agent orchestration frameworks (e.g., LangGraph) and foundation model pre-training stacks (e.g., NVIDIA NeMo, Parabricks).\nFamiliarity with standard medical terminologies, vocabularies, and ontologies (e.g., SNOMED-CT, LOINC, RxNorm, ICD-10) and healthcare data models (FHIR, OMOP).\nExperience working closely with clinical subject matter experts to establish ground truth benchmarks and adjudicate complex data abstraction guidelines.\nStrong track record of scientific excellence, including peer-reviewed publications or submitted patents in healthcare AI/ML.\n\nThis role is eligible for Verily-sponsored immigration support.\n\nThe US base salary range for this full-time position is $219,000 - $246,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.\n\nPlease note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits.\n\nVerily Health Inc. is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. For our EEO Policy Statement, please click here. If you'd like more information on your EEO rights under the law, please click here.\n\nIf you have a need that requires accommodation, please let us know by completing our Accommodations for Applicants form.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nHospitals and Health Care",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 27.702,
-        "city": "san bruno",
-        "latitude": 37.62556,
-        "longitude": -122.431397,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Nori Robotics (YC S26)",
-      "title": "VLM Researcher",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481279144/",
-      "date_posted": "2026-10-20",
-      "salary": "$150,000-$250,000 per year",
-      "ats": "LinkedIn",
-      "description": "Nori Robotics (YC S26) builds affordable humanoid robots. Our work connects some of the world's most novel multimodal, creative, and behavioral datasets to robots and consumer applications used by real customers. We're looking for hungry, talented, curious people to join our team.\n\nScope: Own the research and model training that let robots interpret their surroundings and respond appropriately. Learn structured representations of people, events, space, and ongoing interactions from video, audio, and sensor observations.\n\nWhat you will work on\n• Develop and fine-tune vision-language models for temporal understanding, spatial grounding, and human interaction.\n• Define learning objectives, dataset specifications, and experiments with the multimodal engineer, who owns data preparation and QA/QC.\n• Evaluate scene understanding, hallucinations, temporal consistency, and response relevance on held-out data and real-world sessions.\n• Work with the LLM researcher and harness engineer to bring structured observations and model responses into robots and products.\n\nRequirements\n• Research experience training vision-language or video models, with strong Python and PyTorch or JAX and practical distributed-training experience.\n• Demonstrated work in temporal or spatial grounding, with reproducible experiments and rigorous evaluation of model failures and generalization.\n• Nice to have: streaming video understanding, cross-modal fusion, embodied perception, or relevant publications.\n\nSan Francisco, CA. Full time. In person.\n\nCompensation. Base pay: $150,000-$250,000 per year. Base pay varies with job-related knowledge, skills, and experience.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nRobotics Engineering",
       "geography": {
         "status": "in_radius",
         "distance_miles": 59.936,
@@ -1327,12 +1396,26 @@
         "distance_miles": null,
         "reason": "An unambiguous city and state are required."
       }
+    },
+    {
+      "company": "Aquent",
+      "title": "UX Researcher (II) [AQ-22985]",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4478641133/",
+      "date_posted": "2026-10-19",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "City is unknown or has multiple Census locations."
+      }
     }
   ],
   "geographic_counts": {
-    "in_radius": 62,
+    "in_radius": 66,
     "remote": 0,
-    "ambiguous": 11,
+    "ambiguous": 12,
     "outside_radius": 0
   }
 }

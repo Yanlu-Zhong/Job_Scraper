@@ -1,24 +1,22 @@
 # 🔥 LinkedIn — AI · Language · Human Research Roles
-*Last updated: 2026-10-20 05:22 UTC*
+*Last updated: 2026-10-20 06:15 UTC*
 
-**4 new role(s)** since last run · 62 total in last 24h
+**4 new role(s)** since last run · 66 total in last 24h
 
-### [Member of Technical Staff - Research Engineer, Post-training](https://www.linkedin.com/jobs/view/4481531127/) — Preference Model
+### [Research Scientist- Robotics AI](https://www.linkedin.com/jobs/view/4473082519/) — Bosch USA
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $165,000 - $185,000
+- 🕒 **Posted:** 2026-10-20
+
+### [Research Scientist](https://www.linkedin.com/jobs/view/4481544001/) — Jiangsu Surun Talent Development Group Co., Ltd.
+- 📍 **Location:** Cupertino, CA
+- 💰 **Salary:** $75,000.00/yr - $300,000.00/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [User Experience Researcher, Platform](https://www.linkedin.com/jobs/view/4463871784/) — Anthropic
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $200,000.00/yr - $350,000.00/yr
-- 🕒 **Posted:** 2026-10-20
+- 🕒 **Posted:** 2026-10-19
 
-### [LLM Researcher](https://www.linkedin.com/jobs/view/4481266548/) — Nori Robotics (YC S26)
+### [Research Scientist, Interpretability](https://www.linkedin.com/jobs/view/4322071943/) — Anthropic
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $150,000-$250,000 per year
-- 🕒 **Posted:** 2026-10-20
-
-### [AI Applied Scientist](https://www.linkedin.com/jobs/view/4460624232/) — Verily Health
-- 📍 **Location:** San Bruno, CA
-- 💰 **Salary:** $219,000 - $246,000
-- 🕒 **Posted:** 2026-10-20
-
-### [VLM Researcher](https://www.linkedin.com/jobs/view/4481279144/) — Nori Robotics (YC S26)
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $150,000-$250,000 per year
-- 🕒 **Posted:** 2026-10-20
+- 🕒 **Posted:** 2026-10-19
