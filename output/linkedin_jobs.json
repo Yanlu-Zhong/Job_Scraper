@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-10-20 00:31 UTC",
-  "total": 58,
-  "new_count": 24,
+  "scraped_at": "2026-10-20 05:22 UTC",
+  "total": 62,
+  "new_count": 4,
   "scrape_status": {
     "status": "success",
-    "raw_rows": 313,
+    "raw_rows": 220,
     "queries": 24,
     "batch": 5,
     "batches": 5,
@@ -631,7 +631,7 @@
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4409981292/",
       "date_posted": "2026-10-19",
-      "salary": "",
+      "salary": "$350,000—$850,000 USD",
       "ats": "LinkedIn",
       "geography": {
         "status": "in_radius",
@@ -640,7 +640,8 @@
         "latitude": 37.727239,
         "longitude": -123.032229,
         "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
+      },
+      "description": "About Anthropic\n\nAnthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n\nAbout The Role\n\nWe are looking for Research Engineers to help us redesign how Claude interacts with external data sources. Many of the paradigms for how data and knowledge bases are organized assume human consumers and constraints. This is no longer true in a world of LLMs! Your job will be to design new architectures for how information is organized, and train language models to optimally use those architectures.\n\nResponsibilities\n\nDesigning and implementing from scratch new information architecture strategies\nPerforming finetuning and reinforcement learning to teach language models how to interact with new information architectures\nBuilding “hard” knowledge base eval sets to help identify failure modes of how language models work with external data\nDesigning and evaluating advanced agentic search capabilities.\n\nYou May Be a Good Fit If You\n\nAre a very experienced Python programmer who can quickly produce reliable, high quality code that your teammates love using\nHave good machine learning research experience\nHave experience developing software that utilizes Large Language Models such as Claude\nAre results-oriented, with a bias towards flexibility and impact\nPick up slack, even if it goes outside your job description\nEnjoy pair programming (we love to pair!)\nWant to partner with world-class ML researchers to develop new LLM capabilities\nCare about the societal impacts of your work\nHave clear written and verbal communication\n\nStrong Candidates Will Also Have Experience With\n\nCollaborating with product teams to quickly prototype and deliver innovative solutions\nBuilding complex agentic systems that utilize LLMs\nDeveloping scalable distributed information retrieval systems, such as search engines, knowledge graphs, RAG, indexing, ranking, query understanding, and distributed data processing\n\nThe annual compensation range for this role is listed below.\n\nFor sales roles, the range provided is the role’s On Target Earnings (\"OTE\") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.\n\nAnnual Salary\n\n$350,000—$850,000 USD\n\nLogistics\n\nMinimum education:\nBachelor’s degree or an equivalent combination of education, training, and/or experience\n\nRequired field of study:\nA field relevant to the role as demonstrated through coursework, training, or professional experience\n\nMinimum years of experience:\nYears of experience required will correlate with the internal job level requirements for the position\n\nLocation-based hybrid policy:\nCurrently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.\n\nVisa sponsorship:\nWe do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.\n\nWe encourage you to apply even if you do not believe you meet every single qualification.\nNot all strong candidates will meet every single qualification as listed. Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.\n\nYour safety matters to us.\nTo protect yourself from potential scams, remember that Anthropic recruiters only contact you from @anthropic.com email addresses. In some cases, we may partner with vetted recruiting agencies who will identify themselves as working on behalf of Anthropic. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit anthropic.com/careers directly for confirmed position openings.\n\nHow We're Different\n\nWe believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.\n\nThe easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI & Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.\n\nCome work with us!\n\nAnthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. Guidance on Candidates' AI Usage:\nLearn about our policy for using AI in our application process.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nResearch Services"
     },
     {
       "company": "Sesame",
@@ -718,7 +719,7 @@
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4322151907/",
       "date_posted": "2026-10-19",
-      "salary": "",
+      "salary": "$350,000—$850,000 USD",
       "ats": "LinkedIn",
       "geography": {
         "status": "in_radius",
@@ -727,7 +728,8 @@
         "latitude": 37.727239,
         "longitude": -123.032229,
         "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
+      },
+      "description": "About Anthropic\n\nAnthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n\nAbout The Team\n\nOur team is organized around the north star goal of building an AI scientist – a system capable of solving the long term reasoning challenges and basic capabilities necessary to push the scientific frontier. Our team likes to think across the whole model stack. Currently the team is focused on improving models' abilities to use computers – as a laboratory for long horizon tasks and a key blocker to many scientific workflows.\n\nAbout The Role\n\nAs a Research Engineer on our team you will work end to end, identifying and addressing key blockers on the path to scientific AGI. Strong candidates should have familiarity with language model training, evaluation, and inference, be comfortable triaging research ideas and diagnosing problems and enjoy working collaboratively. Familiarity with performance optimization, distributed systems, vm/sandboxing/container deployment, and large scale data pipelines is highly encouraged.\n\nJoin us in our mission to develop advanced AI systems that are both powerful and beneficial for humanity.\n\nResponsibilities\n\nWorking across the full stack to identify and remove bottlenecks preventing progress toward scientific AGI\nDevelop approaches to address long-horizon task completion and complex reasoning challenges essential for scientific discovery\nScaling research ideas from prototype to production\nCreate benchmarks and evaluation frameworks to measure model capabilities in scientific workflows and computer use\nImplement distributed training systems and performance optimizations to support large-scale model development\n\nYou May Be a Good Fit If You\n\nHave 8+ years of ML research experience\nAre familiar with large scale language model training, evaluation, and inference pipelines\nEnjoy obsessively iterating on immediate blockers towards longterm goals\nThrive working collaboratively to solve problems\nHave expertise in performance optimization and distributed computing systems\nShow strong problem-solving skills and ability to identify technical bottlenecks in complex systems\nCan translate research concepts into scalable engineering solutions\nHave a track record of shipping ML systems that tackle challenging multi-step reasoning problems\n\nStrong Candidates May Also Have\n\nExpertise with performance optimization for language model inference and training\nExperience with computer use automation and agentic AI systems\nA history working on reinforcement learning approaches for complex task completion\nKnowledge of containerization technologies (Docker, Kubernetes) and cloud deployment at scale\nDemonstrated ability to work across multiple domains (language modeling, systems engineering, scientific computing)\nHave experience with VM/sandboxing/container deployment and large-scale data processing\nExperience working with large scale data problem solving and infrastructure\nPublished research or practical experience in scientific AI applications or long-horizon reasoning\n\nThe annual compensation range for this role is listed below.\n\nFor sales roles, the range provided is the role’s On Target Earnings (\"OTE\") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.\n\nAnnual Salary\n\n$350,000—$850,000 USD\n\nLogistics\n\nMinimum education:\nBachelor’s degree or an equivalent combination of education, training, and/or experience\n\nRequired field of study:\nA field relevant to the role as demonstrated through coursework, training, or professional experience\n\nMinimum years of experience:\nYears of experience required will correlate with the internal job level requirements for the position\n\nLocation-based hybrid policy:\nCurrently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.\n\nVisa sponsorship:\nWe do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.\n\nWe encourage you to apply even if you do not believe you meet every single qualification.\nNot all strong candidates will meet every single qualification as listed. Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.\n\nYour safety matters to us.\nTo protect yourself from potential scams, remember that Anthropic recruiters only contact you from @anthropic.com email addresses. In some cases, we may partner with vetted recruiting agencies who will identify themselves as working on behalf of Anthropic. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit anthropic.com/careers directly for confirmed position openings.\n\nHow We're Different\n\nWe believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.\n\nThe easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI & Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.\n\nCome work with us!\n\nAnthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. Guidance on Candidates' AI Usage:\nLearn about our policy for using AI in our application process.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nResearch Services"
     },
     {
       "company": "Rad AI",
@@ -1009,6 +1011,78 @@
       "date_posted": "2026-10-19",
       "salary": "",
       "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Preference Model",
+      "title": "Member of Technical Staff - Research Engineer, Post-training",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481531127/",
+      "date_posted": "2026-10-20",
+      "salary": "$200,000.00/yr - $350,000.00/yr",
+      "ats": "LinkedIn",
+      "description": "About Us\n\nPreference Model is a superintelligence data research company. We build RL environments for training capable, better-aligned superintelligences.\n\nAlmost every aspect of how a model behaves is shaped by the reward signals it's trained on. The biggest problem with AIs today is that they don't always do what we intend. Sometimes that's because they aren't capable enough, and sometimes it's because they aren't aligned. Both problems come down to the training objectives.\n\nWe're trying to address both of these issues in the most direct, highest leverage way available to us, which today means researching how to build RL environments better, not just for the AIs of today but for the AIs as they will be when they outsmart us.\n\nOver the past year, we've built RL environments for several frontier labs, and we're backed by $16M in seed funding led by a16z. Our founding team has previous experience on Anthropic’s data team building data infrastructure, and datasets behind Claude.\n\nAbout The Role\n\nModels of the future will be able to train themselves on tasks that they are not good at. We are interested in investigating how far we can push the boundaries of self-directed learning. We are looking for machine learning\nResearch Engineers or Research Scientists\nto push the frontier of post-training on large language models in a role that blends research and engineering, requiring you to implement novel approaches and shape research directions.\n\nWhat You Will Do:\n\nTrain and evaluate models on our proprietary RL environments to validate data quality, surface gaps in task coverage, and close the feedback loop between environment design and model capability.\nArchitect and optimize our RL training infrastructure, from training abstractions to distributed experiment management, using frameworks like Verl, OpenRLHF, or similar. Help scale our systems to handle increasingly complex research workflows.\nDesign, implement, and test training environments, evaluations, and methodologies for RL agents.\nProfile and optimize training runs end-to-end, from data loading through reward computation, to maximize experiment throughput and shorten the research iteration cycle.\n\nWhat We are Looking For\n\nExperience running end-to-end LLM post-training pipelines of models sizes at least 7B in size\nProficiency in Python and PyTorch or JAX\nExperience with at least one modern RL training framework\nExperience building and operating ML infrastructure at scale\n\nYou may be a good fit if you also:\n\nHave experience evaluating model outputs and building reward or evaluation signals\nStay current on post-training research and can translate papers into running code\nHave strong opinions (loosely held) about how to structure RL training code for reproducibility and fast iteration\nCan balance research exploration with engineering rigor\nHave strong systems design and communication skills\n\nCandidates don't need a PhD or extensive publications. Some of the best researchers have no formal ML training and gained experience building industry products. We believe adaptability combined with exceptional communication and collaboration skills are the most important ingredients for successful startup research.\n\nWhat we offer:\n\nCompetitive cash and equity compensation (>90th percentile)\nOwnership and autonomy in a fast moving startup environment\nOpportunity to work with top machine learning engineers\nHealth, vision, dental, benefits\n401K match\nLunch provided everyday onsite\nWeekly snack orders\nVisa sponsorship & relocation support available\n\nWe value diverse perspectives and experiences. If you're excited about this role but don't check every box, we still encourage you to apply.\n\nCompensation Range: $200K - $350K\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Nori Robotics (YC S26)",
+      "title": "LLM Researcher",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481266548/",
+      "date_posted": "2026-10-20",
+      "salary": "$150,000-$250,000 per year",
+      "ats": "LinkedIn",
+      "description": "Nori Robotics (YC S26) builds affordable humanoid robots. Our work connects some of the world's most novel multimodal, creative, and behavioral datasets to robots and consumer applications used by real customers. We're looking for hungry, talented, curious people to join our team.\n\nScope: Research and improve model behavior, with creative writing at the center. Fine-tune and post-train language models on text-based creative and behavioral preference data, then carry those improvements into consumer applications and robot interactions.\n\nWhat you will work on\n• Fine-tune and post-train models for voice, character, narrative coherence, conversation, and social behavior.\n• Develop text-based creative and behavioral preference datasets, with clear human review and comparison criteria.\n• Build creative-writing benchmarks and run preference studies, ablations, and held-out evaluations to measure behavior.\n• Work with the VLM researcher and harness engineer to deploy improvements and study model behavior in products with real users.\n\nRequirements\n• Hands-on LLM fine-tuning and post-training, with strong Python and PyTorch or JAX and practical distributed-training experience.\n• Research in model behavior, open-ended generation, or preference learning, with rigorous human evaluation and experimental design.\n• Nice to have: creative-writing evaluation, long-context narrative consistency, preference learning, or relevant publications.\n\nSan Francisco, CA. Full time. In person.\n\nCompensation. Base pay: $150,000-$250,000 per year. Base pay varies with job-related knowledge, skills, and experience.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nRobotics Engineering",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Verily Health",
+      "title": "AI Applied Scientist",
+      "location": "San Bruno, CA",
+      "url": "https://www.linkedin.com/jobs/view/4460624232/",
+      "date_posted": "2026-10-20",
+      "salary": "$219,000 - $246,000",
+      "ats": "LinkedIn",
+      "description": "Who We Are\n\nVerily Health is a data platform and technology company purpose-built to power AI-enabled precision health solutions that accelerate research and improve care for individuals and communities. Uniquely positioned at the intersection of technology, data science, and healthcare, Verily transforms multimodal health data into insights, models, and actions that make healthcare more personalized, predictive, and precise.\n\nDescription\n\nAs an AI Applied Scientist, you will occupy a unique, highly impactful position that sits at the intersection of our real-world data (RWD) curation mission and our cutting-edge AI Agent development. In this role, you will be responsible for a balanced blend of designing scalable pipelines to curate Electronic Health Records (EHR) and claims data, and conducting advanced research into foundational healthcare models and intelligent multi-agent conversational architectures. You will apply frontier Large Language Models (LLMs) and advanced machine learning techniques to extract deep clinical meaning from messy, unstructured medical text, turning fragmented healthcare data into trustworthy, analysis-ready longitudinal datasets. Your work will directly ground our autonomous care agents and clinical decision support tools in robust, real-world clinical datasets, driving the next generation of healthcare transformation.\n\nResponsibilities\n\nDesign, develop, and deploy advanced generative AI workflows and multi-agent conversational architectures (e.g., using LangGraph) to power personalized user interactions and automated symptom triage.\nImplement, build on, and augment existing LLM/NLP tools to automate the abstraction of high-priority clinical variables and derived features from unstructured medical text, maximizing data completeness and accuracy.\nDevelop automated evaluation pipelines and \"LLM-as-a-judge\" grading rubrics to continuously benchmark agent safety, accuracy, factuality, and compliance across model updates. And enabling self-optimization cycles.\nHandle real-world data challenges from clinical and remote settings, ensuring absolute safe data boundaries, privacy preservation, and rigorous technical validation before production releases.\nCommunicate highly technical results, methods, and evaluation frameworks clearly via presentations and well-structured reports to both technical and non-technical cross-functional audiences.\n\nQualifications\n\nMinimum Qualifications\n\nMaster’s degree in a quantitative discipline (e.g., Data Sciences, Computer Science, Biomedical Informatics, Statistics, Applied Mathematics, or equivalent practical experience).\nMinimum of 3 years of industry experience applying advanced machine learning, NLP, and generative AI techniques (supervised/unsupervised learning, prompt engineering, agentic workflows) to clinical or healthcare datasets.\nDirect experience working with and curating real-world data (such as EHRs or medical claims), with a deep understanding of the complexities and limitations of unstructured medical text.\nStrong proficiency in Python and standard scientific computing/deep learning libraries (e.g., PyTorch, TensorFlow).\n\nPreferred Qualifications\n\nPhD degree in a quantitative discipline (e.g., Computer Science, Biomedical Informatics, Machine Learning, or related field).\nFamiliarity with advanced agent orchestration frameworks (e.g., LangGraph) and foundation model pre-training stacks (e.g., NVIDIA NeMo, Parabricks).\nFamiliarity with standard medical terminologies, vocabularies, and ontologies (e.g., SNOMED-CT, LOINC, RxNorm, ICD-10) and healthcare data models (FHIR, OMOP).\nExperience working closely with clinical subject matter experts to establish ground truth benchmarks and adjudicate complex data abstraction guidelines.\nStrong track record of scientific excellence, including peer-reviewed publications or submitted patents in healthcare AI/ML.\n\nThis role is eligible for Verily-sponsored immigration support.\n\nThe US base salary range for this full-time position is $219,000 - $246,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.\n\nPlease note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits.\n\nVerily Health Inc. is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. For our EEO Policy Statement, please click here. If you'd like more information on your EEO rights under the law, please click here.\n\nIf you have a need that requires accommodation, please let us know by completing our Accommodations for Applicants form.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nHospitals and Health Care",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 27.702,
+        "city": "san bruno",
+        "latitude": 37.62556,
+        "longitude": -122.431397,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Nori Robotics (YC S26)",
+      "title": "VLM Researcher",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481279144/",
+      "date_posted": "2026-10-20",
+      "salary": "$150,000-$250,000 per year",
+      "ats": "LinkedIn",
+      "description": "Nori Robotics (YC S26) builds affordable humanoid robots. Our work connects some of the world's most novel multimodal, creative, and behavioral datasets to robots and consumer applications used by real customers. We're looking for hungry, talented, curious people to join our team.\n\nScope: Own the research and model training that let robots interpret their surroundings and respond appropriately. Learn structured representations of people, events, space, and ongoing interactions from video, audio, and sensor observations.\n\nWhat you will work on\n• Develop and fine-tune vision-language models for temporal understanding, spatial grounding, and human interaction.\n• Define learning objectives, dataset specifications, and experiments with the multimodal engineer, who owns data preparation and QA/QC.\n• Evaluate scene understanding, hallucinations, temporal consistency, and response relevance on held-out data and real-world sessions.\n• Work with the LLM researcher and harness engineer to bring structured observations and model responses into robots and products.\n\nRequirements\n• Research experience training vision-language or video models, with strong Python and PyTorch or JAX and practical distributed-training experience.\n• Demonstrated work in temporal or spatial grounding, with reproducible experiments and rigorous evaluation of model failures and generalization.\n• Nice to have: streaming video understanding, cross-modal fusion, embodied perception, or relevant publications.\n\nSan Francisco, CA. Full time. In person.\n\nCompensation. Base pay: $150,000-$250,000 per year. Base pay varies with job-related knowledge, skills, and experience.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nRobotics Engineering",
       "geography": {
         "status": "in_radius",
         "distance_miles": 59.936,
@@ -1021,14 +1095,14 @@
   ],
   "new_jobs": [
     {
-      "company": "OpenAI",
-      "title": "Research Engineer, Retrieval & Search, Applied Engineering",
+      "company": "Preference Model",
+      "title": "Member of Technical Staff - Research Engineer, Post-training",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417168182/",
-      "date_posted": "2026-10-19",
-      "salary": "$293,000.00/yr - $585,000.00/yr",
+      "url": "https://www.linkedin.com/jobs/view/4481531127/",
+      "date_posted": "2026-10-20",
+      "salary": "$200,000.00/yr - $350,000.00/yr",
       "ats": "LinkedIn",
-      "description": "About The Team\n\nWe bring OpenAI's technology to the world through products like ChatGPT and the OpenAI API.\n\nWe seek to learn from deployment and distribute the benefits of AI, while ensuring that this powerful tool is used responsibly and safely. Safety is more important to us than unfettered growth.\n\nAbout The Role\n\nWe are looking for an experienced Research Engineer to work on retrieval & search problems across our API and ChatGPT. As the AI landscape has evolved over the last few years, retrieval & search have emerged as key use cases for our models, and we are investing in ensuring that we can offer these search-based product experiences for our users. You will be at the center of our retrieval & search efforts as a company, and the progress you drive here will reach millions of end users.\n\nIn This Role, You Will\n\nWork on retrieval & search algorithms and methodologies in close collaboration with our research team, including problems in such domains as document search, enterprise search, knowledge retrieval, and web-scale search.\nDeploy these search methodologies into production in both the API and ChatGPT to be used by millions of end users.\nExplore novel research topics in retrieval & search that may inform our product strategy in the medium and long term.\nPartner with researchers, engineers, product managers, and designers to bring new features and research capabilities to the world\n\nYou Might Thrive In This Role If You\n\nHave extensive prior experience building and maintaining production machine learning systems.\nHave prior experience working with vector databases, search indices, or other data stores for search and retrieval use cases\nHave prior experience building and iterating on internet-scale search systems\nOwn problems end-to-end, and are willing to pick up whatever knowledge you're missing to get the job done\nHave the ability to move fast in an environment where things are sometimes loosely defined and may have competing priorities or deadlines\n\nAbout OpenAI\n\nOpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity.\n\nWe are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristic.\n\nFor additional information, please see OpenAI’s Affirmative Action and Equal Employment Opportunity Policy Statement.\n\nBackground checks for applicants will be administered in accordance with applicable law, and qualified applicants with arrest or conviction records will be considered for employment consistent with those laws, including the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, for US-based candidates. For unincorporated Los Angeles County workers: we reasonably believe that criminal history may have a direct, adverse and negative relationship with the following job duties, potentially resulting in the withdrawal of a conditional offer of employment: protect computer hardware entrusted to you from theft, loss or damage; return all computer hardware in your possession (including the data contained therein) upon termination of employment or end of assignment; and maintain the confidentiality of proprietary, confidential, and non-public information. In addition, job duties require access to secure and protected information technology systems and related data security obligations.\n\nTo notify OpenAI that you believe this job posting is non-compliant, please submit a report through this form. No response will be provided to inquiries unrelated to job posting compliance.\n\nWe are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.\n\nOpenAI Global Applicant Privacy Policy\n\nAt OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.\n\nCompensation Range: $293K - $585K\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nResearch Services",
+      "description": "About Us\n\nPreference Model is a superintelligence data research company. We build RL environments for training capable, better-aligned superintelligences.\n\nAlmost every aspect of how a model behaves is shaped by the reward signals it's trained on. The biggest problem with AIs today is that they don't always do what we intend. Sometimes that's because they aren't capable enough, and sometimes it's because they aren't aligned. Both problems come down to the training objectives.\n\nWe're trying to address both of these issues in the most direct, highest leverage way available to us, which today means researching how to build RL environments better, not just for the AIs of today but for the AIs as they will be when they outsmart us.\n\nOver the past year, we've built RL environments for several frontier labs, and we're backed by $16M in seed funding led by a16z. Our founding team has previous experience on Anthropic’s data team building data infrastructure, and datasets behind Claude.\n\nAbout The Role\n\nModels of the future will be able to train themselves on tasks that they are not good at. We are interested in investigating how far we can push the boundaries of self-directed learning. We are looking for machine learning\nResearch Engineers or Research Scientists\nto push the frontier of post-training on large language models in a role that blends research and engineering, requiring you to implement novel approaches and shape research directions.\n\nWhat You Will Do:\n\nTrain and evaluate models on our proprietary RL environments to validate data quality, surface gaps in task coverage, and close the feedback loop between environment design and model capability.\nArchitect and optimize our RL training infrastructure, from training abstractions to distributed experiment management, using frameworks like Verl, OpenRLHF, or similar. Help scale our systems to handle increasingly complex research workflows.\nDesign, implement, and test training environments, evaluations, and methodologies for RL agents.\nProfile and optimize training runs end-to-end, from data loading through reward computation, to maximize experiment throughput and shorten the research iteration cycle.\n\nWhat We are Looking For\n\nExperience running end-to-end LLM post-training pipelines of models sizes at least 7B in size\nProficiency in Python and PyTorch or JAX\nExperience with at least one modern RL training framework\nExperience building and operating ML infrastructure at scale\n\nYou may be a good fit if you also:\n\nHave experience evaluating model outputs and building reward or evaluation signals\nStay current on post-training research and can translate papers into running code\nHave strong opinions (loosely held) about how to structure RL training code for reproducibility and fast iteration\nCan balance research exploration with engineering rigor\nHave strong systems design and communication skills\n\nCandidates don't need a PhD or extensive publications. Some of the best researchers have no formal ML training and gained experience building industry products. We believe adaptability combined with exceptional communication and collaboration skills are the most important ingredients for successful startup research.\n\nWhat we offer:\n\nCompetitive cash and equity compensation (>90th percentile)\nOwnership and autonomy in a fast moving startup environment\nOpportunity to work with top machine learning engineers\nHealth, vision, dental, benefits\n401K match\nLunch provided everyday onsite\nWeekly snack orders\nVisa sponsorship & relocation support available\n\nWe value diverse perspectives and experiences. If you're excited about this role but don't check every box, we still encourage you to apply.\n\nCompensation Range: $200K - $350K\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
       "geography": {
         "status": "in_radius",
         "distance_miles": 59.936,
@@ -1039,13 +1113,14 @@
       }
     },
     {
-      "company": "Anthropic",
-      "title": "Research Engineer, Knowledge Team",
+      "company": "Nori Robotics (YC S26)",
+      "title": "LLM Researcher",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409981292/",
-      "date_posted": "2026-10-19",
-      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/4481266548/",
+      "date_posted": "2026-10-20",
+      "salary": "$150,000-$250,000 per year",
       "ats": "LinkedIn",
+      "description": "Nori Robotics (YC S26) builds affordable humanoid robots. Our work connects some of the world's most novel multimodal, creative, and behavioral datasets to robots and consumer applications used by real customers. We're looking for hungry, talented, curious people to join our team.\n\nScope: Research and improve model behavior, with creative writing at the center. Fine-tune and post-train language models on text-based creative and behavioral preference data, then carry those improvements into consumer applications and robot interactions.\n\nWhat you will work on\n• Fine-tune and post-train models for voice, character, narrative coherence, conversation, and social behavior.\n• Develop text-based creative and behavioral preference datasets, with clear human review and comparison criteria.\n• Build creative-writing benchmarks and run preference studies, ablations, and held-out evaluations to measure behavior.\n• Work with the VLM researcher and harness engineer to deploy improvements and study model behavior in products with real users.\n\nRequirements\n• Hands-on LLM fine-tuning and post-training, with strong Python and PyTorch or JAX and practical distributed-training experience.\n• Research in model behavior, open-ended generation, or preference learning, with rigorous human evaluation and experimental design.\n• Nice to have: creative-writing evaluation, long-context narrative consistency, preference learning, or relevant publications.\n\nSan Francisco, CA. Full time. In person.\n\nCompensation. Base pay: $150,000-$250,000 per year. Base pay varies with job-related knowledge, skills, and experience.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nRobotics Engineering",
       "geography": {
         "status": "in_radius",
         "distance_miles": 59.936,
@@ -1056,372 +1131,32 @@
       }
     },
     {
-      "company": "Sesame",
-      "title": "Research Engineer",
+      "company": "Verily Health",
+      "title": "AI Applied Scientist",
+      "location": "San Bruno, CA",
+      "url": "https://www.linkedin.com/jobs/view/4460624232/",
+      "date_posted": "2026-10-20",
+      "salary": "$219,000 - $246,000",
+      "ats": "LinkedIn",
+      "description": "Who We Are\n\nVerily Health is a data platform and technology company purpose-built to power AI-enabled precision health solutions that accelerate research and improve care for individuals and communities. Uniquely positioned at the intersection of technology, data science, and healthcare, Verily transforms multimodal health data into insights, models, and actions that make healthcare more personalized, predictive, and precise.\n\nDescription\n\nAs an AI Applied Scientist, you will occupy a unique, highly impactful position that sits at the intersection of our real-world data (RWD) curation mission and our cutting-edge AI Agent development. In this role, you will be responsible for a balanced blend of designing scalable pipelines to curate Electronic Health Records (EHR) and claims data, and conducting advanced research into foundational healthcare models and intelligent multi-agent conversational architectures. You will apply frontier Large Language Models (LLMs) and advanced machine learning techniques to extract deep clinical meaning from messy, unstructured medical text, turning fragmented healthcare data into trustworthy, analysis-ready longitudinal datasets. Your work will directly ground our autonomous care agents and clinical decision support tools in robust, real-world clinical datasets, driving the next generation of healthcare transformation.\n\nResponsibilities\n\nDesign, develop, and deploy advanced generative AI workflows and multi-agent conversational architectures (e.g., using LangGraph) to power personalized user interactions and automated symptom triage.\nImplement, build on, and augment existing LLM/NLP tools to automate the abstraction of high-priority clinical variables and derived features from unstructured medical text, maximizing data completeness and accuracy.\nDevelop automated evaluation pipelines and \"LLM-as-a-judge\" grading rubrics to continuously benchmark agent safety, accuracy, factuality, and compliance across model updates. And enabling self-optimization cycles.\nHandle real-world data challenges from clinical and remote settings, ensuring absolute safe data boundaries, privacy preservation, and rigorous technical validation before production releases.\nCommunicate highly technical results, methods, and evaluation frameworks clearly via presentations and well-structured reports to both technical and non-technical cross-functional audiences.\n\nQualifications\n\nMinimum Qualifications\n\nMaster’s degree in a quantitative discipline (e.g., Data Sciences, Computer Science, Biomedical Informatics, Statistics, Applied Mathematics, or equivalent practical experience).\nMinimum of 3 years of industry experience applying advanced machine learning, NLP, and generative AI techniques (supervised/unsupervised learning, prompt engineering, agentic workflows) to clinical or healthcare datasets.\nDirect experience working with and curating real-world data (such as EHRs or medical claims), with a deep understanding of the complexities and limitations of unstructured medical text.\nStrong proficiency in Python and standard scientific computing/deep learning libraries (e.g., PyTorch, TensorFlow).\n\nPreferred Qualifications\n\nPhD degree in a quantitative discipline (e.g., Computer Science, Biomedical Informatics, Machine Learning, or related field).\nFamiliarity with advanced agent orchestration frameworks (e.g., LangGraph) and foundation model pre-training stacks (e.g., NVIDIA NeMo, Parabricks).\nFamiliarity with standard medical terminologies, vocabularies, and ontologies (e.g., SNOMED-CT, LOINC, RxNorm, ICD-10) and healthcare data models (FHIR, OMOP).\nExperience working closely with clinical subject matter experts to establish ground truth benchmarks and adjudicate complex data abstraction guidelines.\nStrong track record of scientific excellence, including peer-reviewed publications or submitted patents in healthcare AI/ML.\n\nThis role is eligible for Verily-sponsored immigration support.\n\nThe US base salary range for this full-time position is $219,000 - $246,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.\n\nPlease note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits.\n\nVerily Health Inc. is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. For our EEO Policy Statement, please click here. If you'd like more information on your EEO rights under the law, please click here.\n\nIf you have a need that requires accommodation, please let us know by completing our Accommodations for Applicants form.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nHospitals and Health Care",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 27.702,
+        "city": "san bruno",
+        "latitude": 37.62556,
+        "longitude": -122.431397,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Nori Robotics (YC S26)",
+      "title": "VLM Researcher",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4399828686/",
-      "date_posted": "2026-10-19",
-      "salary": "$190,000.00/yr - $320,000.00/yr",
+      "url": "https://www.linkedin.com/jobs/view/4481279144/",
+      "date_posted": "2026-10-20",
+      "salary": "$150,000-$250,000 per year",
       "ats": "LinkedIn",
-      "description": "About Sesame\n\nSesame believes in a future where computers are lifelike - with the ability to see, hear, and collaborate with us in ways that feel natural and human. With this vision, we're designing a new kind of computer, focused on making voice agents part of our daily lives. Our team brings together founders from Oculus and Ubiquity6, alongside proven leaders from Meta, Google, and Apple, with deep expertise spanning hardware and software. Join us in shaping a future where computers truly come alive.\n\nAbout The Role\n\nNew and novel approaches are needed to realize all of our product goals. As a Research engineer at Sesame, you are a research-oriented person with experience in. You are up to date on recent papers and approaches and you have the creativity and the intuition to come up with new solutions based on the application at hand.\n\nResponsibilities\n\nDesign, build, and ship novel architectures and models to production.\nScale LLM training and inference, improving latency, throughput, and cost.\nBuild robust training and evaluation pipelines.\nDevelop tooling for safe, versioned, privacy-aware dataset curation and discovery.\n\nRequired Qualifications\n\nStrong, hands-on experience with PyTorch.\nSolid software engineering skills and a genuine interest in ML, with experience writing production code across the stack.\nPractical experience training or fine-tuning LLMs, and a good understanding of how LLM training algorithms work.\nExperience designing evaluation metrics and harnesses that reflect real user experience.\nFamiliarity with the ML lifecycle: dataset operations, training pipelines, evaluation frameworks, deployment, and monitoring.\nExperience shipping complex projects to production, ideally user-facing or online ML systems, and adapting as requirements change.\nGood judgment about when to work independently and when to bring in teammates.\nExperience contributing to technical direction, building consensus, and working well with product, infrastructure, and research partners.\n\nSesame is committed to a workplace where everyone feels valued, respected, and empowered. We welcome all qualified applicants, embracing diversity in race, gender, identity, orientation, ability, and more. We provide reasonable accommodations for applicants with disabilities. Contact careers@sesame.com for assistance.\n\nFull-time Employee Benefits\n\n401 (k) max employer match: 3.5% of compensation\n100% employer-paid health, vision, and dental benefits for you and your dependents\nUnlimited PTO and sick time\nFlexible spending account with employer matching up to $1,650/year (medical FSA)\nGuardian Employee Assistance Program (EAP)\nOpportunity to share in the company's success with competitive stock options\n\nBenefits do not apply to contingent/contract workers.\n\nCompensation Range: $190K - $320K\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nComputers and Electronics Manufacturing",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Genentech",
-      "title": "Machine Learning Scientist/Senior Machine Learning Scientist - Agents for Applied Small Molecule Drug Design, AI for Drug Discovery",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4472731998/",
-      "date_posted": "2026-10-19",
-      "salary": "$147,600 - $274,000",
-      "ats": "LinkedIn",
-      "description": "The Position\n\nA healthier future. It’s what drives us to innovate. To continuously advance science and ensure everyone has access to the healthcare they need today and for generations to come. Creating a world where we all have more time with the people we love. That’s what makes us Roche.\n\nAdvances in AI, data, and computational sciences are transforming drug discovery and development. Roche’s Research and Early Development organisations at Genentech (gRED) and Pharma (pRED) have demonstrated how these technologies accelerate R&D, leveraging data and novel computational models to drive impact. Seamless data sharing and access to models across gRED and pRED are essential to maximising these opportunities. The new Computational Sciences Center of Excellence (CoE) is a strategic, unified group whose goal is to harness the transformative power of data and Artificial Intelligence (AI) to assist our scientists in both pRED and gRED to deliver more innovative and transformative medicines for patients worldwide.\n\nJoin the small-molecule team within AI for Drug Discovery (AI4DD), formerly Prescient Design, at Roche and Genentech’s Computational Sciences Center of Excellence as a Machine Learning Scientist / Senior Machine Learning Scientist building agents for applied small-molecule drug design. You will develop autonomous, LLM-driven agentic workflows that orchestrate ML models, physics-based methods, and cheminformatics tools to accelerate discovery, working with world-class chemists and structural biologists.\n\nThe Opportunity:\n\nDesign, build, and apply agentic workflows and ML models for key challenges in small-molecule drug design.\nFine-tune foundation models for drug discovery relevant topics using internal and external datasets and tools.\nOptimize agent-derived hypotheses in close collaboration with world-class computational and medicinal chemists and structural biologists.\nDrive scientific impact through publications, open-source releases, and conference talks.\nCollaborate widely with computational and experimental researchers at Roche and with academic partners.\n\nWho you are:\n\nYou are experienced developing LLM-driven agents for scientific workflows and you understand how to orchestrate tools and models reliably.\nYou bring strong machine-learning foundations in linear algebra, probability and optimization, with hands-on experience with GNNs, sequence/language models and reinforcement learning.\nYou are fluent in Python and modern agentic coding environments such as LangChain, ML frameworks such as PyTorch or JAX, as well as cheminformatics toolkits like RDKit or OpenEye.\nYou hold a PhD or equivalent research depth in machine learning, computer science, chemical engineering or a related quantitative field such as physics or statistics, with up to 2 years of industry research experience (Scientist) or 2+ years of industry research experience (Senior Scientist).\nYou have a record of scientific excellence evidenced by journal and conference publications or a public portfolio of relevant projects (e.g. hosted on GitHub/GitLab)..\n\nPreferred:\n\nHands-on experience orchestrating multi-tool or multi-agent scientific pipelines.\nHand-on experience working along the small molecule drug discovery value chain and an excitement to engage with chemists\nFamiliarity with structural biology datasets\n\nIf you want to put autonomous AI to work discovering the medicines patients need next, apply now and help build the future of drug design at Roche.\n\nRelocation benefits are NOT available for this opportunity\n\nThe expected salary range for this position, based on the primary location of San Francisco, is $147,600 - $274,000 for the ML Scientist, and $167,400 - 310,800 for the Senior ML Scientist. For the primary of location of New York City, $141.100 - $262,100 for the ML Scientist, and $160,100 - 297,300 for the Senior ML Scientist. Actual pay will be determined based on experience, qualifications, geographic location, and other job-related factors permitted by law. A discretionary annual bonus may be available based on individual and Company performance. This position also qualifies for the benefits detailed at the link provided below.\n\nBenefits\n\n#ComputationCoE\n\n#tech4lifeComputationalScience\n\n#tech4lifeAI\n\nGenentech is an equal opportunity employer. It is our policy and practice to employ, promote, and otherwise treat any and all employees and applicants on the basis of merit, qualifications, and competence. The company's policy prohibits unlawful discrimination, including but not limited to, discrimination on the basis of Protected Veteran status, individuals with disabilities status, and consistent with all federal, state, or local laws.\n\nIf you have a disability and need an accommodation in relation to the online application process, please contact us by completing this form Accommodations for Applicants.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nBiotechnology Research",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Palo Alto Networks",
-      "title": "Principal Machine Learning Engineer (AI-ML Data Scientist - ADEM)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411531812/",
-      "date_posted": "2026-10-19",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 3.522,
-        "city": "santa clara",
-        "latitude": 37.364621,
-        "longitude": -121.967973,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Jobverse.io",
-      "title": "Senior Research Engineer, Audio and Speech",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480998022/",
-      "date_posted": "2026-10-19",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Anthropic",
-      "title": "Staff Research Engineer, Discovery Team",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4322151907/",
-      "date_posted": "2026-10-19",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Rad AI",
-      "title": "Staff ML Research Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481220130/",
-      "date_posted": "2026-10-19",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Luma",
-      "title": "Research Scientist / Engineer – Performance Optimization",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4445287130/",
-      "date_posted": "2026-10-19",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 13.625,
-        "city": "redwood city",
-        "latitude": 37.515274,
-        "longitude": -122.213672,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Scout AI",
-      "title": "AI Researcher",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480994609/",
-      "date_posted": "2026-10-19",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 0.0,
-        "city": "sunnyvale",
-        "latitude": 37.385797,
-        "longitude": -122.026316,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Scout AI",
-      "title": "Senior AI Researcher",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480996549/",
-      "date_posted": "2026-10-19",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 0.0,
-        "city": "sunnyvale",
-        "latitude": 37.385797,
-        "longitude": -122.026316,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Rad AI",
-      "title": "Senior ML Research Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481212320/",
-      "date_posted": "2026-10-19",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Anthropic",
-      "title": "Staff+ Research Scientist, Multi-Agent",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469638357/",
-      "date_posted": "2026-10-19",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Anthropic",
-      "title": "Research Engineer/Research Scientist, Pre-training",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4322290299/",
-      "date_posted": "2026-10-19",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Anthropic",
-      "title": "Lead Data Scientist, Platform Product",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417887272/",
-      "date_posted": "2026-10-19",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Walmart",
-      "title": "(USA) Staff, Data Scientist",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478617934/",
-      "date_posted": "2026-10-19",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 0.0,
-        "city": "sunnyvale",
-        "latitude": 37.385797,
-        "longitude": -122.026316,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Amazon Science",
-      "title": "Data Scientist II, Device Economics",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478642055/",
-      "date_posted": "2026-10-19",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 0.0,
-        "city": "sunnyvale",
-        "latitude": 37.385797,
-        "longitude": -122.026316,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Anthropic",
-      "title": "Data Scientist, Safeguards",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4471388557/",
-      "date_posted": "2026-10-19",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Anthropic",
-      "title": "People Research Scientist, Recruiting",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4443182976/",
-      "date_posted": "2026-10-19",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Walmart Global Tech",
-      "title": "Staff Data Scientists, Conversational AI",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4356081190/",
-      "date_posted": "2026-10-19",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 0.0,
-        "city": "sunnyvale",
-        "latitude": 37.385797,
-        "longitude": -122.026316,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Deloitte",
-      "title": "Senior Data Scientist Engineer - SFL Scientific",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418117551/",
-      "date_posted": "2026-10-19",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 13.183,
-        "city": "san jose",
-        "latitude": 37.296011,
-        "longitude": -121.814552,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Webflow",
-      "title": "Senior Staff Machine Learning Scientist, Assets",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480944450/",
-      "date_posted": "2026-10-19",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Jack",
-      "title": "Founding AI Engineer (Vision-language models)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4474978499/",
-      "date_posted": "2026-10-19",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "PraecisAI Corp.",
-      "title": "Founding Machine Learning Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481266428/",
-      "date_posted": "2026-10-19",
-      "salary": "",
-      "ats": "LinkedIn",
+      "description": "Nori Robotics (YC S26) builds affordable humanoid robots. Our work connects some of the world's most novel multimodal, creative, and behavioral datasets to robots and consumer applications used by real customers. We're looking for hungry, talented, curious people to join our team.\n\nScope: Own the research and model training that let robots interpret their surroundings and respond appropriately. Learn structured representations of people, events, space, and ongoing interactions from video, audio, and sensor observations.\n\nWhat you will work on\n• Develop and fine-tune vision-language models for temporal understanding, spatial grounding, and human interaction.\n• Define learning objectives, dataset specifications, and experiments with the multimodal engineer, who owns data preparation and QA/QC.\n• Evaluate scene understanding, hallucinations, temporal consistency, and response relevance on held-out data and real-world sessions.\n• Work with the LLM researcher and harness engineer to bring structured observations and model responses into robots and products.\n\nRequirements\n• Research experience training vision-language or video models, with strong Python and PyTorch or JAX and practical distributed-training experience.\n• Demonstrated work in temporal or spatial grounding, with reproducible experiments and rigorous evaluation of model failures and generalization.\n• Nice to have: streaming video understanding, cross-modal fusion, embodied perception, or relevant publications.\n\nSan Francisco, CA. Full time. In person.\n\nCompensation. Base pay: $150,000-$250,000 per year. Base pay varies with job-related knowledge, skills, and experience.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nRobotics Engineering",
       "geography": {
         "status": "in_radius",
         "distance_miles": 59.936,
@@ -1595,7 +1330,7 @@
     }
   ],
   "geographic_counts": {
-    "in_radius": 58,
+    "in_radius": 62,
     "remote": 0,
     "ambiguous": 11,
     "outside_radius": 0
