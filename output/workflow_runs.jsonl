@@ -388,3 +388,4 @@
 {"job_count": 0, "run_attempt": "1", "run_id": "39348723301", "scrape": {"errors": 0, "queries": 155, "raw_rows": 0, "status": "empty"}, "timestamp": "2026-10-20T00:38:55Z", "workflow": "google_jobs"}
 {"job_count": 0, "run_attempt": "1", "run_id": "39350573546", "scrape": {"raw_rows": 0, "status": "empty"}, "timestamp": "2026-10-20T00:56:36Z", "workflow": "hiringcafe"}
 {"job_count": 62, "run_attempt": "1", "run_id": "39373431019", "scrape": {"batch": 5, "batches": 5, "queries": 24, "raw_rows": 220, "status": "success", "terms_in_batch": 6, "terms_total": 38}, "timestamp": "2026-10-20T05:22:46Z", "workflow": "linkedin"}
+{"job_count": 20, "run_attempt": "1", "run_id": "39374353845", "scrape": {"errors": 0, "queries": 25, "raw_rows": 381, "status": "success"}, "timestamp": "2026-10-20T05:23:34Z", "workflow": "indeed"}
