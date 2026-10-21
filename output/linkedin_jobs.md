@@ -1,18 +1,26 @@
 # 🔥 LinkedIn — AI · Language · Human Research Roles
-*Last updated: 2026-10-21 06:28 UTC*
+*Last updated: 2026-10-21 07:48 UTC*
 
-**3 new role(s)** since last run · 56 total in last 24h
+**5 new role(s)** since last run · 61 total in last 24h
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4482039642/) — Zoom
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $87,600.00 - $186,000.00
+### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4480766229/) — Ericsson
+- 📍 **Location:** Santa Clara, CA
+- 💰 **Salary:** $156,000 - $204,225 USD
 - 🕒 **Posted:** 2026-10-21
 
-### [AI Research Scientist, MRS Knowledge](https://www.linkedin.com/jobs/view/4478965827/) — Meta
-- 📍 **Location:** Menlo Park, CA
-- 💰 **Salary:** $122,000.00/yr - $181,000.00/yr
+### [Tech Lead Applied Scientist](https://www.linkedin.com/jobs/view/4482045609/) — Samsara
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $200,200 USD - $357,500 USD
 - 🕒 **Posted:** 2026-10-21
 
-### [Introspection Probe Research Engineer, Development and Infrastructure, Gemini Security, DeepMind](https://www.linkedin.com/jobs/view/4471377873/) — Google DeepMind
+### [Research Scientist, Legal Innovation through Frontier Technology Lab (liftlab), Stanford Law School](https://www.linkedin.com/jobs/view/4480562172/) — Stanford University
+- 📍 **Location:** Stanford, CA
+- 🕒 **Posted:** 2026-10-20
+
+### [Research Engineer / Research Scientist- Personal AGI (Post Training)](https://www.linkedin.com/jobs/view/4417169171/) — OpenAI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-20
+
+### [Founding AI Engineer (Vision-language models)](https://www.linkedin.com/jobs/view/4474978499/) — Jack
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-20

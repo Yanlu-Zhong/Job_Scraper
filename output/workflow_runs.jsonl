@@ -419,3 +419,4 @@
 {"job_count": 56, "run_attempt": "1", "run_id": "39555024850", "scrape": {"batch": 1, "batches": 5, "queries": 32, "raw_rows": 411, "status": "success", "terms_in_batch": 8, "terms_total": 38}, "timestamp": "2026-10-21T06:28:20Z", "workflow": "linkedin"}
 {"job_count": 18, "run_attempt": "1", "run_id": "39555180601", "scrape": {"errors": 0, "queries": 25, "raw_rows": 326, "status": "success"}, "timestamp": "2026-10-21T06:29:05Z", "workflow": "indeed"}
 {"job_count": 18, "run_attempt": "1", "run_id": "39556305570", "scrape": {"errors": 0, "queries": 25, "raw_rows": 326, "status": "success"}, "timestamp": "2026-10-21T06:35:34Z", "workflow": "indeed"}
+{"job_count": 61, "run_attempt": "1", "run_id": "39563608900", "scrape": {"batch": 2, "batches": 5, "queries": 32, "raw_rows": 419, "status": "success", "terms_in_batch": 8, "terms_total": 38}, "timestamp": "2026-10-21T07:48:29Z", "workflow": "linkedin"}
