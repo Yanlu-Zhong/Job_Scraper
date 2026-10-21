@@ -433,3 +433,4 @@
 {"job_count": 0, "run_attempt": "1", "run_id": "39670502544", "scrape": {"raw_rows": 0, "status": "empty"}, "timestamp": "2026-10-21T20:28:10Z", "workflow": "hiringcafe"}
 {"job_count": 120, "run_attempt": "1", "run_id": "39686577587", "scrape": {"batch": 3, "batches": 5, "queries": 32, "raw_rows": 437, "status": "success", "terms_in_batch": 8, "terms_total": 38}, "timestamp": "2026-10-21T22:32:55Z", "workflow": "linkedin"}
 {"job_count": 21, "run_attempt": "1", "run_id": "39687871352", "scrape": {"errors": 0, "queries": 25, "raw_rows": 329, "status": "success"}, "timestamp": "2026-10-21T22:38:33Z", "workflow": "indeed"}
+{"job_count": 21, "run_attempt": "1", "run_id": "39688900043", "scrape": {"errors": 0, "queries": 25, "raw_rows": 333, "status": "success"}, "timestamp": "2026-10-21T22:47:07Z", "workflow": "indeed"}
