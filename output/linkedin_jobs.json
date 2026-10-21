@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-10-21 01:41 UTC",
-  "total": 53,
-  "new_count": 0,
+  "scraped_at": "2026-10-21 06:28 UTC",
+  "total": 56,
+  "new_count": 3,
   "scrape_status": {
     "status": "success",
-    "raw_rows": 414,
+    "raw_rows": 411,
     "queries": 32,
     "batch": 1,
     "batches": 5,
@@ -936,9 +936,116 @@
         "longitude": -123.032229,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
+    },
+    {
+      "company": "Zoom",
+      "title": "Data Scientist",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4482039642/",
+      "date_posted": "2026-10-21",
+      "salary": "$87,600.00 - $186,000.00",
+      "ats": "LinkedIn",
+      "description": "Immigration sponsorship is not available for this position\n\nWhat You Can Expect\n\nAs a Data Scientist on Zoom's Online business team, you'll apply machine learning and statistical modeling to understand user behavior, predict buying intent, and inform product decisions that affect how millions of people experience Zoom. Day to day, you'll build and validate predictive models, run experiments, and translate complex analytical findings into actionable recommendations for cross-functional partners. Working alongside product managers, engineers, and marketers, you'll bring analytical rigor to some of the most consequential growth decisions in the company. This role is well suited to someone who moves comfortably between exploratory analysis and production-ready models, and who finds meaning in work that directly shapes user outcomes at scale.\n\nAbout The Team\n\nThe Data Science team sits at the foundation of Zoom's growth strategy, powering decisions across product, marketing, and engineering with data-driven insights and machine learning capabilities. The team's work spans customer segmentation, churn modeling, personalization, and growth experimentation, all in service of improving user experience and business outcomes. You'll join a team that values intellectual rigor, cross-functional collaboration, and clear communication of complex ideas.\n\nResponsibilities\n\nAnalyze large, complex datasets to identify trends and behavioral patterns related to buying journeys, customer intent, and user engagement across Zoom's self-serve products.\nBuild and validate predictive models and machine learning algorithms supporting personalization, churn prediction, customer segmentation, and recommendation systems.\nDesign and execute A/B tests, interpret results with statistical discipline, and translate findings into clear business recommendations.\nCollaborate with stakeholders across product, engineering, and marketing to understand business objectives and develop targeted analytical solutions.\nCommunicate insights effectively to both technical and non-technical audiences through well-structured presentations and visualizations.\nPartner with Data Engineers on pipeline development to ensure robust, scalable data infrastructure that supports model production.\nMonitor model performance continuously and iterate on solutions to maintain accuracy and relevance as business conditions evolve.\n\nWhat We're Looking For\n\nBachelor's or Master's degree in Data Science, Computer Science, Statistics, Mathematics, or a related field, or equivalent experience.\n2+ years of hands-on experience in a data science or similar role, with a focus on building consumer-facing machine learning models.\nProficiency in Python (pandas, scikit-learn, numpy) and strong SQL skills for querying and manipulating large-scale datasets.\nExperience with A/B testing, customer segmentation, LTV prediction, or personalization models in a product or e-commerce context.\nFamiliarity with data visualization tools such as Tableau, Power BI, or Python libraries (matplotlib, seaborn, plotly).\nStrong problem-solving and communication skills, with comfort navigating ambiguity and translating analytical findings for diverse audiences.\nExposure to cloud platforms (AWS, GCP, or Azure) or tools such as dbt, Databricks, Airflow, or MLflow is a plus.\n\nSalary Range Or On Target Earnings\n\n$87,600.00 - $186,000.00\n\nIn addition to the base salary and/or OTE listed Zoom has a Total Direct Compensation philosophy that takes into consideration; base salary, bonus and equity value.\n\nNote: Starting pay will be based on a number of factors and commensurate with qualifications & experience.\n\nWe also have a location based compensation structure; there may be a different range for candidates in this and other locations\n\nAt Zoom, we offer a window of at least 5 days for you to apply because we believe in giving you every opportunity. Below is the potential closing date, just in case you want to mark it on your calendar. We look forward to receiving your application!\n\nAnticipated Position Close Date\n\n10/28/26\n\nWays of Working\n\nOur structured hybrid approach is centered around our offices and remote work environments. The work style of each role, Hybrid, Remote, or In-Person is indicated in the job description/posting.\n\nBenefits\n\nAs part of our award-winning workplace culture and commitment to delivering happiness, our benefits program offers a variety of perks, benefits, and options to help employees maintain their physical, mental, emotional, and financial health; support work-life balance; and contribute to their community in meaningful ways. Click Learn for more information.\n\nAbout Us\n\nZoomies help people stay connected so they can get more done together. We set out to build the best collaboration platform for the enterprise, and today help people communicate better with products like Zoom Contact Center, Zoom Phone, Zoom Events, Zoom Apps, Zoom Rooms, and Zoom Webinars.\n\nWe’re problem-solvers, working at a fast pace to design solutions with our customers and users in mind. Find room to grow with opportunities to stretch your skills and advance your career in a collaborative, growth-focused environment.\n\nOur Commitment\n\nAt Zoom, we believe great work happens when people feel supported and empowered. We’re committed to fair hiring practices that ensure every candidate is evaluated based on skills, experience, and potential. If you require an accommodation during the hiring process, let us know—we’re here to support you at every step.\n\nIf you need assistance navigating the interview process due to a medical disability, please submit an Accommodations Request Form and someone from our team will reach out soon. This form is solely for applicants who require an accommodation due to a qualifying medical disability. Non-accommodation-related requests, such as application follow-ups or technical issues, will not be addressed.\n\nOur interviews are supported by BrightHire, a tool that helps us create a consistent and thoughtful interview experience and may include recordings. Please refer to our candidate privacy statement for more information of how we use your data.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 13.183,
+        "city": "san jose",
+        "latitude": 37.296011,
+        "longitude": -121.814552,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Meta",
+      "title": "AI Research Scientist, MRS Knowledge",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4478965827/",
+      "date_posted": "2026-10-21",
+      "salary": "$122,000.00/yr - $181,000.00/yr",
+      "ats": "LinkedIn",
+      "description": "The AI Research Scientist role conducts novel research and develops advanced machine learning models, particularly in large language models, and recommendation systems, to drive innovation in content and user understanding, retrieval, and ranking. These deliverables directly enhance Meta’s products by powering more accurate, efficient, and personalized recommendations across Facebook, Instagram, Threads, and other platforms. By advancing AI research and development, the role supports Meta’s business growth, improves user experiences, and enables scalable solutions that benefit Meta’s customers and people.\n\nAI Research Scientist, MRS Knowledge Responsibilities:\n\nCollaborate and execute on research that pushes forward the state of the art in large language model research\nDirectly contribute to experiments, including designing experimental details, running evaluations, and organizing results\nContribute to publications and open-sourcing efforts\nHelp identify long-term research goals as well as intermediate milestones\nPrioritize research that can be applied to Meta's product development\n\nMinimum Qualifications:\n\nCurrently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience. Degree must be completed prior to joining Meta\nCurrently has, or is in the process of obtaining a PhD degree in Computer Science, Artificial Intelligence, Data Science, or related technical fields\nMust obtain work authorization in the country of employment at the time of hire, and maintain ongoing work authorization during employment\n\nPreferred Qualifications:\n\nExperience working and communicating cross-functionally in a team environment\nExperience with applying reinforcement learning techniques to production scale systems\nExperience in ranking, recommendation, or auction systems\nProven track record of achieving significant results as demonstrated by grants, fellowships, patents, as well as publications at leading workshops, journals or conferences\nPrior work bridging academic research and real-world applications\n\nAbout Meta:\n\nMeta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.\n\nMeta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.\n\nMeta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@meta.com.\n\n$122,000/year to $181,000/year + bonus + equity + benefits\n\nIndividual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about benefits at Meta.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 9.313,
+        "city": "menlo park",
+        "latitude": 37.479731,
+        "longitude": -122.148055,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Google DeepMind",
+      "title": "Introspection Probe Research Engineer, Development and Infrastructure, Gemini Security, DeepMind",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4471377873/",
+      "date_posted": "2026-10-20",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "Zoom",
+      "title": "Data Scientist",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4482039642/",
+      "date_posted": "2026-10-21",
+      "salary": "$87,600.00 - $186,000.00",
+      "ats": "LinkedIn",
+      "description": "Immigration sponsorship is not available for this position\n\nWhat You Can Expect\n\nAs a Data Scientist on Zoom's Online business team, you'll apply machine learning and statistical modeling to understand user behavior, predict buying intent, and inform product decisions that affect how millions of people experience Zoom. Day to day, you'll build and validate predictive models, run experiments, and translate complex analytical findings into actionable recommendations for cross-functional partners. Working alongside product managers, engineers, and marketers, you'll bring analytical rigor to some of the most consequential growth decisions in the company. This role is well suited to someone who moves comfortably between exploratory analysis and production-ready models, and who finds meaning in work that directly shapes user outcomes at scale.\n\nAbout The Team\n\nThe Data Science team sits at the foundation of Zoom's growth strategy, powering decisions across product, marketing, and engineering with data-driven insights and machine learning capabilities. The team's work spans customer segmentation, churn modeling, personalization, and growth experimentation, all in service of improving user experience and business outcomes. You'll join a team that values intellectual rigor, cross-functional collaboration, and clear communication of complex ideas.\n\nResponsibilities\n\nAnalyze large, complex datasets to identify trends and behavioral patterns related to buying journeys, customer intent, and user engagement across Zoom's self-serve products.\nBuild and validate predictive models and machine learning algorithms supporting personalization, churn prediction, customer segmentation, and recommendation systems.\nDesign and execute A/B tests, interpret results with statistical discipline, and translate findings into clear business recommendations.\nCollaborate with stakeholders across product, engineering, and marketing to understand business objectives and develop targeted analytical solutions.\nCommunicate insights effectively to both technical and non-technical audiences through well-structured presentations and visualizations.\nPartner with Data Engineers on pipeline development to ensure robust, scalable data infrastructure that supports model production.\nMonitor model performance continuously and iterate on solutions to maintain accuracy and relevance as business conditions evolve.\n\nWhat We're Looking For\n\nBachelor's or Master's degree in Data Science, Computer Science, Statistics, Mathematics, or a related field, or equivalent experience.\n2+ years of hands-on experience in a data science or similar role, with a focus on building consumer-facing machine learning models.\nProficiency in Python (pandas, scikit-learn, numpy) and strong SQL skills for querying and manipulating large-scale datasets.\nExperience with A/B testing, customer segmentation, LTV prediction, or personalization models in a product or e-commerce context.\nFamiliarity with data visualization tools such as Tableau, Power BI, or Python libraries (matplotlib, seaborn, plotly).\nStrong problem-solving and communication skills, with comfort navigating ambiguity and translating analytical findings for diverse audiences.\nExposure to cloud platforms (AWS, GCP, or Azure) or tools such as dbt, Databricks, Airflow, or MLflow is a plus.\n\nSalary Range Or On Target Earnings\n\n$87,600.00 - $186,000.00\n\nIn addition to the base salary and/or OTE listed Zoom has a Total Direct Compensation philosophy that takes into consideration; base salary, bonus and equity value.\n\nNote: Starting pay will be based on a number of factors and commensurate with qualifications & experience.\n\nWe also have a location based compensation structure; there may be a different range for candidates in this and other locations\n\nAt Zoom, we offer a window of at least 5 days for you to apply because we believe in giving you every opportunity. Below is the potential closing date, just in case you want to mark it on your calendar. We look forward to receiving your application!\n\nAnticipated Position Close Date\n\n10/28/26\n\nWays of Working\n\nOur structured hybrid approach is centered around our offices and remote work environments. The work style of each role, Hybrid, Remote, or In-Person is indicated in the job description/posting.\n\nBenefits\n\nAs part of our award-winning workplace culture and commitment to delivering happiness, our benefits program offers a variety of perks, benefits, and options to help employees maintain their physical, mental, emotional, and financial health; support work-life balance; and contribute to their community in meaningful ways. Click Learn for more information.\n\nAbout Us\n\nZoomies help people stay connected so they can get more done together. We set out to build the best collaboration platform for the enterprise, and today help people communicate better with products like Zoom Contact Center, Zoom Phone, Zoom Events, Zoom Apps, Zoom Rooms, and Zoom Webinars.\n\nWe’re problem-solvers, working at a fast pace to design solutions with our customers and users in mind. Find room to grow with opportunities to stretch your skills and advance your career in a collaborative, growth-focused environment.\n\nOur Commitment\n\nAt Zoom, we believe great work happens when people feel supported and empowered. We’re committed to fair hiring practices that ensure every candidate is evaluated based on skills, experience, and potential. If you require an accommodation during the hiring process, let us know—we’re here to support you at every step.\n\nIf you need assistance navigating the interview process due to a medical disability, please submit an Accommodations Request Form and someone from our team will reach out soon. This form is solely for applicants who require an accommodation due to a qualifying medical disability. Non-accommodation-related requests, such as application follow-ups or technical issues, will not be addressed.\n\nOur interviews are supported by BrightHire, a tool that helps us create a consistent and thoughtful interview experience and may include recordings. Please refer to our candidate privacy statement for more information of how we use your data.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 13.183,
+        "city": "san jose",
+        "latitude": 37.296011,
+        "longitude": -121.814552,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Meta",
+      "title": "AI Research Scientist, MRS Knowledge",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4478965827/",
+      "date_posted": "2026-10-21",
+      "salary": "$122,000.00/yr - $181,000.00/yr",
+      "ats": "LinkedIn",
+      "description": "The AI Research Scientist role conducts novel research and develops advanced machine learning models, particularly in large language models, and recommendation systems, to drive innovation in content and user understanding, retrieval, and ranking. These deliverables directly enhance Meta’s products by powering more accurate, efficient, and personalized recommendations across Facebook, Instagram, Threads, and other platforms. By advancing AI research and development, the role supports Meta’s business growth, improves user experiences, and enables scalable solutions that benefit Meta’s customers and people.\n\nAI Research Scientist, MRS Knowledge Responsibilities:\n\nCollaborate and execute on research that pushes forward the state of the art in large language model research\nDirectly contribute to experiments, including designing experimental details, running evaluations, and organizing results\nContribute to publications and open-sourcing efforts\nHelp identify long-term research goals as well as intermediate milestones\nPrioritize research that can be applied to Meta's product development\n\nMinimum Qualifications:\n\nCurrently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience. Degree must be completed prior to joining Meta\nCurrently has, or is in the process of obtaining a PhD degree in Computer Science, Artificial Intelligence, Data Science, or related technical fields\nMust obtain work authorization in the country of employment at the time of hire, and maintain ongoing work authorization during employment\n\nPreferred Qualifications:\n\nExperience working and communicating cross-functionally in a team environment\nExperience with applying reinforcement learning techniques to production scale systems\nExperience in ranking, recommendation, or auction systems\nProven track record of achieving significant results as demonstrated by grants, fellowships, patents, as well as publications at leading workshops, journals or conferences\nPrior work bridging academic research and real-world applications\n\nAbout Meta:\n\nMeta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.\n\nMeta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.\n\nMeta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@meta.com.\n\n$122,000/year to $181,000/year + bonus + equity + benefits\n\nIndividual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about benefits at Meta.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 9.313,
+        "city": "menlo park",
+        "latitude": 37.479731,
+        "longitude": -122.148055,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Google DeepMind",
+      "title": "Introspection Probe Research Engineer, Development and Infrastructure, Gemini Security, DeepMind",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4471377873/",
+      "date_posted": "2026-10-20",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    }
+  ],
   "remote_jobs": [],
   "ambiguous_jobs": [
     {
@@ -1124,13 +1231,14 @@
       "location": "Mountain View, CA",
       "url": "https://www.linkedin.com/jobs/view/4459707709/",
       "date_posted": "2026-10-20",
-      "salary": "",
+      "salary": "$204,000—$259,000 USD",
       "ats": "LinkedIn",
       "geography": {
         "status": "ambiguous",
         "distance_miles": null,
         "reason": "City is unknown or has multiple Census locations."
-      }
+      },
+      "description": "Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver—The World's Most Experienced Driver™—to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo’s fully autonomous ride-hail service and can also be applied to a range of vehicle platforms and product use cases. The Waymo Driver has provided over ten million rider-only trips, enabled by its experience autonomously driving over 100 million miles on public roads and tens of billions in simulation across 15+ U.S. states.\n\nThe mission of the Waymo AI Foundations team is to develop machine learning solutions addressing open problems in autonomous driving, towards the goal of safely operating Waymo vehicles in dozens of cities and under all driving conditions. As part of our work, we also initiate and foster collaborations with other research teams in Alphabet. AI Foundations areas that we are currently focusing on include reinforcement learning, learning from demonstration, generative modeling, Bayesian inference, hierarchical learning, and robust evaluation.\n\nIn this hybrid role, you will report to a Principal Scientist.\n\nYou Will\n\nParticipate in Waymo’s Foundation World Model post-training and evaluation\nResearch and develop cutting edge RL and Distillation techniques for Autonomous Vehicle Trajectory Planning\nIntegrate emerging research from the broader AI community into Waymo’s internal RL infrastructure, conducting rigorous ablations to identify and scale the most promising methods\nPartner with engineering and research teams across Waymo to share recipes, techniques, and post-training best practices to accelerate our collective know-how\n\nYou Have\n\nPhD or Masters in Computer Science, Machine Learning, Robotics, or a similar technical field; with 3+ years of industry or post-doc research experience in Reinforcement Learning or Foundation Models\nDemonstration of original contributions to the field through high-impact publications (ArXiv, peer-reviewed conferences like NeurIPS/ICLR/CVPR), technical blog posts, or significant open-source contributions\nProficiency in implementing model training flows in a scalable, distributed and performant manner such as Data parallel, FSDP and other sharding approaches\nA willingness to work with complexity of globally distributed inference infrastructure\n\nWe Prefer\n\nPhD in Computer Science, Machine Learning, or Robotics, with a research focus on Reinforcement Learning, Foundation Models, or Multi-Modal learning\nExtensive experience designing and deploying Reinforcement Learning infrastructure, specifically for on-policy learning or alignment with human preferences\nA consistent history of original contributions to the AI community, evidenced by first-author publications at top-tier venues (e.g., NeurIPS, ICLR, ICRA) or maintaining significant open-source ML projects\nExperience with large scale (many-machine) training infrastructure and techniques for inference with large models such as model sharding/tensor-parallel\n\nBenefits\n\nIn accordance with Washington state law, we are highlighting our comprehensive benefits package, which is available to all eligible US based employees. Benefits for this role include:\n\nHealth, dental, vision, life, disability insurance\nRetirement Benefits: 401(k) with company match\nPaid Time Off: 20 days of vacation per year, accruing at a rate of 6.15 hours per pay period for the first five years of employment\nSick Time: 40 hours/year (statutory, where applicable); 5 days/event (discretionary)\nMaternity Leave (Short-Term Disability + Baby Bonding): 28-30 weeks\nBaby Bonding Leave: 18 weeks\nHolidays: 13 paid days per year\n\nPlease note that Waymo may not be able to employ remotely in all locations. Please speak with your recruiter about your preferred location for remote work when you begin the interview process\n\nThe expected base salary range for this full-time position across US locations is listed below. Actual starting pay will be based on job-related factors, including exact work location, experience, relevant training and education, and skill level. Your recruiter can share more about the specific salary range for the role location or, if the role can be performed remote, the specific salary range for your preferred location, during the hiring process.\n\nWaymo employees are also eligible to participate in Waymo’s discretionary annual bonus program, equity incentive plan, and generous Company benefits program, subject to eligibility requirements.\n\nSalary Range\n\n$204,000—$259,000 USD\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet"
     },
     {
       "company": "ServiceNow",
@@ -1191,7 +1299,7 @@
     }
   ],
   "geographic_counts": {
-    "in_radius": 53,
+    "in_radius": 56,
     "remote": 0,
     "ambiguous": 17,
     "outside_radius": 0
