@@ -423,3 +423,4 @@
 {"job_count": 0, "run_attempt": "1", "run_id": "39565050057", "scrape": {"errors": 0, "queries": 25, "raw_rows": 0, "status": "empty"}, "timestamp": "2026-10-21T07:52:55Z", "workflow": "ziprecruiter"}
 {"job_count": 0, "run_attempt": "1", "run_id": "39565790048", "scrape": {"errors": 0, "queries": 155, "raw_rows": 0, "status": "empty"}, "timestamp": "2026-10-21T07:59:55Z", "workflow": "google_jobs"}
 {"job_count": 0, "run_attempt": "1", "run_id": "39569684046", "timestamp": "2026-10-21T08:29:49Z", "workflow": "biotech"}
+{"job_count": 0, "run_attempt": "1", "run_id": "39574971152", "scrape": {"raw_rows": 0, "status": "empty"}, "timestamp": "2026-10-21T09:11:26Z", "workflow": "hiringcafe"}
