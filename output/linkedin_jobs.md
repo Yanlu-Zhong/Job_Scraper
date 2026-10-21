@@ -1,44 +1,28 @@
 # 🔥 LinkedIn — AI · Language · Human Research Roles
-*Last updated: 2026-10-20 22:28 UTC*
+*Last updated: 2026-10-21 00:52 UTC*
 
-**10 new role(s)** since last run · 109 total in last 24h
+**6 new role(s)** since last run · 53 total in last 24h
 
-### [Principal Applied Scientist, Fauna](https://www.linkedin.com/jobs/view/4481776730/) — Amazon
+### [Applied Scientist, AWS Neuron Science - Core Algorithm, AWS Neuron Science - Core Algorithm](https://www.linkedin.com/jobs/view/4478947273/) — Amazon Science
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-10-20
+
+### [Product Data Scientist - Youth, Families and Learning](https://www.linkedin.com/jobs/view/4480724952/) — OpenAI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-20
+
+### [Senior Staff Data Scientist, Workspace AI Foundations](https://www.linkedin.com/jobs/view/4480733596/) — Google
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-10-20
 
-### [Project Perseus | Speech & Voice AI Analyst - English (UK) Speakers](https://www.linkedin.com/jobs/view/4477976793/) — Welocalize
-- 📍 **Location:** Burlingame, CA
-- 🕒 **Posted:** 2026-10-20
-
-### [Project Perseus | Speech & Voice AI Analyst - English (UK) Speakers](https://www.linkedin.com/jobs/view/4477994144/) — Welocalize
+### [Sr Applied Data Scientist - Search and Browse (applied ML, LLMs, ML Ops)](https://www.linkedin.com/jobs/view/4481785501/) — Target
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-10-20
 
-### [Multimodal Engineer](https://www.linkedin.com/jobs/view/4481275166/) — Nori Robotics (YC S26)
-- 📍 **Location:** San Francisco, CA
+### [Sr. Applied Scientist, Sensors, Sensor Algorithms](https://www.linkedin.com/jobs/view/4478939769/) — Amazon Science
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-10-20
 
-### [Metrology Data Scientist](https://www.linkedin.com/jobs/view/4449787314/) — VoltForce
-- 📍 **Location:** San Leandro, CA
-- 🕒 **Posted:** 2026-10-20
-
-### [Senior Applied Scientist, Delivery Foundation Model](https://www.linkedin.com/jobs/view/4481756770/) — Amazon
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-10-20
-
-### [Project Perseus | Speech & Voice AI Analyst - English (UK) Speakers](https://www.linkedin.com/jobs/view/4477988315/) — Welocalize
+### [Research Engineer](https://www.linkedin.com/jobs/view/4417158991/) — OpenAI
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-20
-
-### [Senior Backend Engineer, AI Evaluations](https://www.linkedin.com/jobs/view/4480713234/) — Ellipsis Health
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-20
-
-### [Research Engineer, Post-Training Model Evaluations](https://www.linkedin.com/jobs/view/4437596983/) — Anthropic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-19
-
-### [Research Engineer, Production Model Post-Training](https://www.linkedin.com/jobs/view/4322460020/) — Anthropic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-19
