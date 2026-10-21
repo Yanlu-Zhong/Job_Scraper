@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-21 06:29 UTC",
+  "scraped_at": "2026-10-21 06:35 UTC",
   "total": 18,
-  "new_count": 6,
+  "new_count": 0,
   "scrape_status": {
     "status": "success",
     "raw_rows": 326,
@@ -426,32 +426,6 @@
       }
     },
     {
-      "company": "Ericsson",
-      "title": "Senior Data Scientist",
-      "location": "Santa Clara, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=49b18544adf6775b",
-      "direct_url": "https://jobs.ericsson.com/careers/job/563121777419488?domain=ericsson.com",
-      "company_url": "https://www.indeed.com/cmp/Ericsson",
-      "date_posted": "2026-10-21",
-      "description": "Ericsson Inc. does not sponsor U.S work authorizations for this job position including U.S. immigration filings for initial and/or change of employer paperwork for H-1's, H-1B1's, E-3's, O-1's, and TN's. Ericsson also does not hire F-1's working on CPT or EAD for this position.\n\nThis role will be sitting out of our Santa Clara, CA office and relocation support isnt available at this time.\n\n**About this opportunity**\n\nThe AI Innovation & Incubation (AIII) team in Silicon Valley is a group of applied research professionals using AI and foundation models to address real-world challenges across all layers of the cellular network. The team takes ideas from early exploration through proof-of-concept (PoC), minimum viable product (MVP), and into production-ready solutions used by Ericsson's Business Areas and Market Areas globally. In this role, you will collaborate with the team to explore AI-RAN and RAN-for-AI opportunities, build and train advanced models, and contribute to work that moves from experimentation to real-world impact in telecom networks. This position is based in Silicon Valley, USA, and is suited for someone comfortable with ambiguity who thrives in a fast-moving field.\n\n**What you will do**\n\n* Design, train, and evaluate deep neural networks — including vision-language models (VLMs) and other foundation models — for telecom-relevant use cases.\n* Prototype AI agents and solution pipelines using large language models (LLMs), multimodal LLMs, VLMs, and modern machine learning techniques to improve network performance and operations.\n* Translate research into working code by reading leading conference papers (e.g., CVPR, NeurIPS, ICML, ICLR) and reproducing key ideas through experiments.\n* Run experiments on cloud platforms (GCP, AWS, Azure) or on-premises GPU clusters as part of scalable training and evaluation workflows.\n* Collaborate with applied researchers, engineers, and domain experts to develop PoCs into production-ready solutions.\n* Stay current with the evolving AI landscape, evaluate new methods and tools, and identify opportunities to apply them to ongoing work.\n\n**The skills you bring**\n\n* Master's or PhD in Computer Science, Electrical Engineering, Robotics, or a related field, with 4+ years (MS) or 1+ year (PhD) of relevant industry experience.\n* 5+ years of experience working with deep neural networks (industry and/or research).\n* Strong Python programming skills and hands-on experience with modern ML frameworks such as PyTorch or JAX.\n* Demonstrated ability to read, understand, and implement methods from research papers.\n* Experience with at least one cloud platform (GCP, AWS, or Azure).\n* Clear communication skills and a collaborative approach to working in a professional team setting.\n* Publications in relevant venues (e.g., CVPR, NeurIPS, ICLR), open-source ML contributions, or experience taking projects from PoC to production are a plus.\n* Familiarity with telecom, wireless networks, or RAN concepts — or a strong motivation to learn these domains — is preferred.\n* Hands-on experience in 3D vision or ROS is a big plus.\n* AI is becoming core to how we build and deliver at Ericsson. We're seeking talents who are ready to learn, adapt, and develop the skills needed to thrive in an AI-enabled future.\n\n**Why join Ericsson?**\n\nAt Ericsson, you´ll have an outstanding opportunity. The chance to use your skills and imagination to push the boundaries of what´s possible. To build solutions never seen before to some of the world’s toughest problems. You´ll be challenged, but you won’t be alone. You´ll be joining a team of diverse innovators, all driven to go beyond the status quo to craft what comes next.\n\n**What happens once you apply?**  \nClick Here to find all you need to know about what our typical hiring process looks like.\n\nEricsson uses a merit-based hiring approach that values people with different experiences, perspectives and skillsets. We truly believe this approach drives innovation, which is essential for our future growth. We encourage people from all backgrounds to apply and realize their full potential as part of our Ericsson team. Ericsson is proud to be an Equal Opportunity employer, learn more.\n\nIf you need assistance or to request an accommodation due to a disability, please contact Ericsson at hr.direct.americas@ericsson.com.\n\n**DISCLAIMER:** The above statements are intended to describe the general nature and level of work being performed by employees in this position. They are not an exhaustive list of all responsibilities, duties and skills required for this position, and you may be required to perform additional job tasks as assigned.\n\n**Primary country and city:** United States (US) || Santa Clara (Country/ City)\n\n**Job details:** Data Scientist (Techn)\n\n**Compensation and Benefits at Ericsson**  \nAt Ericsson, we know that our people are the key to our success. We offer a competitive package to help with your individual needs and goals.\n\n**Your Pay**  \nThe salary range for this position is dependent on various factors including, but not limited to, location, and the candidate’s combination of job-related knowledge, qualifications, skills, education, training, and experience.\n\nThe salary range for this position is\n\n* **LOCATION: $156,000 - $204,225 USD**\n\n**Short-Term Variable Compensation Plan:** Your pay also includes the opportunity for an annual bonus. Actual bonus payouts are based on performance of the business against the unit’s objectives, individual performance, and the individual bonus target. Certain eligibility and pro-ration rules apply.\n\n**Your Health**  \nEricsson offers excellent health benefits including the choice of three medical plan options and a dental plan option that allow an employee to select the level of coverage that suits their needs. Employees will receive company credits in an amount equal to the cost that Ericsson pays toward the cost of their medical and dental premiums for themselves and eligible covered dependents",
-      "salary": "$156k–$204k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "hr.direct.americas@ericsson.com",
-      "ats": "Indeed",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 3.522,
-        "city": "santa clara",
-        "latitude": 37.364621,
-        "longitude": -121.967973,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
       "company": "Walmart",
       "title": "Staff, Data Scientist",
       "location": "Sunnyvale, CA, USA",
@@ -476,138 +450,6 @@
         "longitude": -122.026316,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "Anthropic",
-      "title": "Security Engineer / Research Engineer, RL Security",
-      "location": "San Francisco, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=2f336c7b345fd355",
-      "direct_url": "https://job-boards.greenhouse.io/anthropic/jobs/5458420008",
-      "company_url": "https://www.indeed.com/cmp/Anthropic",
-      "date_posted": "2026-10-21",
-      "description": "**About Anthropic**\n-------------------\n\nAnthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n\n**About the role**\n------------------\n\nReinforcement learning is how Claude learns to reason, write code, and act autonomously over long horizons. At frontier scale, an RL run is a large distributed system: training, sampling, and environment execution run concurrently across a large fleet of accelerators and hosts. As an engineer in RL Engineering, you'll work on keeping that system secure as it scales.\n\nThis is a hands-on engineering role. You'll work in the RL codebase and the infrastructure underneath it, alongside the engineers and researchers who build and use it. The system is large and changes as fast as the research does, so security work here has to keep up with that pace without costing performance or velocity.\n\nWe're hiring from two backgrounds: security engineers who want to work on large-scale ML systems, and ML systems or research engineers who want to work on security. Strong candidates have depth in one and real interest in the other.\n\n**Key responsibilities**\n------------------------\n\n* Design, build, and operate security controls for RL training systems and the infrastructure they run on\n* Work across the stack (orchestration, environments, training, inference) wherever the work is needed\n* Review designs and code across the RL stack, find security problems, and fix them\n* Build shared libraries and tooling that other RL engineers and researchers build on\n* Build the observability needed to understand what these systems are doing\n* Work with researchers and performance engineers to make sure security changes preserve training correctness and performance\n* Write clear design documents for what you build\n\n**Minimum qualifications**\n--------------------------\n\n* Strong software engineering skills in Python and at least one systems language such as Rust, C++, or Go\n* Experience designing, building, and operating large-scale distributed systems or security systems in production\n* Strong understanding of security fundamentals\n* Working knowledge of Linux, containers, and cloud infrastructure\n* Experience debugging complex problems across many hosts and services\n* Ability to reason about tradeoffs between security, performance, and reliability\n* Strong written communication, including design documents\n\n**Preferred qualifications**\n----------------------------\n\n* Experience running ML training or inference infrastructure at scale\n* Experience with infrastructure security, such as isolation, access control, networking, or identity\n* Experience with container orchestration such as Kubernetes, and with sandboxed or virtualized code execution at scale\n* Experience building observability for large fleets\n* Experience supporting research teams or other fast-moving internal users\n* Familiarity with reinforcement learning or large language model training workloads\n\nThe annual compensation range for this role is listed below.\n\nFor sales roles, the range provided is the role’s On Target Earnings (\"OTE\") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.\n\nAnnual Salary:\n\n$320,000 - $405,000 USD\n\n**Logistics**\n-------------\n\n**Minimum education:** Bachelor’s degree or an equivalent combination of education, training, and/or experience\n\n**Required field of study:** A field relevant to the role as demonstrated through coursework, training, or professional experience\n\n**Minimum years of experience:** Years of experience required will correlate with the internal job level requirements for the position\n\n**Location-based hybrid policy:** Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.\n\n**Visa sponsorship:** We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.\n\n**We encourage you to apply even if you do not believe you meet every single qualification.** Not all strong candidates will meet every single qualification as listed. Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.  \n  \n**Your safety matters to us.** To protect yourself from potential scams, remember that Anthropic recruiters only contact you from @anthropic.com email addresses. In some cases, we may partner with vetted recruiting agencies who will identify themselves as working on behalf of Anthropic. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit anthropic.com/careers directly for confirmed position openings.\n\n**How we're different**\n-----------------------\n\nWe believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science",
-      "salary": "$320k–$405k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "OpenAI",
-      "title": "Product Data Scientist - Youth, Families and Learning",
-      "location": "San Francisco, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=64948119287080b8",
-      "direct_url": "https://openai.com/careers/product-data-scientist-youth-families-and-learning-san-francisco/",
-      "company_url": "https://www.indeed.com/cmp/Openai",
-      "date_posted": "2026-10-21",
-      "description": "Data Science - San Francisco\n\n**About the role**\n\nWe’re looking for a product data scientist to help OpenAI create more value and drive sustainable growth for young people, families, and learners. You’ll drive product data science across under-18 audiences, emerging opportunities for children under 13, family experiences, and learning and education more broadly.\n\nYou’ll help decide where we should invest, what we should build, and how we’ll know it is working. This means understanding distinct audience needs, identifying promising use cases, and turning evidence into a clear product strategy. Your work will connect discovery and early product development with adoption, retention, and sustained user value.\n\nYou’ll partner across Chat Product, Growth, Foundations, SafeSys, and other teams, working closely with product managers, engineers, designers, and researchers. **The role focuses and owns product value and growth while dedicated teams own policy and safety.**\n\n**In this role, you will:**\n\n* **Shape strategy and prioritize opportunities.** Size unmet needs and growth opportunities across audiences, use cases, and product experiences. Help teams choose where to invest and sequence work based on expected user value, reach, evidence, and effort.\n* **Define what value and success mean.** Develop an audience-specific measurement framework spanning activation, task success, learning progress, satisfaction, and durable retention. Connect these measures to product goals and assess whether repeat use reflects meaningful benefit.\n* **Understand users and growth drivers.** Analyze journeys, funnels, and cohorts to uncover where people find value, where they struggle, and what helps them return. Combine behavioral data with surveys and user research to explain differences across ages, family roles, and learning contexts.\n* **Measure what changes actually cause.** Design experiments and holdouts to evaluate product and model changes. Apply causal methods when randomization is impractical, make assumptions explicit, and account for seasonality, audience composition, and effects that differ across segments.\n* **Turn findings into product decisions.** Work with partners from initial hypotheses through launch and iteration. Recommend what to build, change, expand, or stop, explaining expected impact, uncertainty, and tradeoffs. Follow through to determine whether decisions delivered the intended results.\n* **Build reliable measurement.** Partner with engineering on instrumentation, dataset quality, and consistent audience definitions. Create reusable analyses and dashboards that make progress visible and let teams answer recurring questions independently.\n* **Create alignment across teams.** Bring a coherent view of audience value to work spanning multiple roadmaps. Help partners agree on priorities, success criteria, and the next questions to resolve, even when ownership is distributed and evidence is incomplete.\n\n**You might thrive in this role if you have:**\n\n* A record of influencing product strategy and improving user outcomes through hands-on data science, including work from an ambiguous question to a decision and measurable impact.\n* Strong SQL and Python skills, sound statistical judgment, and practical experience with experiments, causal inference, cohort analysis, and measurement design.\n* The ability to develop useful definitions of product value, validate imperfect proxies, and distinguish short-term metric movement from lasting improvement.\n* Clear communication and strong product judgment. You can make a recommendational authority.\n* Comfort setting priorities independently across a broad scope, staying close to users, and moving between strategic questions and detailed analytical work.\n\n**Helpful experience**\n\nExperience with consumer product growth, youth or family products, learning and education, or generative AI would be valuable. We also welcome experience measuring learning outcomes, combining quantitative and qualitative research, or evaluating products whose value emerges over time.\n\n**About OpenAI**\n\nOpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core the full spectrum of humanity.\n\nWe are an equal opportunity employeration, or other applicable legally protected characteristic.\n\n  \n\nBackground checks for applicants will be administered in accordance with applicable lawation technology systems and related data security obligations.\n\nTo notify OpenAI that you believe this job posting is non-compliant. No response will be provided to inquiries unrelated to job posting compliance.\n\nWe are committed to providing reasonable accommodations to applicants with disabilities.\n\n  \n\nAt OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.\n\n**Compensation**\n\n$401K – $510K + Offers Equity\n\nThe base pay offered may vary depending on multiple individualized factorsance-related bonus(es) for eligible employees, and the following benefits.\n\n* Medical, dental, and vision insurance for you and your family, with employer contributions to Health Savings Accounts\n* Pre-tax accounts for Health FSA, Dependent Care FSA, and commuter expenses (parking and transit)\n* 401(k) retirement plan with employer match\n* Paid parental leave (up to 24 weeks for birth parents and 20 weeks for non-birthing parents), plus paid medical and caregiver leave (up to 8 weeks)\n* Paid time off: flexible PTO for exempt employees and up to 15 days annually for non-exempt employees\n* 13+ paid company holidays, and multiple paid coordinated company office closures throughout the year ",
-      "salary": "$401k–$510k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Google",
-      "title": "Senior Staff Data Scientist, Workspace AI Foundations",
-      "location": "Sunnyvale, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=5c9b31ac372aa900",
-      "direct_url": "https://careers.google.com/jobs/results/134879186840888006-senior-staff-data-scientist/",
-      "company_url": "https://www.indeed.com/cmp/Google",
-      "date_posted": "2026-10-21",
-      "description": "In accordance with Washington state law, we are highlighting our comprehensive benefits package, which is available to all eligible US based employees. Benefits for this role include:  \n\n* Health, dental, vision, life, disability insurance\n* Retirement Benefits: 401(k) with company match\n* Paid Time Off: 20 days of vacation per year, accruing at a rate of 6.15 hours per pay period for the first five years of employment\n* Sick Time: 40 hours/year (increased to 69 hours/year for Seattle) including 5 discretionary sick days per instance\n* Maternity Leave (Short-Term Disability + Baby Bonding): 28-30 weeks\n* Baby Bonding Leave: 18 weeks\n* Holidays: 13 paid days per year\n\n  \nNote: By applying to this position you will have an opportunity to share your preferred working location from the following: **Sunnyvale, CA, USA; Kirkland, WA, USA; New York, NY, USA**.\n\n### **Minimum qualifications:**\n\n* Bachelor's degree in Statistics, Mathematics, Data Science, Engineering, Physics, Economics, or a related quantitative field.\n* 13 years of work experience using analytics to solve product or business problems, performing statistical analysis, and coding (e.g., Python, R, SQL) (or 10 years work experience and a Master's degree).\n\n  \n\n### **Preferred qualifications:**\n\n* Master's degree in Statistics, Mathematics, Data Science, Engineering, Physics, Economics, or a related quantitative field.\n* 12 years of work experience using analytics to solve product or business problems, performing statistical analysis, and coding (e.g., Python, R, SQL).\n\n**About the job**\n-----------------\n\nGoogle Workspace is a smart, simple, and secure suite of productivity apps—including Gmail, Docs, Drive, Calendar, Sheets, Meet, and Chat. Designed to simplify workflows and boost team productivity, Workspace features real-time collaboration at its core, allowing information to flow freely across devices and teams so that great ideas are never lost.\n\nWe empower Workspace with AI, guiding products like Gmail, Docs, Sheets, Slides, Drive, Meet, Chat, and beyond to become truly intelligent. We deliver actionable insights, define the critical metrics, and measure quality, pinpointing the highest-impact opportunities for the entire organization.  \n  \nAs a Staff/Senior Staff Product Data Scientist on the Workspace GenAI Foundations team, you will act as a technical leader and strategic advisor at the intersection of product strategy, model evaluation, and data architecture across our horizontal AI pillars—spanning Agentic Ecosystems, AI Platform, Workspace Intelligence, and Abuse & Safety Protections. Partnering closely with senior Product, Engineering, and Research leaders across Workspace and DeepMind, you will pioneer the measurement frameworks, experimentation methodologies, and foundational data pipelines that shape AI-powered productivity and agentic experiences for over 3 billion users.\n\n  \nIndividual pay is determined by factors including job-related skills, experience, and relevant education or training.\n  \n  \nUS: $240000 - $333000 (USD) + 25% bonus target + equity + benefits  \n  \nLearn more about benefits at Google.\n\n**Responsibilities**\n--------------------\n\n* Lead horizontal metric and evaluation frameworks that quantify engagement, productivity gains, and end-to-end system quality across GenAI models, agentic tooling, context grounding, and safety.\n* Deliver clear, executive-ready insights and recommendations that guide product roadmaps, organizational transitions, and resource allocation.\n* Work on challenges across behavioral, telemetry, and evaluation datasets to identify user adoption, quality or reliability gaps, latency/cost trade-offs, and new methodologies to improve performance.\n* Define upstream logging and telemetry standards, design scalable data models and ETL pipelines, and build unified semantic layers and self-serve analytics that connect data across Workspace domains.\n* Drive experimentation, observational causal inference, and rigorous model evaluations—leveraging AI models/tools as well as human and automated rating systems.\n\nGoogle is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.",
-      "salary": "$240k–$333k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 0.0,
-        "city": "sunnyvale",
-        "latitude": 37.385797,
-        "longitude": -122.026316,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Open Vision Engineering Inc",
-      "title": "Research Engineer - Voice Intelligence",
-      "location": "San Francisco, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=caa02c5139b7bf84",
-      "direct_url": "https://jobs.ashbyhq.com/pocket/2a0ac675-8091-47dd-9ffc-bb5234ee5926?utm_source=wMD3XZ8blR",
-      "company_url": "",
-      "date_posted": "2026-10-21",
-      "description": "**About the role**\n\nPocket is building a category-defining platform for ambient intelligence. Voice is the highest-signal interface we have — and we’re looking for a research-minded engineer to push what’s possible with voice end-to-end: capture understanding real-time experiences evaluation.\n\n**What you'll own**\n\n* Invent and ship improvements to our voice stack: diarization, VAD, noise robustness, transcription quality, speaker ID, and post-processing.\n* Build new voice-powered product capabilities: better memory, better meeting/voice summaries, better action extraction, better personalization.\n* Run tight research loops: define metrics, build eval sets, iterate on models/algorithms, and productionize what works.\n* Improve real-time performance and reliability: streaming pipelines, latency budgets, fallbacks, and graceful degradation.\n* Partner closely with product + design to translate voice capabilities into features people feel immediately.\n\n**What success looks like**\n\n* Step-function improvements in voice quality and perceived intelligence (measured and felt).\n* A clear evaluation harness (offline + online) that prevents regressions and accelerates iteration.\n* Voice features that ship reliably at scale with predictable latency.\n\n**What we're looking for**\n\n* Have 6–10+ years of experience shipping production systems with strong technical ownership.\n* Are strong in applied ML/research engineering *and* can turn prototypes into robust product.\n* Understand audio/voice fundamentals (signal processing basics helpful) and modern model/eval workflows.\n* Care deeply about performance and reliability.\n\n**Nice-to-haves**\n\n* Experience with streaming audio pipelines and real-time systems.\n* Experience with LLM post-processing, structured extraction, and evaluation.\n* Experience building tooling for labeling, dataset curation, and QA.\n\n**What we offer**\n\n* Work directly with us and learn fast\n* Direct impact on how the company operates day to day\n* High-trust, high-responsibility environment\n* Competitive compensation\n\n**About Pocket**\n\nPocket is a Y Combinator W26 company building a premium hardware plus software product in the AI voice recorder space. We are obsessed with quality and speed. We are scaling very fast in the US and now European markets and building a device experience that can become the category leader.\n\nCompensation Range: $200K - $300K",
-      "salary": "$200k–$300k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist - Meta Recommendation Systems (PhD)",
-      "location": "Menlo Park, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=3a9bd9aa08b8b3fe",
-      "direct_url": "https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KiE0000003IbVUAU&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F2389925061779623%2F%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D187943%26rx_id%3D9a2d6136-ccc4-11f1-b462-e3589050a172%26rx_job%3Da1KiE0000003IbVUAU%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261021T060420Z%26rx_vp%3Dcpc%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3Dindeedorganic",
-      "company_url": "https://www.indeed.com/cmp/Meta-dd1502f2",
-      "date_posted": "2026-10-21",
-      "description": "We're seeking talented Research Scientists to join the Meta Recommendation Systems (MRS) Core Modeling team in developing and deploying advancements in machine learning models and recommendation systems that can significantly enhance the recommendation product's experience. As a member of our team, you will have the opportunity to work on complex technical problems, build new features, and improve existing products across various platforms, including mobile devices and web applications. Our teams are constantly pushing the boundaries of user experience, and we're looking for passionate individuals who can help us advance the way people connect globally.  \n  \n  \n\n### **Research Scientist - Meta Recommendation Systems (PhD) Responsibilities:**\n\n* Design, develop, and implement novel AI/ML solutions to improve the accuracy, relevance, and overall effectiveness of our recommendation models\n* Stay up-to-date with the latest research and developments in the field and apply new scientific discoveries to drive innovation\n* Collaborate with cross-functional teams to integrate AI/ML solutions into existing products and services\n* Publish research papers and contribute to the development of innovative products that positively impact millions of users worldwide\n* Work on cutting-edge projects and apply relevant AI and machine learning techniques to build intelligent rich speech & language systems\n\n  \n  \n  \n\n### **Minimum Qualifications:**\n\n* Currently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience. Degree must be completed prior to joining Meta\n* Currently has, or is in the process of obtaining a PhD degree in Computer Science, Artificial Intelligence, or related technical fields\n* Experience developing software and executing complex experiments involving large ML/AI models and datasets\n* Direct experience in AI/ML/NLP research\n* Familiarity with one or more deep learning frameworks (e.g., PyTorch, TensorFlow)\n* Must obtain work authorization in the country of employment at the time of hire, and maintain ongoing work authorization during employment\n\n  \n  \n  \n\n### **Preferred Qualifications:**\n\n* Experience working and communicating cross-functionally in a team environment\n* Industry experience working on Recommendations, Ranking, and LLM-related topics\n* Interest in taking new research findings in this area and implementing them towards product needs\n* Experience bringing machine learning-based products from research to production\n* Experience with interdisciplinary and/or cross-collaboration\n* High-impact publications at leading ML/AI conferences and journals (e.g., ICML, ICLR, KDD, NeurIPS)\n\n  \n  \n  \n\n### **About Meta:**\n\nMeta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.  \n  \n  \n\nMeta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.\n  \n  \nMeta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@meta.com.  \n  \n$122,000/year to $181,000/year + bonus + equity + benefits  \n  \nIndividual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about benefits at Meta.",
-      "salary": "$122k–$181k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "accommodations-ext@meta.com",
-      "ats": "Indeed",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 9.313,
-        "city": "menlo park",
-        "latitude": 37.479731,
-        "longitude": -122.148055,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
     },
     {
       "company": "Ericsson",
@@ -636,6 +478,7 @@
       }
     }
   ],
+  "new_jobs": [],
   "remote_jobs": [],
   "ambiguous_jobs": [
     {
