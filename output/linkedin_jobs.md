@@ -1,226 +1,84 @@
 # 🔥 LinkedIn — AI · Language · Human Research Roles
-*Last updated: 2026-10-22 19:17 UTC*
+*Last updated: 2026-10-22 22:26 UTC*
 
-**55 new role(s)** since last run · 137 total in last 24h
+**19 new role(s)** since last run · 156 total in last 24h
 
-### [Senior Research Engineer - AI Coding Tools](https://www.linkedin.com/jobs/view/4407975272/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
+### [Research Scientist (Trust and Safety - Vision Language Models/VLM)](https://www.linkedin.com/jobs/view/4392155207/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $162000 - $387600 annually
 - 🕒 **Posted:** 2026-10-22
 
-### [Research Engineer - Foundation Models, Ads Integrity](https://www.linkedin.com/jobs/view/4481600076/) — TikTok
+### [Research Engineer, Privacy Evals - Meta Superintelligence Labs](https://www.linkedin.com/jobs/view/4472604150/) — Meta
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $154,003.00/yr - $217,000.00/yr
+- 🕒 **Posted:** 2026-10-22
+
+### [Applied Scientist - Trust and Safety (Multimodal Foundation Model) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://www.linkedin.com/jobs/view/4406929832/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $218400 - $480000 annually
+- 🕒 **Posted:** 2026-10-22
+
+### [Research Scientist (Seed Model-Alignment&Preparedness) - 2026 Start (PhD)](https://www.linkedin.com/jobs/view/4482446080/) — ByteDance
 - 📍 **Location:** San Jose, CA
 - 💰 **Salary:** $218400 - $387600 annually
 - 🕒 **Posted:** 2026-10-22
 
-### [Applied Scientist -- Foundation Models, SSO](https://www.linkedin.com/jobs/view/4455906121/) — Amazon Web Services (AWS)
-- 📍 **Location:** Santa Clara, CA
+### [Senior AI Research Scientist: Robotics World Models](https://www.linkedin.com/jobs/view/4480069790/) — Embedding VC
+- 📍 **Location:** Milpitas, CA
 - 🕒 **Posted:** 2026-10-22
 
-### [Sr. Applied Scientist, Ads AI Core Infrastructure](https://www.linkedin.com/jobs/view/4455919444/) — Amazon
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Member of Technical Staff - ML Research Engineer, Data](https://www.linkedin.com/jobs/view/4436887604/) — Liquid AI
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Senior Applied Scientist, Real-Time Conversational AI , AGI](https://www.linkedin.com/jobs/view/4455906890/) — Amazon
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Research Engineer, Agentic Evaluation for Networking and Wireless Systems](https://www.linkedin.com/jobs/view/4480028341/) — Meta
-- 📍 **Location:** Menlo Park, CA
-- 💰 **Salary:** $183,997.00/yr - $257,000.00/yr
-- 🕒 **Posted:** 2026-10-22
-
-### [Applied Scientist, Fauna](https://www.linkedin.com/jobs/view/4455773999/) — Amazon
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Applied Scientist, AWS Quick](https://www.linkedin.com/jobs/view/4455982826/) — Amazon Web Services (AWS)
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Applied Scientist II, Foundation Model](https://www.linkedin.com/jobs/view/4455917088/) — Amazon
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Senior Research Scientist, Multimodal Foundation Models and Robotics](https://www.linkedin.com/jobs/view/4407974246/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Machine Learning Scientist / Senior Machine Learning Scientist](https://www.linkedin.com/jobs/view/4409512029/) — Calico Life Sciences
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Research Scientist in Generative AI Graduate (Intelligent Creation) - 2026 Start (PhD)](https://www.linkedin.com/jobs/view/4419350088/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [World Model Research Scientist (Intelligent Creation) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://www.linkedin.com/jobs/view/4448700784/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [AI Research Scientist, AI Safety and Security](https://www.linkedin.com/jobs/view/4472697974/) — Meta
+### [Research Scientist, Systems ML - HW/SW Co-Design](https://www.linkedin.com/jobs/view/4463092144/) — Meta
 - 📍 **Location:** Menlo Park, CA
 - 🕒 **Posted:** 2026-10-22
 
-### [Research Scientist Graduate (Seed Model - Vision) - 2027 Start](https://www.linkedin.com/jobs/view/4473981740/) — ByteDance
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Senior Applied AI Scientist](https://www.linkedin.com/jobs/view/4474103638/) — Kai
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Senior Data Scientist, Growth Analytics](https://www.linkedin.com/jobs/view/4473983210/) — Moloco
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Data Scientist - Multimedia](https://www.linkedin.com/jobs/view/4481393496/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Data Scientist, Platform and B2B Products](https://www.linkedin.com/jobs/view/4417166213/) — OpenAI
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4473976344/) — Kikoff
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Senior Data Scientist - Discovery](https://www.linkedin.com/jobs/view/4436517375/) — Roblox
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Staff Data Scientist (Pricing)](https://www.linkedin.com/jobs/view/4464665341/) — GoFundMe
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Applied Scientist, Amazon Ads, Forecasting, Insights and Guidance (FIG)](https://www.linkedin.com/jobs/view/4482459986/) — Amazon
+### [AI Scientist - Frontier LLMs & Real-World Impact](https://www.linkedin.com/jobs/view/4480064908/) — Mistral
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-10-22
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4480010535/) — Stealth Startup
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Data Scientist, Marketing](https://www.linkedin.com/jobs/view/4482461260/) — Cursor
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Senior Applied Scientist, Sponsored Products Bidding](https://www.linkedin.com/jobs/view/4455910468/) — Amazon
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Machine Learning Data Scientist - Consumer Forecasting](https://www.linkedin.com/jobs/view/4481189720/) — OpenAI
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Data Scientist, Analytics (Ranking, AI)](https://www.linkedin.com/jobs/view/4453402379/) — Meta
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Data Scientist - TikTok Integrity and Safety (San Jose)](https://www.linkedin.com/jobs/view/4481383779/) — TikTok
+### [Research Scientist - TikTok Search (Generative AI) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://www.linkedin.com/jobs/view/4402373654/) — TikTok
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-22
 
-### [Data Scientist II, Real World Evidence, Life Sciences R&D](https://www.linkedin.com/jobs/view/4472318876/) — Tempus AI
-- 📍 **Location:** Redwood City, CA
+### [Project Perseus | Speech & Voice AI Analyst - German Speakers](https://www.linkedin.com/jobs/view/4406259599/) — Welocalize
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-22
 
-### [Senior Data Scientist, ML— Fraud Prevention](https://www.linkedin.com/jobs/view/4464130483/) — Adobe
+### [Project Perseus | Speech & Voice AI Analyst - Polish Speakers](https://www.linkedin.com/jobs/view/4432327728/) — Welocalize
+- 📍 **Location:** Burlingame, CA
+- 🕒 **Posted:** 2026-10-22
+
+### [Metrology Data Scientist](https://www.linkedin.com/jobs/view/4449787314/) — VoltForce
+- 📍 **Location:** San Leandro, CA
+- 🕒 **Posted:** 2026-10-22
+
+### [Machine Learning Engineer, Multimodal - Intelligent Integrity](https://www.linkedin.com/jobs/view/4481392688/) — TikTok
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-22
 
-### [Senior Data Scientist I, Real World Evidence (RWE), Life Sciences R&D](https://www.linkedin.com/jobs/view/4472321592/) — Tempus AI
-- 📍 **Location:** Redwood City, CA
+### [Project Perseus | Speech & Voice AI Analyst - Polish Speakers](https://www.linkedin.com/jobs/view/4432331635/) — Welocalize
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-22
 
-### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4473978082/) — Roku
+### [Principal Applied AI Scientist](https://www.linkedin.com/jobs/view/4473993787/) — Kai
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-22
 
-### [Associate Data Scientist](https://www.linkedin.com/jobs/view/4472399084/) — Quantifind
-- 📍 **Location:** Palo Alto, CA
+### [Applied Scientist, AWS Neuron Science team](https://www.linkedin.com/jobs/view/4455796360/) — Annapurna Labs
+- 📍 **Location:** Cupertino, CA
 - 🕒 **Posted:** 2026-10-22
 
-### [(USA) Principal, Data Scientist](https://www.linkedin.com/jobs/view/4462555156/) — Walmart
+### [Project Perseus | Speech & Voice AI Analyst - Polish Speakers](https://www.linkedin.com/jobs/view/4432327726/) — Welocalize
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-10-22
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4452827505/) — Molex
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Senior Machine Learning Scientist, Protein ML, AI for Drug Discovery (AIDD)](https://www.linkedin.com/jobs/view/4455956394/) — Genentech
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Data Scientist, Region Flexibility](https://www.linkedin.com/jobs/view/4455795110/) — Amazon
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [ML Research Scientist - Computational Biologist/Bioinformatics](https://www.linkedin.com/jobs/view/4472335862/) — Merge Labs
+### [Applied Scientist, Context Graph Team](https://www.linkedin.com/jobs/view/4481606777/) — MetAntz
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-22
 
-### [Data Scientist, Handshake AI](https://www.linkedin.com/jobs/view/4473940922/) — Handshake
+### [Applied Scientist (AI Physics & Simulations) - PhD](https://www.linkedin.com/jobs/view/4481392458/) — Stealth AI Startup
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-22
 
-### [AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA](https://www.linkedin.com/jobs/view/4481381856/) — Enigma
-- 📍 **Location:** San Jose, CA
+### [Senior GenAI Data Scientist - GenAI & AI Agents, AGS NAMER Specialist Team](https://www.linkedin.com/jobs/view/4464930218/) — Amazon Web Services (AWS)
+- 📍 **Location:** East Palo Alto, CA
 - 🕒 **Posted:** 2026-10-22
-
-### [Research Engineer-Model Efficiency](https://www.linkedin.com/jobs/view/4452597168/) — Bitdeer (NASDAQ: BTDR)
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4298469184/) — Tarro
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Research Engineer - Model Evaluation & MLOps](https://www.linkedin.com/jobs/view/4459249918/) — Sciforium
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Senior Backend Engineer, AI Evaluations](https://www.linkedin.com/jobs/view/4481195672/) — Ellipsis Health
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Oath Technologies - Research Engineer, Tools & Infrastructure](https://www.linkedin.com/jobs/view/4465331263/) — Convergent Research
-- 📍 **Location:** Berkeley, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Staff AI Scientist - AI Products / Life Sciences](https://www.linkedin.com/jobs/view/4386893869/) — Tempus AI
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Senior Research Scientist, Model Evaluation](https://www.linkedin.com/jobs/view/4317705634/) — Cohere
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Business Data Scientist, Subscriptions and Customer Growth Marketing](https://www.linkedin.com/jobs/view/4472305252/) — Google
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4479497876/) — Stealth Startup
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Business Data Scientist, YouTube Ads, Finance Revenue Analytics and Forecasting](https://www.linkedin.com/jobs/view/4481355908/) — Google
-- 📍 **Location:** San Bruno, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Data Scientist - TikTok Local Services (San Jose)](https://www.linkedin.com/jobs/view/4481145703/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-21
-
-### [Forward Deployed Engineer - Language Models](https://www.linkedin.com/jobs/view/4479453141/) — FDE Times
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-21
-
-### [Forward Deployed Data Scientist](https://www.linkedin.com/jobs/view/4479433989/) — FDE Times
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-21
