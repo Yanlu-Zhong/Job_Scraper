@@ -1,34 +1,44 @@
 # 🔥 LinkedIn — AI · Language · Human Research Roles
-*Last updated: 2026-10-23 01:37 UTC*
+*Last updated: 2026-10-23 07:38 UTC*
 
-**7 new role(s)** since last run · 85 total in last 24h
+**10 new role(s)** since last run · 95 total in last 24h
 
-### [Research Scientist](https://www.linkedin.com/jobs/view/4480606056/) — Outset
+### [Staff Research Engineer, Agent Evals & Post-training](https://www.linkedin.com/jobs/view/4474011203/) — Nominal
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $200,000.00/yr - $240,000.00/yr
-- 🕒 **Posted:** 2026-10-22
+- 🕒 **Posted:** 2026-10-23
 
-### [Lead Data Scientist (User Growth)-TikTok](https://www.linkedin.com/jobs/view/4481609061/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $219000 - $408000 annually
-- 🕒 **Posted:** 2026-10-22
+### [Senior Research Scientist, AI for Cybersecurity](https://www.linkedin.com/jobs/view/4481635318/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-10-23
 
-### [Clinical Research Engineer - Future Forward](https://www.linkedin.com/jobs/view/4464911952/) — Intuitive
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Sr. Applied Scientist, Amazon Ads](https://www.linkedin.com/jobs/view/4455916747/) — Amazon
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Visual Generation & Multimodal Evaluation Machine Learning Engineer Graduate (AML-Ark-US) - 2027 Start](https://www.linkedin.com/jobs/view/4473983487/) — ByteDance
+### [Applied Scientist - Business Integrity - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://www.linkedin.com/jobs/view/4402369656/) — TikTok
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-22
 
-### [Research Engineer](https://www.linkedin.com/jobs/view/4480096374/) — Outset
+### [Human Data Manager](https://www.linkedin.com/jobs/view/4482752370/) — SpaceX Super Intelligence
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-10-22
+
+### [Member of Technical Staff - Multimodal Understanding](https://www.linkedin.com/jobs/view/4482751409/) — SpaceX Super Intelligence
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-10-22
+
+### [Research Scientist - Salesforce AI Research](https://www.linkedin.com/jobs/view/4482738722/) — Salesforce
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-22
 
-### [Data Scientist, Product](https://www.linkedin.com/jobs/view/4465873875/) — Ascend
+### [Human Data - Engineer](https://www.linkedin.com/jobs/view/4482743815/) — SpaceX Super Intelligence
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-10-22
+
+### [Research Scientist - Salesforce AI Research](https://www.linkedin.com/jobs/view/4482744693/) — Salesforce
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-10-22
+
+### [Machine Learning Scientist 6 - Ads Member Understanding](https://www.linkedin.com/jobs/view/4452889838/) — Netflix
+- 📍 **Location:** Los Gatos, CA
+- 🕒 **Posted:** 2026-10-22
+
+### [Staff Data Scientist (Pricing)](https://www.linkedin.com/jobs/view/4482757249/) — GoFundMe
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-22

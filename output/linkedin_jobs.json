@@ -1,12 +1,12 @@
 {
-  "scraped_at": "2026-10-23 01:37 UTC",
-  "total": 85,
-  "new_count": 7,
+  "scraped_at": "2026-10-23 07:38 UTC",
+  "total": 95,
+  "new_count": 10,
   "scrape_status": {
     "status": "success",
-    "raw_rows": 448,
+    "raw_rows": 422,
     "queries": 32,
-    "batch": 1,
+    "batch": 2,
     "batches": 5,
     "terms_in_batch": 8,
     "terms_total": 38
@@ -313,7 +313,8 @@
         "latitude": 37.385797,
         "longitude": -122.026316,
         "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
+      },
+      "description": "Description\n\nAmazon is seeking exceptional talent to help develop the next generation of advanced robotics systems that will transform automation at Amazon's scale. We're building revolutionary robotic systems that combine innovative AI, sophisticated control systems, and advanced mechanical design to create adaptable automation solutions capable of working safely alongside humans in dynamic environments. This is a unique opportunity to shape the future of robotics and automation at unprecedented scale, working with world-class teams pushing the boundaries of what's possible in robotic manipulation, locomotion, and human-robot interaction. This role presents an opportunity to shape the future of robotics through innovative applications of deep learning and large language models.\n\nWe leverage advanced robotics, machine learning, and artificial intelligence to solve complex operational challenges at unprecedented scale. Our fleet of robots operates across hundreds of facilities worldwide, working in sophisticated coordination to fulfill our mission of customer excellence.\n\nWe are pioneering the development of robotics foundation models that:\n\nEnable unprecedented generalization across diverse tasks\nIntegrate multi-modal learning capabilities (visual, tactile, linguistic)\nAccelerate skill acquisition through demonstration learning\nEnhance robotic perception and environmental understanding\nStreamline development processes through reusable capabilities\n\nThe ideal candidate will contribute to research that bridges the gap between theoretical advancement and practical implementation in robotics. You will be part of a team that's revolutionizing how robots learn, adapt, and interact with their environment.\n\nJoin us in building the next generation of intelligent robotics systems that will transform the future of automation and human-robot collaboration.\n\nAs an Applied Scientist, you will develop and improve machine learning systems that help robots perceive, reason, and act in real-world environments. You will leverage state-of-the-art models (open source and internal research), evaluate them on representative tasks, and adapt/optimize them to meet robustness, safety, and performance needs. You will invent new algorithms where gaps exist. You’ll collaborate closely with research, controls, hardware, and product-facing teams, and your outputs will be used by downstream teams to further customize and deploy on specific robot embodiments.\n\nKey job responsibilities\n\nAs an Applied Scientist in the Foundations Model team, you will:\n\nLeverage state-of-the-art models for targeted tasks, environments, and robot embodiments through fine-tuning and optimization.\nExecute rapid, rigorous experimentation with reproducible results and solid engineering practices, closing the gap between sim and real environments.\nBuild and run capability evaluations/benchmarks to clearly profile performance, generalization, and failure modes.\nContribute to the data and training workflow: collection/curation, dataset quality/provenance, and repeatable training recipes.\nWrite clean, maintainable, well commented and documented code, contribute to training infrastructure, create tools for model evaluation and testing, and implement necessary APIs\nStay current with latest developments in foundation models and robotics, assist in literature reviews and research documentation, prepare technical reports and presentations, and contribute to research discussions and brainstorming sessions.\nWork closely with senior scientists, engineers, and leaders across multiple teams, participate in knowledge sharing, support integration efforts with robotics hardware teams, and help document best practices and methodologies.\n\nBasic Qualifications\n\n2+ years of building models for business application experience\nKnowledge of programming languages such as C/C++, Python, Java or Perl\nPhD, or Master’s + 4+ years building ML models/algorithms in applied settings\n2+ years hands-on experience in deep learning with strength in at least one: computer vision, multimodal models, imitation learning / RL for robotics, or human-robot interaction\nAbility to design rigorous experiments, analyze results, and iterate quickly with reproducible baselines\nDemonstrated technical contributions (e.g., publications, patents, open-source, or impactful internal systems)\n\nPreferred Qualifications\n\nExperience using Unix/Linux\nExperience in professional software development\n\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\n\nLos Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n\nThe base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.\n\nUSA, CA, SAN FRANCISCO - 171,600.00 - 222,200.00 USD annually\n\nUSA, CA, Sunnyvale - 171,600.00 - 222,200.00 USD annually\n\nCompany\n- Amazon.com Services LLC\n\nJob ID: A3189870\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development"
     },
     {
       "company": "NVIDIA",
@@ -338,7 +339,7 @@
       "location": "South San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4409512029/",
       "date_posted": "2026-10-22",
-      "salary": "",
+      "salary": "$170,000 - $240,000",
       "ats": "LinkedIn",
       "geography": {
         "status": "in_radius",
@@ -347,7 +348,8 @@
         "latitude": 37.655104,
         "longitude": -122.376234,
         "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
+      },
+      "description": "Who We Are\n\nCalico (Calico Life Sciences LLC) is an Alphabet-founded research and development company whose mission is to harness advanced technologies and model systems to increase our understanding of the biology that controls human aging. Calico will use that knowledge to devise interventions that enable people to lead longer and healthier lives. Calico’s highly innovative technology labs, its commitment to curiosity-driven discovery science and, with academic and industry partners, its vibrant drug-development pipeline, together create an inspiring and exciting place to catalyze and enable medical breakthroughs.\n\nPosition Description\n\nCalico is seeking a machine learning scientist to join a research group investigating how genome sequence determines regulatory function and how dysregulation of these programs drives aging. We develop sequence-based deep learning models that predict gene expression, chromatin accessibility, and other functional readouts directly from DNA. We use these models to interpret human genetic variation, map causal regulatory mechanisms, and identify promising intervention points.\n\nThis work builds on a sustained research program at the intersection of deep learning and regulatory genomics, including:\n\nAvsec, Ž. et al. Effective gene expression prediction from sequence by integrating long-range interactions. Nat Methods 18, 1196–1203 (2021).\nYuan, H. & Kelley, D. R. scBasset: sequence-based modeling of single-cell ATAC-seq using convolutional neural networks. Nat Methods 19, 1088–1096 (2022).\nLinder, J., Srivastava, D., Yuan, H., Agarwal, V. & Kelley, D. R. Predicting RNA-seq coverage from DNA sequence as a unifying model of gene regulation. Nature Genetics (2025).\n\nAdditional research can be found here.\n\nPosition Responsibilities\n\nDesign and train deep learning models for biological sequence analysis, with emphasis on gene regulation, single-cell genomics, and variant interpretation\nPartner with experimental scientists to connect model predictions to biological mechanisms — designing validation experiments, analyzing large-scale genomics data, and translating computational findings into actionable biological insights\nCommunicate research through publications, open-source software, and public-facing tools\n\nPosition Requirements\n\nPhD in computational biology, bioinformatics, computer science, or a related field, and 0-5 years (for Scientist level) or 5+ years (for Senior Scientist level) of additional training in an industry or academic setting, with a strong publication record\nDeep expertise in machine learning with solid grounding in algorithms, data structures, and statistics\nSubstantive knowledge of molecular biology and genetics; familiarity with genomic data types and public data resources\nHands-on experience analyzing genomics sequencing data, ideally including single-cell assays\nFluency with modern AI-assisted development and research tools (e.g., LLM-based coding assistants, literature synthesis), with a habit of proactively integrating new tools to accelerate scientific workflows\nA collaborative disposition, strong follow-through, and comfort working at the interface of computation and experiment\nMust be willing to work onsite at least four days per week\n\nThe estimated base salary range for this role is $170,000 - $240,000. Actual pay will be based on a number of factors including experience and qualifications. This position is also eligible for two annual cash bonuses\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nBiotechnology Research"
     },
     {
       "company": "TikTok",
@@ -700,7 +702,7 @@
       "location": "Redwood City, CA",
       "url": "https://www.linkedin.com/jobs/view/4472321592/",
       "date_posted": "2026-10-22",
-      "salary": "",
+      "salary": "$120,000-$170,000",
       "ats": "LinkedIn",
       "geography": {
         "status": "in_radius",
@@ -709,7 +711,8 @@
         "latitude": 37.515274,
         "longitude": -122.213672,
         "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
+      },
+      "description": "Passionate about precision medicine and advancing the healthcare industry?\n\nRecent advancements in underlying technology have finally made it possible for AI to impact clinical care in a meaningful way. Tempus' proprietary platform connects an entire ecosystem of real-world evidence to deliver real-time, actionable insights to physicians, providing critical information about the right treatments for the right patients, at the right time.\n\nThe Real World Evidence (RWE) group within the Life Sciences R&D team at Tempus works with major pharmaceutical partners to provide best-in-class data, analysis, and methodological guidance for Tempus’s real-world data offering.\n\nWe are seeking a highly motivated and solutions-oriented RWE Sr. Data Scientist I with experience and interest in oncology and epidemiological study design to join our team. This role requires the ability to lead observational studies, derive insights from complex real-world clinical data, implement advanced statistical methods, and leverage cutting-edge AI tools to scale tasks and augment insights.\n\nKey Responsibilities\n\nPharma Collaboration & Strategy: Lead the design and execute delivery of RWE analyses for key pharma clients. You will be responsible for translating complex drug development questions and into actionable research plans that use Tempus data for trial design and outcomes research.\nReal World Data Expertise: Lead the derivation of complex real-world endpoints using extensive coding, demonstrating deep comprehension of Tempus clinical and molecular data structures and complexity, while also serving as an expert on the methodological nuances and limitations of real-world data.\nMethodology & Platform Contribution: Build technical standards for the team, staying up-to-date on methodological advancements in real-world studies (e.g., causal inference, survival analysis) and oncology guidelines (NCCN and ongoing clinical trials). Contribute to reusable code and internal packages that can be applied across multiple collaborations.\nAI & LLM Innovation: Incorporate LLMs, agentic workflows and other AI tools into day-to-day workflows to accelerate code development, discovery, documentation, review, and insight generation.\nScientific Interpretation & Communication: Interpret results of RWE analyses to draw appropriate inferences based on study design/statistical methods, while also evaluating study limitations. Communicate complex methods and results clearly to both technical and non-technical stakeholders. Prepare and present internal reports, external-facing deliverables, and, where appropriate, manuscripts or conference materials.\nCross-Functional Collaboration: Collaborate with internal product, oncology, and clinical abstraction, and real-world data science teams to continually enhance Tempus data quality, products, and analytical best practice. You will proactively identify gaps in current products and ensure that customer feedback is represented in development of new products.\nOncology & RWE Domain Expertise: Grow and maintain deep expertise in oncology clinical guidelines (e.g., NCCN) and emerging RWE methodologies.\n\nMinimum Qualifications\n\nEducation: Education in epidemiology, biostatistics, data science, public health, or a related field, to the level of either:\nPhD and 2+ years of additional work experience\nMaster’s degree and 4+ years of additional work experience\n\nTechnical and Statistical Proficiency\nExpert-level proficiency with observational real-world healthcare data, including analytical experience with time-to-event methodologies (survival analysis).\nProven expertise in executing RWD analytical studies.\nProficient in using R and SQL, especially statistical tools and packages.\nProficiency applying machine learning, LLM-based coding assistants (e.g., Claude Code, Copilot, Cursor) and agentic frameworks to support data analysis, code review, or scientific documentation workflows.\nAdherence to good software engineering practices (version control, modular code, documentation).\nExperience with code review.\n\nCommunication & Client Focus: Demonstrated experience interfacing with clients, showcasing adeptness in presenting and tailoring messaging to a variety of stakeholders.\nSoft Skills: Excellent written and verbal communication skills with strong project management skills. Ability to thrive in a fast-paced, dynamic environment working with multi-disciplinary scientists on complex problems.\n\nPreferred Skillsets\n\nExperience working with Pharma or drug development.\nExperience in clinical trial design (particularly Phase II-III) in the clinical development space.\nAnalytical proficiency with claims, EHR, or registry data.\nPractical experience building, fine-tuning, or configuring LLM-based tools and agentic workflows specifically for scientific discovery.\nKnowledge of oncology guidelines (e.g., NCCN).\nSignificant experience analyzing biomarker, genomic, or other high-dimensional molecular data alongside clinical datasets.\nExperience with cloud platforms such as AWS and/or BigQuery and/or Google Cloud Platform (GCP).\n\nUSA: $120,000-$170,000\n\nNYC/SF: $130,000-$180,000\n\nThe expected salary range above is applicable if the role is performed from California and may vary for other locations (Colorado, Illinois, New York). Actual salary may vary based on qualifications and experience. Tempus offers a full range of benefits, which may include incentive compensation, restricted stock units, medical and other benefits depending on the position.\n\nAdditionally, for remote roles open to individuals in unincorporated Los Angeles\n– including remote roles- Tempus reasonably believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment: engaging positively with customers and other employees; accessing confidential information, including intellectual property, trade secrets, and protected health information; and appropriately handling such information in accordance with legal and ethical standards. Qualified applicants with arrest or conviction records will be considered for employment in accordance with applicable law, including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act.\n\nWe are an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nBiotechnology Research"
     },
     {
       "company": "Roku",
@@ -786,7 +789,7 @@
       "location": "South San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4455956394/",
       "date_posted": "2026-10-22",
-      "salary": "",
+      "salary": "$167,400 - 310,800",
       "ats": "LinkedIn",
       "geography": {
         "status": "in_radius",
@@ -795,7 +798,8 @@
         "latitude": 37.655104,
         "longitude": -122.376234,
         "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
+      },
+      "description": "The Position\n\nA healthier future. It’s what drives us to innovate. To continuously advance science and ensure everyone has access to the healthcare they need today and for generations to come. Creating a world where we all have more time with the people we love. That’s what makes us Roche.\n\nAdvances in AI, data, and computational sciences are transforming drug discovery and development. Roche’s Research and Early Development organisations at Genentech (gRED) and Pharma (pRED) have demonstrated how these technologies accelerate R&D, leveraging data and novel computational models to drive impact. Seamless data sharing and access to models across gRED and pRED are essential to maximising these opportunities. The new Computational Sciences Center of Excellence (CoE) is a strategic, unified group whose goal is to harness this transformative power of data and Artificial Intelligence (AI) to assist our scientists in both pRED and gRED to deliver more innovative and transformative medicines for patients worldwide.\n\nThe Opportunity\n\nAt Roche's AI for Drug Discovery (AIDD) group within the Computational Sciences Center of Excellence, we are driving a paradigm shift in how large molecule drug discovery is conducted. Our vision is to integrate artificial intelligence and machine learning into every stage of antibody discovery—from target assessment and design optimization to developability prediction and portfolio prioritization. We are seeking a highly motivated Senior Machine Learning Scientist to join the AIDD group within Genentech Research and Early Development (gRED) to help drive our research on Machine Learning for Drug Discovery. The successful candidate will collaborate extensively with computational and experimental scientists and researchers across gRED to design and apply next-generation ML models to biology and large molecule drug discovery.\n\nWhat you'll do:\n\nDevelop generative and representation learning machine learning models for protein and antibodies in zero-shot and few-shot regimes.\nClosely collaborate with scientists and researchers across disciplines and teams to build impactful technologies for drug discovery research.\nBuild and scale machine learning techniques to massive datasets.\nContribute to and drive publications, present results at internal and external scientific conferences.\n\nWho You Are\n\nBS, MS, or PhD degree in the physical sciences (e.g. Chemistry, Physics, Chemical Engineering) or quantitative field ( e.g. Computer Science, Statistics, Applied Mathematics) or equivalent industry research experience (3+ years for BS or MS).\nExtensive experience working with large datasets, including graph, sequence, and 3D point clouds.\nRecord of scientific excellence as evidenced by at least one first author publication in a scientific journal or machine learning conference.\nPublic portfolio of projects available on GitHub\nExcellent communication and interpersonal skills.\nHighly-motivated and independent self starter that is eager to collaborate.\nDemonstrated experience with modern Python frameworks for deep learning like PyTorch.\n\nPreferred\n\nRecord of machine learning research excellence as evidenced by publications in computer science and machine learning conferences (e.g. NeurIPS, ICLR, ICML).\nExperience in developing ML models for images, 3D point clouds, video generation.Anchor Role:\n\nRelocation benefits are NOT\navailable for this job posting\n\nThe expected salary range for this position, based on the primary location of California, is $167,400 - 310,800. Actual pay will be determined based on experience, qualifications, geographic location, and other job-related factors permitted by law. A discretionary annual bonus may be available based on individual and Company performance. This position also qualifies for the benefits detailed at the link provided below.\n\nBenefits\n\n#ComputationCoE\n\n#tech4lifeComputationalScience\n\n#tech4lifeAI\n\nGenentech is an equal opportunity employer. It is our policy and practice to employ, promote, and otherwise treat any and all employees and applicants on the basis of merit, qualifications, and competence. The company's policy prohibits unlawful discrimination, including but not limited to, discrimination on the basis of Protected Veteran status, individuals with disabilities status, and consistent with all federal, state, or local laws.\n\nIf you have a disability and need an accommodation in relation to the online application process, please contact us by completing this form Accommodations for Applicants.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nBiotechnology Research"
     },
     {
       "company": "Amazon",
@@ -820,7 +824,7 @@
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4472335862/",
       "date_posted": "2026-10-22",
-      "salary": "",
+      "salary": "$235,000.00/yr - $270,000.00/yr",
       "ats": "LinkedIn",
       "geography": {
         "status": "in_radius",
@@ -829,7 +833,8 @@
         "latitude": 37.727239,
         "longitude": -123.032229,
         "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
+      },
+      "description": "Merge Labs is a frontier research lab with the mission of bridging biological and artificial intelligence to maximize human ability, agency and experience. We’re pursuing this goal by developing fundamentally new approaches to brain-computer interfaces that interact with the brain at high bandwidth, integrate with advanced AI, and are ultimately safe and accessible for anyone to use.\n\nAbout the team:\n\nOur Bio team designs, builds, and characterizes the biotechnologies that form the foundation of next-generation brain-computer interfaces. We combine molecular engineering, synthetic biology, neuroscience and advanced physical methods such as ultrasound to establish less invasive, high-bandwidth connections with neurons. The Bio team develops our core molecular technologies, validates their performance in vitro and in vivo, and demonstrates their advanced capabilities in animal models. We build custom experimental setups and pipelines and collaborate closely with engineers and data scientists. We work across disciplines to come up with creative ideas and solve some of the most challenging problems in biotechnology.\n\nAbout the role:\n\nWe’re hiring a Senior / Principal Computational Biologist (Bioinformatics / Omics) to lead the design and deployment of large-scale omics pipelines, integrate multi-modal biological data, and collaborate with ML teams to uncover mechanistic and predictive insights. You’ll architect data processing frameworks that convert raw omics data into clean, analysis-ready datasets and build ML-integrated pipelines that extract deeper meaning from this data. Over time, you’ll help translate these into predictive frameworks that accelerate molecular engineering, inform experimental campaigns, and enable the discovery of highly functional molecules.\n\nIn this role, you will:\n\nBuild the scientific and engineering scaffolding for bioinformatics and computational biology writ-large. Design, optimize, and maintain pipelines for genomics, transcriptomics, and proteomics data.\nCollaborate with wet-lab scientists to define tractable optimization objectives and encode domain specific priors and constraints.\nPrototype modeling frameworks using internal and public datasets; benchmark and validate performance.\nServe to non-domain experts for democratization of first-principles analysis\nStay up-to-date with the latest research in computational biology and prototype novel algorithms that can be deployed to improve the company’s discovery or development workflows.\nContribute to the long-term research roadmap and serve as a thought-leader for scientists.\n\nYou might thrive in this role if you have:\n\nDeep experience with omics data analysis (bulk and single-cell) and bioinformatics pipelines.\nExpertise in Python and/or R; fluency with workflow management tools (e.g. Nextflow / Dagster)\nProficiency in Python / PyTorch / Jax and comfort writing clean, reproducible production grade code.\nExperience bridging computational biology and experimental science—working with sparse, noisy, and or high-cost data.\nA collaborative, systems-level mindset.\n\nNice to have\n\nFamiliarity with neuroscience\nFamiliarity with transfer-learning paradigms\n\nIf you're excited about this role but don't meet every qualification, please apply. As we build, we're hiring for complementary strengths to form a high-impact team.\n\nFor more information about hiring at Merge, please visit our\nHiring FAQ\n\nMerge Labs does not discriminate on the basis of race, color, religion, national origin, age, sex, sexual orientation, gender, gender identity, gender expression, marital status, physical or mental disability, medical condition, genetic information, family status, ancestry, citizenship, U.S. military (state and federal) and veteran status, or any other legally protected status. It is our intention that all applicants be given equal opportunity and that selection decisions are based on job related factors. We are an equal opportunity employer.\n\nPursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.\n\nWe are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made by emailing accommodations@merge.io.\n\nCompensation Range: $235K - $270K\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nBiotechnology Research"
     },
     {
       "company": "Handshake",
@@ -957,7 +962,7 @@
       "location": "Redwood City, CA",
       "url": "https://www.linkedin.com/jobs/view/4386893869/",
       "date_posted": "2026-10-22",
-      "salary": "",
+      "salary": "$220,000 - $260,000 USD",
       "ats": "LinkedIn",
       "geography": {
         "status": "in_radius",
@@ -966,7 +971,8 @@
         "latitude": 37.515274,
         "longitude": -122.213672,
         "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
+      },
+      "description": "Passionate about precision medicine and advancing the healthcare industry?\n\nRecent advancements in underlying technology have finally made it possible for AI to impact clinical care in a meaningful way. Tempus' proprietary platform connects an entire ecosystem of real-world evidence to deliver real-time, actionable insights to physicians, providing critical information about the right treatments for the right patients, at the right time.\n\nAt Tempus, we are pursuing a mission to redefine precision medicine through data-driven insights. The AI Products group is a multidisciplinary group of AI scientists and engineers focused on developing AI-driven precision medicine and therapeutic solutions across the clinical and drug development lifecycle.\n\nAs a Staff AI Scientist\n, you will operate at the intersection of machine learning and clinical science. You will research, design, and deploy cutting-edge multimodal AI models that leverage one of the world's largest clinical and molecular datasets—transforming patient care at a massive scale.\n\nKey Responsibilities\n\nTechnical Leadership: This is a high-impact individual contributor role, while significant hands-on contribution is expected. Architect and lead the development of AI-intensive projects from initial research to production-ready design.\nAlgorithmic Innovation: Design and train state-of-the-art models utilizing multi-modal data, including but not limited to pathology slides (WSI), genomic profiles (DNA/RNA), spatial omics, and longitudinal patient records.\nCollaboration with Life Sciences Companies: Develop sophisticated AI solutions to support biomarker discovery, therapy outcome prediction, and the advancement of Companion Diagnostics (CDx).\nRegulatory Alignment: Ensure all AI products meet stringent regulatory guidelines and quality standards for healthcare applications.\nScientific Contribution: Maintain Tempus’s position as a thought leader by publishing original research in high-impact venues and engaging with the global AI research community.\n\nQualifications\n\nWe value diverse perspectives and recognize that outstanding talent doesn't always follow a linear path. If you are passionate about this work and believe you have what it takes to thrive here, please apply even if you do not precisely match all the qualifications below.\n\nEducation: Ph.D. in Computer Science, or a related quantitative field.\nProfessional Experience: 3+ years of industry experience leading end-to-end development of machine learning models, from research and experimentation to validation and production deployment.\nDomain Expertise: Demonstrated expertise in large-scale deep learning and training production-grade models is required. Experience in computer vision and multimodal modeling (pathology, multi-omics, etc.) is preferred. Prior work in medical or healthcare AI is highly valued but not required.\nResearch Excellence: A strong track record of peer-reviewed publications in leading machine learning or computer vision venues. Publications in medical or healthcare AI venues are preferred.\nEngineering Excellence: Proficiency in Python and the modern deep learning stack (e.g. Pytorch). Strong product-level coding skills for model development are essential, along with a solid understanding of industry-standard software engineering and development practices.\n\nNew York Pay Range - $220,000 - $260,000 USD\n\nCalifornia Pay Range - $220,000 - $260,000 USD\n\nIllinois Pay Range - $200,000 - $240,000 USD\n\nRemote - USA Range - $200,000 - $240,000 USD\n\nThe expected salary range above is applicable if the role is performed from California and may vary for other locations (Colorado, Illinois, New York). Actual salary may vary based on qualifications and experience. Tempus offers a full range of benefits, which may include incentive compensation, restricted stock units, medical and other benefits depending on the position.\n\nAdditionally, for remote roles open to individuals in unincorporated Los Angeles\n– including remote roles- Tempus reasonably believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment: engaging positively with customers and other employees; accessing confidential information, including intellectual property, trade secrets, and protected health information; and appropriately handling such information in accordance with legal and ethical standards. Qualified applicants with arrest or conviction records will be considered for employment in accordance with applicable law, including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act.\n\nWe are an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nBiotechnology Research"
     },
     {
       "company": "Cohere",
@@ -1124,7 +1130,8 @@
         "latitude": 37.433136,
         "longitude": -121.890934,
         "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
+      },
+      "description": "Why RoboForce\n\nRoboForce is an AI robotics company developing Physical AI–powered Robo-Labor for dull, dirty, and dangerous work. The company's robots are engineered for demanding industrial environments, with a focus on real-world deployment and scalability.\n\nWhy RoboForce\n\nRoboForce is an AI robotics company developing Physical AI–powered Robo-Labor for dull, dirty, and dangerous work. The company's robots are engineered for demanding industrial environments, with a focus on real-world deployment and scalability.\n\nWe are looking for a Senior / Staff AI Research Scientist, Foundation Models to advance robotic embodied intelligence. In this role, you will develop algorithms that enable robots to understand their environment, interpret and execute tasks, and communicate seamlessly with humans — with a particular focus on building and training world models that allow robots to predict, plan, and generalize across complex physical tasks.\n\nResponsibilities\n\nDesign and deploy vision-language(-action) models (VLM/VLA) for contextual understanding and generalized robot action policies.\n\nDevelop and train world models for action-conditioned prediction, long-horizon planning, and environment simulation — enabling robots to reason about the consequences of their actions before execution.\n\nResearch approaches to improve world model fidelity using multi-modal inputs including vision, language, proprioception, and spatial representations.\n\nDevelop foundation models with spatial reasoning capabilities to achieve high-precision robotic actions.\n\nIntegrate multi-modal data sources (vision, language, speech, etc.) to enable natural human-robot communication.\n\nOptimize and deploy models as production-grade solutions on RoboForce robotic platforms.\n\nRequirements\n\nPhD degree in Machine Learning, Robotics, or related field, or Master's degree with 4+ years of relevant experience.\n\nProficiency in Python and deep learning frameworks (e.g., PyTorch, JAX).\n\nExpertise in large foundation models (VLM, VLA, etc.).\n\nStrong understanding of world model architectures and action-conditioned generative modeling for robot learning.\n\nDecent understanding of multimodal models, modern ML architectures (transformers, diffusion models, etc.).\n\nRequires 5 days/week in-office collaboration with the teams.\n\nBonus Qualifications\n\nExperience with video generation or prediction models (e.g., diffusion-based video models, autoregressive video transformers) and their application to world modeling or synthetic data generation for robot learning.\n\nStrong publication record at top conferences (NeurIPS, ICML, CVPR, ICCV, CoRL, ICRA, or equivalent).\n\nExpertise in neural network deployment (e.g., TensorRT) and GPU programming with CUDA.\n\nProven ability to design scalable experimentation and data pipelines.\n\nBenefits\n\nCompetitive stock options/equity programs.\n\nHealth, dental, and vision insurance, 401(k) plan.\n\nVisa sponsorship and green card support for qualified candidates.\n\nLunches and dinners, a fully stocked kitchen, and regular team-building events.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nVenture Capital and Private Equity Principals"
     },
     {
       "company": "Meta",
@@ -1484,84 +1491,48 @@
         "longitude": -123.032229,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
-    }
-  ],
-  "new_jobs": [
+    },
     {
-      "company": "Outset",
-      "title": "Research Scientist",
+      "company": "Nominal",
+      "title": "Staff Research Engineer, Agent Evals & Post-training",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480606056/",
-      "date_posted": "2026-10-22",
-      "salary": "$200,000.00/yr - $240,000.00/yr",
+      "url": "https://www.linkedin.com/jobs/view/4474011203/",
+      "date_posted": "2026-10-23",
+      "salary": "",
       "ats": "LinkedIn",
-      "description": "Outset invented a better way to do research: AI-powered user interviews.\n\nGlobal brands like Hubspot, Microsoft, Uber and Nestle use Outset to achieve deeper, qualitative insights about their users at unprecedented speed and scale.\n\nThe research industry is massive (>$140B and growing) and ripe for disruption. Incumbents are outdated, slow, and burdened by high-cost services. That's our opportunity.\n\nOutset is backed by top Silicon Valley investors and raised a $30M Series B in December 2025—less than six months after our Series A—led by Radical Ventures with participation from M12 (Microsoft’s venture arm), 8VC, Y Combinator, and Adverb Ventures.\n\nThe raise follows a breakout year, with our business growing 8x as enterprise customers across industries adopt our category, AI‑moderated research, as the new standard for understanding people.\n\nWe’re a tight-knit team serving some of the world’s largest enterprises.\n\nOutset builds digital twins: AI systems that represent specific real people and respond to research questions the way those people would. The Digital Twins Team runs an ongoing research program to measure and improve how faithfully these systems reproduce human responses and behavior, across a range of cross-sectional levels of analysis.\n\nThe Research Scientist works directly with and reports to the Head Scientist. Together you will choose what to study, design the studies, define how results are measured, interpret the findings, and write them up for internal decision-making and, where appropriate, for academic publication. You will bring current methodological training in computational social science, data science, survey-methodology, human-computation interaction, and experiment design.\n\nResponsibilities\n\nCo-design and run studies that compare system-generated responses with responses from humans, using both qualitative and quantitative measures.\nDesign, justify, and hone measures of performance.\nApply and adapt state-of-the-art statistical techniques common to survey methodology and large-scale social data analysis, to benchmark and improve sample- and population-level simulation performance.\nDesign evaluations and experiments with pre-specified analysis plans.\nDesign and oversee human rating studies, including rater training, coding rubrics, and inter-rater agreement measurement.\nDesign data collection from third-party data sources and directly from human participants, including longitudinal and repeated-measures studies.\nContribute to the research agenda for new modeling approaches, including evaluation of fine-tuned models and of model calibration.\nSpecify analyses precisely enough for an engineer to implement.\nCo-author papers, preprints, and presentations.\n\nQualifications\n\nA completed or nearly completed PhD in computational social science, communication, HCI, sociology, political science, psychology, statistics, or a related field.\nPeer-reviewed publications on which you were a primary author.\nWorking command of graduate-level statistical methodology common to social science, including the assumptions behind each.\nExperience analyzing large-scale telemetry and behavioral datasets, with attention to the validity of the resulting inference.\nFamiliarity with machine learning, spanning classical, nonparametric, and LLM-based approaches, including how transformer-based language models work, what fine-tuning does, and how the major model families differ.\nFundamentals of computing: file systems, software libraries, databases, SQL, and tabular data.\nAbility to work in an environment where most code is produced through agentic coding tools, and to read and check that code.\n\nPreferred Qualifications\n\nExperience fine-tuning open-weight language models on survey, experimental, or behavioral data.\nExperience building or evaluating calibrated confidence or error-prediction models, including deriving decision thresholds from human judgments.\nExperience measuring similarity of open-ended text, for example with embedding-based methods.\nExperience designing or running panel-based data collection with human participants.\nExperience presenting research at academic and/or industry conferences.\nPrior work on generative agents, digital twins, or simulation of human respondents.\nFamiliarity with the startup ecosystem\nFamiliarity with qualitative interviews and ethnographic methods\nFamiliarity with topics in computational linguistics\n\nCompensation Range: $200K - $240K\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "description": "About Nominal\n\nOur mission is to accelerate how the world engineers new hardware. Nominal's connected test and operations platform powers the world's most advanced hardware programs and its most ambitious startups, from spacecraft, racecars, and autonomous vehicles to next-generation defense and energy programs. Our customers include Anduril, Shield AI, Hermeus, Albedo, Shinkei, and Pratt Miller Motorsports, as well as U.S. Navy and U.S. Air Force programs. Now we're expanding across the entire hardware lifecycle, building the foundation, AI-native applications, and agents that accelerate innovators' work and change what's possible to build.\n\nWe're backed by Sequoia, General Catalyst, Founders Fund, Lux Capital, and Lightspeed, and our team comes from SpaceX, Apple, Palantir, Anduril, Applied Intuition, and other leading companies.\n\nAbout Hardware Intelligence\n\nWe're the team behind Nominal's agents, AI-native applications, and MCP, and its forward-leaning AI bets. Our mission is to unlock the bottlenecks of the hardware lifecycle with AI. Our agents reason over physical reality, from high-rate telemetry and test campaigns to designs and simulations, where real test results are the ground truth their work is checked against. We believe opinionated AI, built for the real work of hardware programs, will change how the world engineers.\n\nWe're collaborative, iterative, and high-agency, and we're human-centered and customer-focused. We build with the newest AI tools every day, and because those tools keep changing, so do we: we stay curious and keep looking for the better way. Our team spans data science and ML, distributed systems, search, and knowledge systems, and we obsess over how agents can be genuinely useful to the engineers who rely on them.\n\nThe Role\n\nAs a Staff Research Engineer supporting agent evals & post-training, you'll define how Nominal measures its agents, for customers and for ourselves, and build the path from evals to post-trained models when hardware needs them. Evals come first; post-training follows when air-gapped deployment or cost makes it the right investment.\n\n💼 What You'll Do\n\nBuild eval suites for our agents, the MCP tool layer, and our internal company agent, grounded in real hardware tasks.\nInvent new benchmarks for agents working over physical engineering data, where none exist today.\nBenchmark our agents against frontier agents using our MCP, and show where and why ours win.\nBuild the eval infrastructure: datasets, model-based and human graders, and regression gates in CI.\nTurn evals into reward signals and training data, and lead post-training (fine-tuning, RL, distillation) when we need models we can run anywhere, including air-gapped environments.\nSet Nominal's strategy for measurement and model improvement, working with hardware experts on what \"correct\" means.\n\n🚀 What You'll Bring\n\n8+ years in ML engineering or research, including evals or post-training work you led in production.\nStatistical rigor: you design evals that don't fool you, and you know when a difference is real.\nDeep experience evaluating LLM or agent systems, including model-graded evals and their limits.\nHands-on post-training experience: fine-tuning, RL from feedback, or distillation on real tasks.\nThe judgment to know when to measure, when to train, and when a better prompt or tool is the answer.\nA track record of setting technical direction across a team and raising the bar for the engineers around you.\nYou build with modern AI coding agents (Claude Code, Cursor, Codex) every day, and stay curious and open to better ways of working. The tools keep changing, and so do we.\n\n⚡️ Nice To Have\n\nYou've built evals or post-training at a frontier lab or an AI-native company.\nYou've published benchmarks or eval methods that others use.\nYou've trained or served open-weight models in restricted, on-prem, or air-gapped environments.\nYou've worked in test, reliability, or verification engineering for physical systems.\n\nBenefits/Perks\n\n🏥 100% coverage of medical, dental, and vision insurance\n🏖️ Unlimited PTO and sick leave\n🍽️ Free lunch, snacks, and coffee\n🚀 Professional Development Stipend\n✈️ Annual company retreat\n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin.\n\nITAR Requirements\n\nTo conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C.\n\n1157, or (iv) Asylee under 8 U.S.C.\n1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR here.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
       "geography": {
         "status": "in_radius",
         "distance_miles": 59.936,
         "city": "san francisco",
         "latitude": 37.727239,
         "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Research Scientist, AI for Cybersecurity",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481635318/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "We are looking for a Senior Scientist to lead research on advancing AI models and agents for cybersecurity and applying them to important security problems. This includes improving capabilities such as security reasoning, code and system understanding, planning, tool use, long-horizon investigation, and effective collaboration with human defenders, as well as applying these capabilities to vulnerability discovery, secure development, threat and anomaly detection, malware and attack analysis, incident investigation, security validation, and automated defense.\n\nThe ideal candidate will advance the underlying models, agent architectures, data, training and post-training methods, and evaluations needed for effective cybersecurity, while addressing the requirements of real security environments: high precision, robustness to adaptive adversaries, explainability, privacy, secure deployment, and effective human oversight. You will connect foundational AI and security research with practical tools and workflows that materially improve prevention, detection, investigation, and response. NVIDIA is a leader in accelerated computing and AI systems. This role offers the opportunity to set research direction, influence future platforms, and translate foundational advances into practical capabilities in collaboration with research, product, and engineering teams.\n\nWhat You'll Be Doing\n\nDefine a high-impact research agenda and lead projects that advance AI models and agents for cybersecurity and apply them to important security problems.\nImprove model and agent capabilities for security reasoning, code and system understanding, planning, tool use, memory, long-horizon investigation, and collaboration with human defenders through advances in architectures, data, training, post-training, and evaluation.\nDevelop AI-powered capabilities for vulnerability discovery, secure development, threat detection, malware analysis, incident investigation, security validation, and automated defense that are robust to adversarial manipulation, uncertainty, distribution shift, and incomplete or noisy operational data.\nBuild and evaluate prototypes in realistic environments, measuring detection quality, false positives, time to insight, analyst effectiveness, security risk, and operational scalability.\nCollaborate across AI, security, research, engineering, and product teams; publish original research; mentor researchers and interns; and help translate advances into deployed capabilities.\n\nWhat We Need To See\n\nA Ph.D. in Computer Science, Computer Engineering, Electrical Engineering, or a related field, or equivalent experience.\n5+ years of relevant experience. An established record of research excellence demonstrated through influential publications, open-source systems, patents, technology transfer, or substantial research collaborations.\nDeep expertise in one or more relevant areas such as agentic AI, model training, reasoning and tool use, machine learning for security, vulnerability research, program analysis, software security, intrusion detection, malware analysis, or security operations.\nExperience defining and leading ambiguous, multi-disciplinary research projects and providing technical mentorship.\nStrong experimental and prototyping skills; Python and relevant AI/ML frameworks, including experience training, adapting, or evaluating models or agents; experience with systems software, security tooling, or large-scale data systems.\nExcellent written and verbal communication skills and the ability to work effectively with both AI researchers and security practitioners.\n\nAre you a creative, collaborative, and self-directed researcher who can advance AI agents for cybersecurity, expand what they can do for defenders, and turn new ideas into high-impact research and technology? If so, we want to hear from you!\n\nYour base salary will be determined based on your location, experience, and the pay of employees in similar positions. The base salary range is 224,000 USD - 356,500 USD for Level 5, and 272,000 USD - 431,250 USD for Level 6.\n\nYou will also be eligible for equity and benefits.\n\nApplications for this job will be accepted at least until October 26, 2026.\n\nThis posting is for an existing vacancy.\n\nNVIDIA uses AI tools in its recruiting processes.\n\nNVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.\n\n, , JR2028203\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nComputer Hardware Manufacturing",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 3.522,
+        "city": "santa clara",
+        "latitude": 37.364621,
+        "longitude": -121.967973,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
     },
     {
       "company": "TikTok",
-      "title": "Lead Data Scientist (User Growth)-TikTok",
+      "title": "Applied Scientist - Business Integrity - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481609061/",
-      "date_posted": "2026-10-22",
-      "salary": "$219000 - $408000 annually",
-      "ats": "LinkedIn",
-      "description": "Responsibilities\n\nThe Product Data Analytics Team analyzes a combination of product usage and product performance data to derive meaningful insights that would serve as a guide to better product and decision making for our business leaders.\nAs a member of the data science team, you will work with diverse and highly collaborative teams of product managers, engineers, and other data analysts to drive product impact. You will be working on exciting and challenging projects, and convert the insights into real changes, for both new initiatives and scaled products. You are a self-starter who is excited about data, excels in product logic thinking, clear communication, and brings distinctive problem-solving skills and impeccable quantitative modeling experience.\n\nAs a Data Scientist, you will be working on designing and monitoring core metrics, identifying the root causes for metric movements through deep dive into the models. The role will cover a wide range of model-driven solutions to deliver superior business outcomes through research and analyses. In particular, this role will leverage the causal structure of user behavior, identify trends and opportunities for user growth and great ecosystem, and guide the product team to make the best decisions.\n\nResponsibilities\n- Leverage data to solve challenging business problems from full-spectrum of product and business lines, using analytical and statistical approaches.\n- Build and improve applicable statistical models, e.g. LTV and ROI prediction, to guide user growth-related decisions.\n- Initiate model-driven analysis to provide deep insights into various products. Catch the common rule of problems and establish the inter-product analytic paradigm.\n- Work with Product, Operations, Engineering and cross-functional teams to drive product development through analytic, statistical, and algorithmic expertise.\n- Design, run and analyze A/B experiments to inform and execute the product strategy, and ultimately improve the product and support business decisions.\n\nQualifications\n\nMinimum Qualification(s)\n- Master’s degree in a quantitative discipline (e.g. Statistics, Operations Research, Computational Biology, Computer Science, Mathematics, Economics).\n- 5+ years of experience in statistical modeling (Regression, Classification, Clustering, etc.) and machine learning (deep learning), and experience in user-level modeling\n- 2+ years of experience with leading a team\n- Ability to conduct rigorous analysis and communicate conclusions to both technical and non-technical audiences\n- Proficiency in SQL, Python/R\n\nPreferred Qualification(s)\n- Solid communication and collaboration skills with the ability to work effectively with internal teams in a diversified environment\n- Passion for the Internet industry and data analysis.\n- Self-starter with the ability to acquire an in-depth understanding of the relation between data and user experience/product growth.\n\nAbout TikTok\n\nTikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and we also have offices in New York City, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.​\n\nWhy Join Us\n\nInspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and bring joy - a mission we work towards every day.​\nWe strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. Every challenge is an opportunity to learn and innovate as one team. We're resilient and embrace challenges as they come. By constantly iterating and fostering an \"Always Day 1\" mindset, we achieve meaningful breakthroughs for ourselves, our company, and our users. When we create and grow together, the possibilities are limitless. Join us.​\n​\nDiversity & Inclusion​\nTikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.​\n\nTikTok Accommodation\n\nTikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://tinyurl.com/RA-request​\n\nJob Information\n\n【For Pay Transparency】Compensation Description (Annually)\nThe base salary range for this position in the selected city is $219000 - $408000 annually.​\nCompensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.​\nBenefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short-term and long-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).​\nThe Company reserves the right to modify or change these benefits programs at any time, with or without notice.​\nFor Los Angeles County (unincorporated) Candidates:​\nQualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:​\n1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;​\n2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and​\n3. Exercising sound judgment.​\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSocial Networking Platforms",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 13.183,
-        "city": "san jose",
-        "latitude": 37.296011,
-        "longitude": -121.814552,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Intuitive",
-      "title": "Clinical Research Engineer - Future Forward",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4464911952/",
-      "date_posted": "2026-10-22",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 0.0,
-        "city": "sunnyvale",
-        "latitude": 37.385797,
-        "longitude": -122.026316,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Amazon",
-      "title": "Sr. Applied Scientist, Amazon Ads",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4455916747/",
-      "date_posted": "2026-10-22",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 0.0,
-        "city": "sunnyvale",
-        "latitude": 37.385797,
-        "longitude": -122.026316,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "ByteDance",
-      "title": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Graduate (AML-Ark-US) - 2027 Start",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473983487/",
+      "url": "https://www.linkedin.com/jobs/view/4402369656/",
       "date_posted": "2026-10-22",
       "salary": "",
       "ats": "LinkedIn",
@@ -1575,10 +1546,44 @@
       }
     },
     {
-      "company": "Outset",
-      "title": "Research Engineer",
+      "company": "SpaceX Super Intelligence",
+      "title": "Human Data Manager",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4482752370/",
+      "date_posted": "2026-10-22",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 6.453,
+        "city": "palo alto",
+        "latitude": 37.39652,
+        "longitude": -122.143088,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "SpaceX Super Intelligence",
+      "title": "Member of Technical Staff - Multimodal Understanding",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4482751409/",
+      "date_posted": "2026-10-22",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 6.453,
+        "city": "palo alto",
+        "latitude": 37.39652,
+        "longitude": -122.143088,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Salesforce",
+      "title": "Research Scientist - Salesforce AI Research",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480096374/",
+      "url": "https://www.linkedin.com/jobs/view/4482738722/",
       "date_posted": "2026-10-22",
       "salary": "",
       "ats": "LinkedIn",
@@ -1592,10 +1597,235 @@
       }
     },
     {
-      "company": "Ascend",
-      "title": "Data Scientist, Product",
+      "company": "SpaceX Super Intelligence",
+      "title": "Human Data - Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4482743815/",
+      "date_posted": "2026-10-22",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 6.453,
+        "city": "palo alto",
+        "latitude": 37.39652,
+        "longitude": -122.143088,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Salesforce",
+      "title": "Research Scientist - Salesforce AI Research",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4482744693/",
+      "date_posted": "2026-10-22",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 6.453,
+        "city": "palo alto",
+        "latitude": 37.39652,
+        "longitude": -122.143088,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Netflix",
+      "title": "Machine Learning Scientist 6 - Ads Member Understanding",
+      "location": "Los Gatos, CA",
+      "url": "https://www.linkedin.com/jobs/view/4452889838/",
+      "date_posted": "2026-10-22",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 11.425,
+        "city": "los gatos",
+        "latitude": 37.229944,
+        "longitude": -121.956874,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "GoFundMe",
+      "title": "Staff Data Scientist (Pricing)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465873875/",
+      "url": "https://www.linkedin.com/jobs/view/4482757249/",
+      "date_posted": "2026-10-22",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Nominal",
+      "title": "Staff Research Engineer, Agent Evals & Post-training",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474011203/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "About Nominal\n\nOur mission is to accelerate how the world engineers new hardware. Nominal's connected test and operations platform powers the world's most advanced hardware programs and its most ambitious startups, from spacecraft, racecars, and autonomous vehicles to next-generation defense and energy programs. Our customers include Anduril, Shield AI, Hermeus, Albedo, Shinkei, and Pratt Miller Motorsports, as well as U.S. Navy and U.S. Air Force programs. Now we're expanding across the entire hardware lifecycle, building the foundation, AI-native applications, and agents that accelerate innovators' work and change what's possible to build.\n\nWe're backed by Sequoia, General Catalyst, Founders Fund, Lux Capital, and Lightspeed, and our team comes from SpaceX, Apple, Palantir, Anduril, Applied Intuition, and other leading companies.\n\nAbout Hardware Intelligence\n\nWe're the team behind Nominal's agents, AI-native applications, and MCP, and its forward-leaning AI bets. Our mission is to unlock the bottlenecks of the hardware lifecycle with AI. Our agents reason over physical reality, from high-rate telemetry and test campaigns to designs and simulations, where real test results are the ground truth their work is checked against. We believe opinionated AI, built for the real work of hardware programs, will change how the world engineers.\n\nWe're collaborative, iterative, and high-agency, and we're human-centered and customer-focused. We build with the newest AI tools every day, and because those tools keep changing, so do we: we stay curious and keep looking for the better way. Our team spans data science and ML, distributed systems, search, and knowledge systems, and we obsess over how agents can be genuinely useful to the engineers who rely on them.\n\nThe Role\n\nAs a Staff Research Engineer supporting agent evals & post-training, you'll define how Nominal measures its agents, for customers and for ourselves, and build the path from evals to post-trained models when hardware needs them. Evals come first; post-training follows when air-gapped deployment or cost makes it the right investment.\n\n💼 What You'll Do\n\nBuild eval suites for our agents, the MCP tool layer, and our internal company agent, grounded in real hardware tasks.\nInvent new benchmarks for agents working over physical engineering data, where none exist today.\nBenchmark our agents against frontier agents using our MCP, and show where and why ours win.\nBuild the eval infrastructure: datasets, model-based and human graders, and regression gates in CI.\nTurn evals into reward signals and training data, and lead post-training (fine-tuning, RL, distillation) when we need models we can run anywhere, including air-gapped environments.\nSet Nominal's strategy for measurement and model improvement, working with hardware experts on what \"correct\" means.\n\n🚀 What You'll Bring\n\n8+ years in ML engineering or research, including evals or post-training work you led in production.\nStatistical rigor: you design evals that don't fool you, and you know when a difference is real.\nDeep experience evaluating LLM or agent systems, including model-graded evals and their limits.\nHands-on post-training experience: fine-tuning, RL from feedback, or distillation on real tasks.\nThe judgment to know when to measure, when to train, and when a better prompt or tool is the answer.\nA track record of setting technical direction across a team and raising the bar for the engineers around you.\nYou build with modern AI coding agents (Claude Code, Cursor, Codex) every day, and stay curious and open to better ways of working. The tools keep changing, and so do we.\n\n⚡️ Nice To Have\n\nYou've built evals or post-training at a frontier lab or an AI-native company.\nYou've published benchmarks or eval methods that others use.\nYou've trained or served open-weight models in restricted, on-prem, or air-gapped environments.\nYou've worked in test, reliability, or verification engineering for physical systems.\n\nBenefits/Perks\n\n🏥 100% coverage of medical, dental, and vision insurance\n🏖️ Unlimited PTO and sick leave\n🍽️ Free lunch, snacks, and coffee\n🚀 Professional Development Stipend\n✈️ Annual company retreat\n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin.\n\nITAR Requirements\n\nTo conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C.\n\n1157, or (iv) Asylee under 8 U.S.C.\n1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR here.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Research Scientist, AI for Cybersecurity",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481635318/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "We are looking for a Senior Scientist to lead research on advancing AI models and agents for cybersecurity and applying them to important security problems. This includes improving capabilities such as security reasoning, code and system understanding, planning, tool use, long-horizon investigation, and effective collaboration with human defenders, as well as applying these capabilities to vulnerability discovery, secure development, threat and anomaly detection, malware and attack analysis, incident investigation, security validation, and automated defense.\n\nThe ideal candidate will advance the underlying models, agent architectures, data, training and post-training methods, and evaluations needed for effective cybersecurity, while addressing the requirements of real security environments: high precision, robustness to adaptive adversaries, explainability, privacy, secure deployment, and effective human oversight. You will connect foundational AI and security research with practical tools and workflows that materially improve prevention, detection, investigation, and response. NVIDIA is a leader in accelerated computing and AI systems. This role offers the opportunity to set research direction, influence future platforms, and translate foundational advances into practical capabilities in collaboration with research, product, and engineering teams.\n\nWhat You'll Be Doing\n\nDefine a high-impact research agenda and lead projects that advance AI models and agents for cybersecurity and apply them to important security problems.\nImprove model and agent capabilities for security reasoning, code and system understanding, planning, tool use, memory, long-horizon investigation, and collaboration with human defenders through advances in architectures, data, training, post-training, and evaluation.\nDevelop AI-powered capabilities for vulnerability discovery, secure development, threat detection, malware analysis, incident investigation, security validation, and automated defense that are robust to adversarial manipulation, uncertainty, distribution shift, and incomplete or noisy operational data.\nBuild and evaluate prototypes in realistic environments, measuring detection quality, false positives, time to insight, analyst effectiveness, security risk, and operational scalability.\nCollaborate across AI, security, research, engineering, and product teams; publish original research; mentor researchers and interns; and help translate advances into deployed capabilities.\n\nWhat We Need To See\n\nA Ph.D. in Computer Science, Computer Engineering, Electrical Engineering, or a related field, or equivalent experience.\n5+ years of relevant experience. An established record of research excellence demonstrated through influential publications, open-source systems, patents, technology transfer, or substantial research collaborations.\nDeep expertise in one or more relevant areas such as agentic AI, model training, reasoning and tool use, machine learning for security, vulnerability research, program analysis, software security, intrusion detection, malware analysis, or security operations.\nExperience defining and leading ambiguous, multi-disciplinary research projects and providing technical mentorship.\nStrong experimental and prototyping skills; Python and relevant AI/ML frameworks, including experience training, adapting, or evaluating models or agents; experience with systems software, security tooling, or large-scale data systems.\nExcellent written and verbal communication skills and the ability to work effectively with both AI researchers and security practitioners.\n\nAre you a creative, collaborative, and self-directed researcher who can advance AI agents for cybersecurity, expand what they can do for defenders, and turn new ideas into high-impact research and technology? If so, we want to hear from you!\n\nYour base salary will be determined based on your location, experience, and the pay of employees in similar positions. The base salary range is 224,000 USD - 356,500 USD for Level 5, and 272,000 USD - 431,250 USD for Level 6.\n\nYou will also be eligible for equity and benefits.\n\nApplications for this job will be accepted at least until October 26, 2026.\n\nThis posting is for an existing vacancy.\n\nNVIDIA uses AI tools in its recruiting processes.\n\nNVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.\n\n, , JR2028203\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nComputer Hardware Manufacturing",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 3.522,
+        "city": "santa clara",
+        "latitude": 37.364621,
+        "longitude": -121.967973,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "TikTok",
+      "title": "Applied Scientist - Business Integrity - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4402369656/",
+      "date_posted": "2026-10-22",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 13.183,
+        "city": "san jose",
+        "latitude": 37.296011,
+        "longitude": -121.814552,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "SpaceX Super Intelligence",
+      "title": "Human Data Manager",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4482752370/",
+      "date_posted": "2026-10-22",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 6.453,
+        "city": "palo alto",
+        "latitude": 37.39652,
+        "longitude": -122.143088,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "SpaceX Super Intelligence",
+      "title": "Member of Technical Staff - Multimodal Understanding",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4482751409/",
+      "date_posted": "2026-10-22",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 6.453,
+        "city": "palo alto",
+        "latitude": 37.39652,
+        "longitude": -122.143088,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Salesforce",
+      "title": "Research Scientist - Salesforce AI Research",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4482738722/",
+      "date_posted": "2026-10-22",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "SpaceX Super Intelligence",
+      "title": "Human Data - Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4482743815/",
+      "date_posted": "2026-10-22",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 6.453,
+        "city": "palo alto",
+        "latitude": 37.39652,
+        "longitude": -122.143088,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Salesforce",
+      "title": "Research Scientist - Salesforce AI Research",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4482744693/",
+      "date_posted": "2026-10-22",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 6.453,
+        "city": "palo alto",
+        "latitude": 37.39652,
+        "longitude": -122.143088,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Netflix",
+      "title": "Machine Learning Scientist 6 - Ads Member Understanding",
+      "location": "Los Gatos, CA",
+      "url": "https://www.linkedin.com/jobs/view/4452889838/",
+      "date_posted": "2026-10-22",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 11.425,
+        "city": "los gatos",
+        "latitude": 37.229944,
+        "longitude": -121.956874,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "GoFundMe",
+      "title": "Staff Data Scientist (Pricing)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4482757249/",
       "date_posted": "2026-10-22",
       "salary": "",
       "ats": "LinkedIn",
@@ -1752,7 +1982,8 @@
         "status": "ambiguous",
         "distance_miles": null,
         "reason": "City is unknown or has multiple Census locations."
-      }
+      },
+      "description": "Description\n\nAmazon is seeking exceptional talent to help develop the next generation of advanced robotics systems that will transform automation at Amazon's scale. We're building revolutionary robotic systems that combine innovative AI, sophisticated control systems, and advanced mechanical design to create adaptable automation solutions capable of working safely alongside humans in dynamic environments. This is a unique opportunity to shape the future of robotics and automation at unprecedented scale, working with world-class teams pushing the boundaries of what's possible in robotic manipulation, locomotion, and human-robot interaction. This role presents an opportunity to shape the future of robotics through innovative applications of deep learning and large language models.\n\nWe leverage advanced robotics, machine learning, and artificial intelligence to solve complex operational challenges at unprecedented scale. Our fleet of robots operates across hundreds of facilities worldwide, working in sophisticated coordination to fulfill our mission of customer excellence.\n\nWe are pioneering the development of robotics foundation models that:\n\nEnable unprecedented generalization across diverse tasks\nIntegrate multi-modal learning capabilities (visual, tactile, linguistic)\nAccelerate skill acquisition through demonstration learning\nEnhance robotic perception and environmental understanding\nStreamline development processes through reusable capabilities\n\nThe ideal candidate will contribute to research that bridges the gap between theoretical advancement and practical implementation in robotics. You will be part of a team that's revolutionizing how robots learn, adapt, and interact with their environment.\n\nJoin us in building the next generation of intelligent robotics systems that will transform the future of automation and human-robot collaboration.\n\nAs an Applied Scientist, you will develop and improve machine learning systems that help robots perceive, reason, and act in real-world environments. You will leverage state-of-the-art models (open source and internal research), evaluate them on representative tasks, and adapt/optimize them to meet robustness, safety, and performance needs. You will invent new algorithms where gaps exist. You’ll collaborate closely with research, controls, hardware, and product-facing teams, and your outputs will be used by downstream teams to further customize and deploy on specific robot embodiments.\n\nKey job responsibilities\n\nAs an Applied Scientist in the Foundations Model team, you will:\n\nLeverage state-of-the-art models for targeted tasks, environments, and robot embodiments through fine-tuning and optimization.\nExecute rapid, rigorous experimentation with reproducible results and solid engineering practices, closing the gap between sim and real environments.\nBuild and run capability evaluations/benchmarks to clearly profile performance, generalization, and failure modes.\nContribute to the data and training workflow: collection/curation, dataset quality/provenance, and repeatable training recipes.\nWrite clean, maintainable, well commented and documented code, contribute to training infrastructure, create tools for model evaluation and testing, and implement necessary APIs\nStay current with latest developments in foundation models and robotics, assist in literature reviews and research documentation, prepare technical reports and presentations, and contribute to research discussions and brainstorming sessions.\nWork closely with senior scientists, engineers, and leaders across multiple teams, participate in knowledge sharing, support integration efforts with robotics hardware teams, and help document best practices and methodologies.\n\nBasic Qualifications\n\n2+ years of building models for business application experience\nKnowledge of programming languages such as C/C++, Python, Java or Perl\nPhD, or Master’s + 4+ years building ML models/algorithms in applied settings\n2+ years hands-on experience in deep learning with strength in at least one: computer vision, multimodal models, imitation learning / RL for robotics, or human-robot interaction\nAbility to design rigorous experiments, analyze results, and iterate quickly with reproducible baselines\nDemonstrated technical contributions (e.g., publications, patents, open-source, or impactful internal systems)\n\nPreferred Qualifications\n\nExperience using Unix/Linux\nExperience in professional software development\n\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\n\nLos Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n\nThe base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.\n\nUSA, CA, SAN FRANCISCO - 171,600.00 - 222,200.00 USD annually\n\nUSA, CA, Sunnyvale - 171,600.00 - 222,200.00 USD annually\n\nCompany\n- Amazon.com Services LLC\n\nJob ID: A3189870\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development"
     },
     {
       "company": "Stealth Startup",
@@ -1870,12 +2101,26 @@
         "distance_miles": null,
         "reason": "City is unknown or has multiple Census locations."
       }
+    },
+    {
+      "company": "TTN Talent",
+      "title": "LLM Engineer – Post-Training & Inference",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4482496290/",
+      "date_posted": "2026-10-22",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "An unambiguous city and state are required."
+      }
     }
   ],
   "geographic_counts": {
-    "in_radius": 85,
+    "in_radius": 95,
     "remote": 0,
-    "ambiguous": 18,
+    "ambiguous": 19,
     "outside_radius": 0
   }
 }
