@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-10-23 22:32 UTC",
+  "scraped_at": "2026-10-23 22:39 UTC",
   "total": 11,
-  "new_count": 4,
+  "new_count": 0,
   "scrape_status": {
     "status": "success",
-    "raw_rows": 313,
+    "raw_rows": 319,
     "queries": 25,
     "errors": 0
   },
@@ -296,112 +296,7 @@
       }
     }
   ],
-  "new_jobs": [
-    {
-      "company": "The CINC Group LLC",
-      "title": "User Experience Researcher",
-      "location": "Sacramento, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=74ed674ea97d5174",
-      "direct_url": "",
-      "company_url": "",
-      "date_posted": "2026-10-23",
-      "description": "**Position Summary**\n\nThe User Experience Researcher is responsible for understanding customer behaviors, needs, motivations, and barriers to help shape intuitive, accessible, and engaging customer experiences. This position conducts qualitative and quantitative research and translates findings into actionable recommendations that inform program, product, service, and technology decisions.\n\n**Essential Duties and Responsibilities**\n\n* Lead end-to-end customer and user experience research studies using appropriate qualitative and quantitative methodologies.\n* Develop research plans, objectives, methodologies, participant criteria, interview guides, and support research materials.\n* Conduct interviews, focus groups, contextual inquiries, usability studies, surveys, and other research activities.\n* Moderate remote and in-person research sessions and conduct field-based research, as appropriate.\n* Partner with stakeholders to define research questions, project scope, prototypes, and testing approaches.\n* Analyze and synthesize research findings to identify customer needs, behaviors, pain points, barriers, and opportunities for improvement.\n* Evaluate accessibility, language, health-literacy, cultural, and other factors that may affect customer experience.\n* Develop customer personas, journey maps, and other research artifacts to communicate customer needs and experiences.\n* Facilitate or support customer journey-mapping workshops with project partners and cross-functional teams.\n* Integrate research findings with operational and customer-experience data to identify trends and improvement opportunities.\n* Develop reports and presentations that clearly communicate research findings, insights, and recommended actions.\n* Present findings and recommendations to project leadership, State stakeholders, and other appropriate audiences.\n* Collaborate with Customer Experience, Quality Assurance, Operations, IT, Product, and other cross-functional partners to incorporate research findings into program improvements.\n* Recommend improvements to products, services, processes, and customer interactions based on research findings.\n* Maintain research activities within established project scope, schedule, and budget.\n* Remain current on customer experience, user experience, accessibility, and research best practices.\n\n**Minimum Requirements**\n\n* Bachelor’s degree in Human-Computer Interaction, psychology, anthropology, behavioral science, or a related field preferred.\n* Three or more years of customer experience research, user experience research, or related experience preferred.\n* Demonstrated knowledge of qualitative and quantitative research methodologies.\n* Experience conducting interviews, focus groups, usability testing, surveys, contextual inquiries, or similar research.\n* Strong analytical, problem-solving, communication, facilitation, and presentation skills.\n* Ability to synthesize complex research findings into clear, actionable recommendations.\n* Ability to collaborate effectively with cross-functional teams and stakeholders.\n* Familiarity with CX and UX research tools, journey mapping, personas, and data-analysis techniques preferred.\n* Familiarity with accessibility, health literacy, and inclusive research practices preferred.\n* Ability to manage multiple research initiatives in a fast-paced environment.\n\nPay: From $80,000.00 per year\n\nBenefits:\n\n* 401(k)\n* Dental insurance\n* Health insurance\n* Paid time off\n* Vision insurance\n\nWork Location: Hybrid remote in Sacramento, CA 95814",
-      "salary": "$80k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 87.135,
-        "city": "sacramento",
-        "latitude": 38.567694,
-        "longitude": -121.468161,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Salesforce",
-      "title": "Lead UX Researcher, AI & Digital Experiences",
-      "location": "San Francisco, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=ec9426ca25994aee",
-      "direct_url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Lead-UX-Researcher--AI---Digital-Experiences_JR360966",
-      "company_url": "https://www.indeed.com/cmp/Salesforce",
-      "date_posted": "2026-10-23",
-      "description": "*To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.*\n\nJob Category\n\nUser Experience\n\nJob Details\n\n**About Salesforce**\n\nSalesforce is the #1 AI CRM, where humans with agents drive customer success together. Here, ambition meets action. Tech meets trust. And innovation isn’t a buzzword — it’s a way of life. The world of work as we know it is changing and we're looking for Trailblazers who are passionate about bettering business and the world through AI, driving innovation, and keeping Salesforce's core values at the heart of it all.\n\nReady to level-up your career at the company leading workforce transformation in the agentic era? You’re in the right place! Agentforce is the future of AI, and you are the future of Salesforce.\n\nJoin Salesforce’s Digital User Research team, part of Digital Marketing Technology. We deliver objective, actionable insights that shape customer-facing experiences and internal tools across Salesforce’s digital marketing portfolio, including websites and digital destinations, email and messaging, in-person and virtual events, and marketing-focused agentic experiences.\n\n  \n\nAs Lead User Researcher, you will own research across two of the team's most strategic areas: agentic experiences and event technology. You will help teams understand emerging mental models, unmet needs, friction, trust, and where people need transparency, control, guidance, or human support. You will also lead research that improves the digital experiences supporting Salesforce events across in-person, virtual, and on-demand formats.\n\nWe are seeking a curious, experienced researcher who knows how to select and combine methods such as interviews, usability testing, surveys, and behavioral data analysis to answer complex questions. You will lead research across multiple products and stakeholder groups, develop strategy across a portfolio of projects, build alignment around the research questions and opportunities that matter most, and communicate insights that influence product strategy and experience decisions.\n\n**What You'll Do**\n------------------\n\n* Shape Research Strategy by proactively identify emerging research needs, surface gaps and opportunities, and provide a clear, evidence-based point of view to inform research priorities across the digital marketing portfolio.\n* Independently scope and plan multiple projects end to end, defining the decisions to inform, milestones, dependencies, audiences, methods, risks, and measures of success.\n* Translate ambiguous business and product questions into strategic and tactical research plans, reframing the opportunity and adjusting the approach as the evidence and business context evolve.\n* Creatively combine qualitative and quantitative methods to overcome constraints and deliver a more complete picture of the data. Methods may include interviews, contextual inquiry, jobs-to-be-done research, concept evaluation, usability testing, task studies, surveys, benchmarking, and experimentation.\n* Define credible audiences and recruitment criteria, protect data quality, and ensure findings appropriately represent the people and contexts the product is intended to serve.\n* Connect evidence across sources by synthesizing user research, analytics, experimentation, and industry research to identify patterns, communicate confidence and limitations, and deliver a more complete understanding of the user experience.\n* Build a deep understanding of customer and employee needs, digital behaviors, marketing goals, and evolving technologies to uncover opportunities across channels, journeys, audiences, and connected digital experiences.\n* Advance agentic experience research. Study how people understand, trust, and engage with AI agents, including expectations for autonomy, transparency, control, personalization, human oversight, failure recovery, and escalation.\n* Establish customer-centered measures of usefulness, task success, quality, trust, adoption,and agent performance across connected AI-powered experiences.\n* Conduct foundational and evaluative research across Salesforce’s in-person, virtual, and on-demand event experiences, including onsite observation, intercept interviews, surveys, and usability testing.\n* Translate evidence into clear recommendations, strategic guidance, measurement frameworks, and future-state direction that shape digital strategies, experience roadmaps, requirements, and experiments.\n* Create compelling narratives and data visualizations, present to audiences ranging from product teams to executives, and lead workshops that turn research findings into aligned decisions and follow-up actions.\n* Advance research methods, reusable tools, measurement standards, and responsible uses of AI; mentor others, and champion inclusive and accessible research.\n  \n\n  \n\n**What We're Looking For**\n--------------------------\n\n* Deep expertise in qualitative research and strong fluency in quantitative methods, with excellent judgment about research questions, method selection, audience recruitment, evidence quality, and maintaining methodological rigor across research of varying scope and pace.\n* Ability to plan, design, execute, analyze, and communicate foundational, generative, evaluative, and measurement research at both strategic and tactical levels.\n* Comfortable conducting research in fast-paced, live event environments and are willing and able to travel approximately four to five times per year to support onsite research at Salesforce events.\n* A record of proactively identifying high-value research opportunities and influencing product strategy, roadmaps, requirements, designs, and measurable business outcomes.\n* Strong understanding of digital marketing experiences and the ability to connect research evidence to customer and employee needs, business goals, channel strategies, technical considerations, and potential implications across the broader digital ",
-      "salary": "$172k–$286k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "OpenAI",
-      "title": "Data Program Manager, Human Data",
-      "location": "San Francisco, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=216e25e4fba5d2d2",
-      "direct_url": "https://openai.com/careers/data-program-manager-human-data-san-francisco/",
-      "company_url": "https://www.indeed.com/cmp/Openai",
-      "date_posted": "2026-10-23",
-      "description": "Human Data - San Francisco\n\n**About the Team**\n\nThe Human Data team turns human feedback into reliable signals for training and evaluation. We design and run end-to-end programs that capture the depth of human intent behind everyday and high-stakes uses of our models. Our remit spans bespoke data campaigns, scalable synthetic data generation, and product-embedded signals. We partner closely across all research teams to translate these signals into training datasets, novel evaluations, and feedback loops that push the frontier of our models and advancetheir applications.\n\n**About the Role**\n\nAs a Data Program Manager in the Human Data team you will partner with our research teams, operations and engineering to execute complex programs for collecting high-quality data. You will be a key interface between our external vendors and AI trainers, ensuring human data campaigns are successfully completed. Your work will play a key role in enabling OpenAI to train safe models that will land in the real world\n\nThis role is based in our San Francisco HQ.\n\n**In this role, you will:**\n\n* Work in a high velocity environment, where the outcome of your work will have a direct impact on the models that OpenAI deploy in the real world\n* Work closely with external vendors, trainers and internal researchers to collect, review, and deliver high-quality data\n* Gather requirements, write instructions, define success criteria, and calibrate the AI trainers\n* Use internal tooling to assess labeled data and provide feedback to AI trainers\n* Think critically and share recommendations on tooling and process improvements, optimizing for quality, throughput, and AI trainer experience\n\n**You’ll thrive in this role if:**\n\n* **You thrive in dynamic environments.** You are comfortable navigating ambiguity, managing shifting priorities, and adapting to fast-paced changes without missing a beat.\n* **You’re curious about AI, LLMs, Agents.** While not required, an interest or background in these areas will help you connect the dots in our broader mission.\n* **You have a can-do attitude.** You don’t shy away from rolling up your sleeves and tackling the \"grunt work\" with the same enthusiasm as high-visibility tasks.\n* **You’re an excellent communicator.** You love bringing people together, fostering collaboration, and providing clarity in complex situations. Your empathetic approach helps you understand different perspectives and build strong, trusting relationships.\n* **You are resilient and flexible.** Setbacks don’t rattle you. You bounce back quickly, adjust strategies as needed, and maintain a positive, solution-oriented mindset.\n* **You’re super organized amidst chaos**. Even when things are moving quickly, you keep track of details, manage competing demands, and bring structure to complexity.\n* **You enjoy operational work**. While you might have an interest in broader topics like safety, you find satisfaction in executing operational tasks efficiently and effectively.\n* **You have a knack for data.** You've gone beyond basic data annotation and have hands-on experience with data analytics decisions and improve processes.\n* **You’re energized by start-up environments.** If you enjoy the hustle, resourcefulness, and rapid iteration typical of start-ups, you’ll feel right at home.\n* **You have some relevant experience.** Ideally, you have at least 1-2 years of relevant experience and are eager to grow within a role that challenges and develops your skills.\n\n**About OpenAI**\n\nOpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core the full spectrum of humanity.\n\nWe are an equal opportunity employeration, or other applicable legally protected characteristic.\n\n  \n\nBackground checks for applicants will be administered in accordance with applicable lawation technology systems and related data security obligations.\n\nTo notify OpenAI that you believe this job posting is non-compliant. No response will be provided to inquiries unrelated to job posting compliance.\n\nWe are committed to providing reasonable accommodations to applicants with disabilities.\n\n  \n\nAt OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.\n\n**Compensation**\n\n$207K – $230K + Offers Equity\n\nThe base pay offered may vary depending on multiple individualized factorsance-related bonus(es) for eligible employees, and the following benefits.\n\n* Medical, dental, and vision insurance for you and your family, with employer contributions to Health Savings Accounts\n* Pre-tax accounts for Health FSA, Dependent Care FSA, and commuter expenses (parking and transit)\n* 401(k) retirement plan with employer match\n* Paid parental leave (up to 24 weeks for birth parents and 20 weeks for non-birthing parents), plus paid medical and caregiver leave (up to 8 weeks)\n* Paid time off: flexible PTO for exempt employees and up to 15 days annually for non-exempt employees\n* 13+ paid company holidays, and multiple paid coordinated company office closures throughout the year for focus and recharge, plus paid sick or safe time (1 hour per 30 hours worked, or more, as required by applicable state or local law)\n* Mental health and wellness support\n* Employer-paid basic life and disability coverage\n* Annual learning and development stipend to fuel your professional growth\n* Daily meals in our offices, and meal delivery credits as eligible\n* Relocation support for eligible employees\n* Additional taxable fringe benefits, such as charitable donation matching and wellness stipends, may also be provided.\n\nMore details about our benefits are available to ",
-      "salary": "$207k–$230k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "David AI",
-      "title": "Research Engineer",
-      "location": "San Francisco, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=b28a1ff590a24637",
-      "direct_url": "https://jobs.ashbyhq.com/david-ai/99b02add-4c14-49fc-b532-b756a3f4edb1?utm_source=7MvlEYlgNb",
-      "company_url": "https://www.indeed.com/cmp/David-Ai",
-      "date_posted": "2026-10-23",
-      "description": "**About David AI**\n------------------\n\nDavid AI is the first audio data research company. We bring an R&D approach to data–developing datasets with the same rigor AI labs bring to models. Our mission is to bring AI into the real world, and we believe audio is the gateway. Speech is versatile, accessible, and human—it fits naturally into everyday life. As audio AI advances and new use cases emerge, high-quality training data is the bottleneck. This is where David AI comes in.\n\nDavid AI was founded in 2024 by a team of former Scale AI engineers and operators. In less than a year, we’ve brought on most FAANG companies and AI labs as customers. We recently raised a $50M Series B from Meritech, NVIDIA, Jack Altman (Alt Capital), Amplify Partners, First Round Capital and other Tier 1 investors.\n\nOur team is sharp, humble, ambitious, and tight-knit. We’re looking for the best research, engineering, product, and operations minds to join us on our mission to push the frontier of audio AI.\n\n**About our Research team**\n---------------------------\n\nOur Research team sits at the intersection of cutting-edge research and production systems, transforming raw audio into high-signal data for leading AI labs and enterprises. We own the full ML lifecycle - from researching novel speech processing algorithms to deploying models processing terabytes of audio daily.\n\n**About this role**\n-------------------\n\nAs a **Research Engineer** at David AI, you'll build algorithms and systems that turn large-scale speech and audio collections into high-quality datasets. You'll tackle questions like: What makes a recording useful? How do we measure and improve dataset quality?\n\n**In this role, you will**\n--------------------------\n\n* Design algorithms and metrics using advanced signal processing algorithms and cutting edge ML models with to derive insights from thousands of hours of audio data.\n* Build scalable data processing pipelines for analyzing, filtering, deduplicating, and curating large speech and audio datasets.\n* Develop production-grade inference algorithms, pipelines, and APIs with cross-functional teams that unlock key insights into our data for our customers.\n* Collaborating with our Operations team to gather useful training and evaluation datasets to improve the quality of our models.\n* Architect systems that enable resilient, durable inference and evaluations.\n\n**Your background looks like**\n------------------------------\n\n* 3+ years of professional engineering or applied research experience in areas such as data systems, algorithms, applied ML, information retrieval, or speech and audio.\n* Strong Python skills and experience building maintainable, production-quality software.\n* End-to-end ownership of ML pipelines, from proof-of-concept to production deployment.\n* Ability to translate research papers and ideas into high-quality, production-ready code.\n* Experience deploying ML systems for production inference with cloud technologies.\n* Ability to assess model quality in the context of user experience and business value.\n\n**Bonus points if you have**\n----------------------------\n\n* Experience with speech, audio, or digital signal processing.\n* Experience with data curation, search and retrieval, embeddings, clustering, deduplication, or sampling.\n* Experience building model inference systems or integrating pretrained models into production workflows.\n* Experience in publishing in top conferences such as NeurIPS, ICML, ICLR, CVPR, etc.\n* Experience in releasing, maintaining, contributing to open-source softwares.\n* PhD or Masters in Computer Science or a related field.\n\n**Benefits**\n------------\n\n* Unlimited PTO.\n* Top-notch health, dental, and vision coverage with 100% coverage for most plans.\n* FSA & HSA access.\n* 401k access.\n* Meals 2x daily through DoorDash + snacks and beverages available at the office.\n* Unlimited company-sponsored Barry’s classes.\n\nCompensation Range: $210K - $360K",
-      "salary": "$210k–$360k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    }
-  ],
+  "new_jobs": [],
   "remote_jobs": [],
   "ambiguous_jobs": [
     {
