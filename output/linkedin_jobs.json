@@ -1,14 +1,14 @@
 {
-  "scraped_at": "2026-10-23 07:38 UTC",
-  "total": 95,
-  "new_count": 10,
+  "scraped_at": "2026-10-23 19:26 UTC",
+  "total": 153,
+  "new_count": 58,
   "scrape_status": {
     "status": "success",
-    "raw_rows": 422,
-    "queries": 32,
-    "batch": 2,
+    "raw_rows": 335,
+    "queries": 24,
+    "batch": 5,
     "batches": 5,
-    "terms_in_batch": 8,
+    "terms_in_batch": 6,
     "terms_total": 38
   },
   "jobs": [
@@ -1663,18 +1663,16 @@
         "longitude": -123.032229,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
-    }
-  ],
-  "new_jobs": [
+    },
     {
-      "company": "Nominal",
-      "title": "Staff Research Engineer, Agent Evals & Post-training",
+      "company": "Archer",
+      "title": "Research Engineer, Applied Research",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4474011203/",
+      "url": "https://www.linkedin.com/jobs/view/4481691319/",
       "date_posted": "2026-10-23",
-      "salary": "",
+      "salary": "$120,000.00/yr - $180,000.00/yr",
       "ats": "LinkedIn",
-      "description": "About Nominal\n\nOur mission is to accelerate how the world engineers new hardware. Nominal's connected test and operations platform powers the world's most advanced hardware programs and its most ambitious startups, from spacecraft, racecars, and autonomous vehicles to next-generation defense and energy programs. Our customers include Anduril, Shield AI, Hermeus, Albedo, Shinkei, and Pratt Miller Motorsports, as well as U.S. Navy and U.S. Air Force programs. Now we're expanding across the entire hardware lifecycle, building the foundation, AI-native applications, and agents that accelerate innovators' work and change what's possible to build.\n\nWe're backed by Sequoia, General Catalyst, Founders Fund, Lux Capital, and Lightspeed, and our team comes from SpaceX, Apple, Palantir, Anduril, Applied Intuition, and other leading companies.\n\nAbout Hardware Intelligence\n\nWe're the team behind Nominal's agents, AI-native applications, and MCP, and its forward-leaning AI bets. Our mission is to unlock the bottlenecks of the hardware lifecycle with AI. Our agents reason over physical reality, from high-rate telemetry and test campaigns to designs and simulations, where real test results are the ground truth their work is checked against. We believe opinionated AI, built for the real work of hardware programs, will change how the world engineers.\n\nWe're collaborative, iterative, and high-agency, and we're human-centered and customer-focused. We build with the newest AI tools every day, and because those tools keep changing, so do we: we stay curious and keep looking for the better way. Our team spans data science and ML, distributed systems, search, and knowledge systems, and we obsess over how agents can be genuinely useful to the engineers who rely on them.\n\nThe Role\n\nAs a Staff Research Engineer supporting agent evals & post-training, you'll define how Nominal measures its agents, for customers and for ourselves, and build the path from evals to post-trained models when hardware needs them. Evals come first; post-training follows when air-gapped deployment or cost makes it the right investment.\n\n💼 What You'll Do\n\nBuild eval suites for our agents, the MCP tool layer, and our internal company agent, grounded in real hardware tasks.\nInvent new benchmarks for agents working over physical engineering data, where none exist today.\nBenchmark our agents against frontier agents using our MCP, and show where and why ours win.\nBuild the eval infrastructure: datasets, model-based and human graders, and regression gates in CI.\nTurn evals into reward signals and training data, and lead post-training (fine-tuning, RL, distillation) when we need models we can run anywhere, including air-gapped environments.\nSet Nominal's strategy for measurement and model improvement, working with hardware experts on what \"correct\" means.\n\n🚀 What You'll Bring\n\n8+ years in ML engineering or research, including evals or post-training work you led in production.\nStatistical rigor: you design evals that don't fool you, and you know when a difference is real.\nDeep experience evaluating LLM or agent systems, including model-graded evals and their limits.\nHands-on post-training experience: fine-tuning, RL from feedback, or distillation on real tasks.\nThe judgment to know when to measure, when to train, and when a better prompt or tool is the answer.\nA track record of setting technical direction across a team and raising the bar for the engineers around you.\nYou build with modern AI coding agents (Claude Code, Cursor, Codex) every day, and stay curious and open to better ways of working. The tools keep changing, and so do we.\n\n⚡️ Nice To Have\n\nYou've built evals or post-training at a frontier lab or an AI-native company.\nYou've published benchmarks or eval methods that others use.\nYou've trained or served open-weight models in restricted, on-prem, or air-gapped environments.\nYou've worked in test, reliability, or verification engineering for physical systems.\n\nBenefits/Perks\n\n🏥 100% coverage of medical, dental, and vision insurance\n🏖️ Unlimited PTO and sick leave\n🍽️ Free lunch, snacks, and coffee\n🚀 Professional Development Stipend\n✈️ Annual company retreat\n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin.\n\nITAR Requirements\n\nTo conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C.\n\n1157, or (iv) Asylee under 8 U.S.C.\n1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR here.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "description": "Archer\nis collaborating with Sierra\nto connect them with exceptional professionals for this role.\n\nAbout Us\n\nSierra is the leading platform for customer-facing AI agents, working with many of the world's biggest brands — including The GAP, Rocket Mortgage, SoFi, Sutter Health, and SoftBank — to transform how they serve customers and grow their businesses. We are primarily an in-person company based in San Francisco, with growing offices across North America, Europe, and Asia.\n\nWe are guided by a set of values that are at the core of our actions and define our culture: Trust, Customer Obsession, Craftsmanship, Intensity, and a commitment to balancing Family along the way. These values are the foundation of our work, and we are committed to upholding them in everything we do.\n\nOur co-founders are Bret Taylor and Clay Bavor. Bret currently serves as Board Chair of OpenAI. Previously, he was co-CEO of Salesforce (which had acquired the company he founded, Quip) and CTO of Facebook. Bret was also one of Google's earliest product managers and co-creator of Google Maps. Before founding Sierra, Clay spent 18 years at Google, where he most recently led Google Labs. Earlier, he started and led Google’s AR/VR effort, Project Starline, and Google Lens. Before that, Clay led the product and design teams for Google Workspace.\n\nSierra’s Applied Research team advances the quality, speed, and cost efficiency of the models powering our agents across a wide range of tasks. Our work spans post-training open-weight models for specialized capabilities and pioneering new approaches to voice AI, turning research breakthroughs into reliable production systems.\n\nWhat You’ll Do\n\nTackle unsolved applied AI and ML problems. Pushing the boundaries of post-training, voice AI, and long-horizon task execution, building agents that can reason, adapt, and reliably carry out complex tasks for customers.\nDetermine when to build specialized models and when to use externally provided frontier intelligence, balancing quality, speed, and cost to deliver customer value.\nTurn ambiguous product and customer problems into well-framed machine learning problems.\nDevelop, fine-tune, evaluate, and deploy models that improve Sierra’s customer-facing AI agents.\nAdvance our post-training work, from supervised fine-tuning toward reinforcement learning and long-horizon optimization.\nBuild rigorous evaluations that connect model performance to real-world agent quality.\nWork with large-scale, proprietary datasets spanning text and audio interactions.\nCollaborate across Sierra while taking ideas from experimentation through production deployment and customer impact.\n\nWhat You’ll Bring\n\nStrong experience building and deploying production machine learning and AI systems. We welcome backgrounds across applied ML, including search, ranking, recommendations, advertising, language, and speech.\nExcellent judgment in framing product problems as ML tasks and selecting the simplest & most effective approach.\nExperience working deeply with data, experimentation, evaluation, and model iteration.\nA practical, evidence-driven approach to ML, with strong judgement around when a problem calls for modeling and when a simpler solution will deliver the best outcome.\nThe ability to operate with high agency and work across the stack when needed to deliver an outcome.\nAlignment with Sierra’s values, including Craftsmanship, Customer Obsession, and Competitive Intensity.\nA degree in computer science, machine learning, or a related field, or equivalent professional experience.\n\nEven better…\n\nExperience with supervised fine-tuning or reinforcement learning.\nExperience in search, ranking, recommendations, or advertising systems.\nExperience training and deploying language, speech, or multimodal models.\nExperience designing model evaluations tied to real-world product outcomes.\nExperience working with large-scale consumer datasets or high-volume ML products.\nContributions to applied ML research or benchmarks.\n\nOur values\n\nTrust: We build trust with our customers with our accountability, empathy, quality, and responsiveness. We build trust in AI by making it more accessible, safe, and useful. We build trust with each other by showing up for each other professionally and personally, creating an environment that enables all of us to do our best work.\nCustomer Obsession: We deeply understand our customers’ business goals and relentlessly focus on driving outcomes, not just technical milestones. Everyone at the company knows and spends time with our customers. When our customer is having an issue, we drop everything and fix it.\nCraftsmanship: We get the details right, from the words on the page to the system architecture. We have good taste. When we notice something isn’t right, we take the time to fix it. We are proud of the products we produce. We continuously self-reflect to continuously self-improve.\nIntensity: We know we don’t have the luxury of patience. We play to win. We care about our product being the best, and when it isn’t, we fix it. When we fail, we talk about it openly and without blame so we succeed the next time.\nFamily: We know that balance and intensity are compatible, and we model it in our actions and processes. We are the best technology company for parents. We support and respect each other and celebrate each other’s personal and professional achievements.\n\nWhat We Offer\n\nWe want our benefits to reflect our values and offer the following to full-time employees:\n\nFlexible (unlimited) paid time off\nMedical, dental, and vision benefits for you and your family\nLife insurance and disability benefits\nRetirement plan dependent on country of employment\nParental leave\nFertility and family building benefits through Carrot\nLunch, as well as delicious snacks and coffee to keep you energized\nDiscretionary benefit stipend giving people the ability to spend where it matters most\nFree alphorn lessons\n\nThese benefits are further detailed in Sierra's policies, may vary by region, and are subject to change at any time, consistent with the terms of any applicable compensation or benefits plans. Eligible full-time employees can participate in Sierra's equity plans subject to the terms of the applicable plans and policies.\n\nBe you, with us\n\nWe're working to bring the transformative power of AI to every organization in the world. To do so, it is important to us that the diversity of our employees represents the diversity of our customers. We believe that our work and culture are better when we encourage, support, and respect different skills and experiences represented within our team. We encourage you to apply even if your experience doesn't precisely match the job description. We strive to evaluate all applicants consistently without regard to race, color, religion, gender, national origin, age, disability, veteran status, pregnancy, gender expression or identity, sexual orientation, citizenship, or any other legally protected class.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nArtificial Intelligence",
       "geography": {
         "status": "in_radius",
         "distance_miles": 59.936,
@@ -1685,14 +1683,14 @@
       }
     },
     {
-      "company": "NVIDIA",
-      "title": "Senior Research Scientist, AI for Cybersecurity",
+      "company": "Amazon Web Services (AWS)",
+      "title": "Applied Scientist, Console Science",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481635318/",
+      "url": "https://www.linkedin.com/jobs/view/4455794485/",
       "date_posted": "2026-10-23",
       "salary": "",
       "ats": "LinkedIn",
-      "description": "We are looking for a Senior Scientist to lead research on advancing AI models and agents for cybersecurity and applying them to important security problems. This includes improving capabilities such as security reasoning, code and system understanding, planning, tool use, long-horizon investigation, and effective collaboration with human defenders, as well as applying these capabilities to vulnerability discovery, secure development, threat and anomaly detection, malware and attack analysis, incident investigation, security validation, and automated defense.\n\nThe ideal candidate will advance the underlying models, agent architectures, data, training and post-training methods, and evaluations needed for effective cybersecurity, while addressing the requirements of real security environments: high precision, robustness to adaptive adversaries, explainability, privacy, secure deployment, and effective human oversight. You will connect foundational AI and security research with practical tools and workflows that materially improve prevention, detection, investigation, and response. NVIDIA is a leader in accelerated computing and AI systems. This role offers the opportunity to set research direction, influence future platforms, and translate foundational advances into practical capabilities in collaboration with research, product, and engineering teams.\n\nWhat You'll Be Doing\n\nDefine a high-impact research agenda and lead projects that advance AI models and agents for cybersecurity and apply them to important security problems.\nImprove model and agent capabilities for security reasoning, code and system understanding, planning, tool use, memory, long-horizon investigation, and collaboration with human defenders through advances in architectures, data, training, post-training, and evaluation.\nDevelop AI-powered capabilities for vulnerability discovery, secure development, threat detection, malware analysis, incident investigation, security validation, and automated defense that are robust to adversarial manipulation, uncertainty, distribution shift, and incomplete or noisy operational data.\nBuild and evaluate prototypes in realistic environments, measuring detection quality, false positives, time to insight, analyst effectiveness, security risk, and operational scalability.\nCollaborate across AI, security, research, engineering, and product teams; publish original research; mentor researchers and interns; and help translate advances into deployed capabilities.\n\nWhat We Need To See\n\nA Ph.D. in Computer Science, Computer Engineering, Electrical Engineering, or a related field, or equivalent experience.\n5+ years of relevant experience. An established record of research excellence demonstrated through influential publications, open-source systems, patents, technology transfer, or substantial research collaborations.\nDeep expertise in one or more relevant areas such as agentic AI, model training, reasoning and tool use, machine learning for security, vulnerability research, program analysis, software security, intrusion detection, malware analysis, or security operations.\nExperience defining and leading ambiguous, multi-disciplinary research projects and providing technical mentorship.\nStrong experimental and prototyping skills; Python and relevant AI/ML frameworks, including experience training, adapting, or evaluating models or agents; experience with systems software, security tooling, or large-scale data systems.\nExcellent written and verbal communication skills and the ability to work effectively with both AI researchers and security practitioners.\n\nAre you a creative, collaborative, and self-directed researcher who can advance AI agents for cybersecurity, expand what they can do for defenders, and turn new ideas into high-impact research and technology? If so, we want to hear from you!\n\nYour base salary will be determined based on your location, experience, and the pay of employees in similar positions. The base salary range is 224,000 USD - 356,500 USD for Level 5, and 272,000 USD - 431,250 USD for Level 6.\n\nYou will also be eligible for equity and benefits.\n\nApplications for this job will be accepted at least until October 26, 2026.\n\nThis posting is for an existing vacancy.\n\nNVIDIA uses AI tools in its recruiting processes.\n\nNVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.\n\n, , JR2028203\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nComputer Hardware Manufacturing",
+      "description": "Description\n\nWe are looking for passionate, talented, and inventive Applied Scientists with a strong machine learning background to help build industry-leading Conversational AI Systems. Our mission is to provide a delightful experience to Amazon’s customers by pushing the envelope in Natural Language Understanding (NLU), Dialog Systems including Generative AI with Large Language Models (LLMs) and Applied Machine Learning (ML).\n\nYou will work alongside internationally recognized experts to develop novel algorithms and modeling techniques to advance the state-of-the-art in human language technology. Your work will directly impact millions of our customers in the form of products and services that make use language technology. You will gain hands on experience with Amazon’s heterogeneous text, structured data sources, and large-scale computing resources to accelerate advances in language understanding.\n\nWe are hiring in all areas of human language technology: NLU, Dialog Management, Conversational AI, LLMs and Generative AI.\n\nKey job responsibilities\n\nThe team uses generative AI and foundation models to reimagine the experience of all customers on AWS. We explore new technologies and find creative solutions. Curiosity and an explorative mindset can find a place here to impact the life of engineers around the world.\n\nIf you are excited about this space and want to enlighten your peers with new capabilities, this is the team for you.\n\nAbout The Team\n\nAWS Utility Computing (UC) provides product innovations — from foundational services such as Amazon’s Simple Storage Service (S3) and Amazon Elastic Compute Cloud (EC2), to consistently released new product innovations that continue to set AWS’s services and features apart in the industry. As a member of the UC organization, you’ll support the development and management of Compute, Database, Storage, Internet of Things (Iot), Platform, and Productivity Apps services in AWS, including support for customers who require specialized security solutions for their cloud services.\n\nDiverse Experiences\n\nAWS values diverse experiences. Even if you do not meet all of the qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.\n\nWhy AWS?\n\nAmazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.\n\nInclusive Team Culture\n\nHere at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to never stop embracing our uniqueness.\n\nMentorship & Career Growth\n\nWe’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.\n\nWork/Life Balance\n\nWe value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.\n\nHybrid Work\n\nWe value innovation and recognize this sometimes requires uninterrupted time to focus on a build. We also value in-person collaboration and time spent face-to-face. Our team affords employees options to work in the office every day or in a flexible, hybrid work model near one of our U.S. Amazon offices.\n\nBasic Qualifications\n\n3+ years of building models for business application experience\nPhD, or Master's degree and 4+ years of CS, CE, ML or related field experience\nExperience in patents or publications at top-tier peer-reviewed conferences or journals\nExperience programming in Java, C++, Python or related language\nExperience in any of the following areas: algorithms and data structures, parsing, numerical optimization, data mining, parallel and distributed computing, high-performance computing\n\nPreferred Qualifications\n\nExperience using Unix/Linux\nExperience in professional software development\n\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\n\nLos Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n\nThe base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.\n\nUSA, CA, Santa Clara - 171,600.00 - 222,200.00 USD annually\n\nCompany\n- Amazon Development Center U.S., Inc.\n\nJob ID: A10504310\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting",
       "geography": {
         "status": "in_radius",
         "distance_miles": 3.522,
@@ -1703,11 +1701,119 @@
       }
     },
     {
-      "company": "TikTok",
-      "title": "Applied Scientist - Business Integrity - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
+      "company": "CodeRound AI",
+      "title": "AI Researcher ($140K- 300K)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480653633/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "𝗔𝗯𝗼𝘂𝘁 𝘁𝗵𝗲 𝗷𝗼𝗯\n\nThis role is for one of our client companies — a VC-backed Artificial Intelligence (AI) startup that has raised $500K USD in funding.\n𝗦𝗮𝗹𝗮𝗿𝘆: $140K- 300K\nApply once and, if selected, get access to up to 20 remote and onsite interview opportunities.\n\n🚀 𝗪𝗵𝗮𝘁 𝗪𝗲'𝗿𝗲 𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴\n\nCodeRound AI matches the top 5% tech talent with the fastest-growing, VC-funded AI startups across Silicon Valley and India.\n\nTop-tier product startups across the US, UK, EU, UAE, and India have hired top engineers through CodeRound.\n\n🚀 𝗔𝗜 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵𝗲𝗿 (2+ 𝗬𝗲𝗮𝗿𝘀 𝗼𝗳 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲)\n\nWe are seeking an AI Researcher & Engineer to push the boundaries of model performance through hands-on experimentation, fine-tuning, and deployment. Join us to bridge the gap between cutting-edge research and production-ready AI products.\n\n🧩 𝗪𝗵𝗮𝘁 𝗬𝗼𝘂'𝗹𝗹 𝗗𝗼\n\nResearch and understand machine learning techniques and papers\nExperiment with new research techniques and real-world implementations\nTrain, deploy, and serve models at scale\nWrite research papers based on experiments and findings\nDevelop detailed benchmarks and comparative performance analyses\nPerform quantization and fine-tuning of LLMs and other models\nOptimize models and GPU infrastructure for cost-to-scale efficiency\nWrite Python code and Jupyter Notebooks\n\n✅ 𝗬𝗼𝘂'𝗿𝗲 𝗮 𝗚𝗿𝗲𝗮𝘁 𝗙𝗶𝘁 𝗜𝗳 𝗬𝗼𝘂\n\nStrong AI research background with research/paper publications\nExperience researching and implementing machine learning techniques and papers\nStrong experience with deep learning frameworks such as PyTorch and TensorRT-LLM\nExperience training, deploying, and serving models at scale\nExperience with quantization and fine-tuning of LLMs and other models\nStrong benchmarking and performance analysis experience\n\n✨ 𝗪𝗵𝘆 𝗝𝗼𝗶𝗻 𝗨𝘀?\n\nOwn the research roadmap from day one at our funded startup.\nDeploy cutting-edge AI models directly into production for real-world impact.\nFast-track your career alongside top-tier talent in our Bengaluru office.\nWork directly with founders who value bold ideas and rapid execution.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Media",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon Web Services (AWS)",
+      "title": "Applied Scientist II, Console Science",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455777997/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Description\n\nWe are looking for passionate, talented, and inventive Applied Scientists with a strong machine learning background to help build industry-leading Conversational AI Systems. Our mission is to provide a delightful experience to Amazon’s customers by pushing the envelope in Natural Language Understanding (NLU), Dialog Systems including Generative AI with Large Language Models (LLMs) and Applied Machine Learning (ML).\n\nYou will work alongside internationally recognized experts to develop novel algorithms and modeling techniques to advance the state-of-the-art in human language technology. Your work will directly impact millions of our customers in the form of products and services that make use language technology. You will gain hands on experience with Amazon’s heterogeneous text, structured data sources, and large-scale computing resources to accelerate advances in language understanding.\n\nWe are hiring in all areas of human language technology: NLU, Dialog Management, Conversational AI, LLMs and Generative AI.\n\nA day in the life\n\nThe team uses generative AI and foundation models to reimagine the experience of all customers on AWS. We explore new technologies and find creative solutions. Curiosity and an explorative mindset can find a place here to impact the life of engineers around the world.\n\nIf you are excited about this space and want to enlighten your peers with new capabilities, this is the team for you.\n\nWe are open to hiring candidates to work out of one of the following locations:\n\nSanta Clara, CA, USA\n\nAbout The Team\n\nAWS Utility Computing (UC) provides product innovations — from foundational services such as Amazon’s Simple Storage Service (S3) and Amazon Elastic Compute Cloud (EC2), to consistently released new product innovations that continue to set AWS’s services and features apart in the industry. As a member of the UC organization, you’ll support the development and management of Compute, Database, Storage, Internet of Things (Iot), Platform, and Productivity Apps services in AWS, including support for customers who require specialized security solutions for their cloud services.\n\nDiverse Experiences\n\nAWS values diverse experiences. Even if you do not meet all of the qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.\n\nWhy AWS?\n\nAmazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.\n\nInclusive Team Culture\n\nHere at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to never stop embracing our uniqueness.\n\nMentorship & Career Growth\n\nWe’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.\n\nWork/Life Balance\n\nWe value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.\n\nHybrid Work\n\nWe value innovation and recognize this sometimes requires uninterrupted time to focus on a build. We also value in-person collaboration and time spent face-to-face. Our team affords employees options to work in the office every day or in a flexible, hybrid work model near one of our U.S. Amazon offices.\n\nBasic Qualifications\n\n3+ years of building models for business application experience\nPhD, or Master's degree and 4+ years of CS, CE, ML or related field experience\nExperience in patents or publications at top-tier peer-reviewed conferences or journals\nExperience programming in Java, C++, Python or related language\nExperience in any of the following areas: algorithms and data structures, parsing, numerical optimization, data mining, parallel and distributed computing, high-performance computing\n\nPreferred Qualifications\n\nExperience using Unix/Linux\nExperience in professional software development\n\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\n\nLos Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n\nThe base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.\n\nUSA, CA, Santa Clara - 171,600.00 - 222,200.00 USD annually\n\nCompany\n- Amazon Development Center U.S., Inc.\n\nJob ID: A10373514\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 3.522,
+        "city": "santa clara",
+        "latitude": 37.364621,
+        "longitude": -121.967973,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Together AI",
+      "title": "Research Engineer, Post-Training Inference",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4436253202/",
+      "date_posted": "2026-10-23",
+      "salary": "$200,000 - $290,000",
+      "ats": "LinkedIn",
+      "description": "About The Role\n\nThe Model Shaping team at Together AI works on products and research focused on tailoring open foundation models to downstream applications. We build services that enable machine learning developers to choose the best models for their tasks and further improve these models using domain-specific data. In addition, we develop new methods for more efficient model training and evaluation, drawing inspiration from a broad range of ideas across machine learning, natural language processing, and ML systems.\n\nAs a Research Engineer within Model Shaping, you will develop a platform that enables users to customize open-source models with their own data. Working across the training and inference stacks, you will build and improve our Fine-Tuning, Reinforcement Learning, and Evaluation services – from ensuring a seamless path from post-training to production serving, to optimizing the inference engine for RL training workloads. You will collaborate closely with our product, research, and engineering teams to keep the API reliable, performant, and well integrated into the company's technical infrastructure. Above all, you will help build the foundational layer of the open-source AI ecosystem, enabling developers around the world to efficiently create high-quality models tailored to their specific applications.\n\nResponsibilities\n\nDesign and build Together’s systems for customizing open-source models\nBuild integrations between the Model Shaping and Inference platforms to ensure a seamless path from post-training to serving production workloads\nAdd features to inference engines for large-scale post-training experiments, including optimizations for RL workloads\nMake sure the service is stable and robust, participating in an on-call rotation and ensuring 24/7 availability of our platform\n\nRequirements\n\nHave 2+ years of experience building and deploying machine learning-based services in a production environment\nHave hands-on experience with modern inference engines, such as SGLang, vLLM, and TensorRT-LLM\nAre familiar with the latest methods for fine-tuning LLMs and other AI models\nHave a strong software engineering background in Python or Go\nStay up to date with the latest advances and trends in the machine learning community\n\nExperience in any of the following will make you stand out\n\nServing low-precision (FP4/FP8) models, multiple LoRA adapters within one model instance (Multi-LoRA), or models distributed across several GPU nodes\nOptimizing the performance of RL training workloads\nDeveloping CUDA/Triton/CuTE DSL kernels for inference\nDeveloping large-scale and high-load production systems\nMaintaining or contributing to open-source ML projects\nManaging machine learning workloads on Kubernetes clusters\n\nAbout Together AI\n\nTogether AI, the AI Native Cloud, is purpose-built for AI engineers. AI application developers get high-performance inference that scales reliably, fine-tuning and reinforcement learning for creating frontier-level specialized models, and pre-training at massive scale for fully custom intelligence, all around a marketplace of leading open models that teams can run, adapt, and own. Trusted by Cursor, Decagon, ElevenLabs, Salesforce, and Zoom, Together serves 400+ trillion tokens a month.\n\nCompensation\n\nWe offer competitive compensation, startup equity, health insurance, and other benefits. The US base salary range for this full-time position is $200,000 - $290,000. Our salary ranges are determined by location, level and role. Individual compensation will be determined by experience, skills, and job-related knowledge.\n\nEqual Opportunity\n\nTogether AI is an Equal Opportunity Employer and is proud to offer equal employment opportunity to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and more.\n\nPlease see our privacy policy at https://www.together.ai/privacy\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon",
+      "title": "Senior Applied Scientist, Sponsored Products and Brands Off-Search",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4482790514/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Description\n\nThe Sponsored Products and Brands (SPB) team at Amazon Ads is re-imagining the advertising landscape through state-of-the-art generative AI technologies, revolutionizing how millions of customers discover products and engage with brands across Amazon.com and beyond. We are at the forefront of re-inventing advertising experiences, bridging human creativity with artificial intelligence to transform every aspect of the advertising lifecycle from ad creation and optimization to performance analysis and customer insights. We are a passionate group of innovators dedicated to developing responsible and intelligent AI technologies that balance the needs of advertisers, enhance the shopping experience, and strengthen the marketplace. If you're energized by solving complex challenges and pushing the boundaries of what's possible with AI, join us in shaping the future of advertising.\n\nKey job responsibilities\n\nResponsibilities\n\nThis role will be pivotal in redesigning how ads contribute to a personalized, relevant, and inspirational shopping experience, with the customer value proposition at the forefront. Key responsibilities include, but are not limited to:\n\nContribute to the design and development of GenAI, deep learning, multi-objective optimization and/or reinforcement learning empowered solutions to transform ad retrieval, auctions, whole-page relevance, and/or bespoke shopping experiences.\nCollaborate cross-functionally with other scientists, engineers, and product managers to bring scalable, production-ready science solutions to life.\nStay abreast of industry trends in GenAI, LLMs, and related disciplines, bringing fresh and innovative concepts, ideas, and prototypes to the organization.\nContribute to the enhancement of team’s scientific and technical rigor by identifying and implementing best-in-class algorithms, methodologies, and infrastructure that enable rapid experimentation and scaling.\nMentor and grow junior scientists and engineers, cultivating a high-performing, collaborative, and intellectually curious team.\n\nA day in the life\n\nAs an Applied Scientist on the Sponsored Products and Brands Off-Search team, you will contribute to the development in Generative AI (GenAI) and Large Language Models (LLMs) to revolutionize our advertising flow, backend optimization, and frontend shopping experiences. This is a rare opportunity to redefine how ads are retrieved, allocated, and/or experienced—elevating them into personalized, contextually aware, and inspiring components of the customer journey. You will have the opportunity to fundamentally transform areas such as ad retrieval, ad allocation, whole-page relevance, and differentiated recommendations through the lens of GenAI. By building novel generative models grounded in both Amazon’s rich data and the world’s collective knowledge, your work will shape how customers engage with ads, discover products, and make purchasing decisions. If you are passionate about applying frontier AI to real-world problems with massive scale and impact, this is your opportunity to define the next chapter of advertising science.\n\nAbout The Team\n\nThe Off-Search team within Sponsored Products and Brands (SPB) is focused on building delightful ad experiences across various surfaces beyond Search on Amazon—such as product detail pages, the homepage, and store-in-store pages—to drive monetization. Our vision is to deliver highly personalized, context-aware advertising that adapts to individual shopper preferences, scales across diverse page types, remains relevant to seasonal and event-driven moments, and integrates seamlessly with organic recommendations such as new arrivals, basket-building content, and fast-delivery options. To execute this vision, we work in close partnership with Amazon Stores stakeholders to lead the expansion and growth of advertising across Amazon-owned and -operated pages beyond Search. We operate full stack—from backend ads-retail edge services, ads retrieval, and ad auctions to shopper-facing experiences—all designed to deliver meaningful value.\n\nCurious about our advertising solutions? Discover more about Sponsored Products and Sponsored Brands to see how we’re helping businesses grow on Amazon.com and beyond!\n\nBasic Qualifications\n\n3+ years of building machine learning models for business application experience\nPhD, or Master's degree and 6+ years of applied research experience\nExperience programming in Java, C++, Python or related language\nStrong foundation in GenAI, large language models, machine learning, deep learning, probabilistic modeling, and/or optimization.\nExperience developing and deploying models in real-world production environments.\n\nPreferred Qualifications\n\nProven expertise in Generative AI, foundation models, LLMs, and/or fine-tuning and customization for downstream tasks.\nHands-on experience in ads ranking, retrieval, recommendation systems, search, or personalization at web scale.\nDeep understanding of multi-modal modeling, few-shot learning, retrieval-augmented generation (RAG), or reinforcement learning from human feedback (RLHF).\nExperience with online experimentation, A/B testing frameworks, and metrics design for advertising or e-commerce.\nDemonstrated ability to communicate complex technical topics clearly to both technical and non-technical audiences.\nExperience in computational advertising, including familiarity with auction theory, ad economics, and advertiser performance metrics.\n\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n\nThe base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.\n\nUSA, NY, New York - 183,800.00 - 248,700.00 USD annually\n\nUSA, WA, SEATTLE - 167,100.00 - 226,100.00 USD annually\n\nCompany\n- Amazon.com Services LLC\n\nJob ID: A10580323\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 6.453,
+        "city": "palo alto",
+        "latitude": 37.39652,
+        "longitude": -122.143088,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Enigma",
+      "title": "AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4402369656/",
-      "date_posted": "2026-10-22",
+      "url": "https://www.linkedin.com/jobs/view/4481694876/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA\n\nResponsibilities:\n\nDesign, execute, and analyze machine learning experiments, establishing strong baselines and selecting appropriate evaluation metrics.\nStay up to date with the latest AI research; identify, adapt, and validate novel techniques for company-specific use cases.\nDefine rigorous evaluation protocols, including offline metrics, user studies, and adversarial (red team) testing to ensure statistical soundness.\nSpecify data and annotation requirements; develop annotation guidelines and oversee quality control processes.\nCollaborate closely with domain experts, product managers, and engineering teams to refine problem statements and operational constraints.\nDevelop reusable research assets such as datasets, modular code components, evaluation suites, and comprehensive documentation.\nWork alongside ML Engineers to optimize training and inference pipelines, ensuring seamless integration into production systems.\nContribute to academic publications and represent the company in research communities, as needed.\n\nEducational Qualifications:\n\nPh.D. in Computer Science, Artificial Intelligence, Machine Learning, or a related field is strongly preferred.\nCandidates with a master’s degree and exceptional research or industry experience will also be considered.\n\nIndustry Experience:\n\n3–5 years of experience in AI/ML research roles, ideally in applied or product-focused environments.\nDemonstrated success in delivering research-driven solutions that have been deployed in production.\nExperience collaborating in cross-functional teams across research, engineering, and product.\nPublications in top-tier AI/ML conferences (e.g., NeurIPS, ICML, ACL, CVPR) are a plus.\n\nTechnical Skills:\nStrong foundational knowledge in machine learning and deep learning algorithms.\nHands-on experience with PEFT/LoRA, adapters, fine-tuning techniques, and RLHF/RLAIF (e.g., PPO, DPO, GRPO).\nAbility to read, implement, and adapt state-of-the-art research papers to real-world use cases.\nProficiency in hypothesis-driven experimentation, ablation studies, and statistically sound evaluations.\nAdvanced programming skills in Python (preferred), C++, or Java.\nExperience with deep learning frameworks such as PyTorch, Hugging Face, NumPy, etc.\nStrong mathematical foundations in probability, linear algebra, and calculus.\nDomain expertise in one or more areas: natural language processing (NLP), symbolic reasoning, speech processing, etc.\nAbility to translate research insights into roadmaps, technical specifications, and product improvements.\n\nAI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nHospitals and Health Care",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 13.183,
+        "city": "san jose",
+        "latitude": 37.296011,
+        "longitude": -121.814552,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon Music",
+      "title": "Sr. Applied Scientist, Amazon Music - Search Science",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455916758/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Description\n\nAmazon Music is an immersive audio entertainment service that deepens connections between fans, artists, and creators. From personalized music playlists to exclusive podcasts, concert livestreams to artist merch, Amazon Music is innovating at some of the most exciting intersections of music and culture. We offer experiences that serve all listeners with our different tiers of service: Prime members get access to all the music in shuffle mode, and top ad-free podcasts, included with their membership; customers can upgrade to Amazon Music Unlimited for unlimited, on-demand access to 100 million songs, including millions in HD, Ultra HD, and spatial audio; and anyone can listen for free by downloading the Amazon Music app or via Alexa-enabled devices. Join us for the opportunity to influence how Amazon Music engages fans, artists, and creators on a global scale.\n\nAmazon Music Search Science team is seeking an experienced Applied Scientist who will join a team of experts in the field of machine learning, and work together to break new ground in the world of understanding and classifying different forms of music, and creating interactive experiences to help users find the music they are in the mood for. We work on machine learning problems for music classification, recommender systems, dialogue systems, NLP, and music information retrieval. You'll work in a collaborative environment where you can pursue applied research, with many peta-bytes of data, work on problems that haven’t been solved before, quickly implement and deploy your algorithmic ideas at scale, understand whether they succeed via statistically relevant experiments across millions of customers, and publish your research. You'll see the work you do directly improve the experience of Amazon Music customers on Alexa/Echo, mobile, and web.\n\nKey job responsibilities\n\nUse machine learning, deep learning, LLMs and Agentic AI techniques to create scalable solutions for business problems\nAnalyze and extract relevant information from large amounts of Amazon's data to help automate and optimize key processes\nDesign, development and evaluation of AI models for predictive learning\nWork closely with software engineering teams to drive model implementations and new feature creations\nEstablish scalable, efficient, automated processes for large scale data analyses, model development, model validation and model implementation\nResearch and implement novel machine learning and statistical approaches\n\nAbout The Team\n\nEveryone on our team has a meaningful impact on product features, new directions in music streaming, and customer engagement. We are looking for new team members across a variety of job functions including software engineering/development, marketing, design, ops and more. Come join us as we make history by launching exciting new projects in the coming year.Our team is focused on building a personalized, curated, and seamless music experience. We want to help our customers discover up-and-coming artists, while also having access to their favorite established musicians. We build systems that are distributed on a large scale, spanning our music apps, web player, and voice-forward audio engagement on mobile and Amazon Echo devices, powered by Alexa to support our customer base. Amazon Music offerings are available in countries around the world, and our applications support our mission of delivering music to customers in new and exciting ways that enhance their day-to-day lives.\n\nBasic Qualifications\n\n3+ years of building machine learning models for business application experience\nPhD, or Master's degree and 6+ years of applied research experience\nExperience programming in Java, C++, Python or related language\nExperience with neural deep learning methods and machine learning\n\nPreferred Qualifications\n\nExperience with modeling tools such as R, scikit-learn, Spark MLLib, MxNet, Tensorflow, numpy, scipy etc.\nExperience with large scale distributed systems such as Hadoop, Spark etc.\n\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\n\nLos Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n\nThe base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.\n\nUSA, CA, Sunnyvale - 192,200.00 - 260,000.00 USD annually\n\nCompany\n- Amazon.com Services LLC\n\nJob ID: A10457219\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nEntertainment Providers",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "ByteDance",
+      "title": "Research Scientist Graduate (Applied Machine Learning - ML System) - 2026 Start (PhD)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474550471/",
+      "date_posted": "2026-10-23",
       "salary": "",
       "ats": "LinkedIn",
       "geography": {
@@ -1720,45 +1826,164 @@
       }
     },
     {
-      "company": "SpaceX Super Intelligence",
-      "title": "Human Data Manager",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482752370/",
-      "date_posted": "2026-10-22",
+      "company": "Amazon",
+      "title": "Senior Applied Scientist, Entertainment Devices & Grocery Experiences (EDGE) Ads",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455798834/",
+      "date_posted": "2026-10-23",
       "salary": "",
       "ats": "LinkedIn",
       "geography": {
         "status": "in_radius",
-        "distance_miles": 6.453,
-        "city": "palo alto",
-        "latitude": 37.39652,
-        "longitude": -122.143088,
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
     },
     {
-      "company": "SpaceX Super Intelligence",
-      "title": "Member of Technical Staff - Multimodal Understanding",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482751409/",
-      "date_posted": "2026-10-22",
+      "company": "Amazon Web Services (AWS)",
+      "title": "Principal AI Scientist, Telco Tech, AWS Industries",
+      "location": "Cupertino, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455933564/",
+      "date_posted": "2026-10-23",
       "salary": "",
       "ats": "LinkedIn",
       "geography": {
         "status": "in_radius",
-        "distance_miles": 6.453,
-        "city": "palo alto",
-        "latitude": 37.39652,
-        "longitude": -122.143088,
+        "distance_miles": 4.7,
+        "city": "cupertino",
+        "latitude": 37.3194,
+        "longitude": -122.044957,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
     },
     {
-      "company": "Salesforce",
-      "title": "Research Scientist - Salesforce AI Research",
+      "company": "Amazon Web Services (AWS)",
+      "title": "Principal Applied Scientist, AWS Agentic AI",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455916787/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 3.522,
+        "city": "santa clara",
+        "latitude": 37.364621,
+        "longitude": -121.967973,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon Web Services (AWS)",
+      "title": "Applied Scientist, AWS Agentic AI",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4456199302/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 3.522,
+        "city": "santa clara",
+        "latitude": 37.364621,
+        "longitude": -121.967973,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon",
+      "title": "Senior Applied Scientist, Fauna Robotics",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455926241/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon",
+      "title": "Senior Applied Scientist, Last Mile Robotics",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455926142/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 3.522,
+        "city": "santa clara",
+        "latitude": 37.364621,
+        "longitude": -121.967973,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "TikTok",
+      "title": "Tech Lead, Research Scientist, Generative AI",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481931684/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 13.183,
+        "city": "san jose",
+        "latitude": 37.296011,
+        "longitude": -121.814552,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Archetype AI",
+      "title": "AI Researcher (Ph.D.)",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472884414/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 19.708,
+        "city": "san mateo",
+        "latitude": 37.56031,
+        "longitude": -122.3106,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Meta",
+      "title": "AI Research Scientist - FAIR, MSL",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480679304/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 9.313,
+        "city": "menlo park",
+        "latitude": 37.479731,
+        "longitude": -122.148055,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Suno",
+      "title": "Machine Learning Scientist",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482738722/",
-      "date_posted": "2026-10-22",
+      "url": "https://www.linkedin.com/jobs/view/4359826138/",
+      "date_posted": "2026-10-23",
       "salary": "",
       "ats": "LinkedIn",
       "geography": {
@@ -1771,62 +1996,1653 @@
       }
     },
     {
-      "company": "SpaceX Super Intelligence",
-      "title": "Human Data - Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482743815/",
-      "date_posted": "2026-10-22",
+      "company": "Archer",
+      "title": "Principal Applied Scientist - Robotics",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481696029/",
+      "date_posted": "2026-10-23",
       "salary": "",
       "ats": "LinkedIn",
       "geography": {
         "status": "in_radius",
-        "distance_miles": 6.453,
-        "city": "palo alto",
-        "latitude": 37.39652,
-        "longitude": -122.143088,
+        "distance_miles": 3.522,
+        "city": "santa clara",
+        "latitude": 37.364621,
+        "longitude": -121.967973,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
     },
     {
-      "company": "Salesforce",
-      "title": "Research Scientist - Salesforce AI Research",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482744693/",
-      "date_posted": "2026-10-22",
+      "company": "Hippocratic AI",
+      "title": "Applied Scientist, Reinforcement Learning (Mid, Senior, Staff)",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4446546683/",
+      "date_posted": "2026-10-23",
       "salary": "",
       "ats": "LinkedIn",
       "geography": {
         "status": "in_radius",
-        "distance_miles": 6.453,
-        "city": "palo alto",
-        "latitude": 37.39652,
-        "longitude": -122.143088,
+        "distance_miles": 9.313,
+        "city": "menlo park",
+        "latitude": 37.479731,
+        "longitude": -122.148055,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
     },
     {
-      "company": "Netflix",
-      "title": "Machine Learning Scientist 6 - Ads Member Understanding",
-      "location": "Los Gatos, CA",
-      "url": "https://www.linkedin.com/jobs/view/4452889838/",
-      "date_posted": "2026-10-22",
+      "company": "Roblox",
+      "title": "Principal/Senior Machine Learning Scientist - Search and Discovery",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4377296929/",
+      "date_posted": "2026-10-23",
       "salary": "",
       "ats": "LinkedIn",
       "geography": {
         "status": "in_radius",
-        "distance_miles": 11.425,
-        "city": "los gatos",
-        "latitude": 37.229944,
-        "longitude": -121.956874,
+        "distance_miles": 19.708,
+        "city": "san mateo",
+        "latitude": 37.56031,
+        "longitude": -122.3106,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
     },
     {
-      "company": "GoFundMe",
-      "title": "Staff Data Scientist (Pricing)",
+      "company": "BetterUp",
+      "title": "Senior Data Scientist",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482757249/",
-      "date_posted": "2026-10-22",
+      "url": "https://www.linkedin.com/jobs/view/4481647884/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Thatch",
+      "title": "Data Scientist: Product",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480678592/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Pinterest",
+      "title": "Master's University Grad Data Scientist (USA)",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474364520/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 6.453,
+        "city": "palo alto",
+        "latitude": 37.39652,
+        "longitude": -122.143088,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Pinterest",
+      "title": "Master's University Grad Data Scientist (USA)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474371289/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Deloitte",
+      "title": "Sr. Data Scientist",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474700419/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 13.183,
+        "city": "san jose",
+        "latitude": 37.296011,
+        "longitude": -121.814552,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "OpenAI",
+      "title": "Data Scientist, SMB Ads Growth",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447222173/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Chime",
+      "title": "Staff Data Scientist, Marketing Analytics",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480099549/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Aircall",
+      "title": "Data Scientist, Product Analytics",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4456362390/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Wise Skulls",
+      "title": "Senior Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480692231/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon",
+      "title": "Sr. Applied Scientist, PXT Central Science",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455922015/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Atlassian",
+      "title": "Principal Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4456181670/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Snowflake",
+      "title": "Senior Data Scientist - Product",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4266592649/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 9.313,
+        "city": "menlo park",
+        "latitude": 37.479731,
+        "longitude": -122.148055,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Sandisk",
+      "title": "Sr. People Data Scientist",
+      "location": "Milpitas, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477867516/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 8.118,
+        "city": "milpitas",
+        "latitude": 37.433136,
+        "longitude": -121.890934,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Walmart",
+      "title": "Staff, Data Scientist",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463073387/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Capital One",
+      "title": "Principal Data Scientist - AI Foundations, Specialist Models",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4438218855/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 13.183,
+        "city": "san jose",
+        "latitude": 37.296011,
+        "longitude": -121.814552,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Capital One",
+      "title": "Manager, Data Scientist - Recommendation & Personalization Systems",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474520069/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 13.183,
+        "city": "san jose",
+        "latitude": 37.296011,
+        "longitude": -121.814552,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "PwC",
+      "title": "AI Engineer / Data Scientist, AI Experienced Associate",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474555202/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon",
+      "title": "Applied Scientist, Linear Personalization Experience Team (LPEX)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4465369334/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Annapurna Labs",
+      "title": "Applied Scientist, Machine Learning Accelerator - Annapurna Labs",
+      "location": "Cupertino, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455904618/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 4.7,
+        "city": "cupertino",
+        "latitude": 37.3194,
+        "longitude": -122.044957,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "TikTok",
+      "title": "Applied Scientist, Recommendation, E-Commerce Alliance",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481940256/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 13.183,
+        "city": "san jose",
+        "latitude": 37.296011,
+        "longitude": -121.814552,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Vinci",
+      "title": "Product Data Scientist",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4482823042/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 6.453,
+        "city": "palo alto",
+        "latitude": 37.39652,
+        "longitude": -122.143088,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Prime Video & Amazon MGM Studios",
+      "title": "Sr. Applied Scientist, Prime Video - Personalization and Discovery Science",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455911993/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Coherent Corp.",
+      "title": "Principal AI Data Scientist – Wafer Fabrication",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463086039/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 8.843,
+        "city": "fremont",
+        "latitude": 37.49446,
+        "longitude": -121.94115,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Booz Allen Hamilton",
+      "title": "Data Scientist",
+      "location": "Monterey, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474333237/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 54.784,
+        "city": "monterey",
+        "latitude": 36.601193,
+        "longitude": -121.88311,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon",
+      "title": "Sr. Applied Scientist, Sponsored Products and Brands Agent",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4456189421/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 6.453,
+        "city": "palo alto",
+        "latitude": 37.39652,
+        "longitude": -122.143088,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon",
+      "title": "Senior Applied Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455921690/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Cohere",
+      "title": "Senior Research Scientist, Model Evaluation",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4317703639/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "BetterUp",
+      "title": "Senior Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481666190/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Uber Freight",
+      "title": "Data Scientist III - Spot Pricing",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481625876/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon",
+      "title": "Principal Applied Scientist, Ads Optimization, Full Funnel Agentic Intelligence and Models",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455909471/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 6.453,
+        "city": "palo alto",
+        "latitude": 37.39652,
+        "longitude": -122.143088,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4339925688/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Intuit",
+      "title": "Sr. Staff Data Scientist, Lending",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474728316/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Genentech",
+      "title": "Senior Principal DSX Data Scientist, AI",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4456111955/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 26.72,
+        "city": "south san francisco",
+        "latitude": 37.655104,
+        "longitude": -122.376234,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Brex",
+      "title": "Data Scientist II, Applied ML",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474541246/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "PwC",
+      "title": "AI Engineer / Data Scientist, AI Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474553305/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "CSC Generation",
+      "title": "Staff Data Scientist– Pricing Science",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4370032685/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Archer",
+      "title": "Research Engineer, Applied Research",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481691319/",
+      "date_posted": "2026-10-23",
+      "salary": "$120,000.00/yr - $180,000.00/yr",
+      "ats": "LinkedIn",
+      "description": "Archer\nis collaborating with Sierra\nto connect them with exceptional professionals for this role.\n\nAbout Us\n\nSierra is the leading platform for customer-facing AI agents, working with many of the world's biggest brands — including The GAP, Rocket Mortgage, SoFi, Sutter Health, and SoftBank — to transform how they serve customers and grow their businesses. We are primarily an in-person company based in San Francisco, with growing offices across North America, Europe, and Asia.\n\nWe are guided by a set of values that are at the core of our actions and define our culture: Trust, Customer Obsession, Craftsmanship, Intensity, and a commitment to balancing Family along the way. These values are the foundation of our work, and we are committed to upholding them in everything we do.\n\nOur co-founders are Bret Taylor and Clay Bavor. Bret currently serves as Board Chair of OpenAI. Previously, he was co-CEO of Salesforce (which had acquired the company he founded, Quip) and CTO of Facebook. Bret was also one of Google's earliest product managers and co-creator of Google Maps. Before founding Sierra, Clay spent 18 years at Google, where he most recently led Google Labs. Earlier, he started and led Google’s AR/VR effort, Project Starline, and Google Lens. Before that, Clay led the product and design teams for Google Workspace.\n\nSierra’s Applied Research team advances the quality, speed, and cost efficiency of the models powering our agents across a wide range of tasks. Our work spans post-training open-weight models for specialized capabilities and pioneering new approaches to voice AI, turning research breakthroughs into reliable production systems.\n\nWhat You’ll Do\n\nTackle unsolved applied AI and ML problems. Pushing the boundaries of post-training, voice AI, and long-horizon task execution, building agents that can reason, adapt, and reliably carry out complex tasks for customers.\nDetermine when to build specialized models and when to use externally provided frontier intelligence, balancing quality, speed, and cost to deliver customer value.\nTurn ambiguous product and customer problems into well-framed machine learning problems.\nDevelop, fine-tune, evaluate, and deploy models that improve Sierra’s customer-facing AI agents.\nAdvance our post-training work, from supervised fine-tuning toward reinforcement learning and long-horizon optimization.\nBuild rigorous evaluations that connect model performance to real-world agent quality.\nWork with large-scale, proprietary datasets spanning text and audio interactions.\nCollaborate across Sierra while taking ideas from experimentation through production deployment and customer impact.\n\nWhat You’ll Bring\n\nStrong experience building and deploying production machine learning and AI systems. We welcome backgrounds across applied ML, including search, ranking, recommendations, advertising, language, and speech.\nExcellent judgment in framing product problems as ML tasks and selecting the simplest & most effective approach.\nExperience working deeply with data, experimentation, evaluation, and model iteration.\nA practical, evidence-driven approach to ML, with strong judgement around when a problem calls for modeling and when a simpler solution will deliver the best outcome.\nThe ability to operate with high agency and work across the stack when needed to deliver an outcome.\nAlignment with Sierra’s values, including Craftsmanship, Customer Obsession, and Competitive Intensity.\nA degree in computer science, machine learning, or a related field, or equivalent professional experience.\n\nEven better…\n\nExperience with supervised fine-tuning or reinforcement learning.\nExperience in search, ranking, recommendations, or advertising systems.\nExperience training and deploying language, speech, or multimodal models.\nExperience designing model evaluations tied to real-world product outcomes.\nExperience working with large-scale consumer datasets or high-volume ML products.\nContributions to applied ML research or benchmarks.\n\nOur values\n\nTrust: We build trust with our customers with our accountability, empathy, quality, and responsiveness. We build trust in AI by making it more accessible, safe, and useful. We build trust with each other by showing up for each other professionally and personally, creating an environment that enables all of us to do our best work.\nCustomer Obsession: We deeply understand our customers’ business goals and relentlessly focus on driving outcomes, not just technical milestones. Everyone at the company knows and spends time with our customers. When our customer is having an issue, we drop everything and fix it.\nCraftsmanship: We get the details right, from the words on the page to the system architecture. We have good taste. When we notice something isn’t right, we take the time to fix it. We are proud of the products we produce. We continuously self-reflect to continuously self-improve.\nIntensity: We know we don’t have the luxury of patience. We play to win. We care about our product being the best, and when it isn’t, we fix it. When we fail, we talk about it openly and without blame so we succeed the next time.\nFamily: We know that balance and intensity are compatible, and we model it in our actions and processes. We are the best technology company for parents. We support and respect each other and celebrate each other’s personal and professional achievements.\n\nWhat We Offer\n\nWe want our benefits to reflect our values and offer the following to full-time employees:\n\nFlexible (unlimited) paid time off\nMedical, dental, and vision benefits for you and your family\nLife insurance and disability benefits\nRetirement plan dependent on country of employment\nParental leave\nFertility and family building benefits through Carrot\nLunch, as well as delicious snacks and coffee to keep you energized\nDiscretionary benefit stipend giving people the ability to spend where it matters most\nFree alphorn lessons\n\nThese benefits are further detailed in Sierra's policies, may vary by region, and are subject to change at any time, consistent with the terms of any applicable compensation or benefits plans. Eligible full-time employees can participate in Sierra's equity plans subject to the terms of the applicable plans and policies.\n\nBe you, with us\n\nWe're working to bring the transformative power of AI to every organization in the world. To do so, it is important to us that the diversity of our employees represents the diversity of our customers. We believe that our work and culture are better when we encourage, support, and respect different skills and experiences represented within our team. We encourage you to apply even if your experience doesn't precisely match the job description. We strive to evaluate all applicants consistently without regard to race, color, religion, gender, national origin, age, disability, veteran status, pregnancy, gender expression or identity, sexual orientation, citizenship, or any other legally protected class.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nArtificial Intelligence",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon Web Services (AWS)",
+      "title": "Applied Scientist, Console Science",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455794485/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Description\n\nWe are looking for passionate, talented, and inventive Applied Scientists with a strong machine learning background to help build industry-leading Conversational AI Systems. Our mission is to provide a delightful experience to Amazon’s customers by pushing the envelope in Natural Language Understanding (NLU), Dialog Systems including Generative AI with Large Language Models (LLMs) and Applied Machine Learning (ML).\n\nYou will work alongside internationally recognized experts to develop novel algorithms and modeling techniques to advance the state-of-the-art in human language technology. Your work will directly impact millions of our customers in the form of products and services that make use language technology. You will gain hands on experience with Amazon’s heterogeneous text, structured data sources, and large-scale computing resources to accelerate advances in language understanding.\n\nWe are hiring in all areas of human language technology: NLU, Dialog Management, Conversational AI, LLMs and Generative AI.\n\nKey job responsibilities\n\nThe team uses generative AI and foundation models to reimagine the experience of all customers on AWS. We explore new technologies and find creative solutions. Curiosity and an explorative mindset can find a place here to impact the life of engineers around the world.\n\nIf you are excited about this space and want to enlighten your peers with new capabilities, this is the team for you.\n\nAbout The Team\n\nAWS Utility Computing (UC) provides product innovations — from foundational services such as Amazon’s Simple Storage Service (S3) and Amazon Elastic Compute Cloud (EC2), to consistently released new product innovations that continue to set AWS’s services and features apart in the industry. As a member of the UC organization, you’ll support the development and management of Compute, Database, Storage, Internet of Things (Iot), Platform, and Productivity Apps services in AWS, including support for customers who require specialized security solutions for their cloud services.\n\nDiverse Experiences\n\nAWS values diverse experiences. Even if you do not meet all of the qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.\n\nWhy AWS?\n\nAmazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.\n\nInclusive Team Culture\n\nHere at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to never stop embracing our uniqueness.\n\nMentorship & Career Growth\n\nWe’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.\n\nWork/Life Balance\n\nWe value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.\n\nHybrid Work\n\nWe value innovation and recognize this sometimes requires uninterrupted time to focus on a build. We also value in-person collaboration and time spent face-to-face. Our team affords employees options to work in the office every day or in a flexible, hybrid work model near one of our U.S. Amazon offices.\n\nBasic Qualifications\n\n3+ years of building models for business application experience\nPhD, or Master's degree and 4+ years of CS, CE, ML or related field experience\nExperience in patents or publications at top-tier peer-reviewed conferences or journals\nExperience programming in Java, C++, Python or related language\nExperience in any of the following areas: algorithms and data structures, parsing, numerical optimization, data mining, parallel and distributed computing, high-performance computing\n\nPreferred Qualifications\n\nExperience using Unix/Linux\nExperience in professional software development\n\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\n\nLos Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n\nThe base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.\n\nUSA, CA, Santa Clara - 171,600.00 - 222,200.00 USD annually\n\nCompany\n- Amazon Development Center U.S., Inc.\n\nJob ID: A10504310\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 3.522,
+        "city": "santa clara",
+        "latitude": 37.364621,
+        "longitude": -121.967973,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "CodeRound AI",
+      "title": "AI Researcher ($140K- 300K)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480653633/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "𝗔𝗯𝗼𝘂𝘁 𝘁𝗵𝗲 𝗷𝗼𝗯\n\nThis role is for one of our client companies — a VC-backed Artificial Intelligence (AI) startup that has raised $500K USD in funding.\n𝗦𝗮𝗹𝗮𝗿𝘆: $140K- 300K\nApply once and, if selected, get access to up to 20 remote and onsite interview opportunities.\n\n🚀 𝗪𝗵𝗮𝘁 𝗪𝗲'𝗿𝗲 𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴\n\nCodeRound AI matches the top 5% tech talent with the fastest-growing, VC-funded AI startups across Silicon Valley and India.\n\nTop-tier product startups across the US, UK, EU, UAE, and India have hired top engineers through CodeRound.\n\n🚀 𝗔𝗜 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵𝗲𝗿 (2+ 𝗬𝗲𝗮𝗿𝘀 𝗼𝗳 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲)\n\nWe are seeking an AI Researcher & Engineer to push the boundaries of model performance through hands-on experimentation, fine-tuning, and deployment. Join us to bridge the gap between cutting-edge research and production-ready AI products.\n\n🧩 𝗪𝗵𝗮𝘁 𝗬𝗼𝘂'𝗹𝗹 𝗗𝗼\n\nResearch and understand machine learning techniques and papers\nExperiment with new research techniques and real-world implementations\nTrain, deploy, and serve models at scale\nWrite research papers based on experiments and findings\nDevelop detailed benchmarks and comparative performance analyses\nPerform quantization and fine-tuning of LLMs and other models\nOptimize models and GPU infrastructure for cost-to-scale efficiency\nWrite Python code and Jupyter Notebooks\n\n✅ 𝗬𝗼𝘂'𝗿𝗲 𝗮 𝗚𝗿𝗲𝗮𝘁 𝗙𝗶𝘁 𝗜𝗳 𝗬𝗼𝘂\n\nStrong AI research background with research/paper publications\nExperience researching and implementing machine learning techniques and papers\nStrong experience with deep learning frameworks such as PyTorch and TensorRT-LLM\nExperience training, deploying, and serving models at scale\nExperience with quantization and fine-tuning of LLMs and other models\nStrong benchmarking and performance analysis experience\n\n✨ 𝗪𝗵𝘆 𝗝𝗼𝗶𝗻 𝗨𝘀?\n\nOwn the research roadmap from day one at our funded startup.\nDeploy cutting-edge AI models directly into production for real-world impact.\nFast-track your career alongside top-tier talent in our Bengaluru office.\nWork directly with founders who value bold ideas and rapid execution.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Media",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon Web Services (AWS)",
+      "title": "Applied Scientist II, Console Science",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455777997/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Description\n\nWe are looking for passionate, talented, and inventive Applied Scientists with a strong machine learning background to help build industry-leading Conversational AI Systems. Our mission is to provide a delightful experience to Amazon’s customers by pushing the envelope in Natural Language Understanding (NLU), Dialog Systems including Generative AI with Large Language Models (LLMs) and Applied Machine Learning (ML).\n\nYou will work alongside internationally recognized experts to develop novel algorithms and modeling techniques to advance the state-of-the-art in human language technology. Your work will directly impact millions of our customers in the form of products and services that make use language technology. You will gain hands on experience with Amazon’s heterogeneous text, structured data sources, and large-scale computing resources to accelerate advances in language understanding.\n\nWe are hiring in all areas of human language technology: NLU, Dialog Management, Conversational AI, LLMs and Generative AI.\n\nA day in the life\n\nThe team uses generative AI and foundation models to reimagine the experience of all customers on AWS. We explore new technologies and find creative solutions. Curiosity and an explorative mindset can find a place here to impact the life of engineers around the world.\n\nIf you are excited about this space and want to enlighten your peers with new capabilities, this is the team for you.\n\nWe are open to hiring candidates to work out of one of the following locations:\n\nSanta Clara, CA, USA\n\nAbout The Team\n\nAWS Utility Computing (UC) provides product innovations — from foundational services such as Amazon’s Simple Storage Service (S3) and Amazon Elastic Compute Cloud (EC2), to consistently released new product innovations that continue to set AWS’s services and features apart in the industry. As a member of the UC organization, you’ll support the development and management of Compute, Database, Storage, Internet of Things (Iot), Platform, and Productivity Apps services in AWS, including support for customers who require specialized security solutions for their cloud services.\n\nDiverse Experiences\n\nAWS values diverse experiences. Even if you do not meet all of the qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.\n\nWhy AWS?\n\nAmazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.\n\nInclusive Team Culture\n\nHere at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to never stop embracing our uniqueness.\n\nMentorship & Career Growth\n\nWe’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.\n\nWork/Life Balance\n\nWe value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.\n\nHybrid Work\n\nWe value innovation and recognize this sometimes requires uninterrupted time to focus on a build. We also value in-person collaboration and time spent face-to-face. Our team affords employees options to work in the office every day or in a flexible, hybrid work model near one of our U.S. Amazon offices.\n\nBasic Qualifications\n\n3+ years of building models for business application experience\nPhD, or Master's degree and 4+ years of CS, CE, ML or related field experience\nExperience in patents or publications at top-tier peer-reviewed conferences or journals\nExperience programming in Java, C++, Python or related language\nExperience in any of the following areas: algorithms and data structures, parsing, numerical optimization, data mining, parallel and distributed computing, high-performance computing\n\nPreferred Qualifications\n\nExperience using Unix/Linux\nExperience in professional software development\n\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\n\nLos Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n\nThe base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.\n\nUSA, CA, Santa Clara - 171,600.00 - 222,200.00 USD annually\n\nCompany\n- Amazon Development Center U.S., Inc.\n\nJob ID: A10373514\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 3.522,
+        "city": "santa clara",
+        "latitude": 37.364621,
+        "longitude": -121.967973,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Together AI",
+      "title": "Research Engineer, Post-Training Inference",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4436253202/",
+      "date_posted": "2026-10-23",
+      "salary": "$200,000 - $290,000",
+      "ats": "LinkedIn",
+      "description": "About The Role\n\nThe Model Shaping team at Together AI works on products and research focused on tailoring open foundation models to downstream applications. We build services that enable machine learning developers to choose the best models for their tasks and further improve these models using domain-specific data. In addition, we develop new methods for more efficient model training and evaluation, drawing inspiration from a broad range of ideas across machine learning, natural language processing, and ML systems.\n\nAs a Research Engineer within Model Shaping, you will develop a platform that enables users to customize open-source models with their own data. Working across the training and inference stacks, you will build and improve our Fine-Tuning, Reinforcement Learning, and Evaluation services – from ensuring a seamless path from post-training to production serving, to optimizing the inference engine for RL training workloads. You will collaborate closely with our product, research, and engineering teams to keep the API reliable, performant, and well integrated into the company's technical infrastructure. Above all, you will help build the foundational layer of the open-source AI ecosystem, enabling developers around the world to efficiently create high-quality models tailored to their specific applications.\n\nResponsibilities\n\nDesign and build Together’s systems for customizing open-source models\nBuild integrations between the Model Shaping and Inference platforms to ensure a seamless path from post-training to serving production workloads\nAdd features to inference engines for large-scale post-training experiments, including optimizations for RL workloads\nMake sure the service is stable and robust, participating in an on-call rotation and ensuring 24/7 availability of our platform\n\nRequirements\n\nHave 2+ years of experience building and deploying machine learning-based services in a production environment\nHave hands-on experience with modern inference engines, such as SGLang, vLLM, and TensorRT-LLM\nAre familiar with the latest methods for fine-tuning LLMs and other AI models\nHave a strong software engineering background in Python or Go\nStay up to date with the latest advances and trends in the machine learning community\n\nExperience in any of the following will make you stand out\n\nServing low-precision (FP4/FP8) models, multiple LoRA adapters within one model instance (Multi-LoRA), or models distributed across several GPU nodes\nOptimizing the performance of RL training workloads\nDeveloping CUDA/Triton/CuTE DSL kernels for inference\nDeveloping large-scale and high-load production systems\nMaintaining or contributing to open-source ML projects\nManaging machine learning workloads on Kubernetes clusters\n\nAbout Together AI\n\nTogether AI, the AI Native Cloud, is purpose-built for AI engineers. AI application developers get high-performance inference that scales reliably, fine-tuning and reinforcement learning for creating frontier-level specialized models, and pre-training at massive scale for fully custom intelligence, all around a marketplace of leading open models that teams can run, adapt, and own. Trusted by Cursor, Decagon, ElevenLabs, Salesforce, and Zoom, Together serves 400+ trillion tokens a month.\n\nCompensation\n\nWe offer competitive compensation, startup equity, health insurance, and other benefits. The US base salary range for this full-time position is $200,000 - $290,000. Our salary ranges are determined by location, level and role. Individual compensation will be determined by experience, skills, and job-related knowledge.\n\nEqual Opportunity\n\nTogether AI is an Equal Opportunity Employer and is proud to offer equal employment opportunity to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and more.\n\nPlease see our privacy policy at https://www.together.ai/privacy\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon",
+      "title": "Senior Applied Scientist, Sponsored Products and Brands Off-Search",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4482790514/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Description\n\nThe Sponsored Products and Brands (SPB) team at Amazon Ads is re-imagining the advertising landscape through state-of-the-art generative AI technologies, revolutionizing how millions of customers discover products and engage with brands across Amazon.com and beyond. We are at the forefront of re-inventing advertising experiences, bridging human creativity with artificial intelligence to transform every aspect of the advertising lifecycle from ad creation and optimization to performance analysis and customer insights. We are a passionate group of innovators dedicated to developing responsible and intelligent AI technologies that balance the needs of advertisers, enhance the shopping experience, and strengthen the marketplace. If you're energized by solving complex challenges and pushing the boundaries of what's possible with AI, join us in shaping the future of advertising.\n\nKey job responsibilities\n\nResponsibilities\n\nThis role will be pivotal in redesigning how ads contribute to a personalized, relevant, and inspirational shopping experience, with the customer value proposition at the forefront. Key responsibilities include, but are not limited to:\n\nContribute to the design and development of GenAI, deep learning, multi-objective optimization and/or reinforcement learning empowered solutions to transform ad retrieval, auctions, whole-page relevance, and/or bespoke shopping experiences.\nCollaborate cross-functionally with other scientists, engineers, and product managers to bring scalable, production-ready science solutions to life.\nStay abreast of industry trends in GenAI, LLMs, and related disciplines, bringing fresh and innovative concepts, ideas, and prototypes to the organization.\nContribute to the enhancement of team’s scientific and technical rigor by identifying and implementing best-in-class algorithms, methodologies, and infrastructure that enable rapid experimentation and scaling.\nMentor and grow junior scientists and engineers, cultivating a high-performing, collaborative, and intellectually curious team.\n\nA day in the life\n\nAs an Applied Scientist on the Sponsored Products and Brands Off-Search team, you will contribute to the development in Generative AI (GenAI) and Large Language Models (LLMs) to revolutionize our advertising flow, backend optimization, and frontend shopping experiences. This is a rare opportunity to redefine how ads are retrieved, allocated, and/or experienced—elevating them into personalized, contextually aware, and inspiring components of the customer journey. You will have the opportunity to fundamentally transform areas such as ad retrieval, ad allocation, whole-page relevance, and differentiated recommendations through the lens of GenAI. By building novel generative models grounded in both Amazon’s rich data and the world’s collective knowledge, your work will shape how customers engage with ads, discover products, and make purchasing decisions. If you are passionate about applying frontier AI to real-world problems with massive scale and impact, this is your opportunity to define the next chapter of advertising science.\n\nAbout The Team\n\nThe Off-Search team within Sponsored Products and Brands (SPB) is focused on building delightful ad experiences across various surfaces beyond Search on Amazon—such as product detail pages, the homepage, and store-in-store pages—to drive monetization. Our vision is to deliver highly personalized, context-aware advertising that adapts to individual shopper preferences, scales across diverse page types, remains relevant to seasonal and event-driven moments, and integrates seamlessly with organic recommendations such as new arrivals, basket-building content, and fast-delivery options. To execute this vision, we work in close partnership with Amazon Stores stakeholders to lead the expansion and growth of advertising across Amazon-owned and -operated pages beyond Search. We operate full stack—from backend ads-retail edge services, ads retrieval, and ad auctions to shopper-facing experiences—all designed to deliver meaningful value.\n\nCurious about our advertising solutions? Discover more about Sponsored Products and Sponsored Brands to see how we’re helping businesses grow on Amazon.com and beyond!\n\nBasic Qualifications\n\n3+ years of building machine learning models for business application experience\nPhD, or Master's degree and 6+ years of applied research experience\nExperience programming in Java, C++, Python or related language\nStrong foundation in GenAI, large language models, machine learning, deep learning, probabilistic modeling, and/or optimization.\nExperience developing and deploying models in real-world production environments.\n\nPreferred Qualifications\n\nProven expertise in Generative AI, foundation models, LLMs, and/or fine-tuning and customization for downstream tasks.\nHands-on experience in ads ranking, retrieval, recommendation systems, search, or personalization at web scale.\nDeep understanding of multi-modal modeling, few-shot learning, retrieval-augmented generation (RAG), or reinforcement learning from human feedback (RLHF).\nExperience with online experimentation, A/B testing frameworks, and metrics design for advertising or e-commerce.\nDemonstrated ability to communicate complex technical topics clearly to both technical and non-technical audiences.\nExperience in computational advertising, including familiarity with auction theory, ad economics, and advertiser performance metrics.\n\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n\nThe base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.\n\nUSA, NY, New York - 183,800.00 - 248,700.00 USD annually\n\nUSA, WA, SEATTLE - 167,100.00 - 226,100.00 USD annually\n\nCompany\n- Amazon.com Services LLC\n\nJob ID: A10580323\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 6.453,
+        "city": "palo alto",
+        "latitude": 37.39652,
+        "longitude": -122.143088,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Enigma",
+      "title": "AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481694876/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA\n\nResponsibilities:\n\nDesign, execute, and analyze machine learning experiments, establishing strong baselines and selecting appropriate evaluation metrics.\nStay up to date with the latest AI research; identify, adapt, and validate novel techniques for company-specific use cases.\nDefine rigorous evaluation protocols, including offline metrics, user studies, and adversarial (red team) testing to ensure statistical soundness.\nSpecify data and annotation requirements; develop annotation guidelines and oversee quality control processes.\nCollaborate closely with domain experts, product managers, and engineering teams to refine problem statements and operational constraints.\nDevelop reusable research assets such as datasets, modular code components, evaluation suites, and comprehensive documentation.\nWork alongside ML Engineers to optimize training and inference pipelines, ensuring seamless integration into production systems.\nContribute to academic publications and represent the company in research communities, as needed.\n\nEducational Qualifications:\n\nPh.D. in Computer Science, Artificial Intelligence, Machine Learning, or a related field is strongly preferred.\nCandidates with a master’s degree and exceptional research or industry experience will also be considered.\n\nIndustry Experience:\n\n3–5 years of experience in AI/ML research roles, ideally in applied or product-focused environments.\nDemonstrated success in delivering research-driven solutions that have been deployed in production.\nExperience collaborating in cross-functional teams across research, engineering, and product.\nPublications in top-tier AI/ML conferences (e.g., NeurIPS, ICML, ACL, CVPR) are a plus.\n\nTechnical Skills:\nStrong foundational knowledge in machine learning and deep learning algorithms.\nHands-on experience with PEFT/LoRA, adapters, fine-tuning techniques, and RLHF/RLAIF (e.g., PPO, DPO, GRPO).\nAbility to read, implement, and adapt state-of-the-art research papers to real-world use cases.\nProficiency in hypothesis-driven experimentation, ablation studies, and statistically sound evaluations.\nAdvanced programming skills in Python (preferred), C++, or Java.\nExperience with deep learning frameworks such as PyTorch, Hugging Face, NumPy, etc.\nStrong mathematical foundations in probability, linear algebra, and calculus.\nDomain expertise in one or more areas: natural language processing (NLP), symbolic reasoning, speech processing, etc.\nAbility to translate research insights into roadmaps, technical specifications, and product improvements.\n\nAI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nHospitals and Health Care",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 13.183,
+        "city": "san jose",
+        "latitude": 37.296011,
+        "longitude": -121.814552,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon Music",
+      "title": "Sr. Applied Scientist, Amazon Music - Search Science",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455916758/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Description\n\nAmazon Music is an immersive audio entertainment service that deepens connections between fans, artists, and creators. From personalized music playlists to exclusive podcasts, concert livestreams to artist merch, Amazon Music is innovating at some of the most exciting intersections of music and culture. We offer experiences that serve all listeners with our different tiers of service: Prime members get access to all the music in shuffle mode, and top ad-free podcasts, included with their membership; customers can upgrade to Amazon Music Unlimited for unlimited, on-demand access to 100 million songs, including millions in HD, Ultra HD, and spatial audio; and anyone can listen for free by downloading the Amazon Music app or via Alexa-enabled devices. Join us for the opportunity to influence how Amazon Music engages fans, artists, and creators on a global scale.\n\nAmazon Music Search Science team is seeking an experienced Applied Scientist who will join a team of experts in the field of machine learning, and work together to break new ground in the world of understanding and classifying different forms of music, and creating interactive experiences to help users find the music they are in the mood for. We work on machine learning problems for music classification, recommender systems, dialogue systems, NLP, and music information retrieval. You'll work in a collaborative environment where you can pursue applied research, with many peta-bytes of data, work on problems that haven’t been solved before, quickly implement and deploy your algorithmic ideas at scale, understand whether they succeed via statistically relevant experiments across millions of customers, and publish your research. You'll see the work you do directly improve the experience of Amazon Music customers on Alexa/Echo, mobile, and web.\n\nKey job responsibilities\n\nUse machine learning, deep learning, LLMs and Agentic AI techniques to create scalable solutions for business problems\nAnalyze and extract relevant information from large amounts of Amazon's data to help automate and optimize key processes\nDesign, development and evaluation of AI models for predictive learning\nWork closely with software engineering teams to drive model implementations and new feature creations\nEstablish scalable, efficient, automated processes for large scale data analyses, model development, model validation and model implementation\nResearch and implement novel machine learning and statistical approaches\n\nAbout The Team\n\nEveryone on our team has a meaningful impact on product features, new directions in music streaming, and customer engagement. We are looking for new team members across a variety of job functions including software engineering/development, marketing, design, ops and more. Come join us as we make history by launching exciting new projects in the coming year.Our team is focused on building a personalized, curated, and seamless music experience. We want to help our customers discover up-and-coming artists, while also having access to their favorite established musicians. We build systems that are distributed on a large scale, spanning our music apps, web player, and voice-forward audio engagement on mobile and Amazon Echo devices, powered by Alexa to support our customer base. Amazon Music offerings are available in countries around the world, and our applications support our mission of delivering music to customers in new and exciting ways that enhance their day-to-day lives.\n\nBasic Qualifications\n\n3+ years of building machine learning models for business application experience\nPhD, or Master's degree and 6+ years of applied research experience\nExperience programming in Java, C++, Python or related language\nExperience with neural deep learning methods and machine learning\n\nPreferred Qualifications\n\nExperience with modeling tools such as R, scikit-learn, Spark MLLib, MxNet, Tensorflow, numpy, scipy etc.\nExperience with large scale distributed systems such as Hadoop, Spark etc.\n\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\n\nLos Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n\nThe base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.\n\nUSA, CA, Sunnyvale - 192,200.00 - 260,000.00 USD annually\n\nCompany\n- Amazon.com Services LLC\n\nJob ID: A10457219\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nEntertainment Providers",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "ByteDance",
+      "title": "Research Scientist Graduate (Applied Machine Learning - ML System) - 2026 Start (PhD)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474550471/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 13.183,
+        "city": "san jose",
+        "latitude": 37.296011,
+        "longitude": -121.814552,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon",
+      "title": "Senior Applied Scientist, Entertainment Devices & Grocery Experiences (EDGE) Ads",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455798834/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon Web Services (AWS)",
+      "title": "Principal AI Scientist, Telco Tech, AWS Industries",
+      "location": "Cupertino, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455933564/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 4.7,
+        "city": "cupertino",
+        "latitude": 37.3194,
+        "longitude": -122.044957,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon Web Services (AWS)",
+      "title": "Principal Applied Scientist, AWS Agentic AI",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455916787/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 3.522,
+        "city": "santa clara",
+        "latitude": 37.364621,
+        "longitude": -121.967973,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon Web Services (AWS)",
+      "title": "Applied Scientist, AWS Agentic AI",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4456199302/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 3.522,
+        "city": "santa clara",
+        "latitude": 37.364621,
+        "longitude": -121.967973,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon",
+      "title": "Senior Applied Scientist, Fauna Robotics",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455926241/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon",
+      "title": "Senior Applied Scientist, Last Mile Robotics",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455926142/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 3.522,
+        "city": "santa clara",
+        "latitude": 37.364621,
+        "longitude": -121.967973,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "TikTok",
+      "title": "Tech Lead, Research Scientist, Generative AI",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481931684/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 13.183,
+        "city": "san jose",
+        "latitude": 37.296011,
+        "longitude": -121.814552,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Archetype AI",
+      "title": "AI Researcher (Ph.D.)",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472884414/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 19.708,
+        "city": "san mateo",
+        "latitude": 37.56031,
+        "longitude": -122.3106,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Meta",
+      "title": "AI Research Scientist - FAIR, MSL",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480679304/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 9.313,
+        "city": "menlo park",
+        "latitude": 37.479731,
+        "longitude": -122.148055,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Suno",
+      "title": "Machine Learning Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4359826138/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Archer",
+      "title": "Principal Applied Scientist - Robotics",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481696029/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 3.522,
+        "city": "santa clara",
+        "latitude": 37.364621,
+        "longitude": -121.967973,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Hippocratic AI",
+      "title": "Applied Scientist, Reinforcement Learning (Mid, Senior, Staff)",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4446546683/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 9.313,
+        "city": "menlo park",
+        "latitude": 37.479731,
+        "longitude": -122.148055,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Roblox",
+      "title": "Principal/Senior Machine Learning Scientist - Search and Discovery",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4377296929/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 19.708,
+        "city": "san mateo",
+        "latitude": 37.56031,
+        "longitude": -122.3106,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "BetterUp",
+      "title": "Senior Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481647884/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Thatch",
+      "title": "Data Scientist: Product",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480678592/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Pinterest",
+      "title": "Master's University Grad Data Scientist (USA)",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474364520/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 6.453,
+        "city": "palo alto",
+        "latitude": 37.39652,
+        "longitude": -122.143088,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Pinterest",
+      "title": "Master's University Grad Data Scientist (USA)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474371289/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Deloitte",
+      "title": "Sr. Data Scientist",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474700419/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 13.183,
+        "city": "san jose",
+        "latitude": 37.296011,
+        "longitude": -121.814552,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "OpenAI",
+      "title": "Data Scientist, SMB Ads Growth",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447222173/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Chime",
+      "title": "Staff Data Scientist, Marketing Analytics",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480099549/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Aircall",
+      "title": "Data Scientist, Product Analytics",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4456362390/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Wise Skulls",
+      "title": "Senior Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480692231/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon",
+      "title": "Sr. Applied Scientist, PXT Central Science",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455922015/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Atlassian",
+      "title": "Principal Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4456181670/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Snowflake",
+      "title": "Senior Data Scientist - Product",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4266592649/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 9.313,
+        "city": "menlo park",
+        "latitude": 37.479731,
+        "longitude": -122.148055,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Sandisk",
+      "title": "Sr. People Data Scientist",
+      "location": "Milpitas, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477867516/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 8.118,
+        "city": "milpitas",
+        "latitude": 37.433136,
+        "longitude": -121.890934,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Walmart",
+      "title": "Staff, Data Scientist",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463073387/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Capital One",
+      "title": "Principal Data Scientist - AI Foundations, Specialist Models",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4438218855/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 13.183,
+        "city": "san jose",
+        "latitude": 37.296011,
+        "longitude": -121.814552,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Capital One",
+      "title": "Manager, Data Scientist - Recommendation & Personalization Systems",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474520069/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 13.183,
+        "city": "san jose",
+        "latitude": 37.296011,
+        "longitude": -121.814552,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "PwC",
+      "title": "AI Engineer / Data Scientist, AI Experienced Associate",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474555202/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon",
+      "title": "Applied Scientist, Linear Personalization Experience Team (LPEX)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4465369334/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Annapurna Labs",
+      "title": "Applied Scientist, Machine Learning Accelerator - Annapurna Labs",
+      "location": "Cupertino, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455904618/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 4.7,
+        "city": "cupertino",
+        "latitude": 37.3194,
+        "longitude": -122.044957,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "TikTok",
+      "title": "Applied Scientist, Recommendation, E-Commerce Alliance",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481940256/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 13.183,
+        "city": "san jose",
+        "latitude": 37.296011,
+        "longitude": -121.814552,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Vinci",
+      "title": "Product Data Scientist",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4482823042/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 6.453,
+        "city": "palo alto",
+        "latitude": 37.39652,
+        "longitude": -122.143088,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Prime Video & Amazon MGM Studios",
+      "title": "Sr. Applied Scientist, Prime Video - Personalization and Discovery Science",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455911993/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Coherent Corp.",
+      "title": "Principal AI Data Scientist – Wafer Fabrication",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463086039/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 8.843,
+        "city": "fremont",
+        "latitude": 37.49446,
+        "longitude": -121.94115,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Booz Allen Hamilton",
+      "title": "Data Scientist",
+      "location": "Monterey, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474333237/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 54.784,
+        "city": "monterey",
+        "latitude": 36.601193,
+        "longitude": -121.88311,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon",
+      "title": "Sr. Applied Scientist, Sponsored Products and Brands Agent",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4456189421/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 6.453,
+        "city": "palo alto",
+        "latitude": 37.39652,
+        "longitude": -122.143088,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon",
+      "title": "Senior Applied Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455921690/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Cohere",
+      "title": "Senior Research Scientist, Model Evaluation",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4317703639/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "BetterUp",
+      "title": "Senior Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481666190/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Uber Freight",
+      "title": "Data Scientist III - Spot Pricing",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481625876/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon",
+      "title": "Principal Applied Scientist, Ads Optimization, Full Funnel Agentic Intelligence and Models",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455909471/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 6.453,
+        "city": "palo alto",
+        "latitude": 37.39652,
+        "longitude": -122.143088,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4339925688/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Intuit",
+      "title": "Sr. Staff Data Scientist, Lending",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474728316/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Genentech",
+      "title": "Senior Principal DSX Data Scientist, AI",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4456111955/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 26.72,
+        "city": "south san francisco",
+        "latitude": 37.655104,
+        "longitude": -122.376234,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Brex",
+      "title": "Data Scientist II, Applied ML",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474541246/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "PwC",
+      "title": "AI Engineer / Data Scientist, AI Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474553305/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "CSC Generation",
+      "title": "Staff Data Scientist– Pricing Science",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4370032685/",
+      "date_posted": "2026-10-23",
       "salary": "",
       "ats": "LinkedIn",
       "geography": {
@@ -2115,12 +3931,266 @@
         "distance_miles": null,
         "reason": "An unambiguous city and state are required."
       }
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Research Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4481678542/",
+      "date_posted": "2026-10-23",
+      "salary": "$170,000 to $250,000",
+      "ats": "LinkedIn",
+      "description": "Research Engineers: Let 250+ Companies Compete For You\nFonzi is an AI recruiting company.\nNo job boards. No recruiter spam. Companies request to interview you and submit salary bids upfront.\nEvery week, hiring managers at 250+ pre-vetted startups in NYC and San Francisco review a curated group of engineers. They're reading profiles optimized by our team to surface what matters: what you've built, how you think about systems, and whether you're the kind of engineer who ships.\nCompanies on Fonzi are Applied AI startups, Frontier labs, Hypergrowth startups, PE firms starting lean AI teams and more. They're backed by investors like A16z, Sequoia Capital, General Catalyst, Y Combinator and more.\nHow It Works\n5-minute application\nWe reach out, learn what you're building and what excites you, and optimize your profile\nHiring managers review the cohort and request interviews with candidates they want\nCompanies submit competing salary bids directly to you\nYou only interview where you're genuinely interested\nCompletely free. We have an iMessage agent + humans in the loop you can text anytime w/ questions or requests to help handle scheduling and coordination\n\nWho We're Looking For\nThe research engineers who do best on Fonzi:\nHave turned research ideas into working code: training runs, experiments and evals\nAre strong in Python and PyTorch, and comfortable with distributed training and GPUs\nHave worked on LLM training, fine-tuning, reinforcement learning or evaluation\nCan read a paper, implement it and tell whether it actually works\nThrive in small teams where research and engineering sit side by side\nHave 2-8 years of experience in research engineering, ML or a related field\n\nWhat You'll Build\nThe companies on Fonzi are working on:\nPost-training, RL and fine-tuning pipelines for frontier and domain-specific models\nEvaluation systems that measure what models can actually do\nDistributed training and research infrastructure at scale\nAgents, world models and new architectures moving from paper to product\nOpen-source models and research shipped to real users\n\nCompensation\n$170,000 to $250,000+ base salary depending on experience and role. Many positions include meaningful equity at pre-seed through Series B stage companies.\n\nThe Interview Process (Typical)\nScreening conversation looking for communication skills, cultural fit and research curiosity\nTechnical deep-dive on a past project, your experimental choices and what you learned\nCoding or pairing session on ML implementation or experiment design\n\nIf you want your research to ship, not sit in a paper, we want to hear from you.\n\nShow more\n\nShow less\n\nSeniority level\n\nEntry level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "An unambiguous city and state are required."
+      }
+    },
+    {
+      "company": "Google",
+      "title": "Staff Research Scientist, Foundational Audio",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472589333/",
+      "date_posted": "2026-10-23",
+      "salary": "$174000 - $252000",
+      "ats": "LinkedIn",
+      "description": "Minimum qualifications:\n\nPhD in Computer Science, Linguistics, Electrical Engineering, Mathematics, Physics, a related field, or equivalent practical experience.\n2 years of experience leading a research agenda in sequence, speech, or audio modeling.\nExperience with sequence-to-sequence models across state-space or linear attention, token-free latent representations, speech-text modeling, diffusion, flow-matching, speculative decoding, or streaming alignment.\nExperience with hardware-aware model co-design, scaling laws, memory or cache optimization, or streaming inference latency in JAX, PyTorch, or TensorFlow.\nOne or more peer-reviewed publications in machine learning, speech, or audio conferences or journals.\n\nPreferred qualifications:\n\n10 years of experience in the theoretical and algorithmic aspects of sequence modeling and machine learning research.\n4 years of experience setting research agendas across multiple projects or teams, and publications in NeurIPS, ICML, ICLR, JMLR, IEEE Transactions, Nature, Interspeech, ICASSP, or ACL.\nExperience building, scaling, pre-training, and post-training foundational audio, speech, or multimodal models using reinforcement learning alignment or multi-resolution modeling.\nExperience with model compression, distillation, or machine learning acceleration on TPUs or GPUs, and establishing evaluation benchmarks.\nContributions to open-source machine learning or speech toolkits such as JAX, PyTorch, Hugging Face Transformers, Kaldi, K2, or ESPNet.\n\nAbout The Job\n\nAs an organization, Google maintains a portfolio of research projects driven by fundamental research, new product innovation, product contribution and infrastructure goals, while providing individuals and teams the freedom to emphasize specific types of work. As a Research Scientist, you'll setup large-scale tests and deploy promising ideas quickly and broadly, managing deadlines and deliverables while applying the latest theories to develop new and improved products, processes, or technologies. From creating experiments and prototyping implementations to designing new architectures, our research scientists work on real-world problems that span the breadth of computer science, such as machine (and deep) learning, data mining, natural language processing, hardware and software performance analysis, improving compilers for mobile platforms, as well as core search and much more.\n\nAs a Research Scientist, you'll also actively contribute to the wider research community by sharing and publishing your findings, with ideas inspired by internal projects as well as from collaborations with research programs at partner universities and technical institutes all over the world.\n\nGoogle Research is building the next generation of intelligent systems for all Google products. To achieve this, we’re working on projects that utilize the latest computer science techniques developed by skilled software developers and research scientists. Google Research teams collaborate closely with other teams across Google, maintaining the flexibility and versatility required to adapt new projects and foci that meet the demands of the world's fast-paced business needs.\n\nIndividual pay is determined by factors including job-related skills, experience, and relevant education or training.\n\nUS: $174000 - $252000 (USD) + 15% bonus target + equity + benefits\n\nResponsibilities\n\nLearn more about benefits at Google .\n\nDefine and lead research agendas, experimental designs, and evaluation benchmarks in sequence, speech, audio, and multimodal modeling.\nCo-design and optimize models for scaling laws, memory or cache efficiency, distillation, and low-latency streaming inference in JAX, PyTorch, or TensorFlow.\nContribute to open-source toolkits, and mentor researchers.\n\nGoogle is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nInformation Services and Technology, Information and Internet",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "City is unknown or has multiple Census locations."
+      }
+    },
+    {
+      "company": "Google DeepMind",
+      "title": "Research Scientist, GenAI, DeepMind",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481683434/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "City is unknown or has multiple Census locations."
+      }
+    },
+    {
+      "company": "Google",
+      "title": "Senior Research Scientist, Foundational AI in Health",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472584544/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "City is unknown or has multiple Census locations."
+      }
+    },
+    {
+      "company": "Aptuity Solutions Inc.",
+      "title": "Opening for Physical AI Researcher - CA",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4480639198/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "An unambiguous city and state are required."
+      }
+    },
+    {
+      "company": "Digital Waffle",
+      "title": "Data Scientist",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4481913616/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "An unambiguous city and state are required."
+      }
+    },
+    {
+      "company": "Plaid",
+      "title": "Senior Data Scientist - Embedded Insights",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4465884835/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "An unambiguous city and state are required."
+      }
+    },
+    {
+      "company": "Samsung Research America (SRA)",
+      "title": "Staff AI Research Engineer - Digital Health",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473116554/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "City is unknown or has multiple Census locations."
+      }
+    },
+    {
+      "company": "Intuit",
+      "title": "Sr. Staff Data Scientist, Lending",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474724528/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "City is unknown or has multiple Census locations."
+      }
+    },
+    {
+      "company": "Intuit",
+      "title": "Staff AI Scientist",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4482898987/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "City is unknown or has multiple Census locations."
+      }
+    },
+    {
+      "company": "Google",
+      "title": "Research Data Scientist, Core Metrics",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481901307/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "City is unknown or has multiple Census locations."
+      }
+    },
+    {
+      "company": "PwC",
+      "title": "AI Engineer / Data Scientist, AI Experienced Associate",
+      "location": "Silicon Valley, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474543873/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "City is unknown or has multiple Census locations."
+      }
+    },
+    {
+      "company": "Amazon",
+      "title": "Senior Applied Scientist",
+      "location": "San Francisco County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455941013/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "City is unknown or has multiple Census locations."
+      }
+    },
+    {
+      "company": "Cerebro",
+      "title": "AI Research Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4483143244/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "An unambiguous city and state are required."
+      }
+    },
+    {
+      "company": "Lyft",
+      "title": "Data Scientist, Algorithms - Dynamic Pricing",
+      "location": "San Francisco County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474556180/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "City is unknown or has multiple Census locations."
+      }
+    },
+    {
+      "company": "Lyft",
+      "title": "Senior Data Scientist, Algorithm, Lyft Biz",
+      "location": "San Francisco County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4437747126/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "City is unknown or has multiple Census locations."
+      }
+    },
+    {
+      "company": "Google",
+      "title": "Senior Staff Research Data Scientist, Search Ads in AI Experiences",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463872552/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "City is unknown or has multiple Census locations."
+      }
+    },
+    {
+      "company": "Waymo",
+      "title": "Senior Data Scientist, Simulation Capacity Optimization",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4460077501/",
+      "date_posted": "2026-10-22",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "City is unknown or has multiple Census locations."
+      }
     }
   ],
   "geographic_counts": {
-    "in_radius": 95,
+    "in_radius": 153,
     "remote": 0,
-    "ambiguous": 19,
+    "ambiguous": 37,
     "outside_radius": 0
   }
 }
