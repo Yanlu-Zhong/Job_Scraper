@@ -1,40 +1,14 @@
 {
-  "scraped_at": "2026-10-23 01:47 UTC",
-  "total": 10,
-  "new_count": 1,
+  "scraped_at": "2026-10-23 06:30 UTC",
+  "total": 8,
+  "new_count": 0,
   "scrape_status": {
     "status": "success",
-    "raw_rows": 286,
+    "raw_rows": 228,
     "queries": 25,
     "errors": 0
   },
   "jobs": [
-    {
-      "company": "LG Electronics",
-      "title": "Staff/Sr. Staff, Physical AI Researcher (LG Emerging Tech Lab)",
-      "location": "Pleasanton, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=a1703878cb5e70e0",
-      "direct_url": "https://grnh.se/rw0pyt5n8us",
-      "company_url": "https://www.indeed.com/cmp/Lg-Electronics",
-      "date_posted": "2026-10-23",
-      "description": "Step into the innovative world of LG Electronics. As a global leader in technology, LG Electronics is dedicated to creating innovative solutions for a better life. Our brand promise, 'Life's Good', embodies our commitment to ensuring a happier life for all. We have a rich history spanning over six decades and a global presence in over 290 locations. Our diverse portfolio includes Home Appliance Solutions, Media Entertainment Solutions, Vehicle Solutions, and Eco Solutions. Our management philosophy, \"Jeong-do Management,\" embodies our commitment to high ethical standards and transparent operations. Grounded in the principles of 'Customer-Value Creation' and 'People-Oriented Management', these values shape our corporate culture, fostering creativity, diversity, and integrity. At LG, we believe in the power of collective wisdom through an inclusive work environment. Join us and become a part of a company that is shaping the future of technology. At LG, we strive to make Life Good for Everyone.\n\n**The Opportunity**\n\n**About the Team – LG's Emerging Technology Lab**\n\nLG's Emerging Technology Lab (ETL) is the catalyst for technological innovation within LG's CTO organization. Based in Silicon Valley and New Jersey, we drive excellence across the CTO organization and LG's business units by pioneering select emerging technology areas. As a Center of Excellence (CoE), we define and shape key technology domains, setting strategic directions that foster impactful internal and external partnerships and deliver measurable business value.\n\n**About the Position – Physical AI Lead**\n\nWe are seeking an exceptional Physical AI researcher to help define the future of embodied intelligence at LG and shape our research and product roadmaps toward the vision of *Zero-Labor Home*.\n\nThis hybrid role, based at LG's Emerging Tech Lab in **Santa Clara, CA**, offers a unique opportunity to **develop generalist robot intelligence and deploy it at scale** in next-generation LG robot platforms. You will work at the frontier of embodied intelligence, leading research that can transition from breakthrough ideas to real-world products at global scale.\n\nYou will lead a growing team of Physical AI researchers and work closely with robotics and AI teams across LG to translate cutting-edge research into next-generation intelligent systems.\n\n**What You Will Do**\n\n* **Set the technical direction for LG's Physical AI team**, leading advanced research in multimodal robot foundation models and physical intelligence.\n* Lead and manage **collaborations with LG HQ and third-party research labs** to drive the technical integration of advanced robotics technologies into the LG ecosystem.\n* **Build and influence a cross-functional Physical AI ecosystem**, partnering with LG's AI, robotics, software, and product teams as well as leading external research partners.\n* Define **project scope, goals, and deliverables** that align cutting-edge research with strategic business objectives.\n* **Lead fundamental and applied research** that advances the scientific and technological frontiers of physical intelligence, with a clear path toward real-world robotic systems.\n* **Invent and improve paradigms for physical intelligence**, including multimodal foundation models (images, video, text, tactile, etc.), world-action models, generalist dexterity, and agentic robot orchestration.\n\n**Why This Opportunity Is Unique**\n\n* **See your research move beyond the lab.** Work at the intersection of frontier AI research and large-scale consumer deployment, where breakthroughs can transition rapidly from research into products.\n* **Maintain a strong research presence while building real products**, with support for research ownership, publication, and collaboration with leading universities and AI labs.\n* **Engage with startups and industry collaborators** to co-design hardware-software systems and validate them in real-world applications.\n  \n\n**Required Qualifications**\n\n* PhD in Computer Science, Robotics, Machine Learning, or a related technical field, with a strong publication record and 3+ years of industry experience.\n* Deep research and engineering expertise in one or more of the following areas:\n* + Robot foundation models (e.g., VLAs, LBMs, diffusion/flow matching policies for manipulation and locomotion)\n  + World model training for robot action prediction\n  + Spatial intelligence (self-supervised visual foundation models, 3D scene reconstruction, embodied scene understanding)\n  + Multimodal representation learning across vision, language, and touch\n  + Learning from human demonstrations and self-play\n* 1+ years of experience leading technically ambitious research projects in dynamic, fast-moving environments.\n* Hands-on experience integrating AI models with real robotic systems, including manipulators and/or mobile robots, and sensors such as RGB and depth cameras, LiDAR, force-torque sensors, and tactile sensors.\n* Experience with physics-based simulation platforms (e.g., PyBullet, MuJoCo, Isaac Sim) for large-scale data generation, experimentation, and evaluation.\n* Excellent written and verbal communication skills, with the ability to clearly articulate complex technical ideas across research, engineering, and leadership teams.\n\n**Please Note:** the salary range provided is dependent on the experience and level of candidate hired.\n\n#LI-JH1 #HYBRID\n\n**Benefits Offered Full-Time Employees:**\n\n* No-cost employee premiums for you and your eligible dependents for competitive medical, dental, vision and prescription benefits.\n* Auto enrollment with immediate vesting of competitive company matching contributions in a 401(k) Retirement Savings Plan with several investment options.\n* Generous Paid Time Off program that includes company holidays and a combined bank of paid sick and vacation time.\n* Performance based Short-Term Incentives (varies by role).\n* Access to confidential mental health resources to help you and your loved ones improve your qualit",
-      "salary": "$200k–$350k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "support@lg4me.freshdesk.com",
-      "ats": "Indeed",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 21.005,
-        "city": "pleasanton",
-        "latitude": 37.667185,
-        "longitude": -121.88123,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
     {
       "company": "Outset",
       "title": "Research Engineer",
@@ -110,6 +84,32 @@
         "city": "palo alto",
         "latitude": 37.39652,
         "longitude": -122.143088,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "LG Electronics",
+      "title": "Staff/Sr. Staff, Physical AI Researcher (LG Emerging Tech Lab)",
+      "location": "Pleasanton, CA, USA",
+      "url": "https://www.indeed.com/viewjob?jk=a1703878cb5e70e0",
+      "direct_url": "https://grnh.se/rw0pyt5n8us",
+      "company_url": "https://www.indeed.com/cmp/Lg-Electronics",
+      "date_posted": "2026-10-23",
+      "description": "Step into the innovative world of LG Electronics. As a global leader in technology, LG Electronics is dedicated to creating innovative solutions for a better life. Our brand promise, 'Life's Good', embodies our commitment to ensuring a happier life for all. We have a rich history spanning over six decades and a global presence in over 290 locations. Our diverse portfolio includes Home Appliance Solutions, Media Entertainment Solutions, Vehicle Solutions, and Eco Solutions. Our management philosophy, \"Jeong-do Management,\" embodies our commitment to high ethical standards and transparent operations. Grounded in the principles of 'Customer-Value Creation' and 'People-Oriented Management', these values shape our corporate culture, fostering creativity, diversity, and integrity. At LG, we believe in the power of collective wisdom through an inclusive work environment. Join us and become a part of a company that is shaping the future of technology. At LG, we strive to make Life Good for Everyone.\n\n**The Opportunity**\n\n**About the Team – LG's Emerging Technology Lab**\n\nLG's Emerging Technology Lab (ETL) is the catalyst for technological innovation within LG's CTO organization. Based in Silicon Valley and New Jersey, we drive excellence across the CTO organization and LG's business units by pioneering select emerging technology areas. As a Center of Excellence (CoE), we define and shape key technology domains, setting strategic directions that foster impactful internal and external partnerships and deliver measurable business value.\n\n**About the Position – Physical AI Lead**\n\nWe are seeking an exceptional Physical AI researcher to help define the future of embodied intelligence at LG and shape our research and product roadmaps toward the vision of *Zero-Labor Home*.\n\nThis hybrid role, based at LG's Emerging Tech Lab in **Santa Clara, CA**, offers a unique opportunity to **develop generalist robot intelligence and deploy it at scale** in next-generation LG robot platforms. You will work at the frontier of embodied intelligence, leading research that can transition from breakthrough ideas to real-world products at global scale.\n\nYou will lead a growing team of Physical AI researchers and work closely with robotics and AI teams across LG to translate cutting-edge research into next-generation intelligent systems.\n\n**What You Will Do**\n\n* **Set the technical direction for LG's Physical AI team**, leading advanced research in multimodal robot foundation models and physical intelligence.\n* Lead and manage **collaborations with LG HQ and third-party research labs** to drive the technical integration of advanced robotics technologies into the LG ecosystem.\n* **Build and influence a cross-functional Physical AI ecosystem**, partnering with LG's AI, robotics, software, and product teams as well as leading external research partners.\n* Define **project scope, goals, and deliverables** that align cutting-edge research with strategic business objectives.\n* **Lead fundamental and applied research** that advances the scientific and technological frontiers of physical intelligence, with a clear path toward real-world robotic systems.\n* **Invent and improve paradigms for physical intelligence**, including multimodal foundation models (images, video, text, tactile, etc.), world-action models, generalist dexterity, and agentic robot orchestration.\n\n**Why This Opportunity Is Unique**\n\n* **See your research move beyond the lab.** Work at the intersection of frontier AI research and large-scale consumer deployment, where breakthroughs can transition rapidly from research into products.\n* **Maintain a strong research presence while building real products**, with support for research ownership, publication, and collaboration with leading universities and AI labs.\n* **Engage with startups and industry collaborators** to co-design hardware-software systems and validate them in real-world applications.\n  \n\n**Required Qualifications**\n\n* PhD in Computer Science, Robotics, Machine Learning, or a related technical field, with a strong publication record and 3+ years of industry experience.\n* Deep research and engineering expertise in one or more of the following areas:\n* + Robot foundation models (e.g., VLAs, LBMs, diffusion/flow matching policies for manipulation and locomotion)\n  + World model training for robot action prediction\n  + Spatial intelligence (self-supervised visual foundation models, 3D scene reconstruction, embodied scene understanding)\n  + Multimodal representation learning across vision, language, and touch\n  + Learning from human demonstrations and self-play\n* 1+ years of experience leading technically ambitious research projects in dynamic, fast-moving environments.\n* Hands-on experience integrating AI models with real robotic systems, including manipulators and/or mobile robots, and sensors such as RGB and depth cameras, LiDAR, force-torque sensors, and tactile sensors.\n* Experience with physics-based simulation platforms (e.g., PyBullet, MuJoCo, Isaac Sim) for large-scale data generation, experimentation, and evaluation.\n* Excellent written and verbal communication skills, with the ability to clearly articulate complex technical ideas across research, engineering, and leadership teams.\n\n**Please Note:** the salary range provided is dependent on the experience and level of candidate hired.\n\n#LI-JH1 #HYBRID\n\n**Benefits Offered Full-Time Employees:**\n\n* No-cost employee premiums for you and your eligible dependents for competitive medical, dental, vision and prescription benefits.\n* Auto enrollment with immediate vesting of competitive company matching contributions in a 401(k) Retirement Savings Plan with several investment options.\n* Generous Paid Time Off program that includes company holidays and a combined bank of paid sick and vacation time.\n* Performance based Short-Term Incentives (varies by role).\n* Access to confidential mental health resources to help you and your loved ones improve your qualit",
+      "salary": "$200k–$350k/yr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "support@lg4me.freshdesk.com",
+      "ats": "Indeed",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 21.005,
+        "city": "pleasanton",
+        "latitude": 37.667185,
+        "longitude": -121.88123,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
     },
@@ -192,58 +192,6 @@
       }
     },
     {
-      "company": "Intuitive (Intuitive Surgical)",
-      "title": "Senior Clinical Data Scientist",
-      "location": "Sunnyvale, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=7802c9148150258b",
-      "direct_url": "https://careers.intuitive.com/en/jobs/744000156897679/JOB219885/senior-clinical-data-scientist/",
-      "company_url": "https://www.indeed.com/cmp/Intuitive-(intuitive-Surgical)",
-      "date_posted": "2026-10-22",
-      "description": "* Sunnyvale, CA, United States\n* Not Remote\n* Engineering\n* JOB219885\n\n  \n\n### **Company Description**\n\nIt started with a simple idea: what if surgery could be less invasive and recovery less painful? Nearly 30 years later, that question still fuels everything we do at **Intuitive**. As a global leader in **robotic-assisted surgery** and **minimally invasive care**, our technologies—like the **da Vinci surgical system** and **Ion**—have transformed how care is delivered for millions of patients worldwide.\n\nWe’re a team of engineers, clinicians, and innovators united by one purpose: to make surgery smarter, safer, and more human. Every day, our work helps care teams perform with greater precision and patients recover faster, improving outcomes around the world.\n\nThe problems we solve demand creativity, rigor, and collaboration. The work is challenging, but deeply meaningful—because every improvement we make has the potential to change a life.\n\nIf you’re ready to contribute to something bigger than yourself and help **transform the future of healthcare**, you’ll find your purpose here.\n\n### **Job Description**\n\n**Primary Function of Position**\n\nThe Senior Clinical Data Scientist will be part of the Ion business unit. The Ion endoluminal system is Intuitive's robotic platform for minimally invasive biopsy in the peripheral lung, with an initial goal of improving the early diagnosis of lung cancer. The Senior Clinical Data Scientist sits at the intersection of clinical science and data science within the Ion business unit, translating clinical questions into rigorous, data-driven analyses that inform product strategy, evidence generation, and business decisions. This role reports to the Managing Staff, Clinical Data Science.\n\nThe individual in this role will partner with clinicians, cross-functional teams, and data engineering to design and execute a clinical data science strategy — defining hypotheses grounded in customer needs, identifying appropriate data sources, conducting quantitative analyses, and communicating results that demonstrably impact patient outcomes and business objectives. Unlike a purely clinical or purely technical role, this position demands both deep clinical understanding of the Ion platform and hands-on proficiency in modern data science methods and tools.\n\nSuccess requires a strong technical foundation in Python or R, statistics, and causal reasoning; the ability to navigate ambiguity in a fast-evolving clinical and commercial landscape; and exceptional skill in communicating complex findings clearly — especially through polished visual presentations and well-organized documentation.\n\n**Essential Job Duties**\n\n* Work with internal and external stakeholders (including clinicians, administrators, and policymakers) to identify data-centric needs in the clinical space and translate them into prioritized research questions with testable hypotheses.\n* Design, implement, and validate quantitative analyses in Python or R — applying appropriate statistical, machine learning, and causal inference methods to Ion device logs, clinical studies/registries, insurance claims databases, and EHR/EMR data — to test hypotheses.\n* Translate analyses into decision-useful stories, tailoring them to diverse groups of stakeholders — from technical peers building product, to senior leadership defining strategy, to external physicians looking to improve efficiency.\n* Demonstrate impact through internal/external reports, presentations, dashboards, peer-reviewed publications, and customer-facing deliverables.\n* Partner with cross-functional teams to assist with the design and execution of global clinical and economic evidence strategies, including designing and supporting clinical trials.\n* Support regulatory submissions by structuring and validating clinical datasets to meet FDA and EU MDR compliance standards.\n* Create and maintain well-organized, reproducible codebases with clear documentation, version control, and consistent coding standards.\n* Catalyze a data-driven culture internally — champion the use of data to generate compelling evidence and ultimately build a better product.\n\n  \n\n### **Qualifications**\n\n**Required Skills and Experience**\n\n* 6+ years of experience with Master's degree or 4+ years with PhD in a quantitative, scientific, or engineering field (e.g., biostatistics, epidemiology, data science, computer science, biomedical engineering, public health, or a related discipline). MD with quantitative research experience also accepted.\n* Experience with Python or R for data analysis, statistical modeling, and visualization.\n* Working knowledge of SQL for querying and managing structured datasets.\n* Demonstrated experience with causal inference methods and study design.\n* Experience working with device-generated log data, clinical study/registry data, and claims/EHR-style databases.\n* Experience with causal inference in a healthcare or medical device context.\n* Experience using platforms such as Snowflake or Databricks for production-level data pipelines and analytics.\n* Experience with data visualization tools (e.g., Tableau) for the presentation of complex data to non-technical stakeholders or regulatory bodies.\n* Experience with Electronic Data Capture (EDC) systems (e.g., Medrio) for managing clinical study/registry data.\n* Experience using AI/ML tools to accelerate software development and data analysis workflows.\n\n**Preferred Skills and Experience**\n\n* Excellent critical thinking and analytical skills, with the ability to frame ambiguous clinical questions as testable hypotheses and select fit-for-purpose methods.\n* Stellar organizational skills, particularly with respect to code management and documentation.\n* Ability to work effectively with cross-functional teams, including clinicians, engineers, regulatory, commercial, and data science partners.\n* Self-starter attitude with the ability to manage multiple priorities, operate independently, and deliver under ambiguity.\n* ",
-      "salary": "$152k–$257k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "HRHelpNow@intusurg.com",
-      "ats": "Indeed",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 0.0,
-        "city": "sunnyvale",
-        "latitude": 37.385797,
-        "longitude": -122.026316,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Meta",
-      "title": "Research Engineer, Agentic Evaluation for Networking and Wireless Systems",
-      "location": "Menlo Park, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=e08533738f33c042",
-      "direct_url": "https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KiE0000002KqgUAE&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F1029495006778831%2F%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D187943%26rx_id%3D1530cc5d-cd8e-11f1-a0fb-956bff218073%26rx_job%3Da1KiE0000002KqgUAE%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261023T000407Z%26rx_vp%3Dcpc%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3Dindeedorganic",
-      "company_url": "https://www.indeed.com/cmp/Meta-dd1502f2",
-      "date_posted": "2026-10-22",
-      "description": "Meta is seeking talented experienced engineers to join our teams in building cutting-edge products that connect billions of people around the world. As a member of our team, you will have the opportunity to work on complex technical problems, build new features, and improve existing products across various platforms, including mobile devices and web applications. Our teams are constantly pushing the boundaries of user experience, and we're looking for passionate individuals who can help us advance the way people connect globally. If you're interested in joining a team of engineers and researchers to work on exciting projects that have significant impact, we encourage you to apply.  \n  \n  \n\n### **Research Engineer, Agentic Evaluation for Networking and Wireless Systems Responsibilities:**\n\n* Design and build task environments across wireline networking, radio access, and non-terrestrial networks\n* Write deterministic verifiers. Sources include network simulators, formal checkers such as Batfish or YANG validation, and closed-form physics such as orbit propagation and link budgets\n* Impose action budgets and hidden state so that exhaustive search does not work and the task measures diagnostic policy rather than brute force\n* Define invariants, and make any repair that breaks a previously satisfied property fail the episode\n* Calibrate difficulty by running frontier models against each task, then analyze failures to confirm they come from domain reasoning rather than ambiguity or broken grading\n* Work with research partners inside and outside the team to turn measured capability gaps into published findings\n\n  \n  \n  \n\n### **Minimum Qualifications:**\n\n* Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience\n* Bachelor's degree in electrical engineering, computer science, or a related field, plus five years of relevant experience\n* Production experience in at least one of: network operations and configuration, radio access systems, or satellite and aerial communications\n* Proficiency in Python, with experience building and maintaining production or research codebases, and comfort building and debugging simulation or emulation environments\n* Experience writing automated verification or test infrastructure where correctness is checked by a program, not by inspection\n* Able to reason about a system from partial telemetry and explain why one hypothesis fits the evidence better than another\n\n  \n  \n  \n\n### **Preferred Qualifications:**\n\n* Experience in adhering to and implementing responsible, ethical AI practices (e.g., risk assessment, bias mitigation, quality and accuracy reviews)\n* Experience in programming languages such as C, C++, or Java, and scripting languages such as Python, Javascript, or PHP\n* Experience improving quality through thoughtful code reviews, appropriate testing, proper rollout, monitoring, and proactive changes\n* Demonstrated ability to integrate AI tools to optimize/redesign workflows and drive measurable impact (e.g., efficiency gains, quality improvements)\n* Demonstrated ongoing AI skill development (e.g., prompt/context engineering, agent orchestration) and staying current with emerging AI technologies\n* 6+ years of experience in a relevant domain or 4+ years of experience with a Ph.D\n\n  \n  \n  \n\n### **About Meta:**\n\nMeta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.  \n  \n  \n\nMeta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.\n  \n  \nMeta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@meta.com.  \n  \n$183,997/year to $257,000/year + bonus + equity + benefits  \n  \nIndividual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about benefits at Meta.",
-      "salary": "$184k–$257k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "accommodations-ext@meta.com",
-      "ats": "Indeed",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 9.313,
-        "city": "menlo park",
-        "latitude": 37.479731,
-        "longitude": -122.148055,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
       "company": "Normal Computing Corporation",
       "title": "Research Engineer, Algorithms",
       "location": "Palo Alto, CA, USA",
@@ -270,34 +218,7 @@
       }
     }
   ],
-  "new_jobs": [
-    {
-      "company": "LG Electronics",
-      "title": "Staff/Sr. Staff, Physical AI Researcher (LG Emerging Tech Lab)",
-      "location": "Pleasanton, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=a1703878cb5e70e0",
-      "direct_url": "https://grnh.se/rw0pyt5n8us",
-      "company_url": "https://www.indeed.com/cmp/Lg-Electronics",
-      "date_posted": "2026-10-23",
-      "description": "Step into the innovative world of LG Electronics. As a global leader in technology, LG Electronics is dedicated to creating innovative solutions for a better life. Our brand promise, 'Life's Good', embodies our commitment to ensuring a happier life for all. We have a rich history spanning over six decades and a global presence in over 290 locations. Our diverse portfolio includes Home Appliance Solutions, Media Entertainment Solutions, Vehicle Solutions, and Eco Solutions. Our management philosophy, \"Jeong-do Management,\" embodies our commitment to high ethical standards and transparent operations. Grounded in the principles of 'Customer-Value Creation' and 'People-Oriented Management', these values shape our corporate culture, fostering creativity, diversity, and integrity. At LG, we believe in the power of collective wisdom through an inclusive work environment. Join us and become a part of a company that is shaping the future of technology. At LG, we strive to make Life Good for Everyone.\n\n**The Opportunity**\n\n**About the Team – LG's Emerging Technology Lab**\n\nLG's Emerging Technology Lab (ETL) is the catalyst for technological innovation within LG's CTO organization. Based in Silicon Valley and New Jersey, we drive excellence across the CTO organization and LG's business units by pioneering select emerging technology areas. As a Center of Excellence (CoE), we define and shape key technology domains, setting strategic directions that foster impactful internal and external partnerships and deliver measurable business value.\n\n**About the Position – Physical AI Lead**\n\nWe are seeking an exceptional Physical AI researcher to help define the future of embodied intelligence at LG and shape our research and product roadmaps toward the vision of *Zero-Labor Home*.\n\nThis hybrid role, based at LG's Emerging Tech Lab in **Santa Clara, CA**, offers a unique opportunity to **develop generalist robot intelligence and deploy it at scale** in next-generation LG robot platforms. You will work at the frontier of embodied intelligence, leading research that can transition from breakthrough ideas to real-world products at global scale.\n\nYou will lead a growing team of Physical AI researchers and work closely with robotics and AI teams across LG to translate cutting-edge research into next-generation intelligent systems.\n\n**What You Will Do**\n\n* **Set the technical direction for LG's Physical AI team**, leading advanced research in multimodal robot foundation models and physical intelligence.\n* Lead and manage **collaborations with LG HQ and third-party research labs** to drive the technical integration of advanced robotics technologies into the LG ecosystem.\n* **Build and influence a cross-functional Physical AI ecosystem**, partnering with LG's AI, robotics, software, and product teams as well as leading external research partners.\n* Define **project scope, goals, and deliverables** that align cutting-edge research with strategic business objectives.\n* **Lead fundamental and applied research** that advances the scientific and technological frontiers of physical intelligence, with a clear path toward real-world robotic systems.\n* **Invent and improve paradigms for physical intelligence**, including multimodal foundation models (images, video, text, tactile, etc.), world-action models, generalist dexterity, and agentic robot orchestration.\n\n**Why This Opportunity Is Unique**\n\n* **See your research move beyond the lab.** Work at the intersection of frontier AI research and large-scale consumer deployment, where breakthroughs can transition rapidly from research into products.\n* **Maintain a strong research presence while building real products**, with support for research ownership, publication, and collaboration with leading universities and AI labs.\n* **Engage with startups and industry collaborators** to co-design hardware-software systems and validate them in real-world applications.\n  \n\n**Required Qualifications**\n\n* PhD in Computer Science, Robotics, Machine Learning, or a related technical field, with a strong publication record and 3+ years of industry experience.\n* Deep research and engineering expertise in one or more of the following areas:\n* + Robot foundation models (e.g., VLAs, LBMs, diffusion/flow matching policies for manipulation and locomotion)\n  + World model training for robot action prediction\n  + Spatial intelligence (self-supervised visual foundation models, 3D scene reconstruction, embodied scene understanding)\n  + Multimodal representation learning across vision, language, and touch\n  + Learning from human demonstrations and self-play\n* 1+ years of experience leading technically ambitious research projects in dynamic, fast-moving environments.\n* Hands-on experience integrating AI models with real robotic systems, including manipulators and/or mobile robots, and sensors such as RGB and depth cameras, LiDAR, force-torque sensors, and tactile sensors.\n* Experience with physics-based simulation platforms (e.g., PyBullet, MuJoCo, Isaac Sim) for large-scale data generation, experimentation, and evaluation.\n* Excellent written and verbal communication skills, with the ability to clearly articulate complex technical ideas across research, engineering, and leadership teams.\n\n**Please Note:** the salary range provided is dependent on the experience and level of candidate hired.\n\n#LI-JH1 #HYBRID\n\n**Benefits Offered Full-Time Employees:**\n\n* No-cost employee premiums for you and your eligible dependents for competitive medical, dental, vision and prescription benefits.\n* Auto enrollment with immediate vesting of competitive company matching contributions in a 401(k) Retirement Savings Plan with several investment options.\n* Generous Paid Time Off program that includes company holidays and a combined bank of paid sick and vacation time.\n* Performance based Short-Term Incentives (varies by role).\n* Access to confidential mental health resources to help you and your loved ones improve your qualit",
-      "salary": "$200k–$350k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "support@lg4me.freshdesk.com",
-      "ats": "Indeed",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 21.005,
-        "city": "pleasanton",
-        "latitude": 37.667185,
-        "longitude": -121.88123,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    }
-  ],
+  "new_jobs": [],
   "remote_jobs": [],
   "ambiguous_jobs": [
     {
@@ -394,7 +315,7 @@
     }
   ],
   "geographic_counts": {
-    "in_radius": 10,
+    "in_radius": 8,
     "remote": 0,
     "ambiguous": 4,
     "outside_radius": 0
