@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-10-24 00:56 UTC",
-  "total": 78,
-  "new_count": 6,
+  "scraped_at": "2026-10-24 06:07 UTC",
+  "total": 80,
+  "new_count": 2,
   "scrape_status": {
     "status": "success",
-    "raw_rows": 318,
+    "raw_rows": 336,
     "queries": 24,
     "batch": 5,
     "batches": 5,
@@ -1354,49 +1354,49 @@
         "longitude": -122.298725,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
+    },
+    {
+      "company": "David AI",
+      "title": "Research Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481011564/",
+      "date_posted": "2026-10-24",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "TikTok",
+      "title": "Data Scientist, Transparency & Observability - Trust and Safety",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4479687892/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 13.183,
+        "city": "san jose",
+        "latitude": 37.296011,
+        "longitude": -121.814552,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
     }
   ],
   "new_jobs": [
     {
-      "company": "Moloco",
-      "title": "Data Scientist II, Product - Moloco Commerce Media",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463132611/",
-      "date_posted": "2026-10-23",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 9.313,
-        "city": "menlo park",
-        "latitude": 37.479731,
-        "longitude": -122.148055,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Amazon",
-      "title": "Senior Applied Scientist, Sponsored Products and Brands -- Offsite",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4455908981/",
-      "date_posted": "2026-10-23",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 6.453,
-        "city": "palo alto",
-        "latitude": 37.39652,
-        "longitude": -122.143088,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Google DeepMind",
-      "title": "Research Engineer, Machine Learning, GeminiApp Personalization, DeepMind",
+      "company": "David AI",
+      "title": "Research Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481662679/",
-      "date_posted": "2026-10-23",
+      "url": "https://www.linkedin.com/jobs/view/4481011564/",
+      "date_posted": "2026-10-24",
       "salary": "",
       "ats": "LinkedIn",
       "geography": {
@@ -1409,53 +1409,19 @@
       }
     },
     {
-      "company": "Amazon",
-      "title": "Principal Applied Scientist, Music Catalog and Search, Amazon Music Search and Catalog",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4455903811/",
+      "company": "TikTok",
+      "title": "Data Scientist, Transparency & Observability - Trust and Safety",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4479687892/",
       "date_posted": "2026-10-23",
       "salary": "",
       "ats": "LinkedIn",
       "geography": {
         "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Amazon",
-      "title": "Sr. Applied Scientist, Fauna",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4455771933/",
-      "date_posted": "2026-10-23",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 0.0,
-        "city": "sunnyvale",
-        "latitude": 37.385797,
-        "longitude": -122.026316,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Ambi Robotics",
-      "title": "Senior Robotics Research Engineer",
-      "location": "Berkeley, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481973018/",
-      "date_posted": "2026-10-23",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 36.353,
-        "city": "berkeley",
-        "latitude": 37.865673,
-        "longitude": -122.298725,
+        "distance_miles": 13.183,
+        "city": "san jose",
+        "latitude": 37.296011,
+        "longitude": -121.814552,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
     }
@@ -1806,7 +1772,7 @@
     }
   ],
   "geographic_counts": {
-    "in_radius": 78,
+    "in_radius": 80,
     "remote": 0,
     "ambiguous": 24,
     "outside_radius": 0
