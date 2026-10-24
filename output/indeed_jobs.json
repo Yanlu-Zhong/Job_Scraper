@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-10-24 23:34 UTC",
+  "scraped_at": "2026-10-24 23:44 UTC",
   "total": 8,
   "new_count": 0,
   "scrape_status": {
     "status": "success",
-    "raw_rows": 195,
+    "raw_rows": 191,
     "queries": 25,
     "errors": 0
   },
