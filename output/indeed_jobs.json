@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-10-24 00:59 UTC",
+  "scraped_at": "2026-10-24 01:08 UTC",
   "total": 12,
-  "new_count": 2,
+  "new_count": 0,
   "scrape_status": {
     "status": "success",
-    "raw_rows": 305,
+    "raw_rows": 310,
     "queries": 25,
     "errors": 0
   },
@@ -270,32 +270,6 @@
       }
     },
     {
-      "company": "ByteDance",
-      "title": "Research Scientist\" - Graduate (Video and Edge, Multimedia Lab) - 2027 Start (PhD)",
-      "location": "San Jose, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=15cfbcc0534fb170",
-      "direct_url": "https://joinbytedance.com/search/7670374385110599989",
-      "company_url": "https://www.indeed.com/cmp/Bytedance",
-      "date_posted": "2026-10-23",
-      "description": "**Location :**  \nSan Jose\n  \n  \n**Team :**  \nTechnology\n  \n  \n**Employment Type :**  \nRegular\n  \n  \n**Job Code :**  \nA88122\n  \n  \nResponsibilities\n  \n  \nThe Multimedia Lab builds highly efficient, scalable video codec hardware solutions (FPGA and ASIC) from the ground up, serving billions of users. We bring together algorithm, architecture, software, firmware, and hardware design and verification expertise, designing high-performance video silicon IP across ASIC and SoC digital design, verification, and next-generation video codec hardware. Alongside the silicon work, we advance research in video understanding, perceptual quality assessment, image and video enhancement, and intelligent coding, including using multimodal models to improve coding decisions. Quality, efficiency, and speed rarely improve together. Sharper images and better perceived quality usually cost bitrate, compute, or latency, and a technique that works in research does not always survive production at global scale. You will take ideas from research through to silicon and production systems, where research decisions show up in the cost and quality of video across ByteDance's products. About the team Our team designs and optimizes the next-generation end-to-end video system (for video production, processing, delivery, and consumption) to improve the quality of experience (QoE) for our billions of users. We are looking for strong video algorithm engineers from all areas of video understanding, video processing, video coding, video streaming, and video quality assessment, etc., who have a dedication to technical excellence and a passion to build large-scale and high-performing video platforms and services. We are looking for talented individuals to join our team. As a graduate, you will get opportunities to pursue bold ideas, tackle complex challenges, and unlock limitless growth. Successful candidates must be able to commit to an onboarding date by the end of the year. Please state your availability and graduation date clearly in your resume. Responsibilities - Design strategy and solution for E2E video quality optimization with a combination of video analysis, processing and encoding algorithms. - Apply designed algorithms for VOD / Live streaming monitoring, data analysis, objective evaluation for algorithms, etc. - Collaborate with X-functional teams to integrate algorithms into production workflows and validate their impact through A/B testing.\n  \n  \nQualifications\n  \n  \n**Minimum Qualification(s):** - Individuals who are completing or have recently completed a PhD degree in Computer Science, Engineering, or a related discipline. - In-depth knowledge of video enhancement/compression algorithms or subjective/objective video quality, algorithms, and state-of-the-art technologies. - Proficient in one of the following: C, C++, Python. Preferred Qualification(s): - Familiar with ML and image processing tools, including sklearn, OpenCV, FFmpeg, etc. - Familiar with deep learning frameworks (TensorFlow/PyTorch). - Familiar with mainstream multi-modal large models (MLLMs) and AI agent technologies, and hands-on implementation or research experience preferred. - Familiar with Linux development environments, shell scripting, HDFS, etc. - Great communication, eager to learn, and always passionate about turning cutting-edge technologies into real-life use cases.\n  \n  \nJob Information\n  \n  \n【For Pay Transparency】Compensation Description (Annually)\n  \n  \nThe base salary range for this position in the selected city is $128000 - $316800 annually. ​\n  \n  \nCompensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units. ​\n  \n  \nBenefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short-term and long-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure). ​\n  \n  \nThe Company reserves the right to modify or change these benefits programs at any time, with or without notice. ​\n  \n  \n**For Los Angeles County (unincorporated) Candidates:** ​\n  \n  \nQualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment: ​\n  \n  \n1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues; ​\n  \n  \n2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and ​\n  \n  \n3. Exercising sound judgment. ​\n  \n  \nAbout Us\n  \n  \nFounded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Lemon8, CapCut and Pico as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect with, consume, and create content. ​\n  \n  \nWhy Join ByteDance\n  \n  \nInspiring creativity is at the core of ByteDance's mission. Our innovative products are built to help people authentically express themselves, discover and con",
-      "salary": "$128k–$317k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 13.183,
-        "city": "san jose",
-        "latitude": 37.296011,
-        "longitude": -121.814552,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
       "company": "DeepMind",
       "title": "Research Engineer, Machine Learning, GeminiApp Personalization, DeepMind",
       "location": "San Francisco, CA, USA",
@@ -320,62 +294,35 @@
         "longitude": -123.032229,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "LG Electronics",
-      "title": "Staff/Sr. Staff, Physical AI Researcher (LG Emerging Tech Lab)",
-      "location": "Santa Clara, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=b1c84bcd553e59dc",
-      "direct_url": "https://globalcareers.lge.com/jobs/5445500008",
-      "company_url": "https://www.indeed.com/cmp/Lg-Electronics",
-      "date_posted": "2026-10-23",
-      "description": "Step into the innovative world of LG Electronics. As a global leader in technology, LG Electronics is dedicated to creating innovative solutions for a better life. Our brand promise, 'Life's Good', embodies our commitment to ensuring a happier life for all. We have a rich history spanning over six decades and a global presence in over 290 locations. Our diverse portfolio includes Home Appliance Solutions, Media Entertainment Solutions, Vehicle Solutions, and Eco Solutions. Our management philosophy, \"Jeong-do Management,\" embodies our commitment to high ethical standards and transparent operations. Grounded in the principles of 'Customer-Value Creation' and 'People-Oriented Management', these values shape our corporate culture, fostering creativity, diversity, and integrity. At LG, we believe in the power of collective wisdom through an inclusive work environment. Join us and become a part of a company that is shaping the future of technology. At LG, we strive to make Life Good for Everyone.\n\n**The Opportunity**\n\n**About the Team – LG’s Emerging Technology Lab**\n\nLG’s Emerging Technology Lab (ETL) is the catalyst for technological innovation within LG’s CTO organization. Based in Silicon Valley and New Jersey, we drive excellence across the CTO organization and LG’s business units by pioneering select emerging technology areas. As a Center of Excellence (CoE), we define and shape key technology domains, setting strategic directions that foster impactful internal and external partnerships and deliver measurable business value.\n\n**About the Position – Physical AI Lead**\n\nWe are seeking an exceptional Physical AI researcher to help define the future of embodied intelligence at LG and shape our research and product roadmaps toward the vision of *Zero-Labor Home*.\n\nThis hybrid role, based at LG's Emerging Tech Lab in **Santa Clara, CA**, offers a unique opportunity to **develop generalist robot intelligence and deploy it at scale** in next-generation LG robot platforms. You will work at the frontier of embodied intelligence, leading research that can transition from breakthrough ideas to real-world products at global scale.\n\nYou will lead a growing team of Physical AI researchers and work closely with robotics and AI teams across LG to translate cutting-edge research into next-generation intelligent systems.\n\n**What You Will Do**\n\n* **Set the technical direction for LG’s Physical AI team**, leading advanced research in multimodal robot foundation models and physical intelligence.\n* Lead and manage **collaborations with LG HQ and third-party research labs** to drive the technical integration of advanced robotics technologies into the LG ecosystem.\n* **Build and influence a cross-functional Physical AI ecosystem**, partnering with LG’s AI, robotics, software, and product teams as well as leading external research partners.\n* Define **project scope, goals, and deliverables** that align cutting-edge research with strategic business objectives.\n* **Lead fundamental and applied research** that advances the scientific and technological frontiers of physical intelligence, with a clear path toward real-world robotic systems.\n* **Invent and improve paradigms for physical intelligence**, including multimodal foundation models (images, video, text, tactile, etc.), world-action models, generalist dexterity, and agentic robot orchestration.\n\n**Why This Opportunity Is Unique**\n\n* **See your research move beyond the lab.** Work at the intersection of frontier AI research and large-scale consumer deployment, where breakthroughs can transition rapidly from research into products.\n* **Maintain a strong research presence while building real products**, with support for research ownership, publication, and collaboration with leading universities and AI labs.\n* **Engage with startups and industry collaborators** to co-design hardware-software systems and validate them in real-world applications.\n  \n\n**Required Qualifications**\n\n* PhD in Computer Science, Robotics, Machine Learning, or a related technical field, with a strong publication record and 3+ years of industry experience.\n* Deep research and engineering expertise in one or more of the following areas:\n* + Robot foundation models (e.g., VLAs, LBMs, diffusion/flow matching policies for manipulation and locomotion)\n  + World model training for robot action prediction\n  + Spatial intelligence (self-supervised visual foundation models, 3D scene reconstruction, embodied scene understanding)\n  + Multimodal representation learning across vision, language, and touch\n  + Learning from human demonstrations and self-play\n* 1+ years of experience leading technically ambitious research projects in dynamic, fast-moving environments.\n* Hands-on experience integrating AI models with real robotic systems, including manipulators and/or mobile robots, and sensors such as RGB and depth cameras, LiDAR, force-torque sensors, and tactile sensors.\n* Experience with physics-based simulation platforms (e.g., PyBullet, MuJoCo, Isaac Sim) for large-scale data generation, experimentation, and evaluation.\n* Excellent written and verbal communication skills, with the ability to clearly articulate complex technical ideas across research, engineering, and leadership teams.\n\n**Please Note:** the salary range provided is dependent on the experience and level of candidate hired.\n\n#LI-JH1 #HYBRID\n\nRecruiting Range\n\n$200,000—$350,000 USD\n\n**Benefits Offered Full-Time Employees:**\n\n* No-cost employee premiums for you and your eligible dependents for competitive medical, dental, vision and prescription benefits.\n* Auto enrollment with immediate vesting of competitive company matching contributions in a 401(k) Retirement Savings Plan with several investment options.\n* Generous Paid Time Off program that includes company holidays and a combined bank of paid sick and vacation time.\n* Performance based Short-Term Incentives (varies by role).\n* Access to confidential mental health resources to help yo",
-      "salary": "$200k–$350k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "support@lg4me.freshdesk.com",
-      "ats": "Indeed",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 3.522,
-        "city": "santa clara",
-        "latitude": 37.364621,
-        "longitude": -121.967973,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
     },
     {
-      "company": "1X",
-      "title": "Research Engineer, Robot Learning",
-      "location": "San Carlos, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=cf9a00b0f5ae0603",
-      "direct_url": "https://jobs.ashbyhq.com/1x/6d41e7c8-75c3-4f54-8a76-5abbb3569341?utm_source=rAJAp1y4Jk",
-      "company_url": "https://www.indeed.com/cmp/1x",
-      "date_posted": "2026-10-24",
-      "description": "**Job Description**: Develop sim2real reinforcement learning (RL) training pipelines for humanoid robots. Train and test robot policies via reinforcement learning for in-home humanoid robots. Optimize training pipelines for improved performance and training speed. Modeling of physical systems (including robot dynamics, sensor modeling, contact parameter tuning) to close the gap between simulation and physical systems. Collecting, cleaning and retargeting human motion data for use in RL training pipelines. Supporting the test and debug of RL policies in simulation and on physical hardware.  \n  \n**Requirements**: Master’s degree or foreign degree equivalent in Robotics, AI/Machine Learning, Mechanical or Electrical Engineering, Computer Science, or related field and one (1) year of experience in a Robotics & Machine Learning occupation or related in the job offered.  \n  \n**Skills:**  \n  \nExperience and/or education must include:\n\n* Rigid body dynamics and/or dynamical systems for training, deploying and testing reinforcement learned policies for humanoid robots.\n* Implement production-grade Python code for reinforcement learning (RL) and other machine learning training pipelines.\n* Reinforcement learned algorithms, techniques, and sim2real approaches as they pertain to robotics to perform various human-like capabilities, including whole-body loco-manipulation.\n* Implement and debug real-time software in C++ deployed on robots to satisfy various real-time constraints.\n* Model physical systems, including multi-body hybrid dynamic systems with contact, in a simulated environment to identify gaps between simulation and hardware and the ability to understand how to accurately model the hardware in simulation.\n* Root-cause analysis as it pertains to robotic systems and the ability to quickly troubleshoot issues.\n* Forward and inverse kinematics as they pertain to humanoid system training using human motion data.\n\nCompensation Range: $130,146 - $300,000",
-      "salary": "$130k–$300k/yr",
+      "company": "ByteDance",
+      "title": "Research Scientist\" - Graduate (Video and Edge, Multimedia Lab) - 2027 Start (PhD)",
+      "location": "San Jose, CA, USA",
+      "url": "https://www.indeed.com/viewjob?jk=15cfbcc0534fb170",
+      "direct_url": "https://joinbytedance.com/search/7670374385110599989",
+      "company_url": "https://www.indeed.com/cmp/Bytedance",
+      "date_posted": "2026-10-23",
+      "description": "**Location :**  \nSan Jose\n  \n  \n**Team :**  \nTechnology\n  \n  \n**Employment Type :**  \nRegular\n  \n  \n**Job Code :**  \nA88122\n  \n  \nResponsibilities\n  \n  \nThe Multimedia Lab builds highly efficient, scalable video codec hardware solutions (FPGA and ASIC) from the ground up, serving billions of users. We bring together algorithm, architecture, software, firmware, and hardware design and verification expertise, designing high-performance video silicon IP across ASIC and SoC digital design, verification, and next-generation video codec hardware. Alongside the silicon work, we advance research in video understanding, perceptual quality assessment, image and video enhancement, and intelligent coding, including using multimodal models to improve coding decisions. Quality, efficiency, and speed rarely improve together. Sharper images and better perceived quality usually cost bitrate, compute, or latency, and a technique that works in research does not always survive production at global scale. You will take ideas from research through to silicon and production systems, where research decisions show up in the cost and quality of video across ByteDance's products. About the team Our team designs and optimizes the next-generation end-to-end video system (for video production, processing, delivery, and consumption) to improve the quality of experience (QoE) for our billions of users. We are looking for strong video algorithm engineers from all areas of video understanding, video processing, video coding, video streaming, and video quality assessment, etc., who have a dedication to technical excellence and a passion to build large-scale and high-performing video platforms and services. We are looking for talented individuals to join our team. As a graduate, you will get opportunities to pursue bold ideas, tackle complex challenges, and unlock limitless growth. Successful candidates must be able to commit to an onboarding date by the end of the year. Please state your availability and graduation date clearly in your resume. Responsibilities - Design strategy and solution for E2E video quality optimization with a combination of video analysis, processing and encoding algorithms. - Apply designed algorithms for VOD / Live streaming monitoring, data analysis, objective evaluation for algorithms, etc. - Collaborate with X-functional teams to integrate algorithms into production workflows and validate their impact through A/B testing.\n  \n  \nQualifications\n  \n  \n**Minimum Qualification(s):** - Individuals who are completing or have recently completed a PhD degree in Computer Science, Engineering, or a related discipline. - In-depth knowledge of video enhancement/compression algorithms or subjective/objective video quality, algorithms, and state-of-the-art technologies. - Proficient in one of the following: C, C++, Python. Preferred Qualification(s): - Familiar with ML and image processing tools, including sklearn, OpenCV, FFmpeg, etc. - Familiar with deep learning frameworks (TensorFlow/PyTorch). - Familiar with mainstream multi-modal large models (MLLMs) and AI agent technologies, and hands-on implementation or research experience preferred. - Familiar with Linux development environments, shell scripting, HDFS, etc. - Great communication, eager to learn, and always passionate about turning cutting-edge technologies into real-life use cases.\n  \n  \nJob Information\n  \n  \n【For Pay Transparency】Compensation Description (Annually)\n  \n  \nThe base salary range for this position in the selected city is $128000 - $316800 annually. ​\n  \n  \nCompensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units. ​\n  \n  \nBenefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short-term and long-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure). ​\n  \n  \nThe Company reserves the right to modify or change these benefits programs at any time, with or without notice. ​\n  \n  \n**For Los Angeles County (unincorporated) Candidates:** ​\n  \n  \nQualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment: ​\n  \n  \n1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues; ​\n  \n  \n2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and ​\n  \n  \n3. Exercising sound judgment. ​\n  \n  \nAbout Us\n  \n  \nFounded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Lemon8, CapCut and Pico as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect with, consume, and create content. ​\n  \n  \nWhy Join ByteDance\n  \n  \nInspiring creativity is at the core of ByteDance's mission. Our innovative products are built to help people authentically express themselves, discover and con",
+      "salary": "$128k–$317k/yr",
       "salary_source": "direct_data",
       "salary_currency": "USD",
-      "job_type": "fulltime",
+      "job_type": "",
       "is_remote": false,
       "work_arrangement": "On-site",
       "emails": "",
       "ats": "Indeed",
       "geography": {
         "status": "in_radius",
-        "distance_miles": 15.374,
-        "city": "san carlos",
-        "latitude": 37.499034,
-        "longitude": -122.267572,
+        "distance_miles": 13.183,
+        "city": "san jose",
+        "latitude": 37.296011,
+        "longitude": -121.814552,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
     }
   ],
+  "new_jobs": [],
   "remote_jobs": [],
   "ambiguous_jobs": [
     {
