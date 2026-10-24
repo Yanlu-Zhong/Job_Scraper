@@ -1,13 +1,18 @@
 # 🔥 LinkedIn — AI · Language · Human Research Roles
-*Last updated: 2026-10-24 21:09 UTC*
+*Last updated: 2026-10-24 23:20 UTC*
 
-**2 new role(s)** since last run · 143 total in last 24h
+**3 new role(s)** since last run · 146 total in last 24h
 
-### [Senior Data Scientist, AI Foundations](https://www.linkedin.com/jobs/view/4419498552/) — Capital One
+### [Senior Research Scientist, Physical AI Infra](https://www.linkedin.com/jobs/view/4482655565/) — ByteDance
 - 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $148,000 - $168,900
+- 💰 **Salary:** $218400 - $387600 annually
 - 🕒 **Posted:** 2026-10-24
 
-### [Research Scientist - Driven Agent Self-Evolution - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://www.linkedin.com/jobs/view/4475061183/) — ByteDance
+### [Principal Applied Data Scientist - Search and Browse (NLP, Vector Search, LLMs)(Remote Or Hybrid)](https://www.linkedin.com/jobs/view/4483357296/) — Target
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $168,000.00 - $356,000.00
+- 🕒 **Posted:** 2026-10-24
+
+### [Principal Associate, Data Scientist - Emerging ML](https://www.linkedin.com/jobs/view/4446844530/) — Capital One
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-24
