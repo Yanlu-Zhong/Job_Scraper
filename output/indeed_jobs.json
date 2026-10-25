@@ -1,15 +1,69 @@
 {
-  "scraped_at": "2026-10-25 18:33 UTC",
-  "total": 0,
-  "new_count": 0,
+  "scraped_at": "2026-10-25 21:14 UTC",
+  "total": 1,
+  "new_count": 1,
   "scrape_status": {
     "status": "success",
-    "raw_rows": 40,
+    "raw_rows": 37,
     "queries": 25,
     "errors": 0
   },
-  "jobs": [],
-  "new_jobs": [],
+  "jobs": [
+    {
+      "company": "NextToken",
+      "title": "Member of Technical Staff - Research Engineering",
+      "location": "San Francisco, CA, USA",
+      "url": "https://www.indeed.com/viewjob?jk=3f17a8fdda88ddf3",
+      "direct_url": "https://jobs.ashbyhq.com/nexttoken/7210dc03-3696-4ec0-9a25-634b07f43106?utm_source=DAq6paj01Z",
+      "company_url": "",
+      "date_posted": "2026-10-25",
+      "description": "**About NextToken**\n-------------------\n\nNextToken builds specialized models and the systems that help them improve. We work with AI product teams to turn production traces, expert feedback, and real tasks into evaluations, training data, and more capable models. Our goal is to make it practical for companies to develop intelligence of their own: models that understand their work and improve as that work evolves.\n\nOur founding team has built search infrastructure and post-trained models at frontier AI labs and on large-scale product teams. You’ll work directly with the founders on research and engineering, help shape our technical direction, and see your work deployed in customer products.\n\n**The role**\n------------\n\nYou'll develop the data, evaluations, and post-training methods that improve models on real product tasks. That means understanding where an agent fails, deciding what evidence would establish an improvement, and carrying an experiment through to a model people can use.\n\nThe work combines research judgment with hands-on engineering. You'll work with the founders, systems engineers, and customer teams, shaping both individual experiments and the tools that make the next experiment easier.\n\n**What you'll work on**\n-----------------------\n\n* Develop post-training methods for specialized language models and agents. Design and run training recipes that combine supervised fine-tuning, reinforcement learning, and distillation, and investigate how they affect capability, generalization, and efficiency.\n* Research synthetic data generation and curation. Explore teacher selection, trajectory sampling, and data mixtures that produce useful learning signals from production tasks and feedback.\n* Develop agent environments, reward models, and verifiers for training and evaluation. Establish benchmarks that capture meaningful product improvements and expose weaknesses in model behavior.\n* Work with systems engineers to improve the efficiency of experiments and model inference. Connect algorithmic choices to their implications for rollout cost, memory use, and training stability.\n* Carry promising research into customer applications and turn successful approaches into reusable methods and tools. Use production behavior to identify the next research questions.\n* Communicate findings through technical writing, research publications, and open-source contributions where appropriate.\n\n**What we're looking for**\n--------------------------\n\n* Understanding of modern post-training methods, including reinforcement learning with verifiable rewards (RLVR), policy optimization approaches such as GRPO, and on-policy distillation and self-distillation (OPSD). You can reason about their learning signals, tradeoffs, and failure modes, with practical depth in at least one relevant area.\n* Familiarity with how frameworks such as PyTorch or JAX execute model training, and the ability to inspect research code, diagnose training problems, and assess whether an implementation matches the intended method.\n* Experience investigating model training, evaluations, agent environments, or related ML research. You can explain your contribution and the evidence supporting the result.\n* Strong experimental judgment: well-chosen baselines, controlled comparisons, and attention to generalization, data leakage, and misleading rewards or metrics.\n* Ability to turn an open-ended problem into a research plan, work through unfamiliar systems, and explain technical decisions to teammates and customers.\n\nWe welcome experienced research engineers and applied researchers, as well as strong engineers earlier in their careers.\n\nExperience with agentic RL, reward modeling, synthetic data, distillation, or efficient inference is especially relevant. Research papers, open-source contributions, and independently built systems are all useful ways to show your work.\n\n**Apply**\n---------\n\nTell us about a project you're proud of: the problem, what you personally built or investigated, and how you assessed the result. Include a resume and any links to code, papers, or technical writing you'd like us to read. If your interests span research and systems, apply once and tell us where you'd most like to contribute.\n\nExplore our published research for examples of how we approach these problems.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "NextToken",
+      "title": "Member of Technical Staff - Research Engineering",
+      "location": "San Francisco, CA, USA",
+      "url": "https://www.indeed.com/viewjob?jk=3f17a8fdda88ddf3",
+      "direct_url": "https://jobs.ashbyhq.com/nexttoken/7210dc03-3696-4ec0-9a25-634b07f43106?utm_source=DAq6paj01Z",
+      "company_url": "",
+      "date_posted": "2026-10-25",
+      "description": "**About NextToken**\n-------------------\n\nNextToken builds specialized models and the systems that help them improve. We work with AI product teams to turn production traces, expert feedback, and real tasks into evaluations, training data, and more capable models. Our goal is to make it practical for companies to develop intelligence of their own: models that understand their work and improve as that work evolves.\n\nOur founding team has built search infrastructure and post-trained models at frontier AI labs and on large-scale product teams. You’ll work directly with the founders on research and engineering, help shape our technical direction, and see your work deployed in customer products.\n\n**The role**\n------------\n\nYou'll develop the data, evaluations, and post-training methods that improve models on real product tasks. That means understanding where an agent fails, deciding what evidence would establish an improvement, and carrying an experiment through to a model people can use.\n\nThe work combines research judgment with hands-on engineering. You'll work with the founders, systems engineers, and customer teams, shaping both individual experiments and the tools that make the next experiment easier.\n\n**What you'll work on**\n-----------------------\n\n* Develop post-training methods for specialized language models and agents. Design and run training recipes that combine supervised fine-tuning, reinforcement learning, and distillation, and investigate how they affect capability, generalization, and efficiency.\n* Research synthetic data generation and curation. Explore teacher selection, trajectory sampling, and data mixtures that produce useful learning signals from production tasks and feedback.\n* Develop agent environments, reward models, and verifiers for training and evaluation. Establish benchmarks that capture meaningful product improvements and expose weaknesses in model behavior.\n* Work with systems engineers to improve the efficiency of experiments and model inference. Connect algorithmic choices to their implications for rollout cost, memory use, and training stability.\n* Carry promising research into customer applications and turn successful approaches into reusable methods and tools. Use production behavior to identify the next research questions.\n* Communicate findings through technical writing, research publications, and open-source contributions where appropriate.\n\n**What we're looking for**\n--------------------------\n\n* Understanding of modern post-training methods, including reinforcement learning with verifiable rewards (RLVR), policy optimization approaches such as GRPO, and on-policy distillation and self-distillation (OPSD). You can reason about their learning signals, tradeoffs, and failure modes, with practical depth in at least one relevant area.\n* Familiarity with how frameworks such as PyTorch or JAX execute model training, and the ability to inspect research code, diagnose training problems, and assess whether an implementation matches the intended method.\n* Experience investigating model training, evaluations, agent environments, or related ML research. You can explain your contribution and the evidence supporting the result.\n* Strong experimental judgment: well-chosen baselines, controlled comparisons, and attention to generalization, data leakage, and misleading rewards or metrics.\n* Ability to turn an open-ended problem into a research plan, work through unfamiliar systems, and explain technical decisions to teammates and customers.\n\nWe welcome experienced research engineers and applied researchers, as well as strong engineers earlier in their careers.\n\nExperience with agentic RL, reward modeling, synthetic data, distillation, or efficient inference is especially relevant. Research papers, open-source contributions, and independently built systems are all useful ways to show your work.\n\n**Apply**\n---------\n\nTell us about a project you're proud of: the problem, what you personally built or investigated, and how you assessed the result. Include a resume and any links to code, papers, or technical writing you'd like us to read. If your interests span research and systems, apply once and tell us where you'd most like to contribute.\n\nExplore our published research for examples of how we approach these problems.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    }
+  ],
   "remote_jobs": [],
   "ambiguous_jobs": [
     {
@@ -37,7 +91,7 @@
     }
   ],
   "geographic_counts": {
-    "in_radius": 0,
+    "in_radius": 1,
     "remote": 0,
     "ambiguous": 1,
     "outside_radius": 0
