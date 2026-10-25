@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-10-25 21:13 UTC",
+  "scraped_at": "2026-10-25 21:52 UTC",
   "total": 76,
-  "new_count": 2,
+  "new_count": 0,
   "scrape_status": {
     "status": "success",
-    "raw_rows": 403,
+    "raw_rows": 360,
     "queries": 32,
     "batch": 2,
     "batches": 5,
@@ -1350,43 +1350,7 @@
       }
     }
   ],
-  "new_jobs": [
-    {
-      "company": "MongoDB",
-      "title": "Staff Research Scientist",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420470879/",
-      "date_posted": "2026-10-25",
-      "salary": "$151,000—$297,000 USD",
-      "ats": "LinkedIn",
-      "description": "About Voyage AI Team At MongoDB\n\nVoyage AI team in MongoDB is building a best-in-class, general-purpose, domain-specific, and fine-tuned embedding models and rerankers to enable accurate, efficient unstructured data search and retrieval for RAG, recommendation, semantic search, and more. It is backed by a strong team of AI researchers from Stanford, MIT, Berkeley, Princeton, and CMU, who have conducted over five years of cutting-edge research on training embedding models. Voyage AI was acquired by MongoDB recently, and is now integrating the SOTA embedding models with MongoDB's data platform to create powerful end-to-end solutions.\n\nWe are looking to speak to candidates who are based in Palo Alto for our hybrid working model.\n\nPosition Overview\n\nWe are seeking a Staff Research Scientist to join our team and contribute to the development of next-generation AI models. This position offers a unique opportunity to work on challenging problems at the intersection of machine learning research and practical deployment of large neural networks.\n\nThis role can be based out of our Palo Alto office, or remotely in the United States.\n\nResponsibilities\n\nConduct cutting-edge research in artificial intelligence, from frontier LLMs to embedding models and rerankers\nInnovate in next-generation information retrieval and LLM agent paradigm\nCollaborate closely with other research scientists and research engineers as well as peers across the organization\n\nQualifications\n\nPhD degree in Computer Science or related field\nAt least 6 years of full-time professional experience in research or a closely related field\nA track record of coming up with new ideas or improving upon existing ideas in machine learning, demonstrated by accomplishments such as first author publications in top venues\nStrong background in machine learning, deep learning, and natural language processing\nExperience building complex neural networks for language and visual understanding\nCapable of conducting rigorous empirical studies to validate theoretical results\nExcellent leadership, problem-solving, and communication skills\n\nWhat We Offer\n\nOpportunity to work on real-world problems at the cutting edge of AI research\nOpportunity to utilize research vision to innovate the entire company and make real-world impact\nExposure to the full lifecycle of AI model development, from research to production\nOur compensation (base + equity) for this position is competitive with frontier AI labs\n\nAbout MongoDB\n\nMongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.\n\nWith offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.\n\nOur compass at MongoDB is our Leadership Commitment, guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.\n\nTo drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. From employee affinity groups, to fertility assistance and a generous parental leave policy, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys. Learn more about what it’s like to work at MongoDB, and help us make an impact on the world!\n\nMongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.\n\nMongoDB, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type and makes all hiring decisions without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.\n\nReq ID: 2273454547\n\nMongoDB’s base salary range for this role is posted below. Compensation at the time of offer is unique to each candidate and based on a variety of factors such as skill set, experience, qualifications, and work location. Salary is one part of MongoDB’s total compensation and benefits package. Other benefits for eligible employees may include: equity, participation in the employee stock purchase program, flexible paid time off, 20 weeks fully-paid gender-neutral parental leave, fertility and adoption assistance, 401(k) plan, mental health counseling, access to transgender-inclusive health insurance coverage, and health benefits offerings. Please note, the base salary range listed below and the benefits in this paragraph are only applicable to U.S.-based candidates.\n\nMongoDB’s base salary range for this role in the U.S. is:\n\n$151,000—$297,000 USD\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 6.453,
-        "city": "palo alto",
-        "latitude": 37.39652,
-        "longitude": -122.143088,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Gamma",
-      "title": "AI Data Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4403262424/",
-      "date_posted": "2026-10-25",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    }
-  ],
+  "new_jobs": [],
   "remote_jobs": [],
   "ambiguous_jobs": [
     {
