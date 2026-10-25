@@ -1,5 +1,5 @@
 # 🟧 ZipRecruiter — AI · Language · Human Research Roles
-*Last updated: 2026-10-25 19:10 UTC*
+*Last updated: 2026-10-25 21:58 UTC*
 
 **0 new role(s)** since last run · 0 total in last 24h
 
