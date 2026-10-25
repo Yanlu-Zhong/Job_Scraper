@@ -530,3 +530,4 @@
 {"job_count": 54, "run_attempt": "1", "run_id": "40149761242", "scrape": {"batch": 1, "batches": 5, "queries": 32, "raw_rows": 390, "status": "success", "terms_in_batch": 8, "terms_total": 38}, "timestamp": "2026-10-25T01:18:31Z", "workflow": "linkedin"}
 {"job_count": 7, "run_attempt": "1", "run_id": "40151018092", "scrape": {"errors": 0, "queries": 25, "raw_rows": 171, "status": "success"}, "timestamp": "2026-10-25T01:33:11Z", "workflow": "indeed"}
 {"job_count": 7, "run_attempt": "1", "run_id": "40151575775", "scrape": {"errors": 0, "queries": 25, "raw_rows": 170, "status": "success"}, "timestamp": "2026-10-25T01:41:28Z", "workflow": "indeed"}
+{"job_count": 0, "run_attempt": "1", "run_id": "40164204169", "scrape": {"errors": 0, "queries": 25, "raw_rows": 0, "status": "empty"}, "timestamp": "2026-10-25T05:05:15Z", "workflow": "ziprecruiter"}
