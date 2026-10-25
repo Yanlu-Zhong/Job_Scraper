@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-10-25 01:18 UTC",
+  "scraped_at": "2026-10-25 06:13 UTC",
   "total": 54,
-  "new_count": 1,
+  "new_count": 0,
   "scrape_status": {
     "status": "success",
-    "raw_rows": 390,
+    "raw_rows": 427,
     "queries": 32,
     "batch": 1,
     "batches": 5,
@@ -963,25 +963,7 @@
       }
     }
   ],
-  "new_jobs": [
-    {
-      "company": "ICF",
-      "title": "Senior Data Scientist, Fisheries & Water Resources",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482650938/",
-      "date_posted": "2026-10-24",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    }
-  ],
+  "new_jobs": [],
   "remote_jobs": [],
   "ambiguous_jobs": [
     {
