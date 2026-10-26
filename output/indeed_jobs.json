@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-10-26 07:00 UTC",
-  "total": 2,
-  "new_count": 0,
+  "scraped_at": "2026-10-26 20:43 UTC",
+  "total": 4,
+  "new_count": 2,
   "scrape_status": {
     "status": "success",
-    "raw_rows": 63,
+    "raw_rows": 149,
     "queries": 25,
     "errors": 0
   },
@@ -60,15 +60,144 @@
         "longitude": -121.967973,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
+    },
+    {
+      "company": "Apple",
+      "title": "Applied Research Engineer/Scientist",
+      "location": "Cupertino, CA, USA",
+      "url": "https://www.indeed.com/viewjob?jk=0649fe03f5d95e27",
+      "direct_url": "https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200691389-0836&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200691389-0836%2Fapplied-research-engineer-scientist%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3Dc99a9a3d-d0f5-11f1-bf12-b747f464d7c6%26rx_job%3D200691389-0836%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261026T200411Z%26rx_vp%3Dcpc%26team%3DMLAI",
+      "company_url": "https://www.indeed.com/cmp/Apple",
+      "date_posted": "2026-10-26",
+      "description": "Join the team redefining what a deeply personal and integrated assistant can be.  \n  \nAs part of the Siri organization, you will help shape one of the world's most widely used AI assistants, powered by our next-generation of Apple Intelligence, with capabilities like personal context understanding and on-screen awareness, built with privacy from the ground up. Your work will have direct, meaningful impact for users across iOS, iPadOS, macOS, watchOS, and visionOS. This is a rare opportunity to build at the intersection of cutting-edge AI and human-centered design, shipping technology that is centered around users and their needs.  \n  \nAt Apple, we don’t just build products; we create experiences that enrich the lives of billions. You have the unique opportunity to seamlessly integrate foundational AI research with world-class hardware and software, bringing cutting-edge technology to billions of users. Your work will have a far-reaching impact, setting precedents for how autonomous, deeply personalized AI technologies enrich lives across our entire product ecosystem.  \n  \n**Description**  \n  \nWe are seeking an Applied Research Engineer to work on a core team with breakthrough innovation across self-improving systems, agentic memory, and deeply personalized autonomous multi-agent systems. You will help shape next-generation intelligent architectures that learn continuously, retain and reason over persistent memory, coordinate across agents, and translate frontier research into scalable product experiences. This unique opportunity places you at the forefront of innovation, working on projects that redefine user experiences through advanced machine learning.\",\"responsibilities\":\"Advance self-improving systems that learn from deployment signals, adapt over time, and optimize performance autonomously in real-world environments.  \n  \nDesign and operationalize agentic memory frameworks that enable long-horizon reasoning, contextual continuity, personalization, and durable knowledge across interactions.  \n  \nContribute to the design and development of deeply personalized autonomous multi-agent systems capable of coordination, task decomposition, tool use, and dynamic collaboration to solve complex user problems.  \n  \nContribute to product-oriented research and rapid prototyping, translating foundational advances into validated user experiences and production-ready architectures.  \n  \nInfluence platform strategy cross-functionally, assist in defining technical direction, and deliver scalable ML systems that integrate tightly across hardware, software, and services.  \n  \n**Preferred Qualifications**  \n  \nKnowledge of large language models (LLMs) and multi-modal foundation models  \n  \nExperience with pre-training, fine-tuning, or performance optimization  \n  \nFamiliarity with AI systems capable of reasoning and task execution  \n  \nCreativity and curiosity about applying AI capabilities to product experiences  \n  \nAbility to implement research innovations into practical applications  \n  \nGood collaborative skills and effective communication  \n  \n**Minimum Qualifications**  \n  \nBachelor's, Master's, or PhD in Computer Science, Machine Learning, or related technical field; or equivalent practical experience  \n  \nExperience with machine learning through hands-on work in product development, prototyping, or research environments  \n  \nStrong programming skills with experience in machine learning development  \n  \nUnderstanding of transformer-based models  \n  \nAbility to communicate technical concepts to team members  \n  \nExperience with prototyping in ML/AI contexts  \n  \n**Pay & Benefits**  \n  \nAt Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $184,700 and $324,800, and your base pay will depend on your skills, qualifications, experience, and location.  \n  \nApple employees also have the opportunity to become an Apple shareholder through participation in Apple's discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple's Employee Stock Purchase Plan. You'll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses - including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits  \n  \nNote: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.",
+      "salary": "$185k–$325k/yr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 4.7,
+        "city": "cupertino",
+        "latitude": 37.3194,
+        "longitude": -122.044957,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "OpenAI",
+      "title": "Data Scientist, Personalization & Machine Learning",
+      "location": "San Francisco, CA, USA",
+      "url": "https://www.indeed.com/viewjob?jk=bb50adb7020aa95d",
+      "direct_url": "https://openai.com/careers/data-scientist-personalization-and-machine-learning-san-francisco/",
+      "company_url": "https://www.indeed.com/cmp/Openai",
+      "date_posted": "2026-10-26",
+      "description": "Data Science - San Francisco\n\n**About the Team**\n\nWe work across product, growth, and monetization to help people get more value from OpenAI’s products. We identify opportunities for machine learning, build and test early solutions, and partner with engineering and product to bring successful approaches into production.\n\n**About the Role**\n\nWe’re looking for a data scientist who can enter an unfamiliar product area, find a useful ML application, and turn it into a working product intervention. You will own the work from problem definition and data preparation through modeling, experimentation, and launch evaluation.\n\nProjects will include personalization, next-best-action recommendations, lifecycle management, promotion targeting, and models of retention and customer lifetime value. You will help identify opportunities, build proofs of concept, evaluate, and iterate.\n\n**In this role, you will:**\n\n* Identify opportunities with product and business partners, and prioritize work by user value, feasibility, and expected impact.\n* Build datasets, features, reproducible training workflows, and models. You’ll use a combination of tools appropriate to the task at hand.\n* Translate predictions into product actions. Design experiments and use causal reasoning to establish whether those actions improve user and business outcomes.\n* Partner with engineers on integration, serving or batch scoring, monitoring, and rollout. Stay involved through launch and iteration.\n* Explain results and limitations clearly, document decisions, and build reusable methods that other teams can adopt.\n\n**You might thrive in this role if you:**\n\n* Have built and evaluated applied ML systems that influenced a product or business decision, with clear ownership of the modeling work.\n* Write effective Python and SQL and can investigate imperfect data, debug models, and make pragmatic implementation choices.\n* Build and schedule production scoring pipelines using dbt, airflow, and flyte.\n* Understand supervised learning, evaluation, experimentation, and the difference between predicting an outcome and changing it.\n* Can scope ambiguous problems, work across disciplines, and explain technical tradeoffs to colleagues with different backgrounds.\n* Are motivated by helping people use AI effectively and by learning unfamiliar product domains.\n* Are excited to take on challenging, impactful ML problems across multiple areas.\n* Have experience with recommendation systems, personalization, growth, retention, lifetime value, or treatment-effect modeling would be useful. We welcome candidates whose relevant experience comes from other domains.\n\n**About OpenAI**\n\nOpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core the full spectrum of humanity.\n\nWe are an equal opportunity employeration, or other applicable legally protected characteristic.\n\n  \n\nBackground checks for applicants will be administered in accordance with applicable lawation technology systems and related data security obligations.\n\nTo notify OpenAI that you believe this job posting is non-compliant. No response will be provided to inquiries unrelated to job posting compliance.\n\nWe are committed to providing reasonable accommodations to applicants with disabilities.\n\n  \n\nAt OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.\n\n**Compensation**\n\n$347K – $445K\n\nThe base pay offered may vary depending on multiple individualized factorsance-related bonus(es) for eligible employees, and the following benefits.\n\n* Medical, dental, and vision insurance for you and your family, with employer contributions to Health Savings Accounts\n* Pre-tax accounts for Health FSA, Dependent Care FSA, and commuter expenses (parking and transit)\n* 401(k) retirement plan with employer match\n* Paid parental leave (up to 24 weeks for birth parents and 20 weeks for non-birthing parents), plus paid medical and caregiver leave (up to 8 weeks)\n* Paid time off: flexible PTO for exempt employees and up to 15 days annually for non-exempt employees\n* 13+ paid company holidays, and multiple paid coordinated company office closures throughout the year for focus and recharge, plus paid sick or safe time (1 hour per 30 hours worked, or more, as required by applicable state or local law)\n* Mental health and wellness support\n* Employer-paid basic life and disability coverage\n* Annual learning and development stipend to fuel your professional growth\n* Daily meals in our offices, and meal delivery credits as eligible\n* Relocation support for eligible employees\n* Additional taxable fringe benefits, such as charitable donation matching and wellness stipends, may also be provided.\n\nMore details about our benefits are available to candidates during the hiring process.\n\nThis role is at-will and OpenAI reserves the right to modify base pay and other compensation components at any time based on individual performance, team or company results, or market conditions.",
+      "salary": "$347k–$445k/yr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "Apple",
+      "title": "Applied Research Engineer/Scientist",
+      "location": "Cupertino, CA, USA",
+      "url": "https://www.indeed.com/viewjob?jk=0649fe03f5d95e27",
+      "direct_url": "https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200691389-0836&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200691389-0836%2Fapplied-research-engineer-scientist%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3Dc99a9a3d-d0f5-11f1-bf12-b747f464d7c6%26rx_job%3D200691389-0836%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261026T200411Z%26rx_vp%3Dcpc%26team%3DMLAI",
+      "company_url": "https://www.indeed.com/cmp/Apple",
+      "date_posted": "2026-10-26",
+      "description": "Join the team redefining what a deeply personal and integrated assistant can be.  \n  \nAs part of the Siri organization, you will help shape one of the world's most widely used AI assistants, powered by our next-generation of Apple Intelligence, with capabilities like personal context understanding and on-screen awareness, built with privacy from the ground up. Your work will have direct, meaningful impact for users across iOS, iPadOS, macOS, watchOS, and visionOS. This is a rare opportunity to build at the intersection of cutting-edge AI and human-centered design, shipping technology that is centered around users and their needs.  \n  \nAt Apple, we don’t just build products; we create experiences that enrich the lives of billions. You have the unique opportunity to seamlessly integrate foundational AI research with world-class hardware and software, bringing cutting-edge technology to billions of users. Your work will have a far-reaching impact, setting precedents for how autonomous, deeply personalized AI technologies enrich lives across our entire product ecosystem.  \n  \n**Description**  \n  \nWe are seeking an Applied Research Engineer to work on a core team with breakthrough innovation across self-improving systems, agentic memory, and deeply personalized autonomous multi-agent systems. You will help shape next-generation intelligent architectures that learn continuously, retain and reason over persistent memory, coordinate across agents, and translate frontier research into scalable product experiences. This unique opportunity places you at the forefront of innovation, working on projects that redefine user experiences through advanced machine learning.\",\"responsibilities\":\"Advance self-improving systems that learn from deployment signals, adapt over time, and optimize performance autonomously in real-world environments.  \n  \nDesign and operationalize agentic memory frameworks that enable long-horizon reasoning, contextual continuity, personalization, and durable knowledge across interactions.  \n  \nContribute to the design and development of deeply personalized autonomous multi-agent systems capable of coordination, task decomposition, tool use, and dynamic collaboration to solve complex user problems.  \n  \nContribute to product-oriented research and rapid prototyping, translating foundational advances into validated user experiences and production-ready architectures.  \n  \nInfluence platform strategy cross-functionally, assist in defining technical direction, and deliver scalable ML systems that integrate tightly across hardware, software, and services.  \n  \n**Preferred Qualifications**  \n  \nKnowledge of large language models (LLMs) and multi-modal foundation models  \n  \nExperience with pre-training, fine-tuning, or performance optimization  \n  \nFamiliarity with AI systems capable of reasoning and task execution  \n  \nCreativity and curiosity about applying AI capabilities to product experiences  \n  \nAbility to implement research innovations into practical applications  \n  \nGood collaborative skills and effective communication  \n  \n**Minimum Qualifications**  \n  \nBachelor's, Master's, or PhD in Computer Science, Machine Learning, or related technical field; or equivalent practical experience  \n  \nExperience with machine learning through hands-on work in product development, prototyping, or research environments  \n  \nStrong programming skills with experience in machine learning development  \n  \nUnderstanding of transformer-based models  \n  \nAbility to communicate technical concepts to team members  \n  \nExperience with prototyping in ML/AI contexts  \n  \n**Pay & Benefits**  \n  \nAt Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $184,700 and $324,800, and your base pay will depend on your skills, qualifications, experience, and location.  \n  \nApple employees also have the opportunity to become an Apple shareholder through participation in Apple's discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple's Employee Stock Purchase Plan. You'll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses - including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits  \n  \nNote: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.",
+      "salary": "$185k–$325k/yr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 4.7,
+        "city": "cupertino",
+        "latitude": 37.3194,
+        "longitude": -122.044957,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "OpenAI",
+      "title": "Data Scientist, Personalization & Machine Learning",
+      "location": "San Francisco, CA, USA",
+      "url": "https://www.indeed.com/viewjob?jk=bb50adb7020aa95d",
+      "direct_url": "https://openai.com/careers/data-scientist-personalization-and-machine-learning-san-francisco/",
+      "company_url": "https://www.indeed.com/cmp/Openai",
+      "date_posted": "2026-10-26",
+      "description": "Data Science - San Francisco\n\n**About the Team**\n\nWe work across product, growth, and monetization to help people get more value from OpenAI’s products. We identify opportunities for machine learning, build and test early solutions, and partner with engineering and product to bring successful approaches into production.\n\n**About the Role**\n\nWe’re looking for a data scientist who can enter an unfamiliar product area, find a useful ML application, and turn it into a working product intervention. You will own the work from problem definition and data preparation through modeling, experimentation, and launch evaluation.\n\nProjects will include personalization, next-best-action recommendations, lifecycle management, promotion targeting, and models of retention and customer lifetime value. You will help identify opportunities, build proofs of concept, evaluate, and iterate.\n\n**In this role, you will:**\n\n* Identify opportunities with product and business partners, and prioritize work by user value, feasibility, and expected impact.\n* Build datasets, features, reproducible training workflows, and models. You’ll use a combination of tools appropriate to the task at hand.\n* Translate predictions into product actions. Design experiments and use causal reasoning to establish whether those actions improve user and business outcomes.\n* Partner with engineers on integration, serving or batch scoring, monitoring, and rollout. Stay involved through launch and iteration.\n* Explain results and limitations clearly, document decisions, and build reusable methods that other teams can adopt.\n\n**You might thrive in this role if you:**\n\n* Have built and evaluated applied ML systems that influenced a product or business decision, with clear ownership of the modeling work.\n* Write effective Python and SQL and can investigate imperfect data, debug models, and make pragmatic implementation choices.\n* Build and schedule production scoring pipelines using dbt, airflow, and flyte.\n* Understand supervised learning, evaluation, experimentation, and the difference between predicting an outcome and changing it.\n* Can scope ambiguous problems, work across disciplines, and explain technical tradeoffs to colleagues with different backgrounds.\n* Are motivated by helping people use AI effectively and by learning unfamiliar product domains.\n* Are excited to take on challenging, impactful ML problems across multiple areas.\n* Have experience with recommendation systems, personalization, growth, retention, lifetime value, or treatment-effect modeling would be useful. We welcome candidates whose relevant experience comes from other domains.\n\n**About OpenAI**\n\nOpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core the full spectrum of humanity.\n\nWe are an equal opportunity employeration, or other applicable legally protected characteristic.\n\n  \n\nBackground checks for applicants will be administered in accordance with applicable lawation technology systems and related data security obligations.\n\nTo notify OpenAI that you believe this job posting is non-compliant. No response will be provided to inquiries unrelated to job posting compliance.\n\nWe are committed to providing reasonable accommodations to applicants with disabilities.\n\n  \n\nAt OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.\n\n**Compensation**\n\n$347K – $445K\n\nThe base pay offered may vary depending on multiple individualized factorsance-related bonus(es) for eligible employees, and the following benefits.\n\n* Medical, dental, and vision insurance for you and your family, with employer contributions to Health Savings Accounts\n* Pre-tax accounts for Health FSA, Dependent Care FSA, and commuter expenses (parking and transit)\n* 401(k) retirement plan with employer match\n* Paid parental leave (up to 24 weeks for birth parents and 20 weeks for non-birthing parents), plus paid medical and caregiver leave (up to 8 weeks)\n* Paid time off: flexible PTO for exempt employees and up to 15 days annually for non-exempt employees\n* 13+ paid company holidays, and multiple paid coordinated company office closures throughout the year for focus and recharge, plus paid sick or safe time (1 hour per 30 hours worked, or more, as required by applicable state or local law)\n* Mental health and wellness support\n* Employer-paid basic life and disability coverage\n* Annual learning and development stipend to fuel your professional growth\n* Daily meals in our offices, and meal delivery credits as eligible\n* Relocation support for eligible employees\n* Additional taxable fringe benefits, such as charitable donation matching and wellness stipends, may also be provided.\n\nMore details about our benefits are available to candidates during the hiring process.\n\nThis role is at-will and OpenAI reserves the right to modify base pay and other compensation components at any time based on individual performance, team or company results, or market conditions.",
+      "salary": "$347k–$445k/yr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    }
+  ],
   "remote_jobs": [],
-  "ambiguous_jobs": [],
+  "ambiguous_jobs": [
+    {
+      "company": "Google",
+      "title": "Senior Staff Research Data Scientist, AI Data Research",
+      "location": "Mountain View, CA, USA",
+      "url": "https://www.indeed.com/viewjob?jk=dfa5f758ea6de9af",
+      "direct_url": "https://careers.google.com/jobs/results/72319020430172870-senior-staff-research-data-scientist/",
+      "company_url": "https://www.indeed.com/cmp/Google",
+      "date_posted": "2026-10-26",
+      "description": "In most instances, this position requires in-person interviews as part of the hiring process.\n\n### **Minimum qualifications:**\n\n* Master's degree in Statistics, Data Science, Mathematics, Physics, Economics, Operations Research, Engineering, a related quantitative field, or equivalent practical experience.\n* 10 years of work experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis, or 8 years of work experience with a PhD degree.\n\n  \n\n### **Preferred qualifications:**\n\n* 12 years of work experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis, or 10 years of work experience with a PhD degree.\n* Experience in Deep Learning, Infrastructure Systems, or Reinforcement Learning.\n\n**About the job**\n-----------------\n\nImagine being at the core of the AI revolution, where your expertise directly fuels the most advanced Large Language Models. We are the driving team behind high-quality data – the essential ingredient for unlocking unprecedented AI breakthroughs. Partner with resourceful minds, define data excellence, and make an impact on the future of intelligent systems.\n\nAs a Senior Staff Research Data Scientist, you will be a key driver of innovation. This role demands deep expertise in machine learning and a strong foundation in core data science methodologies. You will be instrumental in conceiving and deploying solutions, directly contributing to the advancements of AI.\n\nIndividual pay is determined by factors including job-related skills, experience, and relevant education or training.\n  \n  \nUS: $262000 - $364000 (USD) + 25% bonus target + equity + benefits  \n  \nLearn more about benefits at Google.\n\n**Responsibilities**\n--------------------\n\n* Work with data sets and solve complex and ambitious data science problems.\n* Share/present to executive stakeholders and executives, effectively defend your work, and influence strategy and product direction.\n* Interact cross-functionally with a wide range of product and model teams. Work closely with Product Management and engineering to identify opportunities.\n* Define key metrics to measure success in various shapes and forms.\n* Develop new methodologies to improve the performance of Google's models through better training data, including data acquisition, and insights.\n\nGoogle is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.",
+      "salary": "$262k–$364k/yr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "City is unknown or has multiple Census locations."
+      }
+    }
+  ],
   "geographic_counts": {
-    "in_radius": 2,
+    "in_radius": 4,
     "remote": 0,
-    "ambiguous": 0,
+    "ambiguous": 1,
     "outside_radius": 0
   }
 }
