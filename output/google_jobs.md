@@ -1,5 +1,5 @@
 # 🔎 Google Jobs — AI · Language · Human Research Roles
-*Last updated: 2026-10-26 06:56 UTC*
+*Last updated: 2026-10-26 21:12 UTC*
 
 **0 new role(s)** since last run · 0 total in last 24h
 
