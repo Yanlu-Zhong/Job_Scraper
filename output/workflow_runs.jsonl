@@ -595,3 +595,4 @@
 {"job_count": 66, "run_attempt": "1", "run_id": "40574934334", "scrape": {"batch": 1, "batches": 5, "queries": 32, "raw_rows": 435, "status": "success", "terms_in_batch": 8, "terms_total": 38}, "timestamp": "2026-10-27T20:11:13Z", "workflow": "linkedin"}
 {"job_count": 14, "run_attempt": "1", "run_id": "40576033418", "scrape": {"errors": 0, "queries": 25, "raw_rows": 334, "status": "success"}, "timestamp": "2026-10-27T20:13:48Z", "workflow": "indeed"}
 {"job_count": 14, "run_attempt": "1", "run_id": "40576323361", "scrape": {"errors": 0, "queries": 25, "raw_rows": 332, "status": "success"}, "timestamp": "2026-10-27T20:15:40Z", "workflow": "indeed"}
+{"job_count": 0, "run_attempt": "1", "run_id": "40579606498", "scrape": {"errors": 0, "queries": 25, "raw_rows": 0, "status": "empty"}, "timestamp": "2026-10-27T20:37:25Z", "workflow": "glassdoor"}
