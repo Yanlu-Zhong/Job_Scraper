@@ -591,3 +591,4 @@
 {"job_count": 9, "run_attempt": "1", "run_id": "40462460564", "scrape": {"errors": 0, "queries": 25, "raw_rows": 290, "status": "success"}, "timestamp": "2026-10-27T06:40:42Z", "workflow": "indeed"}
 {"job_count": 0, "run_attempt": "1", "run_id": "40463240256", "scrape": {"errors": 0, "queries": 155, "raw_rows": 0, "status": "empty"}, "timestamp": "2026-10-27T06:49:18Z", "workflow": "google_jobs"}
 {"job_count": 0, "run_attempt": "1", "run_id": "40467105780", "scrape": {"raw_rows": 0, "status": "empty"}, "timestamp": "2026-10-27T07:26:42Z", "workflow": "hiringcafe"}
+{"job_count": 0, "run_attempt": "1", "run_id": "40476820128", "timestamp": "2026-10-27T08:54:39Z", "workflow": "biotech"}
