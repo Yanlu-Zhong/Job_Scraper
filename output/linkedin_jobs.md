@@ -1,99 +1,75 @@
 # 🔥 LinkedIn — AI · Language · Human Research Roles
-*Last updated: 2026-10-26 20:42 UTC*
+*Last updated: 2026-10-27 00:37 UTC*
 
-**22 new role(s)** since last run · 48 total in last 24h
+**17 new role(s)** since last run · 42 total in last 24h
 
-### [Staff Product Data Scientist, Gmail, Chat, Calendar](https://www.linkedin.com/jobs/view/4482947308/) — Google
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $192000 - $278000
-- 🕒 **Posted:** 2026-10-26
+### [Applied Scientist, AWS Neuron Science - Core Algorithm, AWS Neuron Science - Core Algorithm](https://www.linkedin.com/jobs/view/4483781291/) — Annapurna Labs
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-10-27
 
-### [Data Scientist, Analytics (Technical Leadership)](https://www.linkedin.com/jobs/view/4254370691/) — Meta
-- 📍 **Location:** Menlo Park, CA
-- 💰 **Salary:** $210,000.00/yr - $281,000.00/yr
-- 🕒 **Posted:** 2026-10-26
-
-### [Data Scientist, Analytics (Technical Leadership)](https://www.linkedin.com/jobs/view/4254372628/) — Meta
+### [Robotics Applied Scientist](https://www.linkedin.com/jobs/view/4483784073/) — Amazon
 - 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $210,000.00/yr - $281,000.00/yr
+- 🕒 **Posted:** 2026-10-27
+
+### [Data Scientist, Robotaxi Performance & Capability](https://www.linkedin.com/jobs/view/4481826411/) — Wayve
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-10-27
+
+### [Sr. Data Scientist, Outcomes Research](https://www.linkedin.com/jobs/view/4483271595/) — Tempus AI
+- 📍 **Location:** Redwood City, CA
+- 💰 **Salary:** $100,000-$160,000
+- 🕒 **Posted:** 2026-10-27
+
+### [AI Research Scientist, CoreML - Monetization AI](https://www.linkedin.com/jobs/view/4203648310/) — Meta
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $154,000.00/yr - $217,000.00/yr
 - 🕒 **Posted:** 2026-10-26
 
-### [Data Scientist, Enterprise](https://www.linkedin.com/jobs/view/4411253059/) — Replit
-- 📍 **Location:** Foster City, CA
-- 💰 **Salary:** $210,000.00/yr - $327,000.00/yr
-- 🕒 **Posted:** 2026-10-26
-
-### [Data Scientist, Personalization & Machine Learning](https://www.linkedin.com/jobs/view/4483233661/) — OpenAI
+### [AI Researcher, 2027 Graduate U.S.](https://www.linkedin.com/jobs/view/4483767260/) — Atlassian
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $347,000.00/yr - $445,000.00/yr
+- 💰 **Salary:** $178,200 - $232,650
 - 🕒 **Posted:** 2026-10-26
 
-### [Senior Data Scientist - E-Commerce Anti-Fraud](https://www.linkedin.com/jobs/view/4483722752/) — TikTok USDS Joint Venture
+### [Research Engineer Graduate (Seed Model - AI Foundation Model Infrastructure) - 2027 Start (PhD)](https://www.linkedin.com/jobs/view/4475520304/) — ByteDance
 - 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $176356 - $395280 annually
 - 🕒 **Posted:** 2026-10-26
 
-### [Data Scientist V](https://www.linkedin.com/jobs/view/4481454794/) — OP
-- 📍 **Location:** Menlo Park, CA
-- 💰 **Salary:** $95.00/hr - $102.00/hr
+### [AI Foundations - Research Scientist](https://www.linkedin.com/jobs/view/4481806722/) — IBM
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-26
 
-### [Sr. Robotics Applied Scientist](https://www.linkedin.com/jobs/view/4475565635/) — Amazon
+### [Research Scientist - ByteBrain - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://www.linkedin.com/jobs/view/4475526169/) — ByteDance
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-26
+
+### [(USA) Principal, Data Scientist](https://www.linkedin.com/jobs/view/4481829030/) — Walmart
+- 📍 **Location:** San Bruno, CA
+- 🕒 **Posted:** 2026-10-26
+
+### [Metrology Data Scientist](https://www.linkedin.com/jobs/view/4449787314/) — VoltForce
+- 📍 **Location:** San Leandro, CA
+- 🕒 **Posted:** 2026-10-26
+
+### [Sr Applied Data Scientist - Supply Chain Optimization](https://www.linkedin.com/jobs/view/4483701436/) — Target
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-10-26
 
-### [Research Scientist Computational Imaging Graduate (Pico) - 2027 Start (PhD) - Graduate (PICO Lab) - 2027 Start (PhD)](https://www.linkedin.com/jobs/view/4475524310/) — ByteDance
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-26
-
-### [Senior Applied ML/AI Scientist - Search](https://www.linkedin.com/jobs/view/4447188821/) — Faire
+### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4460055539/) — Ellipsis Health
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-26
 
-### [AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA](https://www.linkedin.com/jobs/view/4483235867/) — Enigma
+### [(USA) Principal, Data Scientist](https://www.linkedin.com/jobs/view/4481828081/) — Walmart
+- 📍 **Location:** San Bruno, CA
+- 🕒 **Posted:** 2026-10-26
+
+### [Applied Scientist - LLM Training System as a Service - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://www.linkedin.com/jobs/view/4475524309/) — ByteDance
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-26
 
-### [Research Scientist](https://www.linkedin.com/jobs/view/4456281702/) — Tessera Labs
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-26
-
-### [Research Scientist - Model Capability Boundary Exploration and AI Data Flywheel System Development - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://www.linkedin.com/jobs/view/4475520303/) — ByteDance
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-26
-
-### [Senior Research Engineer | Senior Research Scientist | World Models | Diffusion Models | Multimodal AI | Hybrid, Palo Alto](https://www.linkedin.com/jobs/view/4483220732/) — Enigma
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-10-26
-
-### [AI Researcher ($140K- 300K)](https://www.linkedin.com/jobs/view/4481434602/) — CodeRound AI
+### [Senior Machine Learning Scientist](https://www.linkedin.com/jobs/view/4483575419/) — Storm2
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-26
 
-### [Research Engineer](https://www.linkedin.com/jobs/view/4456297705/) — Tessera Labs
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-26
-
-### [Post-Training Research Scientist](https://www.linkedin.com/jobs/view/4386961597/) — Baseten
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-26
-
-### [Research Scientist / AI Software Engineer, LLM/Agent Platform - TikTok - Content Ecology AI Innovation & Platform - TikTok Content Ecology](https://www.linkedin.com/jobs/view/4483236979/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-26
-
-### [AI Vision Research Engineer Graduate- Pico 2026 Start (PHD)](https://www.linkedin.com/jobs/view/4475518409/) — ByteDance
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-26
-
-### [Research Engineer/Senior Research Engineer, 3D Auto-Labeling and Data Flywheel](https://www.linkedin.com/jobs/view/4481430845/) — PlusAI
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-10-26
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4483731450/) — BCforward
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-10-26
-
-### [Data Scientist II](https://www.linkedin.com/jobs/view/4438362248/) — Scribd, Inc.
+### [Data Scientist, Analytics](https://www.linkedin.com/jobs/view/4483760822/) — Crusoe
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-26
