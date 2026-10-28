@@ -1,80 +1,65 @@
 # 🔥 LinkedIn — AI · Language · Human Research Roles
-*Last updated: 2026-10-27 23:52 UTC*
+*Last updated: 2026-10-28 05:47 UTC*
 
-**19 new role(s)** since last run · 85 total in last 24h
+**14 new role(s)** since last run · 61 total in last 24h
 
-### [Research Scientist, Robotics & AI](https://www.linkedin.com/jobs/view/4375106746/) — Dexmate
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-10-27
+### [AI Scientist](https://www.linkedin.com/jobs/view/4483820207/) — Tempus AI
+- 📍 **Location:** Redwood City, CA
+- 💰 **Salary:** $100,000-$150,000
+- 🕒 **Posted:** 2026-10-28
 
-### [Sr. Applied Scientist, Prime Video - Personalization and Discovery Science](https://www.linkedin.com/jobs/view/4482256081/) — Amazon Science
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-10-27
+### [Sr. Data Scientist, Performance Marketing](https://www.linkedin.com/jobs/view/4484274935/) — Pinterest
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $139,764—$287,749 USD
+- 🕒 **Posted:** 2026-10-28
 
-### [(USA) Senior, Data Scientist](https://www.linkedin.com/jobs/view/4481885151/) — Walmart Connect
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-10-27
+### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4483819435/) — Linktree
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $147,000-$182,000
+- 🕒 **Posted:** 2026-10-28
 
-### [AI Research Scientist, CoreML - Monetization AI](https://www.linkedin.com/jobs/view/4218237703/) — Meta
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-10-27
+### [Data Scientist, Acquisition](https://www.linkedin.com/jobs/view/4482264862/) — Superhuman
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $180,000.00/yr - $275,000.00/yr
+- 🕒 **Posted:** 2026-10-28
 
-### [Applied Scientist, Context Graph Team](https://www.linkedin.com/jobs/view/4483804688/) — MetAntz
+### [Senior Data Scientist - Digital Intelligence, Device Signals](https://www.linkedin.com/jobs/view/4484283878/) — Socure
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $150,000.00/yr - $185,000.00/yr
+- 🕒 **Posted:** 2026-10-28
+
+### [Research Engineer - Pre-training Data](https://www.linkedin.com/jobs/view/4484063955/) — Prime Intellect
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-27
 
-### [Software Engineer, Audio Applied Scientist](https://www.linkedin.com/jobs/view/4481884140/) — Meta
-- 📍 **Location:** Burlingame, CA
+### [Data Scientist, Enterprise](https://www.linkedin.com/jobs/view/4484238215/) — Replit
+- 📍 **Location:** Foster City, CA
 - 🕒 **Posted:** 2026-10-27
 
-### [Software Engineer, Audio Applied Scientist](https://www.linkedin.com/jobs/view/4481869784/) — Meta
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-10-27
-
-### [Applied Scientist, Amazon Ads](https://www.linkedin.com/jobs/view/4481860979/) — Amazon Science
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-27
-
-### [Senior Machine Learning Scientist](https://www.linkedin.com/jobs/view/4481858920/) — ARTO
+### [Data Scientist, Growth – Partnerships & Customer Experience](https://www.linkedin.com/jobs/view/4483680505/) — ERGO NEXT Insurance
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-10-27
 
-### [ML Research Scientist - Computational Biologist/Bioinformatics](https://www.linkedin.com/jobs/view/4472335862/) — Merge Labs
+### [Data Scientist, Product Analytics](https://www.linkedin.com/jobs/view/4120824568/) — Meta
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-10-27
+
+### [Principal Data Scientist](https://www.linkedin.com/jobs/view/4484087709/) — Genentech
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-10-27
+
+### [Sr. Data Scientist, Forward-Deployed](https://www.linkedin.com/jobs/view/4484240811/) — 6sense
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-27
 
-### [Research Engineer - Pre-training](https://www.linkedin.com/jobs/view/4484080071/) — Prime Intellect
+### [Sr. Data Scientist](https://www.linkedin.com/jobs/view/4483631572/) — SLAS (Society for Laboratory Automation and Screening)
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-27
 
-### [Research Engineer](https://www.linkedin.com/jobs/view/4484259352/) — Engramme
+### [Tech Lead Manager, Core Apps Data Scientist](https://www.linkedin.com/jobs/view/4483693686/) — Anthropic
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-27
 
-### [Senior Research Engineer, Robotics Systems](https://www.linkedin.com/jobs/view/4410862592/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-10-27
-
-### [Senior Data Scientist / AI Engineer (AgenticAI, GenAI)](https://www.linkedin.com/jobs/view/4484062873/) — Largeton Group
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-10-27
-
-### [Research Scientist Graduate (Seed Model - LLM) - 2027 Start](https://www.linkedin.com/jobs/view/4475835658/) — ByteDance
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-27
-
-### [Principal, Data Scientist - Applied Machine Learning](https://www.linkedin.com/jobs/view/4474001054/) — VIZIO
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-27
-
-### [Research Scientist](https://www.linkedin.com/jobs/view/4484252633/) — Engramme
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-27
-
-### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4475838315/) — Qventus, Inc
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-27
-
-### [Forward Deployed Data Scientist](https://www.linkedin.com/jobs/view/4467094636/) — Fin
+### [Tech Lead Manager, Developer Platform Product Data Scientist](https://www.linkedin.com/jobs/view/4483628173/) — Anthropic
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-27
