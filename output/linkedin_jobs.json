@@ -1,14 +1,14 @@
 {
-  "scraped_at": "2026-10-28 05:47 UTC",
-  "total": 61,
-  "new_count": 14,
+  "scraped_at": "2026-10-28 06:08 UTC",
+  "total": 62,
+  "new_count": 1,
   "scrape_status": {
     "status": "success",
-    "raw_rows": 327,
-    "queries": 24,
-    "batch": 5,
+    "raw_rows": 424,
+    "queries": 32,
+    "batch": 1,
     "batches": 5,
-    "terms_in_batch": 6,
+    "terms_in_batch": 8,
     "terms_total": 38
   },
   "jobs": [
@@ -1075,158 +1075,16 @@
         "longitude": -123.032229,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "Tempus AI",
-      "title": "AI Scientist",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483820207/",
-      "date_posted": "2026-10-28",
-      "salary": "$100,000-$150,000",
-      "ats": "LinkedIn",
-      "description": "Passionate about precision medicine and advancing the healthcare industry?\n\nRecent advancements in underlying technology have finally made it possible for AI to impact clinical care in a meaningful way. Tempus' proprietary platform connects an entire ecosystem of real-world evidence to deliver real-time, actionable insights to physicians, providing critical information about the right treatments for the right patients, at the right time.\n\nAt Tempus, we are pursuing a mission to redefine precision medicine through data-driven insights. The AI Products group is a multidisciplinary group of AI scientists and engineers focused on developing AI-driven precision medicine and therapeutic solutions across the clinical and drug development lifecycle.\n\nAs an AI Scientist, you will operate at the intersection of machine learning and clinical science. You will research, design, and deploy cutting-edge multimodal AI models that leverage one of the world's largest clinical and molecular datasets—transforming patient care at a massive scale.\n\nKey Responsibilities\n\nTechnical Contribution: This is an individual contributor role with significant hands-on contribution.\nAlgorithmic Innovation: Design and train state-of-the-art models utilizing multi-modal data, including but not limited to pathology slides (WSI), genomic profiles (DNA/RNA), spatial omics, and longitudinal patient records.\nCollaboration with Life Sciences Companies: Develop AI solutions to support biomarker discovery, therapy outcome prediction, and the advancement of Companion Diagnostics (CDx).\nRegulatory Alignment: Ensure all AI products meet stringent regulatory guidelines and quality standards for healthcare applications.\nScientific Contribution: Maintain Tempus’s position as a thought leader by publishing original research in high-impact venues and engaging with the global AI research community.\n\nQualifications\n\nWe value diverse perspectives and recognize that outstanding talent doesn't always follow a linear path. If you are passionate about this work and believe you have what it takes to thrive here, please apply even if you do not precisely match all the qualifications below.\n\nEducation: Ph.D. in Computer Science, or a related quantitative field.\nDomain Expertise: Demonstrated expertise in deep learning model development and rigorous evaluation. Experience in computer vision and multimodal modeling (pathology, multi-omics, etc.) is preferred. Prior work in medical or healthcare AI is highly valued but not required.\nResearch Excellence: A strong track record of peer-reviewed publications in leading machine learning or computer vision venues. Publications in medical or healthcare AI venues are preferred.\nEngineering Excellence: Proficiency in Python and the modern deep learning stack (e.g. Pytorch). Strong product-level coding skills for model development are a strong plus, along with a solid understanding of industry-standard software engineering and development practices.\n\nRemote US: $100,000-$150,000\n\nNYC/SF: $120,000-$160,000\n\nThe expected salary range above is applicable if the role is performed from California and may vary for other locations (Colorado, Illinois, New York). Actual salary may vary based on qualifications and experience. Tempus offers a full range of benefits, which may include incentive compensation, restricted stock units, medical and other benefits depending on the position.\n\nAdditionally, for remote roles open to individuals in unincorporated Los Angeles\n– including remote roles- Tempus reasonably believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment: engaging positively with customers and other employees; accessing confidential information, including intellectual property, trade secrets, and protected health information; and appropriately handling such information in accordance with legal and ethical standards. Qualified applicants with arrest or conviction records will be considered for employment in accordance with applicable law, including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act.\n\nWe are an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nBiotechnology Research",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 13.625,
-        "city": "redwood city",
-        "latitude": 37.515274,
-        "longitude": -122.213672,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
     },
     {
-      "company": "Pinterest",
-      "title": "Sr. Data Scientist, Performance Marketing",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484274935/",
-      "date_posted": "2026-10-28",
-      "salary": "$139,764—$287,749 USD",
-      "ats": "LinkedIn",
-      "description": "About Pinterest\n\nMillions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.\n\nDiscover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible.\n\nAt Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we’ll explore your foundational skills and how you collaborate with AI.\n\nThrough our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here.\n\nWe are looking for a Senior Data Scientist to join our marketing org. As a Senior Data Scientist you introduce greater scientific rigor into the marketing measurement and optimization processes to shape Pinterest’s user growth and marketing strategy. The results of your work will influence and drive strategic decisions for the company - identify investment opportunities for growth, understand user growth and behavior, and define metrics to grow and sustain our user base. You will collaborate on a wide array of business problems with a diverse set of cross-functional partners across Marketing, Product, Engineering, Design, Research, Product Analytics, Data Engineering and others.\n\nThe role is within the Growth Marketing team, and would be supporting performance marketing efforts focused on driving user growth for Pinterest.\n\nWhat You’ll Do\n\nDeep strategic analysis to answer growth marketing ecosystem questions such as how to drive monthly active users from paid performance marketing, how to quantify the effect of paid performance marketing in new markets, how to drive user engagement and user LTV (lifetime value) from performance marketing.\nEvolve our existing systems like geo-testing frameworks and other incrementality testing frameworks.\nBuild and deploy statistical and machine learning models such as propensity, forecasting, and lifetime value (LTV) models—to optimize marketing strategies and enhance audience targeting.\nDevelop new statistical models as well as maintain/improve existing models like user lifetime value models, budgeting models, long term user retention models etc.\nCollaborate on a wide array of product and business problems with a diverse set of cross-functional partners across Product, Engineering, Analytics, Marketing, Data Engineering and others.\n\nEvolve our experimentation capabilities and tools to evaluate the business impact of performance marketing investment. Advise on experimentation best practices; identifying flaws in experiment practices and results; building tools for experiment analysis; etc.\nIdentify the right measures of success for teams and help them track those metrics. Own the full lifecycle of those metrics from logging requirements, metrics definition, prototype pipelines, and improvements.\n\nTranslate complex analytical findings into clear, actionable insights and strategic recommendations for both technical and non-technical stakeholders, including senior leadership.\nWrite clear, actionable analyses that help teams uncover opportunities and identify areas of improvement to our existing strategies.\nDesign, maintain, and promote dashboards and automated reporting tools to empower stakeholders with self-serve, data-driven decision-making capabilities. Build and optimize ETL data pipelines to automate reporting, support deep dive analysis and feature engineering for analytical models.\n\nWhat We’re Looking For\n\nMinimum 5 years of combined post-graduate academic and industry experience applying scientific methods to solve real-world problems.\nMaster's degree in a quantitative field such as mathematics, statistics, computer science or engineering.\nHands-on experiences with building marketing measurement solutions to quantify the business impact of marketing tactics and investments.\nStrong background in statistics and quantitative analysis, with experience in applying advanced statistical techniques to real-world problems.\nExpertise in at least one scripting language (ideally Python/R).\nProficiency in SQL/Hive. Ability to write efficient SQL queries.\nStrong business and product sense. Strong skills in shaping vague questions into well-defined analyses and success metrics that drive business decisions.\nExcellent communication skills, able to lead initiatives and communicate findings to the leadership and cross-functional teams. Explains work and thought processes clearly and concisely.\nExperience leading key technical projects.\nStrong Experimentation background.\nStatistical rigor. Experience with causal inference projects.\n\nRelocation Statement:\n\nThis position is not eligible for relocation assistance. Visit our PinFlex page to learn more about our working model.\n\nIn-Office Requirement Statement\n\nWe recognize that the ideal environment for work is situational and may differ across departments. What this looks like day-to-day can vary based on the needs of each organization or role.\nThis role will need to be in the office for in-person collaboration 1-2 times/quarter and therefore can be situated anywhere in the country.\n\nAt Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.\n\nInformation regarding the culture at Pinterest and benefits available for this position can be found here.\n\nUS based applicants only\n\n$139,764—$287,749 USD\n\nOur Commitment To Inclusion\n\nPinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, ancestry, national origin, religion or religious creed, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, marital status, status as a protected veteran, physical or mental disability, medical condition, genetic information or characteristics (or those of a family member) or any other consideration made unlawful by applicable federal, state or local laws. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require a medical or religious accommodation during the job application process, please complete this form for support.\n\nBy submitting this application, I certify that all information submitted in my application and throughout the hiring process is true, accurate, and complete to the best of my knowledge. I understand that any false statement, omission, or misrepresentation may disqualify me from employment consideration or result in termination if discovered after hire.\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet, Software Development, and IT Services and IT Consulting",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Linktree",
-      "title": "Senior Data Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483819435/",
-      "date_posted": "2026-10-28",
-      "salary": "$147,000-$182,000",
-      "ats": "LinkedIn",
-      "description": "The Role\n\nAs a Senior Data Scientist on Linktree's Core Product Analytics team, you'll be at the centre of how we understand our product and decide what to build next. With 70+ million people using Linktree to connect with their audiences, and billions of visitors clicking through each year, you'll turn that activity into clear answers on what's working, what isn't, and where we should invest.\n\nYou'll partner closely with Product, Engineering, Design and Marketing to define the metrics that matter, design and read the experiments behind our biggest launches, and dig into the growth, retention and monetisation questions that shape our roadmap. You'll design smart, scrappy tests that give us directional signal fast, and run more formal hypothesis tests when the stakes are high, always working in lean build-measure-learn cycles.\n\nAs we bring core data analysis together under one team, you'll help set the standards for how Linktree measures, tests and reports. You'll stay hands-on across our modern data stack, building the datasets and models you need rather than waiting for someone else to. Most of all, your work will help Linktree achieve our mission: to empower anyone to curate and grow their digital universe.\n\nWhat You’ll Own\n\nDefine, own and evolve Linktree's core product metrics and the metric trees behind them, from acquisition and activation through engagement, retention and monetisation\nDesign, run and evaluate A/B tests and quasi-experiments across the core product, and turn the results into clear ship, iterate or kill recommendations\nLead deep-dive analyses on growth, retention and revenue questions, proactively surfacing opportunities and risks that aren't yet on the roadmap\nBuild and own trusted datasets, dbt models and dashboards that give squads reliable, self-serve visibility into product performance\nPartner with PMs and engineering leads on roadmap prioritisation, opportunity sizing and success criteria for new launches\nSet and champion standards for experimentation, metric definitions and analytical rigour across the company, and mentor others in using them\nCommunicate insights to product leadership and the executive team in clear, decision-ready narratives\n\nWho We're Looking For\n\n4–5+ years of experience as a Data Scientist or Product Analyst in a high-growth, product-led technology company\nHands-on experience running a wide range of experiments, from quick-and-scrappy tests to formal hypothesis tests, with a strong grounding in statistics, power analysis and causal inference\nAdvanced SQL and fluency in Python (or R) for analysis and modelling; comfortable building your own pipelines and datasets\nExperience with modern data stacks (e.g. dbt, Dagster/Airflow, Snowflake/BigQuery) and BI tools such as Hex or Looker\nA track record of defining product metrics and using data to change product decisions, with impact you can point to\nComfortable in ambiguity: you scope your own problems and can hold a clear point of view with senior stakeholders, and you change your mind when the data says so\nExcellent communicator who can turn complex findings into clear recommendations for any audience\nBachelor's degree in mathematics, statistics, economics, computer science or a related field (MS/PhD a plus)\n\nLinktree is committed to providing a fair and competitive compensation package including cash, equity, and benefits. The base salary offered for this role is targeted at $147,000-$182,000 for roles based in San Francisco, Los Angeles or US-Remote. Final offers depend on multiple factors including location, experience, expertise, and role scope, and may vary from the range listed.\n\nP.S. If you don’t tick every box in this listing, please don’t rule yourself out. We take pride in inclusion and hiring incredible human beings with great potential over ticking boxes – so if this role resonates with you, hit that apply button!\n\nOur Story\n\nWe’re on a mission to empower anyone to curate, grow, and monetize their digital universe. We created the “link in bio” category — and we’re just getting started. From creators, artists, and entrepreneurs to global brands, we’re redefining how people connect with their communities, showcase their content and promote products — all in one link.\n\nToday, a community of 70+ million use Linktree, including icons like Adidas, TikTok, the UN Environmental Program, The NFL, Manchester United, World Central Kitchen, Sabrina Carpenter, Olivia Rodrigo, and Selena Gomez. With 48,000 new accounts created every day, Linktree is the fastest-growing leader in our space.\n\nWe’ve teamed up with some of the world’s biggest platforms including TikTok, Snap, YouTube, GoFundMe, Spotify, Google, Stripe, Reddit, Laylo, and Kajabi, to unify Linkers’ digital spaces, and we partner with retail brands Amazon, Lululemon, Nike, Target, Sephora, Lululemon, and more to share products they love.\n\nWe’re a tight-knit, passionate team building best-in-class tools that make online presence simple, powerful, and yours. If you're excited by the idea of shaping a new category, setting the standard, and making space for everyone to be seen and succeed, we’d love to meet you.\n\nWhere And How We Work\n\nWe're a global, diverse team spread across continents with offices in London, Los Angeles, Melbourne, and San Francisco. We work together flexibly and you can choose the setup that works best for you: fully remote or a hybrid mix of office and home.\n\nWe offer autonomy in how you structure your days and weeks. While we’re mindful of time zones and occasionally collaborate outside the typical 9–5, we lean into async work to keep things flowing. Our culture is family-friendly and Zoom-casual where kids, pets, and delivery drivers are welcome.\n\nHow We’ll Help You Thrive\n\nOur approach to benefits considers the whole person and the unique contributions they bring to Linktree. We want the experience at Linktree to be one that enables people to truly thrive so we can Go Further Together (one of our values). Some ways we support you:\n\nAn annual wellbeing allowance to use on things like (but not limited to) fitness memberships, development courses, childcare, travel, charitable donations, pet insurance, home office set-up - the choice is yours!\n100% coverage (and 80% for your dependents) of your monthly premiums for medical, dental, vision, disability and life insurance for US-based employees.\nEmployer contribution towards your retirement.\nGenerous time off for vacation, holidays, parental leave, volunteer time, and other categories.\nEmployee stock option program - we want each and every employee to share in the company’s success.\n\nAt Linktree, we believe in promoting a culture that celebrates unique backgrounds, talents, and experiences, and we’re proud to be an equal opportunity workplace. We are creating an inclusive workplace where every individual feels valued, respected, and has equal opportunities to thrive. We aim to foster a diverse and inclusive environment where all team members have a sense of belonging. Linktree welcomes all people regardless of sex, gender identity, race, ethnicity, disability, pregnancy, age, or other lived experience. If you require accommodations to fully participate in our opportunities, please don't hesitate to reach us at talent@linktr.ee – your needs are important to us.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Superhuman",
-      "title": "Data Scientist, Acquisition",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482264862/",
-      "date_posted": "2026-10-28",
-      "salary": "$180,000.00/yr - $275,000.00/yr",
-      "ats": "LinkedIn",
-      "description": "Superhuman offers a dynamic hybrid working model for this role. This flexible approach gives team members the best of both worlds: plenty of focus time along with in-person collaboration that helps foster trust, innovation, and a strong team culture.\n\nAbout Superhuman\n\nGrammarly is now part of Superhuman, the AI productivity platform on a mission to unlock the superhuman potential in everyone. The Superhuman suite of apps and agents brings AI wherever people work, integrating with over 1 million applications and websites. The company's products include Grammarly's writing assistance, Docs’ collaborative workspace, Mail's inbox management, and Go, the proactive AI assistant that understands context and delivers help automatically. Founded in 2009, Superhuman empowers over 40 million people, 50,000 organizations, and 3,000 educational institutions worldwide to eliminate busywork and focus on what matters. Learn more at superhuman.com and about our values here.\n\nThe Opportunity\n\nTurn complex data into growth decisions that shape the future of Superhuman’s product suite.\n\nAs an Acquisition Data Scientist at Superhuman, you’ll shape how we acquire, activate, and expand our user base across a diverse portfolio of consumer and enterprise products. You’ll partner directly with Acquisition Marketing to improve the effectiveness of paid and organic channels, optimize the web funnel, and ensure every marketing dollar drives measurable growth.\n\nYour work will span the Superhuman product suite, including Grammarly, Mail, Docs, Databases, GPTZero, Fathom, and Go. Because we’re building an integrated platform rather than a collection of standalone tools, insights from one product can unlock growth across the portfolio. You’ll tackle questions spanning budget allocation, channel attribution, SEO, AEO, cross-product activation, bundled offerings, and the full self-serve journey from first touch through activation and viral expansion.\n\nYou’ll be embedded in a cross-functional pod aligned to a Route to Market, working closely with Engineering, Finance, Marketing, Design, and User Research. With direct access to the leaders setting strategy, you’ll serve as the go-to data partner for acquisition: getting into the technical details, translating complex findings into clear recommendations on channel optimization, budget decisions, and new growth areas.\n\nThis role is for a hands-on data scientist who thrives in a fast-moving environment, enjoys solving complex growth problems, and wants their work to measurably influence outcomes across products, audiences, and go-to-market motions.\n\nWhat you’ll do\n\nBe the go-to data person working directly with our Acquisition Marketing team, helping drive the efficacy of their marketing spend across our core paid and organic channels. This role is for someone who wants to be extremely hands-on, enjoys partnering cross-functionally with marketing peers, and wants to get deep into the technical weeds to find the best recommendations to ensure we optimize every marketing dollar we spend.\nBe the embedded data science partner for the Superhuman Acquisition Marketing team — shaping channel strategy, budget allocation, prioritization, and roadmap decisions with evidence, not just fielding ad hoc requests.\nDefine and own the metrics that matter for Acquisition: LTV/CAC, new user growth, lifetime value, and web conversion rates to ensure we are responsible with our ad spend and driving continued conversion optimization.\nDesign and run incrementality tests across our most critical acquisition channels like Google, Meta, and YouTube.\nFind opportunities for new user growth through budget reinvestment, new acquisition sources, international expansion, and website optimization.\nPartner with our Acquisition, Engineering, Design, User Research, and Finance teams to build functional roadmaps for optimization of our acquisition channels across paid and organic sources.\nUse data to craft a narrative, tell a story, and influence decisions to improve the efficiency of our ad channels and drive meaningful new user growth.\n\nQualifications\n\nYou have 7+ years of data science experience and a track record of driving measurable impact for business and customers.\nAdvanced expertise in experimentation and causal inference, including designing incrementality tests and translating results into acquisition investment decisions.\nDemonstrated ability to develop marketing mix and budget allocation models that measure channel effectiveness, identify diminishing returns, and optimize acquisition spend across channels.\nYou have strong applied statistics skills and machine learning skills, and you use them to drive product and growth decisions.\nYou influence cross-functional partners and turn technical insight into action through clear communication, empathetic building, and openness to ideas from anywhere.\nYou’re a self-starting, creative problem-solver who distills problems to their core and thrives with ambiguity.\nYou’re comfortable using AI-assisted development tools like Claude Code or Codex to move faster, and you have the judgment to validate and supervise their output.\nYou have a bachelor’s degree in a quantitative field (statistics, mathematics, economics, computer science, data science, or a similar field); an advanced degree or equivalent practical experience is preferred.\n\nNice To Haves\n\nFamiliarity working with ad platforms across Google, Meta, and YouTube.\nExperience with SEO and AEO optimization and organic acquisition channels.\nYou’re familiar with experimentation platforms such as Statsig and modern data stacks such as Databricks.\nYou have experience working at a fast-growing startup, on AI-native consumer products, and/or in B2B/SaaS.\n\nCompensation And Benefits\n\nSuperhuman offers all team members competitive pay along with a benefits package encompassing the following and more:\n\nExcellent health care (including a wide range of medical, dental, vision, mental health, and fertility benefits)\nDisability and life insurance options\n401(k) matching\nPaid parental leave\n20 days of paid time off per year, 12 days of paid holidays per year, two floating holidays per year, and flexible sick time\nGenerous stipends (including those for caregiving, pet care, wellness, your home office, and more)\nAnnual professional development budget and opportunities\n\nSuperhuman takes a market-based approach to compensation, which means base pay may vary depending on your location. Our US locations are categorized into two compensation zones based on proximity to our hub locations.\n\nBase pay may vary considerably depending on job-related knowledge, skills, and experience. The expected salary ranges for this position are outlined below by compensation zone and may be modified in the future.\n\nWe encourage you to apply\n\nAt Superhuman, we value our differences, and we encourage all to apply—especially those whose identities are traditionally underrepresented in tech organizations. We do not discriminate on the basis of race, religion, color, gender expression or identity, sexual orientation, ancestry, national origin, citizenship, age, marital status, veteran status, disability status, political belief, or any other characteristic protected by law. Superhuman is an equal opportunity employer and a participant in the US federal E-Verify program (US). We also abide by the Employment Equity Act (Canada).\n\nCompensation Range: $180K - $275K\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Socure",
-      "title": "Senior Data Scientist - Digital Intelligence, Device Signals",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484283878/",
-      "date_posted": "2026-10-28",
-      "salary": "$150,000.00/yr - $185,000.00/yr",
-      "ats": "LinkedIn",
-      "description": "Why Socure?\n\nSocure is building the identity trust infrastructure for the digital economy — verifying 100% of good identities in real time and stopping fraud before it starts. The mission is big, the problems are complex, and the impact is felt by businesses, governments, and millions of people every day.\n\nWe hire people who want that level of responsibility. People who move fast, think critically, act like owners, and care deeply about solving customer problems with precision. If you want predictability or narrow scope, this won’t be your place. If you want to help build the future of identity with a team that holds a high bar for itself — keep reading.\n\nAbout The Role\n\nSocure is the leading provider of digital identity verification and fraud prevention solutions, leveraging AI and machine learning to power the most accurate identity trust decisions. Our mission is to eliminate identity fraud and ensure online trust across industries.\n\nWe are seeking a Senior Data Scientist\nto join our Digital Intelligence\nteam. In this role, you will drive the development of machine learning features and models that leverage device, network, and behavioral data to power fraud prevention and identity verification. You’ll work with rich, high-volume data from browser, mobile, and API traffic to surface meaningful insights and scalable risk signals. This is a great opportunity to own impactful projects, collaborate cross-functionally, and deepen your expertise in applied ML for device and behavioral intelligence.\n\nWhat You'll Do\n\nDesign and deploy advanced machine learning systems for device identification, anomaly detection, and fraud prevention—balancing precision, recall, and real-world adversarial dynamics.\nContribute to the development of scalable data pipelines and production ML workflows using structured and unstructured telemetry (e.g., browser, mobile, session data).\nInvestigate high-complexity signals (e.g., emulator use, spoofing, low-entropy fingerprints), applying advanced statistical methods and domain knowledge to detect fraud and abuse.\nTranslate ambiguous business problems into modeling approaches, using a combination of supervised, unsupervised, and heuristic techniques.\nPartner with engineering, product, and risk teams to contribute to data architecture decisions, signal collection, and planning.\nDrive experimental design, A/B testing frameworks, and robust validation techniques to ensure model generalizability and long-term trust.\nContribute to team standards for ML explainability, risk evaluation, and feature logging.\nDocument methodologies and communicate results effectively through dashboards, presentations, and reports for both technical and executive audiences.\nMentor junior data scientists and participate in cross-functional working groups.\n\nWhat You Bring\n\nMaster’s degree (or equivalent practical experience) in Computer Science, Machine Learning, Statistics, or a related quantitative field.\n6+ years of experience in data science or applied machine learning, including experience working in production environments.\nExcellent SQL skills and extensive experience with large-scale databases and data modeling.\nProven track record of deploying and maintaining ML models in live systems, ideally involving streaming or near-real-time data.\nProficiency in Python and distributed computing tools (e.g., Spark, PySpark).\nHands-on experience with ML frameworks such as scikit-learn, XGBoost, TensorFlow, or similar.\nExcellent communication skills—able to explain complex technical results to non-technical stakeholders and senior leadership.\nExperience designing and interpreting experiments, working with real-world noisy datasets, and applying sound validation techniques to assess model robustness.\nDemonstrated ability to break down ambiguous problems, apply analytical rigor, and uncover meaningful insights that influence product or risk strategies.\nStrong judgment across data quality, model selection, and business impact tradeoffs.\nCollaborative mindset and experience working cross-functionally with product, engineering, and analytics teams.\n\nPreferred Qualifications\n\nBackground in fraud detection, behavioral biometrics, anomaly detection, or adversarial modeling.\nExperience with high-cardinality feature engineering techniques (e.g., frequency/target encoding, embeddings).\nFamiliarity with privacy-preserving or robust ML techniques.\nKnowledge of browser/mobile fingerprinting, VPN/proxy detection, or telemetry signal processing.\n\nWhat You’ll Gain\n\nHands-on experience with real-world data science challenges in a high-impact industry.\nA collaborative and inclusive work environment that fosters learning and growth.\nOpportunities to grow into staff-level or technical leadership roles over time.\n\nSocure is an equal opportunity employer that values diversity in all its forms within our company. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.\n\nIf you need an accommodation during any stage of the application or hiring process—including interview or onboarding support—please reach out to your Socure recruiting partner directly.\n\nFollow Us!\n\nYouTube | LinkedIn | X (Twitter) | Facebook\n\nCompensation Range: $150K - $185K\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nArtificial Intelligence",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Prime Intellect",
-      "title": "Research Engineer - Pre-training Data",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484063955/",
-      "date_posted": "2026-10-27",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Replit",
-      "title": "Data Scientist, Enterprise",
-      "location": "Foster City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484238215/",
-      "date_posted": "2026-10-27",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 17.45,
-        "city": "foster city",
-        "latitude": 37.56482,
-        "longitude": -122.250782,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "ERGO NEXT Insurance",
-      "title": "Data Scientist, Growth – Partnerships & Customer Experience",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483680505/",
-      "date_posted": "2026-10-27",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 6.453,
-        "city": "palo alto",
-        "latitude": 37.39652,
-        "longitude": -122.143088,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Meta",
-      "title": "Data Scientist, Product Analytics",
+      "company": "Bosch USA",
+      "title": "Research Scientist- Robotics AI",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4120824568/",
-      "date_posted": "2026-10-27",
-      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/4482276662/",
+      "date_posted": "2026-10-28",
+      "salary": "$165,000 - $185,000",
       "ats": "LinkedIn",
+      "description": "Company Description\n\nThe Bosch Research and Technology Center North America with offices in Sunnyvale, California, Pittsburgh, Pennsylvania, and Cambridge, Massachusetts is a part of the global Bosch Group (www.bosch.com), a company with over 70 billion euro revenue, 400,000 employees worldwide, a very diverse product portfolio, and a history spanning over 125 years. The Research and Technology Center North America (RTC-NA) is dedicated to providing technologies and system solutions for various Bosch business fields, primarily in the field of artificial intelligence, energy technologies, internet technologies, circuit design, semiconductors and wireless, as well as advanced MEMS design.\n\nAs a part of the global research, our AI research in Silicon Valley focuses on Foundation Models, Big Data Visual Analytics, Explainable AI (XAI), Natural Language Processing, Computer Vision & Mixed Reality, Cloud Robotics, Data Science, AI System Engineering, Time-series Analysis. We develop scalable, intelligent, and trustworthy AIoT solutions for Bosch products and services in application areas such as automated driving, advanced driver assistance systems (ADAS), robotics, smart manufacturing, enterprise AI, health care, smart home and building solutions.\n\nOriginating from the AI research in Silicon Valley, our Intelligent Autonomous Systems group is responsible for enabling future autonomous Bosch products by pushing the boundaries of automated driving, advanced driver assistance systems (ADAS), robotics and automation through key innovations that encompass system architecture and AI components. These include methods for motion planning, high level task planning and decision making as well as systems for making these technologies work on real products by building frameworks that take advantage of technologies in the field of reliable distributed computing. We work with internal partners of different Bosch business units to transfer our solutions into future products. We also actively collaborate with leading groups in academia and industry to promote research ideas and publish research findings in internationally renowned conferences and journals such as CVPR, ICRA, IROS, RSS, NeurIPS and CoRL.\n\nJob Description\n\nAs a Research Scientist- Robotics AI, you contribute to research projects at the forefront of the ADAS/AD industry. Key responsibilities include:\n\nConduct research and engineering in core AI and machine learning fields to enable Embodied AI (including computer vision, autonomous planning, open-world learning, and so on) for related business domains of ADAS/AD, industrial automation, robotics etc.\nPush the boundaries in AI based Robotics, incorporating advancements in large vision-language-(action) models to aid reasoning capabilities and explainability.\nCollaborate cross-functionally with global research and engineering teams to ensure seamless technology transfer and system integration.\nImplement research results to solve real-world challenges, ensuring high-quality system integration within Bosch's existing platforms.\nStay at the forefront of innovation by actively engaging with academic and industry communities through conferences, workshops, and technical events.\nDocument and disseminate research findings through high-caliber publications and/or patent submissions.\n\nQualifications\n\nBasic Qualifications\n\nPh.D. in Computer Science, Robotics or a related discipline or Master's degree with >= 2 years industry experience after graduation.\nA minimum of 3 years of R&D experience, or an equivalent graduate research background, primarily in AI technologies including Computer Vision and Robotic or Automotive Motion and Behavioral Planning.\nProficiency in one or more programming languages commonly used in machine learning (e.g., Python, C++, Rust).\nStrong interpersonal, communication, and teamwork capabilities.\nKnowledge of major machine learning frameworks like TensorFlow or PyTorch.\nHands-on experience in reinforcement learning for behavior or motion planning or other applicable contexts and familiarity with common RL techniques (e.g. PPO, DQN, DDPG).\nA strong portfolio of publications in premier machine learning, deep learning, robotics and computer vision journals and conferences.\n\nPreferred Qualifications\n\nExperience with real-world product development and deployment of autonomous systems.\nHands-on experience building and applying multimodal transformer-based sequence-to-sequence models, especially multimodal vision-language-action models.\nHands-on experience in computer vision and deep learning, with work in any of the following areas: multimodal transformers, multimodal language models, diffusion models, NeRF, gaussian splatting, object detection / segmentation, 3D scene understanding, sensor calibration, SfM, voxel/BEV grid-based feature representation.\n\nAdditional Information\n\nWe offer a competitive base salary for this position with a range in US-California of --$165,000 - $185,000 along with an annual corporate bonus, and a long-term incentive bonus designed to reward sustained impact and contribution over time. Within the salary range, the individual pay is determined based on several factors, including, but not limited to, work experience and job knowledge, complexity of the role, job location, etc.\n\nYour well-being matters at Bosch! We offer a a benefits package designed to empower you in every area of your life. This includes premium health coverage, a 401(k) with generous matching, resources for financial planning and goal setting, ample paid time off, parental leave, and comprehensive life and disability protection. Your Recruiter can share more details for this position during the interview process.\n\nLearn more about our full benefits offerings by visiting: https://www.myboschbenefits.com/public/welcome.\n\nEqual Opportunity Employer, including disability / veterans.\n\nBosch adheres to Federal, State, and Local laws regarding drug-testing. Employment is contingent upon the successful completion of a drug screen and background check. Candidates who have been offered the position must pass both screenings before their start date.\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nIndustries\n\nResearch",
       "geography": {
         "status": "in_radius",
         "distance_miles": 0.0,
@@ -1235,89 +1093,24 @@
         "longitude": -122.026316,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
-    },
+    }
+  ],
+  "new_jobs": [
     {
-      "company": "Genentech",
-      "title": "Principal Data Scientist",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484087709/",
-      "date_posted": "2026-10-27",
-      "salary": "",
+      "company": "Bosch USA",
+      "title": "Research Scientist- Robotics AI",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4482276662/",
+      "date_posted": "2026-10-28",
+      "salary": "$165,000 - $185,000",
       "ats": "LinkedIn",
+      "description": "Company Description\n\nThe Bosch Research and Technology Center North America with offices in Sunnyvale, California, Pittsburgh, Pennsylvania, and Cambridge, Massachusetts is a part of the global Bosch Group (www.bosch.com), a company with over 70 billion euro revenue, 400,000 employees worldwide, a very diverse product portfolio, and a history spanning over 125 years. The Research and Technology Center North America (RTC-NA) is dedicated to providing technologies and system solutions for various Bosch business fields, primarily in the field of artificial intelligence, energy technologies, internet technologies, circuit design, semiconductors and wireless, as well as advanced MEMS design.\n\nAs a part of the global research, our AI research in Silicon Valley focuses on Foundation Models, Big Data Visual Analytics, Explainable AI (XAI), Natural Language Processing, Computer Vision & Mixed Reality, Cloud Robotics, Data Science, AI System Engineering, Time-series Analysis. We develop scalable, intelligent, and trustworthy AIoT solutions for Bosch products and services in application areas such as automated driving, advanced driver assistance systems (ADAS), robotics, smart manufacturing, enterprise AI, health care, smart home and building solutions.\n\nOriginating from the AI research in Silicon Valley, our Intelligent Autonomous Systems group is responsible for enabling future autonomous Bosch products by pushing the boundaries of automated driving, advanced driver assistance systems (ADAS), robotics and automation through key innovations that encompass system architecture and AI components. These include methods for motion planning, high level task planning and decision making as well as systems for making these technologies work on real products by building frameworks that take advantage of technologies in the field of reliable distributed computing. We work with internal partners of different Bosch business units to transfer our solutions into future products. We also actively collaborate with leading groups in academia and industry to promote research ideas and publish research findings in internationally renowned conferences and journals such as CVPR, ICRA, IROS, RSS, NeurIPS and CoRL.\n\nJob Description\n\nAs a Research Scientist- Robotics AI, you contribute to research projects at the forefront of the ADAS/AD industry. Key responsibilities include:\n\nConduct research and engineering in core AI and machine learning fields to enable Embodied AI (including computer vision, autonomous planning, open-world learning, and so on) for related business domains of ADAS/AD, industrial automation, robotics etc.\nPush the boundaries in AI based Robotics, incorporating advancements in large vision-language-(action) models to aid reasoning capabilities and explainability.\nCollaborate cross-functionally with global research and engineering teams to ensure seamless technology transfer and system integration.\nImplement research results to solve real-world challenges, ensuring high-quality system integration within Bosch's existing platforms.\nStay at the forefront of innovation by actively engaging with academic and industry communities through conferences, workshops, and technical events.\nDocument and disseminate research findings through high-caliber publications and/or patent submissions.\n\nQualifications\n\nBasic Qualifications\n\nPh.D. in Computer Science, Robotics or a related discipline or Master's degree with >= 2 years industry experience after graduation.\nA minimum of 3 years of R&D experience, or an equivalent graduate research background, primarily in AI technologies including Computer Vision and Robotic or Automotive Motion and Behavioral Planning.\nProficiency in one or more programming languages commonly used in machine learning (e.g., Python, C++, Rust).\nStrong interpersonal, communication, and teamwork capabilities.\nKnowledge of major machine learning frameworks like TensorFlow or PyTorch.\nHands-on experience in reinforcement learning for behavior or motion planning or other applicable contexts and familiarity with common RL techniques (e.g. PPO, DQN, DDPG).\nA strong portfolio of publications in premier machine learning, deep learning, robotics and computer vision journals and conferences.\n\nPreferred Qualifications\n\nExperience with real-world product development and deployment of autonomous systems.\nHands-on experience building and applying multimodal transformer-based sequence-to-sequence models, especially multimodal vision-language-action models.\nHands-on experience in computer vision and deep learning, with work in any of the following areas: multimodal transformers, multimodal language models, diffusion models, NeRF, gaussian splatting, object detection / segmentation, 3D scene understanding, sensor calibration, SfM, voxel/BEV grid-based feature representation.\n\nAdditional Information\n\nWe offer a competitive base salary for this position with a range in US-California of --$165,000 - $185,000 along with an annual corporate bonus, and a long-term incentive bonus designed to reward sustained impact and contribution over time. Within the salary range, the individual pay is determined based on several factors, including, but not limited to, work experience and job knowledge, complexity of the role, job location, etc.\n\nYour well-being matters at Bosch! We offer a a benefits package designed to empower you in every area of your life. This includes premium health coverage, a 401(k) with generous matching, resources for financial planning and goal setting, ample paid time off, parental leave, and comprehensive life and disability protection. Your Recruiter can share more details for this position during the interview process.\n\nLearn more about our full benefits offerings by visiting: https://www.myboschbenefits.com/public/welcome.\n\nEqual Opportunity Employer, including disability / veterans.\n\nBosch adheres to Federal, State, and Local laws regarding drug-testing. Employment is contingent upon the successful completion of a drug screen and background check. Candidates who have been offered the position must pass both screenings before their start date.\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nIndustries\n\nResearch",
       "geography": {
         "status": "in_radius",
-        "distance_miles": 26.72,
-        "city": "south san francisco",
-        "latitude": 37.655104,
-        "longitude": -122.376234,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "6sense",
-      "title": "Sr. Data Scientist, Forward-Deployed",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484240811/",
-      "date_posted": "2026-10-27",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "SLAS (Society for Laboratory Automation and Screening)",
-      "title": "Sr. Data Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483631572/",
-      "date_posted": "2026-10-27",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Anthropic",
-      "title": "Tech Lead Manager, Core Apps Data Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483693686/",
-      "date_posted": "2026-10-27",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Anthropic",
-      "title": "Tech Lead Manager, Developer Platform Product Data Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483628173/",
-      "date_posted": "2026-10-27",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
     }
@@ -1670,12 +1463,27 @@
         "distance_miles": null,
         "reason": "An unambiguous city and state are required."
       }
+    },
+    {
+      "company": "Humanola",
+      "title": "Founding Research Engineer, Robot Learning",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480282550/",
+      "date_posted": "2026-10-28",
+      "salary": "$120K–$180K",
+      "ats": "LinkedIn",
+      "description": "The next leap toward general-purpose physical AI won’t come from the lab. It will come from robots deployed in real sites, doing real work, failing, and learning from every correction. That’s our bet, and we partner with some of the leading robot foundation model companies to make it happen.\nWe’ve built highly accurate remote teleoperation that runs alongside the autonomy stack, so every intervention becomes training signal. We’re now starting deployments in real industrial sites.\nWhat you’ll do\n\nOwn our robot stack on YAM, UR and Flexiv arms: control, perception, teleop and the handoff between the policy and the human operator.\nFine-tune robot foundation models (π-series, GR00T, OpenVLA) on our proprietary real-world data.\nTurn interventions from deployments into better policies.\nBuild evaluations that hold up in real factories.\n\nWho you are\n\nMS or PhD in robotics, ML or CS, with publications at CoRL, RSS, ICRA, NeurIPS or similar venues.\nA strong engineer in Python and PyTorch, at home with real hardware and ROS 2.\nHands-on experience fine-tuning VLAs, diffusion policies or world models.\nBonus: experience at a top robotics or AI lab, training foundation models for manipulation, or working on teleop.\n\nWhy Humanola\n\nYour models run on real robots in real factories.\nProprietary real-world data from day one.\nA founding role with real ownership and a direct line to the CEO.\n\nCompensation:\n$120K–$180K plus 2–5% equity.\nApply with your CV, your Google Scholar link and the project you’re proudest of.\n\nShow more\n\nShow less\n\nSeniority level\n\nEntry level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nRobotics Engineering",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "City is unknown or has multiple Census locations."
+      }
     }
   ],
   "geographic_counts": {
-    "in_radius": 61,
+    "in_radius": 62,
     "remote": 0,
-    "ambiguous": 24,
+    "ambiguous": 25,
     "outside_radius": 0
   }
 }
