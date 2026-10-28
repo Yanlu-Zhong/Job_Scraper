@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-10-28 06:08 UTC",
-  "total": 62,
-  "new_count": 1,
+  "scraped_at": "2026-10-28 20:21 UTC",
+  "total": 87,
+  "new_count": 25,
   "scrape_status": {
     "status": "success",
-    "raw_rows": 424,
+    "raw_rows": 369,
     "queries": 32,
     "batch": 1,
     "batches": 5,
@@ -1093,24 +1093,872 @@
         "longitude": -122.026316,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
-    }
-  ],
-  "new_jobs": [
+    },
     {
-      "company": "Bosch USA",
-      "title": "Research Scientist- Robotics AI",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482276662/",
+      "company": "Roblox",
+      "title": "Senior Data Scientist, Consumer Apps",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4457194256/",
       "date_posted": "2026-10-28",
-      "salary": "$165,000 - $185,000",
+      "salary": "$263,670—$322,820 USD",
       "ats": "LinkedIn",
-      "description": "Company Description\n\nThe Bosch Research and Technology Center North America with offices in Sunnyvale, California, Pittsburgh, Pennsylvania, and Cambridge, Massachusetts is a part of the global Bosch Group (www.bosch.com), a company with over 70 billion euro revenue, 400,000 employees worldwide, a very diverse product portfolio, and a history spanning over 125 years. The Research and Technology Center North America (RTC-NA) is dedicated to providing technologies and system solutions for various Bosch business fields, primarily in the field of artificial intelligence, energy technologies, internet technologies, circuit design, semiconductors and wireless, as well as advanced MEMS design.\n\nAs a part of the global research, our AI research in Silicon Valley focuses on Foundation Models, Big Data Visual Analytics, Explainable AI (XAI), Natural Language Processing, Computer Vision & Mixed Reality, Cloud Robotics, Data Science, AI System Engineering, Time-series Analysis. We develop scalable, intelligent, and trustworthy AIoT solutions for Bosch products and services in application areas such as automated driving, advanced driver assistance systems (ADAS), robotics, smart manufacturing, enterprise AI, health care, smart home and building solutions.\n\nOriginating from the AI research in Silicon Valley, our Intelligent Autonomous Systems group is responsible for enabling future autonomous Bosch products by pushing the boundaries of automated driving, advanced driver assistance systems (ADAS), robotics and automation through key innovations that encompass system architecture and AI components. These include methods for motion planning, high level task planning and decision making as well as systems for making these technologies work on real products by building frameworks that take advantage of technologies in the field of reliable distributed computing. We work with internal partners of different Bosch business units to transfer our solutions into future products. We also actively collaborate with leading groups in academia and industry to promote research ideas and publish research findings in internationally renowned conferences and journals such as CVPR, ICRA, IROS, RSS, NeurIPS and CoRL.\n\nJob Description\n\nAs a Research Scientist- Robotics AI, you contribute to research projects at the forefront of the ADAS/AD industry. Key responsibilities include:\n\nConduct research and engineering in core AI and machine learning fields to enable Embodied AI (including computer vision, autonomous planning, open-world learning, and so on) for related business domains of ADAS/AD, industrial automation, robotics etc.\nPush the boundaries in AI based Robotics, incorporating advancements in large vision-language-(action) models to aid reasoning capabilities and explainability.\nCollaborate cross-functionally with global research and engineering teams to ensure seamless technology transfer and system integration.\nImplement research results to solve real-world challenges, ensuring high-quality system integration within Bosch's existing platforms.\nStay at the forefront of innovation by actively engaging with academic and industry communities through conferences, workshops, and technical events.\nDocument and disseminate research findings through high-caliber publications and/or patent submissions.\n\nQualifications\n\nBasic Qualifications\n\nPh.D. in Computer Science, Robotics or a related discipline or Master's degree with >= 2 years industry experience after graduation.\nA minimum of 3 years of R&D experience, or an equivalent graduate research background, primarily in AI technologies including Computer Vision and Robotic or Automotive Motion and Behavioral Planning.\nProficiency in one or more programming languages commonly used in machine learning (e.g., Python, C++, Rust).\nStrong interpersonal, communication, and teamwork capabilities.\nKnowledge of major machine learning frameworks like TensorFlow or PyTorch.\nHands-on experience in reinforcement learning for behavior or motion planning or other applicable contexts and familiarity with common RL techniques (e.g. PPO, DQN, DDPG).\nA strong portfolio of publications in premier machine learning, deep learning, robotics and computer vision journals and conferences.\n\nPreferred Qualifications\n\nExperience with real-world product development and deployment of autonomous systems.\nHands-on experience building and applying multimodal transformer-based sequence-to-sequence models, especially multimodal vision-language-action models.\nHands-on experience in computer vision and deep learning, with work in any of the following areas: multimodal transformers, multimodal language models, diffusion models, NeRF, gaussian splatting, object detection / segmentation, 3D scene understanding, sensor calibration, SfM, voxel/BEV grid-based feature representation.\n\nAdditional Information\n\nWe offer a competitive base salary for this position with a range in US-California of --$165,000 - $185,000 along with an annual corporate bonus, and a long-term incentive bonus designed to reward sustained impact and contribution over time. Within the salary range, the individual pay is determined based on several factors, including, but not limited to, work experience and job knowledge, complexity of the role, job location, etc.\n\nYour well-being matters at Bosch! We offer a a benefits package designed to empower you in every area of your life. This includes premium health coverage, a 401(k) with generous matching, resources for financial planning and goal setting, ample paid time off, parental leave, and comprehensive life and disability protection. Your Recruiter can share more details for this position during the interview process.\n\nLearn more about our full benefits offerings by visiting: https://www.myboschbenefits.com/public/welcome.\n\nEqual Opportunity Employer, including disability / veterans.\n\nBosch adheres to Federal, State, and Local laws regarding drug-testing. Employment is contingent upon the successful completion of a drug screen and background check. Candidates who have been offered the position must pass both screenings before their start date.\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nIndustries\n\nResearch",
+      "description": "Every day, tens of millions of people come to Roblox to explore, create, play, learn, and connect with friends in 3D immersive digital experiences– all created by our global community of developers and creators.\n\nAt Roblox, we’re building the tools and platform that empower our community to bring any experience that they can imagine to life. Our vision is to reimagine the way people come together, from anywhere in the world, and on any device. We’re on a mission to connect a billion people with optimism and civility, and looking for amazing talent to help us get there.\n\nA career at Roblox means you’ll be working to shape the future of human interaction, solving unique technical challenges at scale, and helping to create safer, more civil shared experiences for everyone.\n\nWHY DATA SCIENCE & ANALYTICS?\n\nThe Data Science & Analytics organization's mission is to increase our speed, frequency and acumen of making decisions at scale by instilling a data-influenced approach to building products. We cover a wide area of the data spectrum including analytical data engineering, product analytics, experimentation, causal inference, statistical modeling and machine learning. Aligned and partnering with product groups, we use this vast tool belt to discover new opportunities and unmet use cases, influence and shape the product roadmap and prioritization, build data products and measure the impact on our community of players and developers.\n\nWHY Consumer Apps?\n\nRoblox is used by tens of millions of people every day across a wide range of devices, including mobile, desktop, console, TV, and VR. The Consumer Apps team owns the app foundation that makes Roblox feel fast, fluid, and reliable for players and is dedicated to delivering superior performance, reliability, and user experience across all platforms Roblox supports. This team ensures a seamless and engaging user interface that facilitates intuitive interactions while enabling efficient, high-quality experiences across devices. Innovation is at the core of our work, as we continuously enhance features and integrate cutting-edge technologies to solve complex problems.\n\nAs a Data Scientist on the team, you will help accelerate Roblox’s growth by shaping how we launch and optimize Roblox across the diverse device ecosystems where people connect, play, and co-experience. You will partner with Mobile, Desktop, Console, and emerging-platform teams to identify opportunities and develop platform-specific strategies that make Roblox feel best-in-class on every device. You will use data to guide investments across platform expansion, platform-specific product experiences, and ecosystem partnerships. You will develop measurement and experimentation frameworks to understand both the direct and broader ecosystem impact of these investments, helping teams identify growth opportunities, make informed tradeoffs, and continuously improve the Roblox experience while expanding universal access.\n\nYou Will\n\nIdentify high-potential platform levers and apply causal methods to understand their impact on user behavior, engagement, monetization, and other topline outcomes, translating these insights into platform-specific strategies.\nDevelop deep expertise in the unique dynamics of each platform — including how the product is experienced, how user cohorts differ, and what drives their behavior — and proactively bring this perspective to broader research and cross-functional decision-making to identify opportunities and explain differences in product and business outcomes.\nBuild visibility into platform-level business performance and establish growth targets informed by internal data, market research, and competitive insights.\nDesign and analyze experiments to evaluate product launches, inform iteration, and drive rigorous, data-informed product decisions.\nAdvance how we measure product impact by developing innovative measurement and causal inference approaches where traditional A/B testing is not feasible, expanding the range of platform investments we can evaluate with rigor and confidence.\nElevate data and experimentation rigor across the broader team by building scalable frameworks and practices around experiment design, success metrics, launch criteria, and launch readiness — helping teams launch confidently and consistently.\nBuild scalable monitoring and diagnostic capabilities that enable teams to quickly identify trends, investigate changes, and understand root causes.\nPartner across Data Science, Product, and Engineering — including Growth, Discovery, Social, and other product areas — to connect insights across surfaces, understand how platform and product changes affect the broader ecosystem, and translate complex data into actionable recommendations that shape strategy and drive impactful platform improvements.\n\nYou Have\n\nAn advanced degree in Statistics, Applied Mathematics, Physics, Engineering, Computer Science, Economics, or a related quantitative field.\n8+ years of industry experience in Data Science or a related quantitative discipline, preferably working on consumer-facing products or applications.\nStrong analytical and technical skills, with proficiency in Python or R, SQL, and large-scale data processing and workflow tools such as Spark and Airflow.\nDeep expertise in statistical analysis, causal inference, experimentation, and measurement methodologies, with a track record of applying these techniques to shape product strategy and drive business outcomes.\nDemonstrated ability to independently lead ambiguous, high-impact problem spaces, applying first-principles thinking to develop novel frameworks, approaches, and solutions.\nProven ability to influence across Product, Engineering, Design, Data Science, and leadership, shaping strategy, prioritizing investments, and driving alignment across organizational boundaries.\nExceptional communication and storytelling skills, with the ability to distill complex, high-dimensional problems into clear insights and actionable recommendations for both technical and executive audiences.\n\nFor roles that are based at our headquarters in San Mateo, CA: The starting base pay for this position is as shown below. The actual base pay is dependent upon a variety of job-related factors such as professional background, training, work experience, location, business needs and market demand. Therefore, in some circumstances, the actual salary could fall outside of this expected range. This pay range is subject to change and may be modified in the future. All full-time employees are also eligible for equity compensation and for benefits as described on this page\n.\n\nAnnual Salary Range\n\n$263,670—$322,820 USD\n\nRoles that are based in an office are onsite Tuesday, Wednesday, and Thursday, with optional presence on Monday and Friday (unless otherwise noted).\n\nRoblox provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. Roblox also provides reasonable accommodations to candidates with qualifying disabilities or religious beliefs during the recruiting process.\n\nFor US based roles only, please note the Company may not be able to employ candidates for this role who have United States work authorization related to certain U.S. visa categories, or support future H-1B sponsorship at this time.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 19.708,
+        "city": "san mateo",
+        "latitude": 37.56031,
+        "longitude": -122.3106,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "OpenAI",
+      "title": "People Research Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4457424299/",
+      "date_posted": "2026-10-28",
+      "salary": "$170,000.00/yr - $220,000.00/yr",
+      "ats": "LinkedIn",
+      "description": "About The Team\n\nOpenAI’s People team hires, engages, and retains world-class talent to safely build and deploy AGI that benefits all of humanity. The People Analytics team helps leaders make better, evidence-based talent decisions.\n\nAbout The Role\n\nAs a People Research Scientist, you will bring deep expertise in research design, measurement, experimentation, and applied data science to OpenAI’s most important People programs. You will design studies, evaluate people processes, and help leaders better empower employees, strengthen organizational systems, and deliver exceptional employee experiences.\n\nThis is a high-ownership individual contributor role combining hands-on research, methodological leadership, and scalable people science capabilities. We’re looking for an experienced researcher who can turn ambiguous People questions into rigorous designs, validated insights, and actionable recommendations.\n\nThis role is based in San Francisco, CA or Mountain View, CA, with occasional travel to our San Francisco office.\n\nWhat You’ll Do\n\nDesign rigorous research and evaluation strategies for recruiting, organizational health, manager effectiveness, employee experience, and talent outcomes.\nApply advanced statistical modeling, machine learning, and research methods to inform program design, evaluate effectiveness, and quantify business impact.\nPartner with People Operations, data engineering, and people systems teams to define data requirements, improve data quality, establish documentation standards, and ensure research datasets are governed, reproducible, and privacy-preserving.\nBuild scalable people science infrastructure, including self-service agentic tools, automated validation workflows, reusable research datasets and analytical pipelines.\nDevelop research playbooks that establish rigorous standards for study design, measurement, validation, and documentation, enabling high-quality, repeatable, and scalable research across the organization.\nCommunicate findings through concise, executive-ready narratives.\n\nWhat We’re Looking For\n\nDeep curiosity, strong attention to detail, and passion for solving ambiguous and complex problems with creativity.\nExceptional strength in research design, experimentation, measurement, causal inference, and statistical modeling, including hands-on experience with psychometrics, survey methodology, structural equation modeling, multilevel modeling, randomized controlled experiments, A/B testing, quasi-experimental design, validation studies, and machine learning evaluation.\nHigh proficiency in R or Python and SQL, with experience working across complex, messy datasets.\nExperience building measurement systems, research programs, data products, reusable analytics frameworks, self-service tools, and governed analytical workflows.\nAbility to communicate complex methods and tradeoffs clearly to senior leaders, technical partners, and non-technical audiences.\nSound judgment in handling sensitive employee data, including privacy, fairness, bias, and responsible research practices.\n\nPreferred Qualifications\n\nExperience evaluating AI-assisted workflows, algorithmic systems, and human-AI decision processes in operational contexts, including familiarity with model evaluation methods.\nAdvanced degree in Industrial-Organizational Psychology, Organizational Behavior, Quantitative Psychology, Behavioral Economics, Statistics, Economics, Data Science, or a related field.\n\nAbout OpenAI\n\nOpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity.\n\nWe are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristic.\n\nFor additional information, please see OpenAI’s Affirmative Action and Equal Employment Opportunity Policy Statement.\n\nBackground checks for applicants will be administered in accordance with applicable law, and qualified applicants with arrest or conviction records will be considered for employment consistent with those laws, including the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, for US-based candidates. For unincorporated Los Angeles County workers: we reasonably believe that criminal history may have a direct, adverse and negative relationship with the following job duties, potentially resulting in the withdrawal of a conditional offer of employment: protect computer hardware entrusted to you from theft, loss or damage; return all computer hardware in your possession (including the data contained therein) upon termination of employment or end of assignment; and maintain the confidentiality of proprietary, confidential, and non-public information. In addition, job duties require access to secure and protected information technology systems and related data security obligations.\n\nTo notify OpenAI that you believe this job posting is non-compliant, please submit a report through this form. No response will be provided to inquiries unrelated to job posting compliance.\n\nWe are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.\n\nOpenAI Global Applicant Privacy Policy\n\nAt OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.\n\nCompensation Range: $170K - $220K\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nResearch Services",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Hinge Health",
+      "title": "Senior Growth Data Scientist - New Products",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4456544011/",
+      "date_posted": "2026-10-28",
+      "salary": "$164,800.00/yr - $247,200.00/yr",
+      "ats": "LinkedIn",
+      "description": "About The Role\n\nWe are seeking a Senior Data Scientist to join our Growth Data Science team and support the New Products Pod. This role will focus on building data science capabilities for a portfolio of emerging products and programs, including HingeSelect, migraines, GI, arthritis, and other new offerings, helping the team define how to position, launch, measure, and scale them. You will lead efforts in data modeling, funnel optimization, experimentation, and analytics to inform product and marketing strategy, improve member acquisition and engagement, and accelerate growth.\n\nYou will work closely with Growth Marketing, Product, Engineering, Design, and Data Science partners to answer foundational questions where the strategy and success metrics are still taking shape. This is a zero-to-one opportunity to establish measurement frameworks, build experiment-ready data foundations, and translate analytical findings into clear recommendations for high-impact decisions.\n\nWhat You’ll Accomplish\n\nNew Product Growth Strategy and Measurement\n\nDevelop measurement frameworks and define success metrics for new products and programs where metrics are not yet established.\nConduct deep-dive and funnel analyses to understand member and customer behavior, explain root causes of performance changes, and identify high-value growth opportunities.\nCollaborate with Growth Marketing and Product stakeholders to shape the strategy for how new products are positioned, marketed, launched, and scaled.\n\nExperimentation and Optimization\n\nDesign and execute A/B tests and other experiments with causal guardrails to measure incremental impact while detecting and preventing cannibalization of existing digital PT engagement.\nBuild statistical models and user segmentations to help teams identify the right audiences, improve conversion, and deliver more relevant and timely experiences.\nUse existing channel attribution and cost-efficiency frameworks, and extend them where needed, to understand the business impact of investments in new products and growth pathways.\n\nData Foundations and Decision Support\n\nDevelop robust data models and experiment-ready datasets that create a reliable source of truth for new product and growth analytics.\nBuild and maintain dashboards and self-service tools that give Growth Marketing, Product, Engineering, and leadership visibility into funnel performance and experiment results.\nAdvocate for upstream instrumentation best practices, working with Engineering to ensure events are captured with consistent schemas, timestamps, and validation.\nApply predictive modeling, segmentation, and other advanced analytical methods where they improve understanding of member behavior, demand, or intervention opportunities.\n\nBasic Qualifications\n\nBachelor’s degree in Computer Science, Economics, Mathematics, Statistics, or a related technical field, or equivalent professional experience.\n3+ years of experience working with large datasets to solve business and technology problems and generate insights for decision-making.3+ years of experience using SQL and Python or R for data analysis and end-to-end analytical solutions.\nExperience with A/B testing, causal inference, funnel analysis, and other experimental frameworks.\nExperience defining metrics, building data models, and establishing measurement frameworks in ambiguous or greenfield environments.\n\nPreferred Qualifications\n\nKnowledge of machine learning techniques for predictive modeling, segmentation, forecasting, and recommendation systems.\nPrior experience in growth or product analytics for new product launches, partner analytics, referral tracking, or marketplace data science.\nExperience defining event taxonomies and data architecture for new product surfaces.\nKnowledge of cloud infrastructure and tools such as AWS, Databricks, Airflow, and dbt.\nFamiliarity with experimentation and visualization platforms such as Statsig, Split, Optimizely, Mode, Tableau, or similar.\nBackground in healthcare, digital health, wellness, or member engagement analytics.\nExperience using AI-assisted coding tools for rapid prototyping, analysis, and production development.\n\nHinge Health Hybrid Model\n\nWe believe that remote work and in-person work have their own advantages and disadvantages, and we want to be able to leverage the best of both worlds. Employees in hybrid roles are required to be in the office 3 days per week, for the full 8 hours of a typical business day. The San Francisco office has a dog-friendly workplace program.\n\nAbout Hinge Health\n\nAt Hinge Health, we’re using technology to scale and automate the delivery of healthcare, starting with musculoskeletal (MSK) conditions, which affect over 1.7 billion people worldwide. Our AI-powered, human-centered care model spans MSK, pelvic health, gastrointestinal (GI) and migraine care. With over 60 partnerships with health plans, PBMs and other ecosystem partners, Hinge Health is available to over 25 million people across more than 2,900 employers. The company is headquartered in San Francisco with additional offices in Montreal and Bangalore. Learn more at hingehealth.com.\n\nWhat You’ll Love About Us\n\nInclusive healthcare and benefits: On top of comprehensive medical, dental, and vision coverage, we offer employees and their family members help with gender-affirming care, tools for family and fertility planning, and travel reimbursements if healthcare isn’t available where you live.\nPlanning for the future: Start saving for the future with our traditional or Roth 401k retirement plan options which include a 2% company match.\nModern life stipends: Manage your own learning and development.\nGrow with us: Grow with us through discounted company stock through our ESPP with easy payroll deductions.\n\nCulture & Engagement\n\nHinge Health is an equal opportunity employer and prohibits discrimination and harassment of any kind. We make employment decisions without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran status, disability status, pregnancy, or any other basis protected by federal, state or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. We provide reasonable accommodations for candidates with disabilities. If you feel you need assistance or an accommodation due to a disability, let us know by reaching out to your recruiter.\n\nBy submitting your application you are acknowledging we are using your personal data as outlined in the personnel and candidate privacy policy.\n\nBeware of Phishing Attempts: We've noticed an increase in phishing where fraudsters impersonate employees and send fake job offers to steal sensitive information. We'll never ask for financial details during the hiring process and only use \"@hingehealth.com\" emails. If you receive a suspicious offer, stop communication and report it to the US FBI Internet Crime Complaint Center. To verify an email from our recruiting team, forward it to security@hingehealth.com.\n\nCompensation Range: $164.8K - $247.2K\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nInternship\n\nIndustries\n\nSoftware Development",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Superhuman",
+      "title": "Data Scientist, Mail",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474401337/",
+      "date_posted": "2026-10-28",
+      "salary": "$202,000.00/yr - $275,000.00/yr",
+      "ats": "LinkedIn",
+      "description": "For this role on the Mail team, Superhuman offers a remote-flexible work model, whereas other Data Science roles may be aligned with a specific hub based on business needs. This gives team members plenty of focus time and the flexibility to do their best work wherever they're based, while staying closely connected to a collaborative, tight-knit team culture. A hybrid setup is available for those based in San Francisco, New York City, or Seattle.\n\nAbout Superhuman\n\nGrammarly is now part of Superhuman, the AI productivity platform on a mission to unlock the superhuman potential in everyone. The Superhuman suite of apps and agents brings AI wherever people work, integrating with over 1 million applications and websites. The company's products include Grammarly's writing assistance, Docs’ collaborative workspace, Mail's inbox management, and Go, the proactive AI assistant that understands context and automatically delivers help. Founded in 2009, Superhuman empowers over 40 million people, 50,000 organizations, and 3,000 educational institutions worldwide to eliminate busywork and focus on what matters. Learn more at superhuman.com and about our values here.\n\nThe Opportunity\n\nWant to use data science to shape how one of the most beloved productivity products in the world grows, retains, and delights its users? This Data Scientist position is embedded in the Superhuman Mail business unit, working alongside Data Engineering, Finance, RevOps, and UX Market Research. Together, you act as one numbers-and-insights team, with a direct line to the leaders setting strategy and a shared mandate to move the metrics that matter.\n\nSuperhuman Mail is the fastest, most AI-native email experience ever built.\nIt helps knowledge workers and teams fly through their inbox twice as fast, stay on top of what matters most, and collaborate without friction — saving users four hours every single week. Where email has barely changed in decades, Superhuman Mail is reimagining it from the ground up: AI that drafts replies in your voice, auto-labels and triages incoming messages, surfaces follow-ups before you drop the ball, and can even send emails on your behalf. It serves everyone, from individual professionals to Fortune 500 sales teams, and boasts a deeply loyal user base and a product people genuinely love. The data environment is rich, the growth questions are hard, and the opportunity to drive real impact — on acquisition, activation, retention, and expansion — is enormous.\n\nYour work on Mail is part of a broader platform story.\nThe Superhuman Platform suite includes Grammarly's writing assistance, Mail, Docs, Databases, and Go, our proactive AI assistant. As a compound startup, we're building an integrated suite rather than separate tools — so insights you surface in Mail ripple across the full product portfolio, and cross-product growth loops connect the dots between how users discover, adopt, and expand across the suite. Our products serve both consumers and enterprises, creating an unusually rich data environment. Our user base spans students and knowledge workers, individual users and Fortune 500 companies, universities and global enterprises, across a growing range of languages and markets. That breadth creates no shortage of important questions to own.\n\nThis is an opportunity for those drawn to complex, high-stakes growth problems — in a product people are passionate about — who want their work to measurably change outcomes.\n\nWhat You’ll Do\n\nBe the embedded data science partner for the Mail core product team — shaping feature strategy, prioritization, and roadmap decisions with evidence, not just fielding ad hoc requests.\nDefine and own the metrics that matter for Mail: activation milestones, engagement depth, retention curves, and the leading indicators that tell us whether a new feature is actually changing how people work in their inbox.\nDesign and run experiments across the Mail product lifecycle — from onboarding and first-week activation to long-term habit formation — and build the measurement frameworks that separate signal from noise.\nShape the measurement strategy for Mail's AI features — Auto Drafts, Auto Labels, Auto Archive, Calendar, MCP, and the agentic capabilities on the roadmap — by defining quality frameworks and behavioral metrics that show whether AI is making users genuinely faster and more effective.\nFigure out what makes Mail sticky: which features drive the deepest engagement, what the activation sequence looks like for users who become power users, and where in the funnel we're leaving value on the table.\nPartner with product-led and sales-led growth to identify and quantify the levers that turn individual users into team expansions — and surface the product signals that predict conversion and churn.\nUse data to craft remarkable product moments — turning behavioral insight into smarter onboarding flows, better feature discovery, and engagement nudges that feel natural rather than forced. This includes understanding how features such as Calendar scheduling and MCP-driven workflows change the way users interact with Mail on a day-to-day basis.\nCommunicate findings clearly to PMs, designers, engineers, and executives — from experiment readouts to strategic deep-dives — and help raise the bar on how the Mail team makes decisions with data.\n\nYou'll do this alongside product managers, engineers, designers, and ML engineers, and in close partnership with our Experimentation team (running on Statsig), whose platform lets us ship, test, and learn quickly. We think from first principles and stay with the hardest product problems through the messy middle. Mail is a product people are genuinely passionate about — the questions are hard, the feedback loop is fast, and the opportunity to shape how millions of people experience their inbox is real.\n\nQualifications\n\nYou have 7+ years of data science experience and a track record of driving measurable impact for business and customers.\nYou have deep expertise in experimentation and causal inference. You’re fluent in A/B testing as well as quasi-experimental and observational methods, and you know when to use each.\nYou’re fluent in Python and SQL, with strong data exploration and manipulation skills.\nYou have strong applied statistics skills and machine learning skills, and you use them to drive product and growth decisions.\nYou can translate ambiguous business questions into sound experimental designs, measurement plans, and metrics.\nYou influence cross-functional partners and turn technical insight into action through clear communication, empathetic building, and openness to ideas from anywhere.\nYou’re a self-starting, creative problem-solver who distills problems to their core and thrives with ambiguity.\nYou have a bachelor’s degree in a quantitative field (statistics, mathematics, economics, computer science, data science, or a similar field); an advanced degree or equivalent practical experience is preferred.\n\nNice to have\n\nYou have experience working at a fast-growing startup, on AI-native consumer products, and/or in B2B/SaaS.\nYou’ve been a strategic thought partner to product, growth, or business leaders, driving data-driven decisions.\nYou’ve evaluated the quality of AI, LLM, or agentic products hands-on.\nYou’re comfortable using AI-assisted development tools like Claude Code or Codex to move faster, and you have the judgment to validate and supervise their output.\nYou’re familiar with experimentation platforms such as Statsig and modern data stacks such as Databricks.\nYou have experience with product-led growth and/or lifecycle and marketing analytics.\nYou’ve helped data science teams establish the methods, standards, and processes they use to collaborate.\n\nCompensation And Benefits\n\nSuperhuman offers all team members competitive pay along with a benefits package encompassing the following and more:\n\nExcellent health care (including a wide range of medical, dental, vision, mental health, and fertility benefits)\nDisability and life insurance options\n401(k) matching\nPaid parental leave\n20 days of paid time off per year, 12 days of paid holidays per year, two floating holidays per year, and flexible sick time\nGenerous stipends (including those for caregiving, pet care, wellness, your home office, and more)\nAnnual professional development budget and opportunities\n\nSuperhuman takes a market-based approach to compensation, which means base pay may vary by location. Our US locations are categorized into two compensation zones based on proximity to our hub locations.\n\nBase pay may vary considerably depending on job-related knowledge, skills, and experience. The expected salary ranges for this position are outlined below by compensation zone and may be modified in the future.\n\nWe encourage you to apply\n\nAt Superhuman, we value our differences, and we encourage all to apply—especially those whose identities are traditionally underrepresented in tech organizations. We do not discriminate on the basis of race, religion, color, gender expression or identity, sexual orientation, ancestry, national origin, citizenship, age, marital status, veteran status, disability status, political belief, or any other characteristic protected by law. Superhuman is an equal opportunity employer and a participant in the US federal E-Verify program (US). We also abide by the Employment Equity Act (Canada).\n\nCompensation Range: $202K - $275K\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Pinterest",
+      "title": "Staff Data Scientist, Trust and Safety",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475172579/",
+      "date_posted": "2026-10-28",
+      "salary": "$164,695—$339,078 USD",
+      "ats": "LinkedIn",
+      "description": "About Pinterest\n\nMillions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.\n\nDiscover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible.\n\nAt Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we’ll explore your foundational skills and how you collaborate with AI.\n\nThrough our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here.\n\nMillions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.\n\nDiscover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible.\n\nAt Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we’ll explore your foundational skills and how you collaborate with AI.\n\nThrough our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here.\n\nAs a Data Scientist in our Core organization - Trust and Safety + Content Quality, you will shape the future of people-facing and business-facing products we build at Pinterest. Your expertise in quantitative modeling, experimentation and algorithms will be utilized to solve some of the most complex engineering challenges at the company. You will collaborate on a wide array of product and business problems with a diverse set of cross-functional partners across Product, Engineering, Design, Research, Product Analytics, Data Engineering and others. The results of your work will influence and uplevel our product development teams while introducing greater scientific rigor into the real world products serving hundreds of millions of pinners, creators, advertisers and merchants around the world. The core mandate is to evolve the organization from reactive moderation and lagging harm reporting into a proactive, metrics-driven operating system—where we manage leading indicators that predict risk, improve understanding quality, and keep Pinterest safe, inspiring, and useful.\n\nWhat You’ll Do\n\nDevelop a deep, nuanced understanding of the Pinterest trust and safety platform, quantifying full funnel opportunities and risks\nLead projects on: Trust and Safety opportunities across different funnel stages\nDesign and productionize robust, scalable ML and evaluation frameworks—spanning statistical measurement, product recommendation, and forecasting\nDevelop best practices for instrumentation and experimentation and communicate those to product engineering teams to help us fulfill our mission - to bring everyone the inspiration to create a life they love\nBring scientific rigor and statistical methods to the challenges of product creation, development and improvement with an appreciation for the behaviors of our Pinners\nBuild and prototype analysis pipelines iteratively to provide insights at scale while developing comprehensive knowledge of data structures and metrics, advocating for changes where needed for product development\nWork cross-functionally to build and communicate key insights, and collaborate closely with product managers, engineers, designers, and researchers to help build the next experiences on Pinterest\n\nWhat We’re Looking For\n\nMinimum 10 years of experience analyzing data in a fast-paced, data-driven environment with proven ability to apply scientific methods to solve real-world problems on web-scale data\nExtensive experience solving analytical problems using quantitative approaches including in the fields of Machine Learning, Statistical Modeling, Forecasting, Econometrics or other related fields\nA scientifically rigorous approach to analysis and data, and a well-tuned sense of skepticism, attention to detail and commitment to high-quality, results-oriented output\nAbility to manipulate large data sets with high dimensionality and complexity; fluency in SQL (or other database languages) and a scripting language (Python or R)\nExcellent communication skills and ability to explain learnings to both technical and non-technical partners\nA team player who’s able to partner with cross-functional leadership to quickly turn insights into actions\nExcellent communication and influencing skills\nBachelor’s degree in Computer Science, a related field or equivalent experience\n\nRelocation Statement:\n\nWe recognize that the ideal environment for work is situational and may differ across departments. What this looks like day-to-day can vary based on the needs of each organization or role.\nThis role will need to be in the office for in-person collaboration 1-2 times/quarter and therefore can be situated anywhere in the country.\n\nRelocation Statement:\n\nThis position is not eligible for relocation assistance. Visit our PinFlex page to learn more about our working model.\n\nAt Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.\n\nInformation regarding the culture at Pinterest and benefits available for this position can be found here.\n\nUS based applicants only\n\n$164,695—$339,078 USD\n\nOur Commitment To Inclusion\n\nPinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, ancestry, national origin, religion or religious creed, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, marital status, status as a protected veteran, physical or mental disability, medical condition, genetic information or characteristics (or those of a family member) or any other consideration made unlawful by applicable federal, state or local laws. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require a medical or religious accommodation during the job application process, please complete this form for support.\n\nBy submitting this application, I certify that all information submitted in my application and throughout the hiring process is true, accurate, and complete to the best of my knowledge. I understand that any false statement, omission, or misrepresentation may disqualify me from employment consideration or result in termination if discovered after hire.\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet, Software Development, and IT Services and IT Consulting",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Thatch",
+      "title": "Data Scientist: Product",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480678592/",
+      "date_posted": "2026-10-28",
+      "salary": "$160,000—$230,000 USD",
+      "ats": "LinkedIn",
+      "description": "About Thatch\n\nFor most people, health insurance is something that happens to them: a plan chosen by someone else, with little room to fit their life. Thatch is changing that. We help companies give every employee a real healthcare budget instead of a one-size-fits-all plan, so people can choose the coverage and care that works for them, and employers get predictable costs they can control.\n\nIt's a simple idea, but making it real means solving hard problems across healthcare, payments, and technology, and we're just getting started. We look for people who like solving complex problems, use good judgment, and are comfortable working through ambiguity. People here care deeply about our customers, take real responsibility for what gets built, and are driven by doing work that matters.\n\nAbout The Role\n\nThatch is changing how health benefits work. We're building software that makes it easier for businesses to offer health coverage and gives employees more choice and control.\n\nWe're looking for a Data Scientist\nto help our Product and Operations teams understand how people use Thatch and where we can make the biggest impact. You'll own the data models and metrics behind our product, from plan shopping and enrollment to reimbursements and everyday benefit usage.\n\nYou'll dig into user behavior, uncover friction, and design experiments that help us decide what to build and improve next. This is a hands-on role where you'll build the analytics foundation teams rely on, turn complex data into clear recommendations, and help shape our product strategy.\n\nWhat you will do\n\nPartner with Product and Operations to answer important questions and inform product priorities.\nDefine and own product metrics, from company-wide success measures to feature-level performance.\nAnalyze user journeys, engagement, and operational data to uncover friction and opportunities.\nDesign and evaluate experiments to measure the impact of product changes.\nBuild and maintain dbt models, metrics, dashboards, and analytical tools that teams rely on.\nImprove data quality, instrumentation, and self-serve analytics so teams can make confident decisions.\n\nWhat we are looking for\n\nExperience using analytics, data science, and experimentation to influence product decisions.\nStrong SQL skills and experience with dbt or similar data transformation tools.\nExperience building analytical data models and dashboards using BI or visualization tools.\nProficiency in Python for analysis, experimentation, or statistical modeling.\nStrong product judgment and the ability to turn complex findings into clear, actionable recommendations.\nComfortable working independently, navigating ambiguity, and partnering across teams.\n\nTools and tech stack\n\nData:\nSnowflake, SQL, dbt\nAnalytics:\nOmni, Hex, Python\nDevelopment:\nGitHub, CI/CD\nAI:\nClaude, ChatGPT, Copilot, and other tools that help us work faster and smarter\n\nYou won't work directly in our application layer day-to-day, but familiarity with source data and event instrumentation from systems like Ruby on Rails is helpful.\n\nExperience that stands out\n\nInfluencing product roadmaps and prioritization through data.\nBuilding experimentation practices, including guardrail metrics, sample-size guidance, or analysis frameworks.\nAnalyzing funnels, retention, cohorts, or engagement across complex user journeys.\nBuilding statistical or machine-learning models for segmentation, forecasting, propensity, or recommendations.\nExperience in healthcare, fintech, or other regulated industries.\n\nWhat to expect\n\nWe aim to move quickly, and most candidates complete the process within 2–3 weeks. You can expect:\n\nAn initial conversation with a recruiter.\nA conversation with the hiring manager and a lightweight Python coding exercise.\nA take-home analytics exercise.\nA review of your work, a data modeling and metrics exercise with the team, and a discussion with cross-functional partners.\nA final conversation with engineering and company leadership.\n\nEstimated Compensation Range\n\n$160,000—$230,000 USD\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Pinterest",
+      "title": "Staff Qualitative UX Researcher, Monetization",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4467921092/",
+      "date_posted": "2026-10-28",
+      "salary": "$145,747—$300,067 USD",
+      "ats": "LinkedIn",
+      "description": "About Pinterest\n\nMillions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.\n\nDiscover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible.\n\nAt Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we’ll explore your foundational skills and how you collaborate with AI.\n\nThrough our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here.\n\nPinterest is looking for a Staff Qualitative researcher to play a crucial role in the Pinterest monetization team to scope, execute research and uncover insights. We are looking for a talented and creative storyteller who ideally has had experience working in B2B, digital e-commerce or advertising experiences and who can bring actionable insights to life to drive product impact\n\nWhat You’ll Do\n\nScope, prioritize, execute research using various qualitative methodologies for one or more sub areas of the monetization product\nIdentify and articulate gaps in our understanding of the monetization products they support that can (directly or indirectly) impact our products\nCollaborates effectively with researches across Pinterest and builds strong relationships as a strategic thought partner with key senior cross functional partners (across Marketing, Product, Design, etc.) to influence strategy through insights\nProactively communicates and shares research findings with product and cross functional teams, leaders and other audiences (within or across orgs) in compelling, actionable and engaging ways\nInform and guide product decisions and strategy within the monetization space that can transcend beyond their immediate teams\n\nWhat We’re Looking For\n\n5+ years experience scoping, designing and conducting end-to-end product research (from initial design and recruitment through final deliverable) as part of cross-functional product teams, ideally in ad tech, b2b, enterprise SaaS industry\nAbility to toggle between owning and executing end-to-end research and leveraging insights to shape strategy and influence decision making with product leaders. Ability to identify key areas/ key questions for research to go after is a must.\nDemonstrated working knowledge of modern AI tooling (e.g., LLM-based workflows, prompt/prototype tools, evaluation/QA methods) and hands-on experience planning and conducting user research for AI-powered products or features (from study design through insights and recommendations).\nBroad toolbox of qualitative methods and the ability to select appropriate methods to answer different types of questions\nCuriosity, self-awareness, humility, and a drive for growth, learning, and sharing knowledge\nExcellent communication, collaboration, and group facilitation skills\nExperience recruiting and conducting research with businesses or on B2B products, a plus. Ads background preferred but not required.\nBachelor's degree in a relevant field, or equivalent experience.\n\nRelocation Statement:\n\nThis position is not eligible for relocation assistance. Visit our PinFlex page to learn more about our working model.\n\nIn-Office Requirement Statement\n\nWe recognize that the ideal environment for work is situational and may differ across departments. What this looks like day-to-day can vary based on the needs of each organization or role.\nThis role will need to be in the office for in-person collaboration 1-2 times every 6-months and therefore can be situated anywhere in the country.\n\nAt Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.\n\nInformation regarding the culture at Pinterest and benefits available for this position can be found here.\n\nUS based applicants only\n\n$145,747—$300,067 USD\n\nOur Commitment To Inclusion\n\nPinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, ancestry, national origin, religion or religious creed, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, marital status, status as a protected veteran, physical or mental disability, medical condition, genetic information or characteristics (or those of a family member) or any other consideration made unlawful by applicable federal, state or local laws. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require a medical or religious accommodation during the job application process, please complete this form for support.\n\nBy submitting this application, I certify that all information submitted in my application and throughout the hiring process is true, accurate, and complete to the best of my knowledge. I understand that any false statement, omission, or misrepresentation may disqualify me from employment consideration or result in termination if discovered after hire.\n\nShow more\n\nShow less\n\nSeniority level\n\nEntry level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet, Software Development, and IT Services and IT Consulting",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Slickdeals",
+      "title": "Sr. Data Scientist II",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4467789390/",
+      "date_posted": "2026-10-28",
+      "salary": "$175,000 - $205,000",
+      "ats": "LinkedIn",
+      "description": "About Slickdeals:\n\nWe believe shopping should feel like winning. That’s why 10 million people come to Slickdeals to swap tips, upvote the best finds, and share the thrill of a great deal. Together, our community has saved more than $10 billion over the past 26 years.\n\nWe’re profitable, passionate, and in the middle of an exciting evolution, transforming from the internet’s most trusted deal forum into the go to daily shopping destination. If you thrive in a fast moving, collaborative environment where ideas turn into impact fast, you'll fit right in.\n\nThe Purpose:\n\nSlickdeals is seeking a Senior Data Scientist to help shape how we grow by partnering with Product, Design, Engineering, Finance, and Marketing to deepen our quantitative understanding of what drives user growth. In this role, you'll combine data science, statistics, and causal inference to develop the frameworks and insights that inform product decisions and shape our growth strategy. As a trusted cross functional partner, you'll turn complex business questions into actionable insights that help us build products our users love.\n\nWhat You'll Do:\n\nPartner with Product, Design, Engineering, Finance, and Marketing to inform product development and growth strategy through data driven insights.\nIdentify new opportunities, define success metrics, quantify business challenges, and turn open ended questions into structured, high impact analytics projects.\nBuild scalable measurement frameworks, including lifetime value (LTV) and retention models, to evaluate growth initiatives and support data driven decision making.\nDesign, execute, and interpret A/B tests to evaluate product changes and validate hypotheses using causal inference, machine learning methodologies, and experimentation best practices.\nDevelop dashboards and reporting that make key metrics and insights accessible and actionable across the organization.\nTranslate complex analyses into clear narratives, recommendations, and data stories that influence both technical and non technical stakeholders.\nCollaborate across teams to strengthen the data foundation that supports user growth and experimentation at scale.\n\nWhat We're Looking For:\n\nAdvanced degree (MS or PhD) in Statistics, Economics, Computer Science, Engineering, Sciences, or another quantitative field.\n8+ years of experience with Masters or 5+ years of experience with PhD\nStrong track record designing, executing, and interpreting A/B tests using causal inference methodologies.\nProficiency in SQL and Python or R, with experience working with large scale datasets and data visualization tools.\nProven experience translating data into actionable recommendations for executives and cross functional teams.\nStrong analytical mindset with the ability to navigate ambiguity and uncover meaningful insights from complex business problems.\nExcellent communication and interpersonal skills with the ability to collaborate effectively in fast paced, cross functional environments.\n\nLOCATION: San Mateo, CA\n\nHybrid schedule visiting San Mateo office three days a week (Tues-Thurs).\n\nSlickdeals Compensation, Benefits, Perks:\n\nThe expected base pay for this role is between $175,000 - $205,000. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Exact compensation will be discussed during the interview process and tailored to the candidate's qualifications.\n\nCompetitive base salary, annual bonus, and equity package\nCompetitive paid time off in addition to holiday time off\nA variety of healthcare insurance plans to give you the best care for your needs\n401K matching above the industry standard\nProfessional Development Reimbursement Program\n\nWork Authorization\n\nCandidates must be eligible to work in the United States.\n\nSlickdeals is an Equal Opportunity Employer; employment is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender (including pregnancy, childbirth, or related medical conditions), national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other protected status. Slickdeals will consider qualified applicants with criminal histories consistent with the \"Ban the Box\" legislation. We may access publicly available information as part of your application.\n\nSlickdeals participates in E-Verify. For more information, please refer to E-Verify Participation and Right to Work.\n\nSlickdeals does not accept unsolicited resumes from agencies and is not responsible for related fees.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 19.708,
+        "city": "san mateo",
+        "latitude": 37.56031,
+        "longitude": -122.3106,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Wayve",
+      "title": "Senior Data Scientist",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474099180/",
+      "date_posted": "2026-10-28",
+      "salary": "",
+      "ats": "LinkedIn",
       "geography": {
         "status": "in_radius",
         "distance_miles": 0.0,
         "city": "sunnyvale",
         "latitude": 37.385797,
         "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon",
+      "title": "Applied Scientist, Sponsored Products and Brands",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4467740354/",
+      "date_posted": "2026-10-28",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 6.453,
+        "city": "palo alto",
+        "latitude": 37.39652,
+        "longitude": -122.143088,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Wayve",
+      "title": "Research Scientist, Robot Foundation Models",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474091546/",
+      "date_posted": "2026-10-28",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "River AI",
+      "title": "Research Engineer / Research Scientist",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4467934596/",
+      "date_posted": "2026-10-28",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 6.453,
+        "city": "palo alto",
+        "latitude": 37.39652,
+        "longitude": -122.143088,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Ivo",
+      "title": "AI Researcher",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414708590/",
+      "date_posted": "2026-10-28",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Jobverse.io",
+      "title": "AI Researcher (Ph.D.)",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484473209/",
+      "date_posted": "2026-10-28",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 19.708,
+        "city": "san mateo",
+        "latitude": 37.56031,
+        "longitude": -122.3106,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon",
+      "title": "Principal Applied Scientist, Real-Time Conversational AI , AGI",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484475539/",
+      "date_posted": "2026-10-28",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "General Motors",
+      "title": "Staff Research Scientist",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4467795158/",
+      "date_posted": "2026-10-28",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Archetype AI",
+      "title": "AI Researcher",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4457623805/",
+      "date_posted": "2026-10-28",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 19.708,
+        "city": "san mateo",
+        "latitude": 37.56031,
+        "longitude": -122.3106,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "PlusAI",
+      "title": "Senior/Staff Research Engineer — Vision-Language-Action Models (Autonomous Driving)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4465912449/",
+      "date_posted": "2026-10-28",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 3.522,
+        "city": "santa clara",
+        "latitude": 37.364621,
+        "longitude": -121.967973,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Meta",
+      "title": "AI Research Scientist - MSL FAIR Foundations",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4373704977/",
+      "date_posted": "2026-10-28",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 9.313,
+        "city": "menlo park",
+        "latitude": 37.479731,
+        "longitude": -122.148055,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "WestEd",
+      "title": "Research Scientist II",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4483895667/",
+      "date_posted": "2026-10-28",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 27.733,
+        "city": "alameda",
+        "latitude": 37.741911,
+        "longitude": -122.259914,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon Web Services (AWS)",
+      "title": "Sr. Applied Scientist, AWS Specialists and Partner Prototyping",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484469095/",
+      "date_posted": "2026-10-28",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 3.522,
+        "city": "santa clara",
+        "latitude": 37.364621,
+        "longitude": -121.967973,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Annapurna Labs",
+      "title": "Senior Applied Scientist, AWS Neuron Science - Core Algorithm",
+      "location": "Cupertino, CA",
+      "url": "https://www.linkedin.com/jobs/view/4476335926/",
+      "date_posted": "2026-10-28",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 4.7,
+        "city": "cupertino",
+        "latitude": 37.3194,
+        "longitude": -122.044957,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Intuitive",
+      "title": "Data Scientist",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484435149/",
+      "date_posted": "2026-10-28",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "CodeRound AI",
+      "title": "AI Researcher ($140K- 300K)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4482275752/",
+      "date_posted": "2026-10-28",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Benchling",
+      "title": "Research Engineer, Model Evaluation and Improvement",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4458585630/",
+      "date_posted": "2026-10-28",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Roblox",
+      "title": "Senior Data Scientist, Consumer Apps",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4457194256/",
+      "date_posted": "2026-10-28",
+      "salary": "$263,670—$322,820 USD",
+      "ats": "LinkedIn",
+      "description": "Every day, tens of millions of people come to Roblox to explore, create, play, learn, and connect with friends in 3D immersive digital experiences– all created by our global community of developers and creators.\n\nAt Roblox, we’re building the tools and platform that empower our community to bring any experience that they can imagine to life. Our vision is to reimagine the way people come together, from anywhere in the world, and on any device. We’re on a mission to connect a billion people with optimism and civility, and looking for amazing talent to help us get there.\n\nA career at Roblox means you’ll be working to shape the future of human interaction, solving unique technical challenges at scale, and helping to create safer, more civil shared experiences for everyone.\n\nWHY DATA SCIENCE & ANALYTICS?\n\nThe Data Science & Analytics organization's mission is to increase our speed, frequency and acumen of making decisions at scale by instilling a data-influenced approach to building products. We cover a wide area of the data spectrum including analytical data engineering, product analytics, experimentation, causal inference, statistical modeling and machine learning. Aligned and partnering with product groups, we use this vast tool belt to discover new opportunities and unmet use cases, influence and shape the product roadmap and prioritization, build data products and measure the impact on our community of players and developers.\n\nWHY Consumer Apps?\n\nRoblox is used by tens of millions of people every day across a wide range of devices, including mobile, desktop, console, TV, and VR. The Consumer Apps team owns the app foundation that makes Roblox feel fast, fluid, and reliable for players and is dedicated to delivering superior performance, reliability, and user experience across all platforms Roblox supports. This team ensures a seamless and engaging user interface that facilitates intuitive interactions while enabling efficient, high-quality experiences across devices. Innovation is at the core of our work, as we continuously enhance features and integrate cutting-edge technologies to solve complex problems.\n\nAs a Data Scientist on the team, you will help accelerate Roblox’s growth by shaping how we launch and optimize Roblox across the diverse device ecosystems where people connect, play, and co-experience. You will partner with Mobile, Desktop, Console, and emerging-platform teams to identify opportunities and develop platform-specific strategies that make Roblox feel best-in-class on every device. You will use data to guide investments across platform expansion, platform-specific product experiences, and ecosystem partnerships. You will develop measurement and experimentation frameworks to understand both the direct and broader ecosystem impact of these investments, helping teams identify growth opportunities, make informed tradeoffs, and continuously improve the Roblox experience while expanding universal access.\n\nYou Will\n\nIdentify high-potential platform levers and apply causal methods to understand their impact on user behavior, engagement, monetization, and other topline outcomes, translating these insights into platform-specific strategies.\nDevelop deep expertise in the unique dynamics of each platform — including how the product is experienced, how user cohorts differ, and what drives their behavior — and proactively bring this perspective to broader research and cross-functional decision-making to identify opportunities and explain differences in product and business outcomes.\nBuild visibility into platform-level business performance and establish growth targets informed by internal data, market research, and competitive insights.\nDesign and analyze experiments to evaluate product launches, inform iteration, and drive rigorous, data-informed product decisions.\nAdvance how we measure product impact by developing innovative measurement and causal inference approaches where traditional A/B testing is not feasible, expanding the range of platform investments we can evaluate with rigor and confidence.\nElevate data and experimentation rigor across the broader team by building scalable frameworks and practices around experiment design, success metrics, launch criteria, and launch readiness — helping teams launch confidently and consistently.\nBuild scalable monitoring and diagnostic capabilities that enable teams to quickly identify trends, investigate changes, and understand root causes.\nPartner across Data Science, Product, and Engineering — including Growth, Discovery, Social, and other product areas — to connect insights across surfaces, understand how platform and product changes affect the broader ecosystem, and translate complex data into actionable recommendations that shape strategy and drive impactful platform improvements.\n\nYou Have\n\nAn advanced degree in Statistics, Applied Mathematics, Physics, Engineering, Computer Science, Economics, or a related quantitative field.\n8+ years of industry experience in Data Science or a related quantitative discipline, preferably working on consumer-facing products or applications.\nStrong analytical and technical skills, with proficiency in Python or R, SQL, and large-scale data processing and workflow tools such as Spark and Airflow.\nDeep expertise in statistical analysis, causal inference, experimentation, and measurement methodologies, with a track record of applying these techniques to shape product strategy and drive business outcomes.\nDemonstrated ability to independently lead ambiguous, high-impact problem spaces, applying first-principles thinking to develop novel frameworks, approaches, and solutions.\nProven ability to influence across Product, Engineering, Design, Data Science, and leadership, shaping strategy, prioritizing investments, and driving alignment across organizational boundaries.\nExceptional communication and storytelling skills, with the ability to distill complex, high-dimensional problems into clear insights and actionable recommendations for both technical and executive audiences.\n\nFor roles that are based at our headquarters in San Mateo, CA: The starting base pay for this position is as shown below. The actual base pay is dependent upon a variety of job-related factors such as professional background, training, work experience, location, business needs and market demand. Therefore, in some circumstances, the actual salary could fall outside of this expected range. This pay range is subject to change and may be modified in the future. All full-time employees are also eligible for equity compensation and for benefits as described on this page\n.\n\nAnnual Salary Range\n\n$263,670—$322,820 USD\n\nRoles that are based in an office are onsite Tuesday, Wednesday, and Thursday, with optional presence on Monday and Friday (unless otherwise noted).\n\nRoblox provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. Roblox also provides reasonable accommodations to candidates with qualifying disabilities or religious beliefs during the recruiting process.\n\nFor US based roles only, please note the Company may not be able to employ candidates for this role who have United States work authorization related to certain U.S. visa categories, or support future H-1B sponsorship at this time.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 19.708,
+        "city": "san mateo",
+        "latitude": 37.56031,
+        "longitude": -122.3106,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "OpenAI",
+      "title": "People Research Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4457424299/",
+      "date_posted": "2026-10-28",
+      "salary": "$170,000.00/yr - $220,000.00/yr",
+      "ats": "LinkedIn",
+      "description": "About The Team\n\nOpenAI’s People team hires, engages, and retains world-class talent to safely build and deploy AGI that benefits all of humanity. The People Analytics team helps leaders make better, evidence-based talent decisions.\n\nAbout The Role\n\nAs a People Research Scientist, you will bring deep expertise in research design, measurement, experimentation, and applied data science to OpenAI’s most important People programs. You will design studies, evaluate people processes, and help leaders better empower employees, strengthen organizational systems, and deliver exceptional employee experiences.\n\nThis is a high-ownership individual contributor role combining hands-on research, methodological leadership, and scalable people science capabilities. We’re looking for an experienced researcher who can turn ambiguous People questions into rigorous designs, validated insights, and actionable recommendations.\n\nThis role is based in San Francisco, CA or Mountain View, CA, with occasional travel to our San Francisco office.\n\nWhat You’ll Do\n\nDesign rigorous research and evaluation strategies for recruiting, organizational health, manager effectiveness, employee experience, and talent outcomes.\nApply advanced statistical modeling, machine learning, and research methods to inform program design, evaluate effectiveness, and quantify business impact.\nPartner with People Operations, data engineering, and people systems teams to define data requirements, improve data quality, establish documentation standards, and ensure research datasets are governed, reproducible, and privacy-preserving.\nBuild scalable people science infrastructure, including self-service agentic tools, automated validation workflows, reusable research datasets and analytical pipelines.\nDevelop research playbooks that establish rigorous standards for study design, measurement, validation, and documentation, enabling high-quality, repeatable, and scalable research across the organization.\nCommunicate findings through concise, executive-ready narratives.\n\nWhat We’re Looking For\n\nDeep curiosity, strong attention to detail, and passion for solving ambiguous and complex problems with creativity.\nExceptional strength in research design, experimentation, measurement, causal inference, and statistical modeling, including hands-on experience with psychometrics, survey methodology, structural equation modeling, multilevel modeling, randomized controlled experiments, A/B testing, quasi-experimental design, validation studies, and machine learning evaluation.\nHigh proficiency in R or Python and SQL, with experience working across complex, messy datasets.\nExperience building measurement systems, research programs, data products, reusable analytics frameworks, self-service tools, and governed analytical workflows.\nAbility to communicate complex methods and tradeoffs clearly to senior leaders, technical partners, and non-technical audiences.\nSound judgment in handling sensitive employee data, including privacy, fairness, bias, and responsible research practices.\n\nPreferred Qualifications\n\nExperience evaluating AI-assisted workflows, algorithmic systems, and human-AI decision processes in operational contexts, including familiarity with model evaluation methods.\nAdvanced degree in Industrial-Organizational Psychology, Organizational Behavior, Quantitative Psychology, Behavioral Economics, Statistics, Economics, Data Science, or a related field.\n\nAbout OpenAI\n\nOpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity.\n\nWe are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristic.\n\nFor additional information, please see OpenAI’s Affirmative Action and Equal Employment Opportunity Policy Statement.\n\nBackground checks for applicants will be administered in accordance with applicable law, and qualified applicants with arrest or conviction records will be considered for employment consistent with those laws, including the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, for US-based candidates. For unincorporated Los Angeles County workers: we reasonably believe that criminal history may have a direct, adverse and negative relationship with the following job duties, potentially resulting in the withdrawal of a conditional offer of employment: protect computer hardware entrusted to you from theft, loss or damage; return all computer hardware in your possession (including the data contained therein) upon termination of employment or end of assignment; and maintain the confidentiality of proprietary, confidential, and non-public information. In addition, job duties require access to secure and protected information technology systems and related data security obligations.\n\nTo notify OpenAI that you believe this job posting is non-compliant, please submit a report through this form. No response will be provided to inquiries unrelated to job posting compliance.\n\nWe are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.\n\nOpenAI Global Applicant Privacy Policy\n\nAt OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.\n\nCompensation Range: $170K - $220K\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nResearch Services",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Hinge Health",
+      "title": "Senior Growth Data Scientist - New Products",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4456544011/",
+      "date_posted": "2026-10-28",
+      "salary": "$164,800.00/yr - $247,200.00/yr",
+      "ats": "LinkedIn",
+      "description": "About The Role\n\nWe are seeking a Senior Data Scientist to join our Growth Data Science team and support the New Products Pod. This role will focus on building data science capabilities for a portfolio of emerging products and programs, including HingeSelect, migraines, GI, arthritis, and other new offerings, helping the team define how to position, launch, measure, and scale them. You will lead efforts in data modeling, funnel optimization, experimentation, and analytics to inform product and marketing strategy, improve member acquisition and engagement, and accelerate growth.\n\nYou will work closely with Growth Marketing, Product, Engineering, Design, and Data Science partners to answer foundational questions where the strategy and success metrics are still taking shape. This is a zero-to-one opportunity to establish measurement frameworks, build experiment-ready data foundations, and translate analytical findings into clear recommendations for high-impact decisions.\n\nWhat You’ll Accomplish\n\nNew Product Growth Strategy and Measurement\n\nDevelop measurement frameworks and define success metrics for new products and programs where metrics are not yet established.\nConduct deep-dive and funnel analyses to understand member and customer behavior, explain root causes of performance changes, and identify high-value growth opportunities.\nCollaborate with Growth Marketing and Product stakeholders to shape the strategy for how new products are positioned, marketed, launched, and scaled.\n\nExperimentation and Optimization\n\nDesign and execute A/B tests and other experiments with causal guardrails to measure incremental impact while detecting and preventing cannibalization of existing digital PT engagement.\nBuild statistical models and user segmentations to help teams identify the right audiences, improve conversion, and deliver more relevant and timely experiences.\nUse existing channel attribution and cost-efficiency frameworks, and extend them where needed, to understand the business impact of investments in new products and growth pathways.\n\nData Foundations and Decision Support\n\nDevelop robust data models and experiment-ready datasets that create a reliable source of truth for new product and growth analytics.\nBuild and maintain dashboards and self-service tools that give Growth Marketing, Product, Engineering, and leadership visibility into funnel performance and experiment results.\nAdvocate for upstream instrumentation best practices, working with Engineering to ensure events are captured with consistent schemas, timestamps, and validation.\nApply predictive modeling, segmentation, and other advanced analytical methods where they improve understanding of member behavior, demand, or intervention opportunities.\n\nBasic Qualifications\n\nBachelor’s degree in Computer Science, Economics, Mathematics, Statistics, or a related technical field, or equivalent professional experience.\n3+ years of experience working with large datasets to solve business and technology problems and generate insights for decision-making.3+ years of experience using SQL and Python or R for data analysis and end-to-end analytical solutions.\nExperience with A/B testing, causal inference, funnel analysis, and other experimental frameworks.\nExperience defining metrics, building data models, and establishing measurement frameworks in ambiguous or greenfield environments.\n\nPreferred Qualifications\n\nKnowledge of machine learning techniques for predictive modeling, segmentation, forecasting, and recommendation systems.\nPrior experience in growth or product analytics for new product launches, partner analytics, referral tracking, or marketplace data science.\nExperience defining event taxonomies and data architecture for new product surfaces.\nKnowledge of cloud infrastructure and tools such as AWS, Databricks, Airflow, and dbt.\nFamiliarity with experimentation and visualization platforms such as Statsig, Split, Optimizely, Mode, Tableau, or similar.\nBackground in healthcare, digital health, wellness, or member engagement analytics.\nExperience using AI-assisted coding tools for rapid prototyping, analysis, and production development.\n\nHinge Health Hybrid Model\n\nWe believe that remote work and in-person work have their own advantages and disadvantages, and we want to be able to leverage the best of both worlds. Employees in hybrid roles are required to be in the office 3 days per week, for the full 8 hours of a typical business day. The San Francisco office has a dog-friendly workplace program.\n\nAbout Hinge Health\n\nAt Hinge Health, we’re using technology to scale and automate the delivery of healthcare, starting with musculoskeletal (MSK) conditions, which affect over 1.7 billion people worldwide. Our AI-powered, human-centered care model spans MSK, pelvic health, gastrointestinal (GI) and migraine care. With over 60 partnerships with health plans, PBMs and other ecosystem partners, Hinge Health is available to over 25 million people across more than 2,900 employers. The company is headquartered in San Francisco with additional offices in Montreal and Bangalore. Learn more at hingehealth.com.\n\nWhat You’ll Love About Us\n\nInclusive healthcare and benefits: On top of comprehensive medical, dental, and vision coverage, we offer employees and their family members help with gender-affirming care, tools for family and fertility planning, and travel reimbursements if healthcare isn’t available where you live.\nPlanning for the future: Start saving for the future with our traditional or Roth 401k retirement plan options which include a 2% company match.\nModern life stipends: Manage your own learning and development.\nGrow with us: Grow with us through discounted company stock through our ESPP with easy payroll deductions.\n\nCulture & Engagement\n\nHinge Health is an equal opportunity employer and prohibits discrimination and harassment of any kind. We make employment decisions without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran status, disability status, pregnancy, or any other basis protected by federal, state or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. We provide reasonable accommodations for candidates with disabilities. If you feel you need assistance or an accommodation due to a disability, let us know by reaching out to your recruiter.\n\nBy submitting your application you are acknowledging we are using your personal data as outlined in the personnel and candidate privacy policy.\n\nBeware of Phishing Attempts: We've noticed an increase in phishing where fraudsters impersonate employees and send fake job offers to steal sensitive information. We'll never ask for financial details during the hiring process and only use \"@hingehealth.com\" emails. If you receive a suspicious offer, stop communication and report it to the US FBI Internet Crime Complaint Center. To verify an email from our recruiting team, forward it to security@hingehealth.com.\n\nCompensation Range: $164.8K - $247.2K\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nInternship\n\nIndustries\n\nSoftware Development",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Superhuman",
+      "title": "Data Scientist, Mail",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474401337/",
+      "date_posted": "2026-10-28",
+      "salary": "$202,000.00/yr - $275,000.00/yr",
+      "ats": "LinkedIn",
+      "description": "For this role on the Mail team, Superhuman offers a remote-flexible work model, whereas other Data Science roles may be aligned with a specific hub based on business needs. This gives team members plenty of focus time and the flexibility to do their best work wherever they're based, while staying closely connected to a collaborative, tight-knit team culture. A hybrid setup is available for those based in San Francisco, New York City, or Seattle.\n\nAbout Superhuman\n\nGrammarly is now part of Superhuman, the AI productivity platform on a mission to unlock the superhuman potential in everyone. The Superhuman suite of apps and agents brings AI wherever people work, integrating with over 1 million applications and websites. The company's products include Grammarly's writing assistance, Docs’ collaborative workspace, Mail's inbox management, and Go, the proactive AI assistant that understands context and automatically delivers help. Founded in 2009, Superhuman empowers over 40 million people, 50,000 organizations, and 3,000 educational institutions worldwide to eliminate busywork and focus on what matters. Learn more at superhuman.com and about our values here.\n\nThe Opportunity\n\nWant to use data science to shape how one of the most beloved productivity products in the world grows, retains, and delights its users? This Data Scientist position is embedded in the Superhuman Mail business unit, working alongside Data Engineering, Finance, RevOps, and UX Market Research. Together, you act as one numbers-and-insights team, with a direct line to the leaders setting strategy and a shared mandate to move the metrics that matter.\n\nSuperhuman Mail is the fastest, most AI-native email experience ever built.\nIt helps knowledge workers and teams fly through their inbox twice as fast, stay on top of what matters most, and collaborate without friction — saving users four hours every single week. Where email has barely changed in decades, Superhuman Mail is reimagining it from the ground up: AI that drafts replies in your voice, auto-labels and triages incoming messages, surfaces follow-ups before you drop the ball, and can even send emails on your behalf. It serves everyone, from individual professionals to Fortune 500 sales teams, and boasts a deeply loyal user base and a product people genuinely love. The data environment is rich, the growth questions are hard, and the opportunity to drive real impact — on acquisition, activation, retention, and expansion — is enormous.\n\nYour work on Mail is part of a broader platform story.\nThe Superhuman Platform suite includes Grammarly's writing assistance, Mail, Docs, Databases, and Go, our proactive AI assistant. As a compound startup, we're building an integrated suite rather than separate tools — so insights you surface in Mail ripple across the full product portfolio, and cross-product growth loops connect the dots between how users discover, adopt, and expand across the suite. Our products serve both consumers and enterprises, creating an unusually rich data environment. Our user base spans students and knowledge workers, individual users and Fortune 500 companies, universities and global enterprises, across a growing range of languages and markets. That breadth creates no shortage of important questions to own.\n\nThis is an opportunity for those drawn to complex, high-stakes growth problems — in a product people are passionate about — who want their work to measurably change outcomes.\n\nWhat You’ll Do\n\nBe the embedded data science partner for the Mail core product team — shaping feature strategy, prioritization, and roadmap decisions with evidence, not just fielding ad hoc requests.\nDefine and own the metrics that matter for Mail: activation milestones, engagement depth, retention curves, and the leading indicators that tell us whether a new feature is actually changing how people work in their inbox.\nDesign and run experiments across the Mail product lifecycle — from onboarding and first-week activation to long-term habit formation — and build the measurement frameworks that separate signal from noise.\nShape the measurement strategy for Mail's AI features — Auto Drafts, Auto Labels, Auto Archive, Calendar, MCP, and the agentic capabilities on the roadmap — by defining quality frameworks and behavioral metrics that show whether AI is making users genuinely faster and more effective.\nFigure out what makes Mail sticky: which features drive the deepest engagement, what the activation sequence looks like for users who become power users, and where in the funnel we're leaving value on the table.\nPartner with product-led and sales-led growth to identify and quantify the levers that turn individual users into team expansions — and surface the product signals that predict conversion and churn.\nUse data to craft remarkable product moments — turning behavioral insight into smarter onboarding flows, better feature discovery, and engagement nudges that feel natural rather than forced. This includes understanding how features such as Calendar scheduling and MCP-driven workflows change the way users interact with Mail on a day-to-day basis.\nCommunicate findings clearly to PMs, designers, engineers, and executives — from experiment readouts to strategic deep-dives — and help raise the bar on how the Mail team makes decisions with data.\n\nYou'll do this alongside product managers, engineers, designers, and ML engineers, and in close partnership with our Experimentation team (running on Statsig), whose platform lets us ship, test, and learn quickly. We think from first principles and stay with the hardest product problems through the messy middle. Mail is a product people are genuinely passionate about — the questions are hard, the feedback loop is fast, and the opportunity to shape how millions of people experience their inbox is real.\n\nQualifications\n\nYou have 7+ years of data science experience and a track record of driving measurable impact for business and customers.\nYou have deep expertise in experimentation and causal inference. You’re fluent in A/B testing as well as quasi-experimental and observational methods, and you know when to use each.\nYou’re fluent in Python and SQL, with strong data exploration and manipulation skills.\nYou have strong applied statistics skills and machine learning skills, and you use them to drive product and growth decisions.\nYou can translate ambiguous business questions into sound experimental designs, measurement plans, and metrics.\nYou influence cross-functional partners and turn technical insight into action through clear communication, empathetic building, and openness to ideas from anywhere.\nYou’re a self-starting, creative problem-solver who distills problems to their core and thrives with ambiguity.\nYou have a bachelor’s degree in a quantitative field (statistics, mathematics, economics, computer science, data science, or a similar field); an advanced degree or equivalent practical experience is preferred.\n\nNice to have\n\nYou have experience working at a fast-growing startup, on AI-native consumer products, and/or in B2B/SaaS.\nYou’ve been a strategic thought partner to product, growth, or business leaders, driving data-driven decisions.\nYou’ve evaluated the quality of AI, LLM, or agentic products hands-on.\nYou’re comfortable using AI-assisted development tools like Claude Code or Codex to move faster, and you have the judgment to validate and supervise their output.\nYou’re familiar with experimentation platforms such as Statsig and modern data stacks such as Databricks.\nYou have experience with product-led growth and/or lifecycle and marketing analytics.\nYou’ve helped data science teams establish the methods, standards, and processes they use to collaborate.\n\nCompensation And Benefits\n\nSuperhuman offers all team members competitive pay along with a benefits package encompassing the following and more:\n\nExcellent health care (including a wide range of medical, dental, vision, mental health, and fertility benefits)\nDisability and life insurance options\n401(k) matching\nPaid parental leave\n20 days of paid time off per year, 12 days of paid holidays per year, two floating holidays per year, and flexible sick time\nGenerous stipends (including those for caregiving, pet care, wellness, your home office, and more)\nAnnual professional development budget and opportunities\n\nSuperhuman takes a market-based approach to compensation, which means base pay may vary by location. Our US locations are categorized into two compensation zones based on proximity to our hub locations.\n\nBase pay may vary considerably depending on job-related knowledge, skills, and experience. The expected salary ranges for this position are outlined below by compensation zone and may be modified in the future.\n\nWe encourage you to apply\n\nAt Superhuman, we value our differences, and we encourage all to apply—especially those whose identities are traditionally underrepresented in tech organizations. We do not discriminate on the basis of race, religion, color, gender expression or identity, sexual orientation, ancestry, national origin, citizenship, age, marital status, veteran status, disability status, political belief, or any other characteristic protected by law. Superhuman is an equal opportunity employer and a participant in the US federal E-Verify program (US). We also abide by the Employment Equity Act (Canada).\n\nCompensation Range: $202K - $275K\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Pinterest",
+      "title": "Staff Data Scientist, Trust and Safety",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475172579/",
+      "date_posted": "2026-10-28",
+      "salary": "$164,695—$339,078 USD",
+      "ats": "LinkedIn",
+      "description": "About Pinterest\n\nMillions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.\n\nDiscover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible.\n\nAt Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we’ll explore your foundational skills and how you collaborate with AI.\n\nThrough our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here.\n\nMillions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.\n\nDiscover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible.\n\nAt Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we’ll explore your foundational skills and how you collaborate with AI.\n\nThrough our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here.\n\nAs a Data Scientist in our Core organization - Trust and Safety + Content Quality, you will shape the future of people-facing and business-facing products we build at Pinterest. Your expertise in quantitative modeling, experimentation and algorithms will be utilized to solve some of the most complex engineering challenges at the company. You will collaborate on a wide array of product and business problems with a diverse set of cross-functional partners across Product, Engineering, Design, Research, Product Analytics, Data Engineering and others. The results of your work will influence and uplevel our product development teams while introducing greater scientific rigor into the real world products serving hundreds of millions of pinners, creators, advertisers and merchants around the world. The core mandate is to evolve the organization from reactive moderation and lagging harm reporting into a proactive, metrics-driven operating system—where we manage leading indicators that predict risk, improve understanding quality, and keep Pinterest safe, inspiring, and useful.\n\nWhat You’ll Do\n\nDevelop a deep, nuanced understanding of the Pinterest trust and safety platform, quantifying full funnel opportunities and risks\nLead projects on: Trust and Safety opportunities across different funnel stages\nDesign and productionize robust, scalable ML and evaluation frameworks—spanning statistical measurement, product recommendation, and forecasting\nDevelop best practices for instrumentation and experimentation and communicate those to product engineering teams to help us fulfill our mission - to bring everyone the inspiration to create a life they love\nBring scientific rigor and statistical methods to the challenges of product creation, development and improvement with an appreciation for the behaviors of our Pinners\nBuild and prototype analysis pipelines iteratively to provide insights at scale while developing comprehensive knowledge of data structures and metrics, advocating for changes where needed for product development\nWork cross-functionally to build and communicate key insights, and collaborate closely with product managers, engineers, designers, and researchers to help build the next experiences on Pinterest\n\nWhat We’re Looking For\n\nMinimum 10 years of experience analyzing data in a fast-paced, data-driven environment with proven ability to apply scientific methods to solve real-world problems on web-scale data\nExtensive experience solving analytical problems using quantitative approaches including in the fields of Machine Learning, Statistical Modeling, Forecasting, Econometrics or other related fields\nA scientifically rigorous approach to analysis and data, and a well-tuned sense of skepticism, attention to detail and commitment to high-quality, results-oriented output\nAbility to manipulate large data sets with high dimensionality and complexity; fluency in SQL (or other database languages) and a scripting language (Python or R)\nExcellent communication skills and ability to explain learnings to both technical and non-technical partners\nA team player who’s able to partner with cross-functional leadership to quickly turn insights into actions\nExcellent communication and influencing skills\nBachelor’s degree in Computer Science, a related field or equivalent experience\n\nRelocation Statement:\n\nWe recognize that the ideal environment for work is situational and may differ across departments. What this looks like day-to-day can vary based on the needs of each organization or role.\nThis role will need to be in the office for in-person collaboration 1-2 times/quarter and therefore can be situated anywhere in the country.\n\nRelocation Statement:\n\nThis position is not eligible for relocation assistance. Visit our PinFlex page to learn more about our working model.\n\nAt Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.\n\nInformation regarding the culture at Pinterest and benefits available for this position can be found here.\n\nUS based applicants only\n\n$164,695—$339,078 USD\n\nOur Commitment To Inclusion\n\nPinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, ancestry, national origin, religion or religious creed, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, marital status, status as a protected veteran, physical or mental disability, medical condition, genetic information or characteristics (or those of a family member) or any other consideration made unlawful by applicable federal, state or local laws. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require a medical or religious accommodation during the job application process, please complete this form for support.\n\nBy submitting this application, I certify that all information submitted in my application and throughout the hiring process is true, accurate, and complete to the best of my knowledge. I understand that any false statement, omission, or misrepresentation may disqualify me from employment consideration or result in termination if discovered after hire.\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet, Software Development, and IT Services and IT Consulting",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Thatch",
+      "title": "Data Scientist: Product",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480678592/",
+      "date_posted": "2026-10-28",
+      "salary": "$160,000—$230,000 USD",
+      "ats": "LinkedIn",
+      "description": "About Thatch\n\nFor most people, health insurance is something that happens to them: a plan chosen by someone else, with little room to fit their life. Thatch is changing that. We help companies give every employee a real healthcare budget instead of a one-size-fits-all plan, so people can choose the coverage and care that works for them, and employers get predictable costs they can control.\n\nIt's a simple idea, but making it real means solving hard problems across healthcare, payments, and technology, and we're just getting started. We look for people who like solving complex problems, use good judgment, and are comfortable working through ambiguity. People here care deeply about our customers, take real responsibility for what gets built, and are driven by doing work that matters.\n\nAbout The Role\n\nThatch is changing how health benefits work. We're building software that makes it easier for businesses to offer health coverage and gives employees more choice and control.\n\nWe're looking for a Data Scientist\nto help our Product and Operations teams understand how people use Thatch and where we can make the biggest impact. You'll own the data models and metrics behind our product, from plan shopping and enrollment to reimbursements and everyday benefit usage.\n\nYou'll dig into user behavior, uncover friction, and design experiments that help us decide what to build and improve next. This is a hands-on role where you'll build the analytics foundation teams rely on, turn complex data into clear recommendations, and help shape our product strategy.\n\nWhat you will do\n\nPartner with Product and Operations to answer important questions and inform product priorities.\nDefine and own product metrics, from company-wide success measures to feature-level performance.\nAnalyze user journeys, engagement, and operational data to uncover friction and opportunities.\nDesign and evaluate experiments to measure the impact of product changes.\nBuild and maintain dbt models, metrics, dashboards, and analytical tools that teams rely on.\nImprove data quality, instrumentation, and self-serve analytics so teams can make confident decisions.\n\nWhat we are looking for\n\nExperience using analytics, data science, and experimentation to influence product decisions.\nStrong SQL skills and experience with dbt or similar data transformation tools.\nExperience building analytical data models and dashboards using BI or visualization tools.\nProficiency in Python for analysis, experimentation, or statistical modeling.\nStrong product judgment and the ability to turn complex findings into clear, actionable recommendations.\nComfortable working independently, navigating ambiguity, and partnering across teams.\n\nTools and tech stack\n\nData:\nSnowflake, SQL, dbt\nAnalytics:\nOmni, Hex, Python\nDevelopment:\nGitHub, CI/CD\nAI:\nClaude, ChatGPT, Copilot, and other tools that help us work faster and smarter\n\nYou won't work directly in our application layer day-to-day, but familiarity with source data and event instrumentation from systems like Ruby on Rails is helpful.\n\nExperience that stands out\n\nInfluencing product roadmaps and prioritization through data.\nBuilding experimentation practices, including guardrail metrics, sample-size guidance, or analysis frameworks.\nAnalyzing funnels, retention, cohorts, or engagement across complex user journeys.\nBuilding statistical or machine-learning models for segmentation, forecasting, propensity, or recommendations.\nExperience in healthcare, fintech, or other regulated industries.\n\nWhat to expect\n\nWe aim to move quickly, and most candidates complete the process within 2–3 weeks. You can expect:\n\nAn initial conversation with a recruiter.\nA conversation with the hiring manager and a lightweight Python coding exercise.\nA take-home analytics exercise.\nA review of your work, a data modeling and metrics exercise with the team, and a discussion with cross-functional partners.\nA final conversation with engineering and company leadership.\n\nEstimated Compensation Range\n\n$160,000—$230,000 USD\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Pinterest",
+      "title": "Staff Qualitative UX Researcher, Monetization",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4467921092/",
+      "date_posted": "2026-10-28",
+      "salary": "$145,747—$300,067 USD",
+      "ats": "LinkedIn",
+      "description": "About Pinterest\n\nMillions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.\n\nDiscover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible.\n\nAt Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we’ll explore your foundational skills and how you collaborate with AI.\n\nThrough our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here.\n\nPinterest is looking for a Staff Qualitative researcher to play a crucial role in the Pinterest monetization team to scope, execute research and uncover insights. We are looking for a talented and creative storyteller who ideally has had experience working in B2B, digital e-commerce or advertising experiences and who can bring actionable insights to life to drive product impact\n\nWhat You’ll Do\n\nScope, prioritize, execute research using various qualitative methodologies for one or more sub areas of the monetization product\nIdentify and articulate gaps in our understanding of the monetization products they support that can (directly or indirectly) impact our products\nCollaborates effectively with researches across Pinterest and builds strong relationships as a strategic thought partner with key senior cross functional partners (across Marketing, Product, Design, etc.) to influence strategy through insights\nProactively communicates and shares research findings with product and cross functional teams, leaders and other audiences (within or across orgs) in compelling, actionable and engaging ways\nInform and guide product decisions and strategy within the monetization space that can transcend beyond their immediate teams\n\nWhat We’re Looking For\n\n5+ years experience scoping, designing and conducting end-to-end product research (from initial design and recruitment through final deliverable) as part of cross-functional product teams, ideally in ad tech, b2b, enterprise SaaS industry\nAbility to toggle between owning and executing end-to-end research and leveraging insights to shape strategy and influence decision making with product leaders. Ability to identify key areas/ key questions for research to go after is a must.\nDemonstrated working knowledge of modern AI tooling (e.g., LLM-based workflows, prompt/prototype tools, evaluation/QA methods) and hands-on experience planning and conducting user research for AI-powered products or features (from study design through insights and recommendations).\nBroad toolbox of qualitative methods and the ability to select appropriate methods to answer different types of questions\nCuriosity, self-awareness, humility, and a drive for growth, learning, and sharing knowledge\nExcellent communication, collaboration, and group facilitation skills\nExperience recruiting and conducting research with businesses or on B2B products, a plus. Ads background preferred but not required.\nBachelor's degree in a relevant field, or equivalent experience.\n\nRelocation Statement:\n\nThis position is not eligible for relocation assistance. Visit our PinFlex page to learn more about our working model.\n\nIn-Office Requirement Statement\n\nWe recognize that the ideal environment for work is situational and may differ across departments. What this looks like day-to-day can vary based on the needs of each organization or role.\nThis role will need to be in the office for in-person collaboration 1-2 times every 6-months and therefore can be situated anywhere in the country.\n\nAt Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.\n\nInformation regarding the culture at Pinterest and benefits available for this position can be found here.\n\nUS based applicants only\n\n$145,747—$300,067 USD\n\nOur Commitment To Inclusion\n\nPinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, ancestry, national origin, religion or religious creed, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, marital status, status as a protected veteran, physical or mental disability, medical condition, genetic information or characteristics (or those of a family member) or any other consideration made unlawful by applicable federal, state or local laws. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require a medical or religious accommodation during the job application process, please complete this form for support.\n\nBy submitting this application, I certify that all information submitted in my application and throughout the hiring process is true, accurate, and complete to the best of my knowledge. I understand that any false statement, omission, or misrepresentation may disqualify me from employment consideration or result in termination if discovered after hire.\n\nShow more\n\nShow less\n\nSeniority level\n\nEntry level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet, Software Development, and IT Services and IT Consulting",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Slickdeals",
+      "title": "Sr. Data Scientist II",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4467789390/",
+      "date_posted": "2026-10-28",
+      "salary": "$175,000 - $205,000",
+      "ats": "LinkedIn",
+      "description": "About Slickdeals:\n\nWe believe shopping should feel like winning. That’s why 10 million people come to Slickdeals to swap tips, upvote the best finds, and share the thrill of a great deal. Together, our community has saved more than $10 billion over the past 26 years.\n\nWe’re profitable, passionate, and in the middle of an exciting evolution, transforming from the internet’s most trusted deal forum into the go to daily shopping destination. If you thrive in a fast moving, collaborative environment where ideas turn into impact fast, you'll fit right in.\n\nThe Purpose:\n\nSlickdeals is seeking a Senior Data Scientist to help shape how we grow by partnering with Product, Design, Engineering, Finance, and Marketing to deepen our quantitative understanding of what drives user growth. In this role, you'll combine data science, statistics, and causal inference to develop the frameworks and insights that inform product decisions and shape our growth strategy. As a trusted cross functional partner, you'll turn complex business questions into actionable insights that help us build products our users love.\n\nWhat You'll Do:\n\nPartner with Product, Design, Engineering, Finance, and Marketing to inform product development and growth strategy through data driven insights.\nIdentify new opportunities, define success metrics, quantify business challenges, and turn open ended questions into structured, high impact analytics projects.\nBuild scalable measurement frameworks, including lifetime value (LTV) and retention models, to evaluate growth initiatives and support data driven decision making.\nDesign, execute, and interpret A/B tests to evaluate product changes and validate hypotheses using causal inference, machine learning methodologies, and experimentation best practices.\nDevelop dashboards and reporting that make key metrics and insights accessible and actionable across the organization.\nTranslate complex analyses into clear narratives, recommendations, and data stories that influence both technical and non technical stakeholders.\nCollaborate across teams to strengthen the data foundation that supports user growth and experimentation at scale.\n\nWhat We're Looking For:\n\nAdvanced degree (MS or PhD) in Statistics, Economics, Computer Science, Engineering, Sciences, or another quantitative field.\n8+ years of experience with Masters or 5+ years of experience with PhD\nStrong track record designing, executing, and interpreting A/B tests using causal inference methodologies.\nProficiency in SQL and Python or R, with experience working with large scale datasets and data visualization tools.\nProven experience translating data into actionable recommendations for executives and cross functional teams.\nStrong analytical mindset with the ability to navigate ambiguity and uncover meaningful insights from complex business problems.\nExcellent communication and interpersonal skills with the ability to collaborate effectively in fast paced, cross functional environments.\n\nLOCATION: San Mateo, CA\n\nHybrid schedule visiting San Mateo office three days a week (Tues-Thurs).\n\nSlickdeals Compensation, Benefits, Perks:\n\nThe expected base pay for this role is between $175,000 - $205,000. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Exact compensation will be discussed during the interview process and tailored to the candidate's qualifications.\n\nCompetitive base salary, annual bonus, and equity package\nCompetitive paid time off in addition to holiday time off\nA variety of healthcare insurance plans to give you the best care for your needs\n401K matching above the industry standard\nProfessional Development Reimbursement Program\n\nWork Authorization\n\nCandidates must be eligible to work in the United States.\n\nSlickdeals is an Equal Opportunity Employer; employment is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender (including pregnancy, childbirth, or related medical conditions), national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other protected status. Slickdeals will consider qualified applicants with criminal histories consistent with the \"Ban the Box\" legislation. We may access publicly available information as part of your application.\n\nSlickdeals participates in E-Verify. For more information, please refer to E-Verify Participation and Right to Work.\n\nSlickdeals does not accept unsolicited resumes from agencies and is not responsible for related fees.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 19.708,
+        "city": "san mateo",
+        "latitude": 37.56031,
+        "longitude": -122.3106,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Wayve",
+      "title": "Senior Data Scientist",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474099180/",
+      "date_posted": "2026-10-28",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon",
+      "title": "Applied Scientist, Sponsored Products and Brands",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4467740354/",
+      "date_posted": "2026-10-28",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 6.453,
+        "city": "palo alto",
+        "latitude": 37.39652,
+        "longitude": -122.143088,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Wayve",
+      "title": "Research Scientist, Robot Foundation Models",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474091546/",
+      "date_posted": "2026-10-28",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "River AI",
+      "title": "Research Engineer / Research Scientist",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4467934596/",
+      "date_posted": "2026-10-28",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 6.453,
+        "city": "palo alto",
+        "latitude": 37.39652,
+        "longitude": -122.143088,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Ivo",
+      "title": "AI Researcher",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414708590/",
+      "date_posted": "2026-10-28",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Jobverse.io",
+      "title": "AI Researcher (Ph.D.)",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484473209/",
+      "date_posted": "2026-10-28",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 19.708,
+        "city": "san mateo",
+        "latitude": 37.56031,
+        "longitude": -122.3106,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon",
+      "title": "Principal Applied Scientist, Real-Time Conversational AI , AGI",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484475539/",
+      "date_posted": "2026-10-28",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "General Motors",
+      "title": "Staff Research Scientist",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4467795158/",
+      "date_posted": "2026-10-28",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Archetype AI",
+      "title": "AI Researcher",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4457623805/",
+      "date_posted": "2026-10-28",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 19.708,
+        "city": "san mateo",
+        "latitude": 37.56031,
+        "longitude": -122.3106,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "PlusAI",
+      "title": "Senior/Staff Research Engineer — Vision-Language-Action Models (Autonomous Driving)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4465912449/",
+      "date_posted": "2026-10-28",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 3.522,
+        "city": "santa clara",
+        "latitude": 37.364621,
+        "longitude": -121.967973,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Meta",
+      "title": "AI Research Scientist - MSL FAIR Foundations",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4373704977/",
+      "date_posted": "2026-10-28",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 9.313,
+        "city": "menlo park",
+        "latitude": 37.479731,
+        "longitude": -122.148055,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "WestEd",
+      "title": "Research Scientist II",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4483895667/",
+      "date_posted": "2026-10-28",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 27.733,
+        "city": "alameda",
+        "latitude": 37.741911,
+        "longitude": -122.259914,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon Web Services (AWS)",
+      "title": "Sr. Applied Scientist, AWS Specialists and Partner Prototyping",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484469095/",
+      "date_posted": "2026-10-28",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 3.522,
+        "city": "santa clara",
+        "latitude": 37.364621,
+        "longitude": -121.967973,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Annapurna Labs",
+      "title": "Senior Applied Scientist, AWS Neuron Science - Core Algorithm",
+      "location": "Cupertino, CA",
+      "url": "https://www.linkedin.com/jobs/view/4476335926/",
+      "date_posted": "2026-10-28",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 4.7,
+        "city": "cupertino",
+        "latitude": 37.3194,
+        "longitude": -122.044957,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Intuitive",
+      "title": "Data Scientist",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484435149/",
+      "date_posted": "2026-10-28",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "CodeRound AI",
+      "title": "AI Researcher ($140K- 300K)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4482275752/",
+      "date_posted": "2026-10-28",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Benchling",
+      "title": "Research Engineer, Model Evaluation and Improvement",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4458585630/",
+      "date_posted": "2026-10-28",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
     }
@@ -1478,12 +2326,71 @@
         "distance_miles": null,
         "reason": "City is unknown or has multiple Census locations."
       }
+    },
+    {
+      "company": "Taskrabbit",
+      "title": "Staff Data Scientist",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4479067873/",
+      "date_posted": "2026-10-28",
+      "salary": "$170,000 - $225,000",
+      "ats": "LinkedIn",
+      "description": "About Taskrabbit:\nTaskrabbit is a marketplace platform that conveniently connects people with Taskers to handle everyday home to-do’s, such as furniture assembly, handyman work, moving help, and much more.\nAt Taskrabbit, we want to transform lives one task at a time. As a company we celebrate innovation, inclusion and hard work. Our culture is collaborative, pragmatic, and fast-paced. We’re looking for talented, entrepreneurially minded and data-driven people who also have a passion for helping people do what they love. Together with IKEA, we’re creating more opportunities for people to earn a consistent, meaningful income on their own terms by building lasting relationships with clients in communities around the world.\nTaskrabbit is a hybrid company with employees distributed across the US and EU and a Built In — Best Places to Work (2022, 2023, 2024, 2025) continually ranked across multiple national and regional categories. Join us at Taskrabbit, where your work will be meaningful, your ideas valued, and your potential unleashed!\nPrior to applying please note:\n\nW\n\ne are currently unable to provide visa sponsorship for this position (including H-1B, OPT, F1, CPT or other employment-based visas). Candidates must be legally authorized to work in the United States without employer sponsorship now or in the future. \n\nThis role is hybrid requiring 2 days in office at our San Francisco or NYC hub every Tuesday & Wednesday. \n\nAbout the Role Data Science plays a crucial role in driving impact at Taskrabbit. We are seeking a highly skilled and motivated Staff Data Scientist to join us, working closely with cross-functional teams from Product teams and occasionally Commercial Operations to provide data-driven insights and solutions that enhance our products and accelerate growth while minimizing marketplace losses.\nWhat you will work on Be a strategic thought partner with stakeholders in Product and occasionally Commercial Operations to define high-impact analytical problems, and solve them using different analytical and statistical approaches. Present actionable insights in a clear and compelling manner.\nProactively perform analytical deep dives to identify strategic growth opportunities in key business levers with a focus on Product\nCollaborate with stakeholders to define and measure success metrics for new features and products, conduct advanced experimentation and causal inference to optimize product features and user experiences\nLead central Data Science initiatives, e.g. experimentation system, building data agents, influencing eventing systems, etc.\nFoster a data-driven culture within the organization by advocating for best practices in data analysis and interpretation.\n\nWho you are BS, MS or Ph.D. in a quantitative field (e.g., Statistics, Econometrics, Computer Science, Engineering, Mathematics, Data Science, Operations Research, or related field).\nA minimum of 7 years industry experience in data science\nStrong and relevant experience with advanced experimentation and statistical modeling\nExcellent analytical and problem-solving skills.\nExcellent business acumen and strategic thinking skills, especially in a commerce/risk domain\nExpert in SQL, experienced in Python, and familiar with data pipeline tooling (e.g. dbt) and git. Bonus points for experience in productionizing ML models and familiarity with ML Ops.\nA self-starter with the ability to work independently and drive your own projects end-to-end with a track record of landing strong business impact \nAbility to communicate complex data findings in a clear and concise manner to an executive audience.\n\nCompensation & Benefits: \nAt Taskrabbit, our approach to compensation is designed to be competitive, transparent, and equitable. Total compensation consists of base pay + bonus + benefits + perks.\nThe base pay range for this position is $170,000 - $225,000\n. This range is representative of base pay only, and does not include any other total cash compensation amounts, such as company bonus or benefits. Final offer amounts may vary from the amounts listed above and will be determined by factors including, but not limited to, relevant experience, qualifications, geography, and level.\nYou’ll love working here because:\nTaskrabbit is a Hybrid Company.\n\nWe value flexibility and choice but also stay committed to regular in-person connection.\nThe People.\n\nYou will be surrounded by some of the most talented, supportive, smart, and kind leaders and teams -- people you can be proud to work with!\nThe Diverse Culture.\n\nWe believe that we make better decisions when our workforce reflects the diversity of the communities in which we operate. Women make up half of our leadership team and our diversity representation is above that of the tech industry average.\nThe Perks.\n\nTaskrabbit offers our employees with employer-paid health insurance and a 401k match with immediate vesting for our US based employees. We offer all of our global employees generous and flexible time off with 2 company-wide closure weeks, Taskrabbit product stipends, wellness + productivity + education stipends, IKEA discounts, reproductive health support, and more. Benefits vary by country of employment. \n\nTaskrabbit’s commitment to Diversity and Inclusion:\nAn Active Commitment to Equity within our Company and Platform. We are an inclusive community where all who share our mission and values belong. Our diverse team represents the communities we serve, breaking down systemic barriers, and transforming lives- one action at a time.\nTaskrabbit is an equal opportunity employer and values diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, ancestry, citizenship, sex, gender, gender identity, sexual orientation, age, marital status, military/veteran status, or disability status. Taskrabbit is committed to working with and providing reasonable accommodation to applicants with physical and mental disabilities. Taskrabbit will consider for employment all qualified applicants with criminal histories in a manner consistent with applicable law. \nAI-Assisted Prescreening Notice [US Based Candidates Only]\n: As part of our hiring process, we may use artificial intelligence tools to assist with the initial prescreening of applications and responses. This tool does not make hiring decisions — every application and response is reviewed by a member of our recruiting team to determine fit for the role. If you would prefer not to have your application processed using this tool, you may opt out by selecting 'opt out' in the application form or by emailing talentacquisition@taskrabbit.com, and your application will be reviewed manually with no impact on your candidacy.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "An unambiguous city and state are required."
+      }
+    },
+    {
+      "company": "Intuit",
+      "title": "Staff Data Scientist",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484428116/",
+      "date_posted": "2026-10-28",
+      "salary": "$194,000 - $262,500",
+      "ats": "LinkedIn",
+      "description": "Overview\n\nMailchimp is a leading marketing automation platform that empowers millions of businesses to grow through powerful, easy-to-use marketing and messaging solutions. As we expand beyond email into omnichannel customer engagement, Messaging is at the forefront of Mailchimp's growth strategy, helping businesses connect with their customers through SMS, WhatsApp, RCS, and other emerging communication channels.\n\nCome join the Mailchimp Product Data Science team as a Staff Data Scientist supporting Messaging\n, one of our most exciting and strategically important growth areas. We are looking for a creative, business-minded problem solver who is passionate about leveraging data science to unlock customer value, accelerate product innovation, and drive measurable business impact.\n\nAs a Staff Data Scientist,\nyou will serve as a senior individual contributor and strategic thought partner\nto Product, Engineering, Design, Finance, and Product Marketing leaders. You will tackle complex, high-impact business problems across the messaging customer journey—from adoption and engagement to monetization, retention, and revenue growth. Your expertise in advanced analytics, experimentation, causal inference, machine learning, and automation will be instrumental in identifying growth opportunities, shaping product strategy, and influencing investment decisions.\n\nThis role offers a unique opportunity to help shape the future of Mailchimp's omnichannel messaging strategy. You will lead strategic research, develop scalable data products and measurement frameworks, and translate complex insights into actionable recommendations that influence product roadmaps and accelerate business outcomes. Beyond individual projects, you will help elevate data science capabilities across teams, break down organizational silos, and establish analytical approaches that scale across the broader Mailchimp ecosystem.\n\nResponsibilities\n\nStrategic Data Partnership & Influence: Serve as a trusted data science partner to Product, Engineering, Design, Finance, and Product Marketing leaders, shaping Mailchimp's omnichannel messaging strategy across SMS, WhatsApp, RCS, and emerging channels. Influence product roadmaps, investment priorities, and business decisions through data-driven insights.\nProduct Strategy & Revenue Growth: Identify, size, and prioritize high-impact growth opportunities across the messaging customer journey, including acquisition, adoption, activation, engagement, monetization, and retention. Translate ambiguous business challenges into rigorous analytical frameworks and actionable recommendations that accelerate customer and revenue growth.\nAdvanced Analytics & Causal Inference: Lead complex, end-to-end analytical investigations using advanced statistics, SQL, Python, machine learning, and causal inference. Design and evaluate A/B tests and quasi-experiments (e.g., difference-in-differences, matching, synthetic control) to establish causal relationships, quantify incremental impact, and guide product decisions.\nMeasurement Strategy & Experimentation: Develop scalable measurement frameworks and define success metrics to evaluate messaging product performance, customer outcomes, and business impact. Champion experimentation best practices and analytical rigor to enable faster, more confident decision-making.\nScalable Data Products & AI Innovation: Build reusable analytical frameworks, automated insights, opportunity-sizing tools, and self-service data products that democratize access to insights and scale Data Science impact. Leverage modern AI/ML techniques and AI-assisted tools to accelerate analytical workflows and improve organizational productivity.\nPredictive Modeling & Customer Intelligence: Apply machine learning, predictive modeling, and customer segmentation to uncover behavioral patterns, identify growth opportunities, and optimize messaging adoption, engagement, and customer lifetime value.\nData Quality & Cross-Functional Collaboration: Partner with Data Engineering and platform teams to improve data instrumentation, quality, reliability, and accessibility. Break down organizational silos by developing consistent metrics, sharing learnings, and scaling analytical solutions across messaging channels and the broader Mailchimp ecosystem.\nExecutive Communication & Technical Leadership: Translate complex analytical findings into compelling, actionable narratives for technical and nontechnical stakeholders, including senior leadership. Provide technical thought leadership, mentor peers, and elevate the organization's standards for data-driven decision-making, experimentation, and innovation.\n\nQualifications\n\n8+ years of experience in Data Science, Product Analytics, or a related quantitative discipline, with a demonstrated track record of driving measurable customer, product, and revenue impact in SaaS, marketing technology, or digital products.\nDeep expertise in advanced analytics, experimentation, and causal inference, including A/B testing and quasi-experimental methods (e.g., difference-in-differences, matching, synthetic control, regression discontinuity). Demonstrated ability to select and apply rigorous methodologies to ambiguous business problems and quantify incremental impact.\nStrong foundation in predictive modeling and machine learning, including customer segmentation, propensity modeling, churn prediction, with experience translating models and insights into actionable product and business decisions.\nAdvanced proficiency in SQL and Python (e.g., pandas, NumPy, scikit-learn, statsmodels), with hands-on experience analyzing large, complex datasets, developing statistical models, and building scalable analytical solutions.\nStrong product and business acumen, with experience identifying and sizing growth opportunities, evaluating product performance, and influencing strategies related to customer acquisition, adoption, engagement, monetization, and retention.\nExperience building scalable data products and analytical frameworks, including automated insights, opportunity-sizing tools, and self-service solutions that improve decision-making and extend Data Science impact beyond individual analyses.\nWorking fluency with modern AI tools and workflows, including LLM-based coding assistants (e.g., Cursor, Claude) and AI-assisted analytics, with the ability to accelerate analytical development while maintaining high standards for accuracy, reproducibility, and rigor.\nProven ability to navigate ambiguity and influence cross-functional stakeholders, independently leading complex analytical initiatives and translating insights into strategic recommendations that drive measurable business outcomes.\nExceptional communication and data storytelling skills, with demonstrated ability to influence senior leadership, communicate complex technical concepts clearly, and drive alignment across Product, Engineering, Design, Finance, and Marketing.\nBachelor's degree in Statistics, Mathematics, Economics, Computer Science, Data Science, Engineering, or a related quantitative field; advanced degree preferred.\n\nPreferred Qualifications\n\nExperience in messaging, marketing automation, communications platforms, or omnichannel customer engagement, including SMS, WhatsApp, RCS, or email marketing.\nExperience with SaaS monetization, usage-based pricing, product-led growth, and customer lifecycle optimization.\nDemonstrated technical leadership through mentoring, establishing analytical best practices, and scaling data science capabilities across teams.\n\nIntuit provides a competitive compensation package with a strong pay for performance rewards approach. This position may be eligible for a cash bonus, equity rewards and benefits, in accordance with our applicable plans and programs (see more about our compensation and benefits at Intuit®: Careers | Benefits). Pay offered is based on factors such as job-related knowledge, skills, experience, and work location. To drive ongoing fair pay for employees, Intuit conducts regular comparisons across categories of ethnicity and gender.\n\nThe Expected Base Pay Range For This Position Is\n\nMountain View $194,000 - $262,500\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "City is unknown or has multiple Census locations."
+      }
+    },
+    {
+      "company": "Digital Waffle",
+      "title": "Data Scientist",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4483875732/",
+      "date_posted": "2026-10-28",
+      "salary": "$180,000.00/yr - $300,000.00/yr",
+      "ats": "LinkedIn",
+      "description": "A high-growth AI-native startup is hiring a Data Scientist in San Francisco to turn messy early-stage data into decisions that actually move the business.\n\nThis isn’t a reporting role. You’ll work directly with founders, product and engineering to design experiments, surface insight from product telemetry and model user behaviour. Expect to run end to end: pulling data, building the analysis, presenting it, and seeing the decision made in the same week.\n\nRole: Data Scientist\nSalary: $180,000 - $300,000 plus equity\nLocation: San Francisco, 5 days per week in office\n\nWhat you’ll be doing:\n\nDesign and analyse experiments across product, growth and retention surfaces\nBuild models and analyses that influence real roadmap and GTM decisions\nWork hands-on in Python (Pandas, NumPy, scikit-learn), SQL and notebook environments (Jupyter, Hex)\nBuild and maintain analytical layers in dbt against a warehouse (Snowflake, BigQuery or DuckDB-style stack)\nPartner with product and engineering on event instrumentation and tracking plans\nUse AI tooling (Claude, Cursor and similar) across every part of your analytical workflow to compress cycle time\nPresent findings clearly to founders and stakeholders, with sharp written and verbal communication\n\nWhat you’ll need:\n\nStrong Python and SQL for day-to-day analytical work\nSolid experience with experimentation, causal inference or statistical modelling in a product environment\nComfortable with dbt and a modern warehouse (Snowflake, BigQuery, Databricks or similar)\nFluent with Pandas, NumPy, scikit-learn and notebook tools like Jupyter or Hex\nFluent in modern AI tooling (Claude, Cursor, ChatGPT) and able to use it to materially raise your output\nHigh autonomy, strong communication, pragmatic approach to messy early-stage data\nHappy working 5 days a week in-person with a small, high-intensity team\n\nNice to have:\n\nPrior early-stage startup experience with no formal data team to lean on\nExposure to LLM evals, user behaviour modelling on AI products or agent telemetry\nComfort shipping lightweight production code when the analysis needs to live somewhere\n\nThis role would suit a data scientist who wants to sit close to the decision, not three handoffs away from it.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nStaffing and Recruiting",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "An unambiguous city and state are required."
+      }
+    },
+    {
+      "company": "Lyft",
+      "title": "Applied Scientist- Pricing, Dynamic Pricing & Offer Selection",
+      "location": "San Francisco County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4371638246/",
+      "date_posted": "2026-10-28",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "City is unknown or has multiple Census locations."
+      }
     }
   ],
   "geographic_counts": {
-    "in_radius": 62,
+    "in_radius": 87,
     "remote": 0,
-    "ambiguous": 25,
+    "ambiguous": 29,
     "outside_radius": 0
   }
 }
