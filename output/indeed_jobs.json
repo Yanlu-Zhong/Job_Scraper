@@ -1,40 +1,14 @@
 {
-  "scraped_at": "2026-10-29 06:28 UTC",
+  "scraped_at": "2026-10-29 06:30 UTC",
   "total": 9,
   "new_count": 0,
   "scrape_status": {
     "status": "success",
-    "raw_rows": 295,
+    "raw_rows": 298,
     "queries": 25,
     "errors": 0
   },
   "jobs": [
-    {
-      "company": "Amazon.com",
-      "title": "Principal Applied Scientist, Real-Time Conversational AI , AGI",
-      "location": "Sunnyvale, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=5a461c114c9d687b",
-      "direct_url": "https://www.amazon.jobs/jobs/10591057/principal-applied-scientist-realtime-conversational-ai--agi?cmpid=DA_INAD200785B",
-      "company_url": "https://www.indeed.com/cmp/Amazon.com",
-      "date_posted": "2026-10-28",
-      "description": "**DESCRIPTION**\n---------------\n\nWe are looking for a Principal Applied Scientist to drive the research and development of real-time multimodal conversational AI. You will operate across two focus areas: advancing foundation models for speech and audio, and building the post-training systems (reward modeling, reinforcement learning) that shape natural, human-like conversational behavior.\n  \n  \nYou will be the expert in your area while contributing across the full model lifecycle — from pre-training and architecture design through post-training alignment and real-time deployment. You will work at the frontier of what's possible in conversational AI, with the compute, data, and runway to pursue problems that few teams in the world have the resources to tackle.\n  \n  \nAs a Principal Scientist, you will set the technical direction for your research area, influence the broader roadmap, and work closely with inference engineers to ensure your models are designed for real-time production deployment from inception.  \n  \nKey job responsibilities  \nFoundation Model Scaling\n  \n  \n\n* Build and train large-scale multimodal foundation models for real-time speech and audio generation, from architecture design through production-scale training\n\n  \n\n* Advance the scaling and efficiency of conversational modes, including the relationship between data, model size, and real time performance.\n\n  \n\n* Design model architectures informed by hardware constraints and inference requirements, working with inference engineers to ensure models are servable from inception\n\n  \n\n* Develop training methodologies for multimodal models that jointly process and generate speech, language, and audio in real-time streaming contexts\n\n  \nPost-Training & Reinforcement Learning\n  \n  \n\n* Design and build reward models and reward functions for speech systems — capturing naturalness, fluency, conversational quality, and real-time responsiveness\n\n  \n\n* Develop and apply reinforcement learning methods to shape conversational behavior — teaching models natural timing, responsiveness, and fluid interaction\n\n  \n\n* Build the post-training pipeline from SFT through RL alignment, optimized for real-time multimodal outputs rather than text-only generation\n\n  \n\n* Design evaluation frameworks that capture the quality dimensions unique to real-time conversation\n\n  \nReal-Time Perception & Generation\n  \n  \n\n* Advance the team's capabilities in real-time perception\n\n  \n  \n\n* Work at the intersection of model architecture and production constraints to ensure multimodal capabilities function within hard real-time latency budgets\n\n  \nAbout the team  \nWe are a small, focused group of scientists and engineers building the next generation of real-time conversational AI at Amazon — models that interact naturally across speech and audio. We operate with the autonomy and pace of a research lab, backed by frontier-scale compute and a multi-year investment horizon.\n\n**BASIC QUALIFICATIONS**\n------------------------\n\n* Experience distilling informal customer requirements into problem definitions, dealing with ambiguity and competing objectives\n* PhD in Computer Science, Machine Learning, Electrical Engineering, Speech/Audio Processing, or equivalent quantitative field\n* 10+ years of applied research experience (industry or combined academic + industry)\n* Demonstrated experience training large-scale foundation models — hands-on involvement in scaling exercises, not just using pre-trained models\n* Experience with multimodal model architectures that jointly process or generate across speech, text, and audio modalities\n* Strong understanding of transformer architectures and their application to speech/audio domains\n* Publication record at top-tier venues (NeurIPS, ICML, ICLR, Interspeech, ICASSP, ACL, or equivalent)\n* Demonstrated Principal/Staff+ scientific leadership — setting research direction, mentoring researchers, influencing multi-team decisions\n\n**PREFERRED QUALIFICATIONS**\n----------------------------\n\n* 10+ years of relevant work in industry or academia experience\n* Hands-on experience building real-time AI systems — speech, audio, or video\n* Track record with post-training methods: reinforcement learning, reward modeling, RLHF/RLAIF, or alignment techniques applied to generative models\n* Experience with real-time interactive systems — models that handle concurrent input and output\n* Experience building speech-to-speech or audio-to-audio generative models (codec models, autoregressive audio generation)\n* Hands-on design of reward models or reward functions specifically for speech/audio quality, naturalness, or conversational behavior\n* Experience with distributed training at scale — including parallelism strategies, training stability, and curriculum design\n* Familiarity with hardware-informed model design — understanding how architecture choices affect inference latency, memory, and cost\n* Background in speech recognition, speech synthesis (TTS), or speech enhancement\n* Experience shipping research to production at scale — models serving real users, not just benchmark results\n* Contributions to open-source speech/audio ML systems or widely used research codebases\n* History of mentoring and growing research teams from individual contributors to technical leaders\n\n  \nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  \n  \nLos Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the ",
-      "salary": "$199k–$269k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 0.0,
-        "city": "sunnyvale",
-        "latitude": 37.385797,
-        "longitude": -122.026316,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
     {
       "company": "OpenAI",
       "title": "Research Engineer / Research Scientist, Human Flourishing",
@@ -58,6 +32,32 @@
         "city": "san francisco",
         "latitude": 37.727239,
         "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon.com",
+      "title": "Principal Applied Scientist, Real-Time Conversational AI , AGI",
+      "location": "Sunnyvale, CA, USA",
+      "url": "https://www.indeed.com/viewjob?jk=5a461c114c9d687b",
+      "direct_url": "https://www.amazon.jobs/jobs/10591057/principal-applied-scientist-realtime-conversational-ai--agi?cmpid=DA_INAD200785B",
+      "company_url": "https://www.indeed.com/cmp/Amazon.com",
+      "date_posted": "2026-10-28",
+      "description": "**DESCRIPTION**\n---------------\n\nWe are looking for a Principal Applied Scientist to drive the research and development of real-time multimodal conversational AI. You will operate across two focus areas: advancing foundation models for speech and audio, and building the post-training systems (reward modeling, reinforcement learning) that shape natural, human-like conversational behavior.\n  \n  \nYou will be the expert in your area while contributing across the full model lifecycle — from pre-training and architecture design through post-training alignment and real-time deployment. You will work at the frontier of what's possible in conversational AI, with the compute, data, and runway to pursue problems that few teams in the world have the resources to tackle.\n  \n  \nAs a Principal Scientist, you will set the technical direction for your research area, influence the broader roadmap, and work closely with inference engineers to ensure your models are designed for real-time production deployment from inception.  \n  \nKey job responsibilities  \nFoundation Model Scaling\n  \n  \n\n* Build and train large-scale multimodal foundation models for real-time speech and audio generation, from architecture design through production-scale training\n\n  \n\n* Advance the scaling and efficiency of conversational modes, including the relationship between data, model size, and real time performance.\n\n  \n\n* Design model architectures informed by hardware constraints and inference requirements, working with inference engineers to ensure models are servable from inception\n\n  \n\n* Develop training methodologies for multimodal models that jointly process and generate speech, language, and audio in real-time streaming contexts\n\n  \nPost-Training & Reinforcement Learning\n  \n  \n\n* Design and build reward models and reward functions for speech systems — capturing naturalness, fluency, conversational quality, and real-time responsiveness\n\n  \n\n* Develop and apply reinforcement learning methods to shape conversational behavior — teaching models natural timing, responsiveness, and fluid interaction\n\n  \n\n* Build the post-training pipeline from SFT through RL alignment, optimized for real-time multimodal outputs rather than text-only generation\n\n  \n\n* Design evaluation frameworks that capture the quality dimensions unique to real-time conversation\n\n  \nReal-Time Perception & Generation\n  \n  \n\n* Advance the team's capabilities in real-time perception\n\n  \n  \n\n* Work at the intersection of model architecture and production constraints to ensure multimodal capabilities function within hard real-time latency budgets\n\n  \nAbout the team  \nWe are a small, focused group of scientists and engineers building the next generation of real-time conversational AI at Amazon — models that interact naturally across speech and audio. We operate with the autonomy and pace of a research lab, backed by frontier-scale compute and a multi-year investment horizon.\n\n**BASIC QUALIFICATIONS**\n------------------------\n\n* Experience distilling informal customer requirements into problem definitions, dealing with ambiguity and competing objectives\n* PhD in Computer Science, Machine Learning, Electrical Engineering, Speech/Audio Processing, or equivalent quantitative field\n* 10+ years of applied research experience (industry or combined academic + industry)\n* Demonstrated experience training large-scale foundation models — hands-on involvement in scaling exercises, not just using pre-trained models\n* Experience with multimodal model architectures that jointly process or generate across speech, text, and audio modalities\n* Strong understanding of transformer architectures and their application to speech/audio domains\n* Publication record at top-tier venues (NeurIPS, ICML, ICLR, Interspeech, ICASSP, ACL, or equivalent)\n* Demonstrated Principal/Staff+ scientific leadership — setting research direction, mentoring researchers, influencing multi-team decisions\n\n**PREFERRED QUALIFICATIONS**\n----------------------------\n\n* 10+ years of relevant work in industry or academia experience\n* Hands-on experience building real-time AI systems — speech, audio, or video\n* Track record with post-training methods: reinforcement learning, reward modeling, RLHF/RLAIF, or alignment techniques applied to generative models\n* Experience with real-time interactive systems — models that handle concurrent input and output\n* Experience building speech-to-speech or audio-to-audio generative models (codec models, autoregressive audio generation)\n* Hands-on design of reward models or reward functions specifically for speech/audio quality, naturalness, or conversational behavior\n* Experience with distributed training at scale — including parallelism strategies, training stability, and curriculum design\n* Familiarity with hardware-informed model design — understanding how architecture choices affect inference latency, memory, and cost\n* Background in speech recognition, speech synthesis (TTS), or speech enhancement\n* Experience shipping research to production at scale — models serving real users, not just benchmark results\n* Contributions to open-source speech/audio ML systems or widely used research codebases\n* History of mentoring and growing research teams from individual contributors to technical leaders\n\n  \nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  \n  \nLos Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the ",
+      "salary": "$199k–$269k/yr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
     },
