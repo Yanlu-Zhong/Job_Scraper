@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-10-29 00:06 UTC",
-  "total": 54,
-  "new_count": 21,
+  "scraped_at": "2026-10-29 05:52 UTC",
+  "total": 58,
+  "new_count": 4,
   "scrape_status": {
     "status": "success",
-    "raw_rows": 336,
+    "raw_rows": 320,
     "queries": 24,
     "batch": 5,
     "batches": 5,
@@ -953,89 +953,16 @@
         "longitude": -123.032229,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "L&T Technology Services",
-      "title": "Language Model Scientist",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483885546/",
-      "date_posted": "2026-10-28",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "Language Model Scientist\nWe're hiring a Language Model Scientist in Santa Clara, California, to join L&T's AI Center of Excellence. You'll build the generative and agentic AI systems that power knowledge, engineering and operations across the L&T Group, turning foundation-model capabilities into secure, reliable and domain-aware solutions: copilots, AI agents, enterprise knowledge systems and natural-language interfaces to engineering and physical systems.\nWhat you'll do\nFine-tune and align open-source and commercial LLMs (SFT, LoRA/PEFT, RLHF, DPO) for domain tasks such as engineering specifications, contracts, standards and code.\nDesign agentic systems with tool use, planning, memory and multi-agent orchestration, plus RAG and knowledge-graph systems over enterprise data.\nBuild evaluation, guardrail and red-teaming frameworks covering accuracy, hallucination, bias and safety.\nDeploy and scale LLMs in production (vLLM, TensorRT-LLM, quantization), with monitoring and inference cost optimization across cloud and on-premise.\nPartner with businesses in Engineering, Manufacturing, Infrastructure, Energy, Financial Services, IT Services and Defence to deliver high-value GenAI use cases.\n\nFirst 12 months\nEnterprise LLM and agentic AI reference architecture defined for the CoE.\n5–8 GenAI and agentic use cases delivered, at least 3 scaled to production.\nAt least one domain-adapted language model developed.\nLLM evaluation, guardrail and LLMOps framework established.\n\nWhat we're looking for\nMaster's or PhD in Computer Science, AI, NLP, Computational Linguistics or a related field (PhD preferred).\n8–15 years in ML or NLP, including 3+ years of hands-on work with LLMs and Generative AI.\nA track record of building and deploying LLM applications in production at enterprise scale.\nDeep knowledge of transformer architectures, pre-training, fine-tuning and alignment.\nStrong Python with PyTorch, Hugging Face, DeepSpeed/FSDP and LLM frameworks such as LangChain, LlamaIndex or LangGraph.\nExperience with vector databases, knowledge graphs, Model Context Protocol (MCP) and function calling.\n\nPlus: engineering, industrial or regulated-domain experience, and publications at ACL, EMNLP, NAACL, NeurIPS, ICML or ICLR.\nRole details: Reports to the Head, AI Center of Excellence. Headcount: 3. Scope: L&T Group-wide, United States and India.\nInterested? Apply or send us a message with your profile. #LTGroup #AI #LLM #GenerativeAI #AgenticAI #Hiring #SantaClara\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nEngineering Services",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 3.522,
-        "city": "santa clara",
-        "latitude": 37.364621,
-        "longitude": -121.967973,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
     },
     {
-      "company": "Meta",
-      "title": "Research Engineer, Pre-training Data - MSL FAIR",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409674119/",
-      "date_posted": "2026-10-28",
-      "salary": "$183,997.00/yr - $257,000.00/yr",
-      "ats": "LinkedIn",
-      "description": "Meta is seeking AI research engineers to help us build the data foundation for Meta's most advanced Large Language Models. We're looking for engineers with LLM expertise to join us on working with data at scale and to push beyond the data ceiling.Our team contributes to data curation across all stages of LLM development (pre-training, mid-training, post-training) and all domains/modalities (e.g., web, code, agent, multilingual). We tackle the hardest challenges at trillion-scale, including organic data curation, synthetic data generation, agent and interaction data, and frontier paradigms that redefine what's possible. Based in Meta Superintelligence Labs (MSL) within the Fundamental AI Research Organization (FAIR), you'll directly contribute to Meta’s frontier models like Llama, while having the chance to collaborate with researchers and engineers across MSL.\n\nResearch Engineer, Pre-training Data - MSL FAIR Responsibilities:\n\nCollaborate with cross-functional teams to develop Meta’s next foundational models\nArchitect efficient and scalable data curation systems and pipelines\nFundamentally improve our data velocity across workflows and projects by contributing to the advancement of data tooling\nExecute on high priority projects in pre-training, mid-training, or post-training data curation\nApply specialized expertise in agentic data, synthetic data, reasoning data, web parser, coding data, data scaling laws, or datamix optimization\nLead complex technical projects end-to-end\n\nMinimum Qualifications:\n\nBachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience\n2+ years of industry research experience in LLM/NLP or related AI/ML models\nExperience as a formal technical lead, leading major technical initiatives with cross-functional impact, and/or influencing strategy across multiple teams\nPractical experience with pre-training or mid-training data curation for large foundational models and experience working with organic, synthetic, agentic, or reasoning data for LLMs\nDemonstrated data infrastructure and software background, and experience building data tooling and services\nPublished research in leading peer-reviewed conferences (e.g., NeurIPS, ICML, ICLR, ACL, EMNLP) and/or demonstrated significant industry influence in the field of AI\n\nPreferred Qualifications:\n\nExperience working on frontier-quality/state-of-the-art Large Language Models\nMasters degree or PhD in Computer Science or a related technical field\nHands-on experience with modeling frameworks like PyTorch\nHands-on experience on SQL and large-scale data handling, with familiarity of frameworks like Spark and Hive\n\nAbout Meta:\n\nMeta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.\n\nMeta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.\n\nMeta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@meta.com.\n\n$183,997/year to $257,000/year + bonus + equity + benefits\n\nIndividual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about benefits at Meta.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 9.313,
-        "city": "menlo park",
-        "latitude": 37.479731,
-        "longitude": -122.148055,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Wells Fargo",
-      "title": "AI Research Scientist, Foundation Models & Agentic AI",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484758471/",
-      "date_posted": "2026-10-28",
-      "salary": "$100,000.00 - $196,000.00",
-      "ats": "LinkedIn",
-      "description": "About This Role\n\nWells Fargo is seeking a Quantitative Analytics Specialist\n- AI Research Scientist\nfor Foundation Models & Agentic AI\nto join the Frontier AI Model Methodology team. This team plays an important role in developing and implementing methodologies, AI agents, and technology solutions that help improve and accelerate model development and validation processes across the organization.\n\nIn this role, you will support the cutting-edge applied research and development initiatives in Artificial Intelligence, with a focus on building the next generation of Foundation Models, Agentic AI solutions, and Generative AI systems.\n\nYou will contribute to the development of innovative tools and methodologies that enhance model governance, validation efficiency, and overall risk management practices.\n\nThis role offers a unique opportunity to work at the intersection of AI research and real-world financial applications that impact millions of customers.\n\nSuccess in this role requires strong analytical and technical skills, a willingness to learn emerging AI technologies, and the ability to work effectively within cross-functional teams to deliver scalable and reliable solutions.\n\nIn This Role, You Will\n\nSupport highly complex research projects in AI / Generative AI / Agentic AI / Machine Learning from ideation, experimentation, implementation, evaluation and documentation.\nSupport building the next generation of foundation models and agentic AI systems - exploration, application, and rigorous evaluation of emerging AI technologies that solve real-world challenges.\nCollaborate closely with interdisciplinary teams, including researchers, data scientists, applied engineers, and domain experts.\nTranslate research insights into impactful business solutions, open-source contributions, patents, and publications.\nContribute to building the next generation of foundation models and agentic AI systems trained / operating on large volumes of heterogeneous data - both structured and unstructured - that enhance Wells Fargo's products, services, and operations.\nPublish in top-tier AI/ML conferences and journals and represent Wells Fargo in the broader AI research community.\n\nRequired Qualifications\n\n2+ years of Quantitative Analytics experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education\nBachelor's degree or higher in statistics, mathematics, physics, engineering, computer science, economics, or quantitative discipline\n\nDesired Qualifications\n\nPhD in Computer Science, Artificial Intelligence, or a closely related computational field, or an MSc with at least 3 years of relevant applied research or industry experience.\nSolid proven research track record with publications in top-tier AI/ML conferences such as NeurIPS, ICML, ICLR, NAACL, or EMNLP, combined with a demonstrated interest in translating research into real-world applications that impact millions of customers.\nDeep expertise in one or more specialized areas, including but not limited to: Foundation Models (GPT-4, BERT, LLaMA, Claude), Large Language Models (LLMs), Large Reasoning Models, Multimodal Models, Agentic AI\nDemonstrated ability to apply GenAI / Agentic AI in the full build lifecycle - design, implementation, testing, and iteration - leveraging AI coding copilots (e.g., GitHub Copilot) and agentic coding workflows to accelerate delivery while maintaining enterprise standards\nHands-on experience with GPU infrastructure, Transformer architecture, modern AI/ML development frameworks and tools such as TensorFlow, PyTorch, Hugging Face, AWS, GCP.\nStrong engineering background with demonstrated ability to contribute to collaborative software engineering projects, including version control, code reviews, and scalable system design.\nExperience with transferring foundation models, LLMs, and agentic AI systems in production\n\nJob Expectations\n\nThis position offers a hybrid work schedule\nWillingness to work onsite at stated location on the job posting\nThis position is eligible for VISA sponsorship\n\nJob Posting Locations:\n\nThree Wells Fargo Center, CHARLOTTE, NC\n600 Wells Fargo, MINNEAPOLIS, MN\nLas Colinas Bldg B, Irving Campus, IRVING, TX\nWest Des Moines Campus, 800 S Jordan Creek Pkwy, WEST DES MOINES, IA\nD Building,114N Beaumont St -D Bldg., SAINT LOUIS, MO\n1150 W Washington, TEMPE, AZ\n333 Market, SAN FRANCISCO, CA\n\nPay Range\n\nReflected is the base pay range offered for this position. Pay may vary depending on factors including but not limited to demonstrated examples of prior performance, skills, experience, or work location. Employees may also be eligible for incentive opportunities.\n\n$100,000.00 - $196,000.00\n\nBenefits\n\nWells Fargo provides eligible employees with a comprehensive set of benefits, many of which are listed below. Visit Benefits - Wells Fargo Jobs for an overview of the following benefit plans and programs offered to employees.\n\nHealth benefits\n401(k) Plan\nPaid time off\nDisability benefits\nLife insurance, critical illness insurance, and accident insurance\nParental leave\nCritical caregiving leave\nDiscounts and savings\nCommuter benefits\nTuition reimbursement\nScholarships for dependent children\nAdoption reimbursement\n\nPosting End Date\n\n1 Nov 2026\n\nJob posting may come down early due to volume of applicants.\n\nWe Value Equal Opportunity\n\nWells Fargo is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other legally protected characteristic.\n\nEmployees support our focus on building strong customer relationships balanced with a strong risk mitigating and compliance-driven culture which firmly establishes those disciplines as critical to the success of our customers and company. They are accountable for execution of all applicable risk programs (Credit, Market, Financial Crimes, Operational, Regulatory Compliance), which includes effectively following and adhering to applicable Wells Fargo policies and procedures, appropriately fulfilling risk and compliance obligations, timely and effective escalation and remediation of issues, and making sound risk decisions. There is emphasis on proactive monitoring, governance, risk identification and escalation, as well as making sound risk decisions commensurate with the business unit’s risk appetite and all risk and compliance program requirements.\n\nApplicants With Disabilities\n\nTo request a medical accommodation during the application or interview process, visit Disability Inclusion at Wells Fargo.\n\nDrug and Alcohol Policy\n\nWells Fargo maintains a drug free workplace. Please see our Drug and Alcohol Policy to learn more.\n\nWells Fargo Recruitment And Hiring Requirements\n\nThird-Party recordings are prohibited unless authorized by Wells Fargo.\nWells Fargo requires you to directly represent your own experiences during the recruiting and hiring process.\n\nReference Number\n\nR-572466-5\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nIndustries\n\nFinancial Services, Investment Management, and Banking",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Meta",
-      "title": "Software Engineer, Multimedia & Multimodal AI",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4474441292/",
-      "date_posted": "2026-10-28",
-      "salary": "$154,003.00/yr - $217,000.00/yr",
-      "ats": "LinkedIn",
-      "description": "Applied AI (AAI) is Meta’s organization focused on making our AI models best-in-class, starting with coding. Within AAI, the Multimedia & MultiModality team covers the multimedia domain across every modality, on both the input and the output side of a model: image, video, audio, speech and music. We work directly with research, model-training and engineering partners across MSL, TBD and FAIR. Current problems include evaluating video experiences, diagnosing multimedia model behavior, producing domain-expert agent tasks, and building the data and measurement pipelines multimodal capabilities are trained and judged against.About the roleYou will take a modality or a capability area, decide what data is worth producing and how it should be measured, and carry it from an open question through to a pipeline that runs and a measurement the org relies on.This is a multimodal role, not a text-only role. You will work across image, video, audio and speech, as model inputs and as model outputs, and the data and evaluations you own will cover media, not text alone.You will choose where the pod invests, own outcomes beyond your individual contribution, set standards other engineers build against, and raise quality without becoming the review bottleneck.\n\nSoftware Engineer, Multimedia & Multimodal AI Responsibilities:\n\nDesign and build agentic workflows and pipelines, including human-in-the-loop and expert-in-the-loop designs, to automate data production and scale output past what manual authoring supports.\nDesign and own data pipelines at scale: ingestion, filtering, pseudo-labeling and captioning with attribute classifiers, and provenance tracking for audio corpora.\nBuild evaluation infrastructure: objective metrics (speaker/style similarity, codec and generator quality), human listening-test pipelines, and the correlation analysis that ties the two together.\nImprove training efficiency and reliability — distributed training, GPU utilization, codec and tokenizer retraining, experiment management.\nReproduce and extend state-of-the-art research: implement new methods from papers into our codebases and run rigorous ablations.\nMentor engineers on the team, contribute to hiring and onboarding, and raise the bar on evaluation and quality practice.\nBuild and train generative and representation models for speech, sound, and music — including text-, audio-, and video-conditioned generation, infilling, editing, and style transfer.\n\nMinimum Qualifications:\n\nBachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience\n6+ years of programming experience in a relevant language or 3+ years of experience + PhD\n3+ years building ML systems in production or research settings\nstrong Python and PyTorch\nDemonstrated experience with speech, audio, or music ML - ASR, TTS, audio codecs, music information retrieval, self-supervised audio representation learning, or audio generative modeling\nExperience with large-scale data pipelines and distributed training\nTrack record of translating research ideas into working, measurable systems\n\nPreferred Qualifications:\n\nPublications at top venues (ICASSP, Interspeech, ISMIR, NeurIPS, ICML, ICLR) in speech, audio, or music\nGenerative modeling of continuous data (diffusion / flow matching, audio or vision), and demonstrated ability to switch domains and ramp quickly\nAudio DSP depth — pitch detection, FFT, real-time signal processing\nExperience with disentangled or controllable generation (voice, emotion, style, instrumentation)\nExperience building evaluation harnesses and human-eval pipelines for generative audio\nMusic domain expertise: stem separation, mixing, lyrics/vocal conditioning\nExperience designing benchmarks or evaluations for model capability, with attention to grading reliability, reproducibility and label quality\nExperience building data pipelines for image, video, audio, speech or complex media formats, including versioning, lineage and provenance\nExperience designing AI agents, orchestration, or human-in-the-loop systems\nHands-on experience evaluating or red-teaming multimodal models, or creating the data used to improve them\nUnderstanding of Responsible AI practices and building quality controls into AI output\nExperience with zero-to-one work: forming a charter and standing up process while priorities are still moving\nDemonstrated ability to integrate AI tools to optimize/redesign workflows and drive measurable impact (e.g., efficiency gains, quality improvements)\nExperience adhering to and implementing responsible, ethical AI practices (e.g., risk assessment, bias mitigation, quality and accuracy reviews)\nDemonstrated ongoing AI skill development (e.g., prompt/context engineering, agent orchestration) and staying current with emerging AI technologies\n\nAbout Meta:\n\nMeta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.\n\nMeta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.\n\nMeta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@meta.com.\n\n$154,003/year to $217,000/year + bonus + equity + benefits\n\nIndividual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about benefits at Meta.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 9.313,
-        "city": "menlo park",
-        "latitude": 37.479731,
-        "longitude": -122.148055,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Cursor",
-      "title": "Sr. Research Engineer, Synthetic Data",
+      "company": "Amazon",
+      "title": "Principal Applied Scientist, FAIM (Full Funnel Agentic Intelligence and Models)",
       "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484772012/",
-      "date_posted": "2026-10-28",
+      "url": "https://www.linkedin.com/jobs/view/4484760988/",
+      "date_posted": "2026-10-29",
       "salary": "",
       "ats": "LinkedIn",
+      "description": "Description\n\nThe FAIM (Full Funnel Agentic Intelligence and Models) builds the agentic AI systems behind next-generation advertising. The team develops multimodal foundation models and LLM-driven agents that power shopper understanding, audience-aware creative generation, and agentic advertising workflows.\n\nAs a Principal Applied Scientist for the FAIM team, you will invent the models that help advertisers achieve desired outcomes. Today's state of the art models can setup ad campaigns to a specification, but do not understand advertising strategy well enough to help with abstract goals that real advertisers ask about like \"how can I make more money.\"\n\nThis is a rare charter to build foundational optimization science where little exists today, spanning campaign recommendation, cross-product budget allocation, incrementality measurement, and long-term-sales modeling. You will set technical direction for a growing team, partner with engineering and product to take models from research to production at Amazon scale, and directly move advertiser ROAS and new-to-brand growth.\n\nIn this role you will\n\nOwn the science vision for developing evaluations of the Ads Agent\nPartner with scientists from across Ads to develop best practices for evaluating agent performance both online and offline\nRaise the science bar for all agent evaluations developed in Ads.\nOwn establishing a data driven foundation for making decisions about when new features are ready to launch in Ads Agent.\n\nKey job responsibilities\n\nDefine the long-term scientific vision for agent evaluations in Ads\nTranslate ambiguous advertiser needs and competing objectives into a concrete science roadmap.\nInvent, prototype, and productionize machine learning and optimization solutions for joint budget allocation across sponsored ad products, spanning the shopper journey from awareness to purchase.\nDevelop rigorous approaches to incrementality measurement and long-term-sales modeling that ground optimization in true advertiser value.\nDesign and lead large-scale experiments and analyses to validate hypotheses and guide product direction.\nPartner closely with engineering and product to define technical contracts, data schemas, and serving systems that carry models into production.\nRaise the technical bar across science and engineering through mentorship, design reviews, and hands-on collaboration.\nGrow scientific talent and publish impactful research internally and at top-tier venues.\n\nBasic Qualifications\n\n5+ years of hands-on work in predictive modeling and analysis experience\nPhD in Electrical Engineering, Computer Science, Mathematics, or a related technical field\nExperience working in predictive modeling and analysis\nExperience distilling informal customer requirements into problem definitions, dealing with ambiguity and competing objectives\nExperience programming in Java, C++, Python or related language\nExperience with leading experienced scientists as well as having a record of developing junior members from academia or industry to a career track in a business environment\n\nPreferred Qualifications\n\n10+ years of relevant work in industry or academia experience\nKnowledge of problem solving, algorithm design and complexity analysis\nExperience creating novel algorithms and advancing the state of the art\nHave peer-reviewed scientific contributions in premier journals and conferences\n\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\n\nLos Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n\nThe base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.\n\nUSA, CA, Palo Alto - 228,700.00 - 309,400.00 USD annually\n\nUSA, NY, New York - 218,800.00 - 295,900.00 USD annually\n\nUSA, WA, SEATTLE - 198,900.00 - 269,000.00 USD annually\n\nCompany\n- Amazon.com Services LLC\n\nJob ID: A10591721\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
       "geography": {
         "status": "in_radius",
         "distance_miles": 6.453,
@@ -1046,180 +973,28 @@
       }
     },
     {
-      "company": "L&T Technology Services",
-      "title": "Multimodal AI Scientist",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483873799/",
-      "date_posted": "2026-10-28",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 3.522,
-        "city": "santa clara",
-        "latitude": 37.364621,
-        "longitude": -121.967973,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist, Computer Vision (PhD)",
-      "location": "Burlingame, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482554877/",
-      "date_posted": "2026-10-28",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 23.246,
-        "city": "burlingame",
-        "latitude": 37.589952,
-        "longitude": -122.363342,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Amazon Science",
-      "title": "Sr. Applied Scientist, AWS Specialists and Partner Prototyping",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482553771/",
-      "date_posted": "2026-10-28",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 3.522,
-        "city": "santa clara",
-        "latitude": 37.364621,
-        "longitude": -121.967973,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Quizlet",
-      "title": "Sr. Data Scientist",
+      "company": "Intuit",
+      "title": "Staff Data Scientist, CRM & Lifecycle Marketing",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484739546/",
-      "date_posted": "2026-10-28",
-      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/4484911508/",
+      "date_posted": "2026-10-29",
+      "salary": "$194,000 - $262,500",
       "ats": "LinkedIn",
+      "description": "Overview\n\nCome join the TurboTax CRM and Lifecycle Marketing data science team as a Staff Data Scientist. We design how Intuit engages customers across owned channels to drive retention, product engagement, and long-term customer value. Our mission is to accelerate decision-making through advanced models, causal measurement, and experimentation that address our most important customer and business challenges.\n\nThis role will be pivotal in shifting CRM from campaign-level optimization to customer journey design: defining the metrics and causal levers the business manages to, designing learning plans that resolve the highest-stakes decisions, and building the measurement and data products the lifecycle marketing organization depends on. You will operate as a senior individual contributor, partnering closely with Marketing, Product, Engineering, and Tax leadership to identify, validate, and refine strategies that move customers through behavioral milestones — not just messages — and compound into retention and lifetime value.\n\nThe ideal candidate thrives at the intersection of lifecycle marketing, causal inference, and AI-native analytics. You frame the right question before any analysis runs, with a command of the domain that others check their own framing against. This is a high-impact role where your work will directly influence how TurboTax invests in CRM, which journeys get built, and how we know they are working.\n\nResponsibilities\n\nDrive Lifecycle Marketing Strategy through Data — Frame the right question self-directed, before analysis is requested. Translate ambiguous marketing and product problems into analytical frameworks, metric trees, and testable hypotheses that alter the CRM roadmap and resource decisions. Partner with Tax leadership and the Lifecycle Marketing team to define north-star metrics, align on learning plans, and establish what success looks like at each stage of the customer journey — from re-engagement and start through completion, attach, and return the following year.\n\nCausal Measurement that Changes Business Decisions — Apply causal inference and counterfactual reasoning to isolate what actually moved a metric — campaign incrementality, journey-level lift, channel mix, halo, and retention — and change the business-area decision it feeds. Design and run experiments, quasi-experiments, holdouts, and synthetic tests when a clean A/B is not available.\n\nCross-Functional Influence — Serve as the strategic data science partner to leaders across Marketing, Product, Data Engineering, Finance, and adjacent growth teams (paid acquisition, Credit Karma, in-product messaging). Translate complex analytical findings into clear recommendations for Director- and VP-level stakeholders, and drive the work through to the decision in whatever medium lands — slack, readout, model, or working session.\n\nInsights, Journeys & Customer Value at Scale — Conduct deep-dive analyses on customer journeys, audience segments, funnel and cohort performance, and lifetime value to inform where CRM has the most leverage. Design segmentation and personalization strategies that improve targeting, reduce wasted volume, and free messaging capacity for high-value journeys. Create dashboards, visualizations, and self-serve tools — including GenAI-powered applications — so marketing and leadership can act quickly.\n\nAI-Native Measurement, Data Products & Agentic Systems — Identify, size, and prioritize AI use cases for CRM (personalization, journey orchestration, insight generation) against business value, and apply evaluation frameworks (golden datasets, LLM-as-judge with human review, synthetic tests) so non-deterministic experiences can be certified rather than shipped on vibes. Build and maintain the data products the business area and its agents depend on: prototype the data model, pipeline, and surface, then partner with engineering to harden what sticks. Automate recurring analytical bottlenecks into trusted agentic systems that stakeholders can run independently, with encoded business logic, monitoring, and a clear call on what may run without a human in the loop. Champion data hygiene, instrumentation, and decision governance across CRM reporting and campaign measurement.\n\nQualifications\n\nThe ideal candidate is a curious, self-directed data scientist with experience building scalable solutions, a deep understanding of customer behavior, and the judgment to balance statistical rigor with business speed.\n\n8+ years of experience in data science and analytics, with a track record of driving strategy and impact across a business area (CRM, lifecycle marketing, growth, retention, or equivalent); consumer subscription, fintech, or large-scale owned-channel marketing experience strongly preferred.\nDemonstrated ability to apply first-principles thinking to translate ambiguous business strategy into analytical problems at the business-area level — framing the question before analysis runs, rather than waiting for one to be handed down.\nProven success designing and interpreting complex experiments well beyond traditional A/B testing, and applying causal inference where experimentation is constrained (holdouts, quasi-experiments, incrementality, MMM or multi-touch attribution as inputs — not substitutes — for causal claims).\nDeep expertise in causal inference, customer segmentation, journey analytics, and experimentation design, with the judgment to balance statistical rigor and business considerations.\nExperience building and owning predictive models through their lifecycle (classification, regression, propensity, or similar) and being accountable for the decisions they inform, not just model accuracy.\nExperience creating reusable frameworks, methodologies, and data products that are adopted by a broader analytics and marketing community.\nFluency in SQL and a statistical programming language (Python or R); experience partnering with engineering to harden pipelines, instrumentation, and production data products.\nExceptional communication and stakeholder-influence skills, with a demonstrated ability to influence Director- and VP-level leaders across business and technical teams.\nAbility to navigate ambiguity with minimal guidance, make fast data-driven decisions (one-way vs. two-way door), and operate effectively in a fast-paced, seasonal business.\nAbility to use AI-native tools to plan, implement, and synthesize analyses across experiment readouts, quasi-experimental methods, revenue and retention deep dives, and measuring the success of journey or campaign launches. Comfort sizing AI use cases and evaluating non-deterministic systems, not only using AI as a personal productivity tool.\nBS or MS in Statistics, Mathematics, Operations Research, Computer Science, Engineering, Econometrics, or a related field (advanced degree preferred).\n\nNice to have\n\nHands-on experience with CRM platforms (e.g., Braze) and owned-channel measurement (email, push, SMS, in-app).\nExperience designing journey-level measurement (behavioral milestones, coordinated intent) alongside campaign-level operational metrics.\nFamiliarity with marketing mix models, multi-touch attribution, and when not to treat them as causal evidence.\n\nIntuit provides a competitive compensation package with a strong pay for performance rewards approach. This position may be eligible for a cash bonus, equity rewards and benefits, in accordance with our applicable plans and programs (see more about our compensation and benefits at Intuit®: Careers | Benefits). Pay offered is based on factors such as job-related knowledge, skills, experience, and work location. To drive ongoing fair pay for employees, Intuit conducts regular comparisons across categories of ethnicity and gender.\n\nThe Expected Base Pay Range For This Position Is\n\nMountain View $194,000 - $262,500\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
       "geography": {
         "status": "in_radius",
         "distance_miles": 59.936,
         "city": "san francisco",
         "latitude": 37.727239,
         "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "LinkedIn",
-      "title": "Staff Applied Scientist",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476529885/",
-      "date_posted": "2026-10-28",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 0.0,
-        "city": "sunnyvale",
-        "latitude": 37.385797,
-        "longitude": -122.026316,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Wise Skulls",
-      "title": "Senior Marketing Data Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482542703/",
-      "date_posted": "2026-10-28",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Salesforce",
-      "title": "Decision Scientist Lead",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484755048/",
-      "date_posted": "2026-10-28",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Cisco",
-      "title": "AI Data Scientist Technical Leader (Hybrid)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484759370/",
-      "date_posted": "2026-10-28",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 13.183,
-        "city": "san jose",
-        "latitude": 37.296011,
-        "longitude": -121.814552,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Walmart Global Tech",
-      "title": "(USA) Distinguished, Data Scientist",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465240795/",
-      "date_posted": "2026-10-28",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 0.0,
-        "city": "sunnyvale",
-        "latitude": 37.385797,
-        "longitude": -122.026316,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Netskope",
-      "title": "Senior Staff / Principal Machine Learning Scientist, AI Inference & Optimization",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4440383842/",
-      "date_posted": "2026-10-28",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 3.522,
-        "city": "santa clara",
-        "latitude": 37.364621,
-        "longitude": -121.967973,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
     },
     {
       "company": "SAP",
-      "title": "Principal Data & Applied Scientist – Ontologies, Knowledge Graphs & AI Research",
+      "title": "Senior Data & Applied Scientist – Ontologies, Knowledge Graphs & AI Research",
       "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482559704/",
+      "url": "https://www.linkedin.com/jobs/view/4482564555/",
       "date_posted": "2026-10-28",
       "salary": "",
       "ats": "LinkedIn",
@@ -1233,87 +1008,91 @@
       }
     },
     {
-      "company": "Amazon Science",
-      "title": "Sr. Applied Scientist, Prime Video - Personalization and Discovery Science",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482572075/",
+      "company": "Chime",
+      "title": "Senior Data Scientist, Finance & Strategy",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474420740/",
       "date_posted": "2026-10-28",
       "salary": "",
       "ats": "LinkedIn",
       "geography": {
         "status": "in_radius",
-        "distance_miles": 0.0,
-        "city": "sunnyvale",
-        "latitude": 37.385797,
-        "longitude": -122.026316,
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Amazon",
+      "title": "Principal Applied Scientist, FAIM (Full Funnel Agentic Intelligence and Models)",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484760988/",
+      "date_posted": "2026-10-29",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Description\n\nThe FAIM (Full Funnel Agentic Intelligence and Models) builds the agentic AI systems behind next-generation advertising. The team develops multimodal foundation models and LLM-driven agents that power shopper understanding, audience-aware creative generation, and agentic advertising workflows.\n\nAs a Principal Applied Scientist for the FAIM team, you will invent the models that help advertisers achieve desired outcomes. Today's state of the art models can setup ad campaigns to a specification, but do not understand advertising strategy well enough to help with abstract goals that real advertisers ask about like \"how can I make more money.\"\n\nThis is a rare charter to build foundational optimization science where little exists today, spanning campaign recommendation, cross-product budget allocation, incrementality measurement, and long-term-sales modeling. You will set technical direction for a growing team, partner with engineering and product to take models from research to production at Amazon scale, and directly move advertiser ROAS and new-to-brand growth.\n\nIn this role you will\n\nOwn the science vision for developing evaluations of the Ads Agent\nPartner with scientists from across Ads to develop best practices for evaluating agent performance both online and offline\nRaise the science bar for all agent evaluations developed in Ads.\nOwn establishing a data driven foundation for making decisions about when new features are ready to launch in Ads Agent.\n\nKey job responsibilities\n\nDefine the long-term scientific vision for agent evaluations in Ads\nTranslate ambiguous advertiser needs and competing objectives into a concrete science roadmap.\nInvent, prototype, and productionize machine learning and optimization solutions for joint budget allocation across sponsored ad products, spanning the shopper journey from awareness to purchase.\nDevelop rigorous approaches to incrementality measurement and long-term-sales modeling that ground optimization in true advertiser value.\nDesign and lead large-scale experiments and analyses to validate hypotheses and guide product direction.\nPartner closely with engineering and product to define technical contracts, data schemas, and serving systems that carry models into production.\nRaise the technical bar across science and engineering through mentorship, design reviews, and hands-on collaboration.\nGrow scientific talent and publish impactful research internally and at top-tier venues.\n\nBasic Qualifications\n\n5+ years of hands-on work in predictive modeling and analysis experience\nPhD in Electrical Engineering, Computer Science, Mathematics, or a related technical field\nExperience working in predictive modeling and analysis\nExperience distilling informal customer requirements into problem definitions, dealing with ambiguity and competing objectives\nExperience programming in Java, C++, Python or related language\nExperience with leading experienced scientists as well as having a record of developing junior members from academia or industry to a career track in a business environment\n\nPreferred Qualifications\n\n10+ years of relevant work in industry or academia experience\nKnowledge of problem solving, algorithm design and complexity analysis\nExperience creating novel algorithms and advancing the state of the art\nHave peer-reviewed scientific contributions in premier journals and conferences\n\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\n\nLos Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n\nThe base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.\n\nUSA, CA, Palo Alto - 228,700.00 - 309,400.00 USD annually\n\nUSA, NY, New York - 218,800.00 - 295,900.00 USD annually\n\nUSA, WA, SEATTLE - 198,900.00 - 269,000.00 USD annually\n\nCompany\n- Amazon.com Services LLC\n\nJob ID: A10591721\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 6.453,
+        "city": "palo alto",
+        "latitude": 37.39652,
+        "longitude": -122.143088,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
     },
     {
-      "company": "Amazon Science",
-      "title": "Data Scientist II - AMZ10564077",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482556757/",
-      "date_posted": "2026-10-28",
-      "salary": "",
+      "company": "Intuit",
+      "title": "Staff Data Scientist, CRM & Lifecycle Marketing",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484911508/",
+      "date_posted": "2026-10-29",
+      "salary": "$194,000 - $262,500",
       "ats": "LinkedIn",
+      "description": "Overview\n\nCome join the TurboTax CRM and Lifecycle Marketing data science team as a Staff Data Scientist. We design how Intuit engages customers across owned channels to drive retention, product engagement, and long-term customer value. Our mission is to accelerate decision-making through advanced models, causal measurement, and experimentation that address our most important customer and business challenges.\n\nThis role will be pivotal in shifting CRM from campaign-level optimization to customer journey design: defining the metrics and causal levers the business manages to, designing learning plans that resolve the highest-stakes decisions, and building the measurement and data products the lifecycle marketing organization depends on. You will operate as a senior individual contributor, partnering closely with Marketing, Product, Engineering, and Tax leadership to identify, validate, and refine strategies that move customers through behavioral milestones — not just messages — and compound into retention and lifetime value.\n\nThe ideal candidate thrives at the intersection of lifecycle marketing, causal inference, and AI-native analytics. You frame the right question before any analysis runs, with a command of the domain that others check their own framing against. This is a high-impact role where your work will directly influence how TurboTax invests in CRM, which journeys get built, and how we know they are working.\n\nResponsibilities\n\nDrive Lifecycle Marketing Strategy through Data — Frame the right question self-directed, before analysis is requested. Translate ambiguous marketing and product problems into analytical frameworks, metric trees, and testable hypotheses that alter the CRM roadmap and resource decisions. Partner with Tax leadership and the Lifecycle Marketing team to define north-star metrics, align on learning plans, and establish what success looks like at each stage of the customer journey — from re-engagement and start through completion, attach, and return the following year.\n\nCausal Measurement that Changes Business Decisions — Apply causal inference and counterfactual reasoning to isolate what actually moved a metric — campaign incrementality, journey-level lift, channel mix, halo, and retention — and change the business-area decision it feeds. Design and run experiments, quasi-experiments, holdouts, and synthetic tests when a clean A/B is not available.\n\nCross-Functional Influence — Serve as the strategic data science partner to leaders across Marketing, Product, Data Engineering, Finance, and adjacent growth teams (paid acquisition, Credit Karma, in-product messaging). Translate complex analytical findings into clear recommendations for Director- and VP-level stakeholders, and drive the work through to the decision in whatever medium lands — slack, readout, model, or working session.\n\nInsights, Journeys & Customer Value at Scale — Conduct deep-dive analyses on customer journeys, audience segments, funnel and cohort performance, and lifetime value to inform where CRM has the most leverage. Design segmentation and personalization strategies that improve targeting, reduce wasted volume, and free messaging capacity for high-value journeys. Create dashboards, visualizations, and self-serve tools — including GenAI-powered applications — so marketing and leadership can act quickly.\n\nAI-Native Measurement, Data Products & Agentic Systems — Identify, size, and prioritize AI use cases for CRM (personalization, journey orchestration, insight generation) against business value, and apply evaluation frameworks (golden datasets, LLM-as-judge with human review, synthetic tests) so non-deterministic experiences can be certified rather than shipped on vibes. Build and maintain the data products the business area and its agents depend on: prototype the data model, pipeline, and surface, then partner with engineering to harden what sticks. Automate recurring analytical bottlenecks into trusted agentic systems that stakeholders can run independently, with encoded business logic, monitoring, and a clear call on what may run without a human in the loop. Champion data hygiene, instrumentation, and decision governance across CRM reporting and campaign measurement.\n\nQualifications\n\nThe ideal candidate is a curious, self-directed data scientist with experience building scalable solutions, a deep understanding of customer behavior, and the judgment to balance statistical rigor with business speed.\n\n8+ years of experience in data science and analytics, with a track record of driving strategy and impact across a business area (CRM, lifecycle marketing, growth, retention, or equivalent); consumer subscription, fintech, or large-scale owned-channel marketing experience strongly preferred.\nDemonstrated ability to apply first-principles thinking to translate ambiguous business strategy into analytical problems at the business-area level — framing the question before analysis runs, rather than waiting for one to be handed down.\nProven success designing and interpreting complex experiments well beyond traditional A/B testing, and applying causal inference where experimentation is constrained (holdouts, quasi-experiments, incrementality, MMM or multi-touch attribution as inputs — not substitutes — for causal claims).\nDeep expertise in causal inference, customer segmentation, journey analytics, and experimentation design, with the judgment to balance statistical rigor and business considerations.\nExperience building and owning predictive models through their lifecycle (classification, regression, propensity, or similar) and being accountable for the decisions they inform, not just model accuracy.\nExperience creating reusable frameworks, methodologies, and data products that are adopted by a broader analytics and marketing community.\nFluency in SQL and a statistical programming language (Python or R); experience partnering with engineering to harden pipelines, instrumentation, and production data products.\nExceptional communication and stakeholder-influence skills, with a demonstrated ability to influence Director- and VP-level leaders across business and technical teams.\nAbility to navigate ambiguity with minimal guidance, make fast data-driven decisions (one-way vs. two-way door), and operate effectively in a fast-paced, seasonal business.\nAbility to use AI-native tools to plan, implement, and synthesize analyses across experiment readouts, quasi-experimental methods, revenue and retention deep dives, and measuring the success of journey or campaign launches. Comfort sizing AI use cases and evaluating non-deterministic systems, not only using AI as a personal productivity tool.\nBS or MS in Statistics, Mathematics, Operations Research, Computer Science, Engineering, Econometrics, or a related field (advanced degree preferred).\n\nNice to have\n\nHands-on experience with CRM platforms (e.g., Braze) and owned-channel measurement (email, push, SMS, in-app).\nExperience designing journey-level measurement (behavioral milestones, coordinated intent) alongside campaign-level operational metrics.\nFamiliarity with marketing mix models, multi-touch attribution, and when not to treat them as causal evidence.\n\nIntuit provides a competitive compensation package with a strong pay for performance rewards approach. This position may be eligible for a cash bonus, equity rewards and benefits, in accordance with our applicable plans and programs (see more about our compensation and benefits at Intuit®: Careers | Benefits). Pay offered is based on factors such as job-related knowledge, skills, experience, and work location. To drive ongoing fair pay for employees, Intuit conducts regular comparisons across categories of ethnicity and gender.\n\nThe Expected Base Pay Range For This Position Is\n\nMountain View $194,000 - $262,500\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
       "geography": {
         "status": "in_radius",
-        "distance_miles": 0.0,
-        "city": "sunnyvale",
-        "latitude": 37.385797,
-        "longitude": -122.026316,
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
     },
     {
-      "company": "Meta",
-      "title": "AI Research Scientist, Ads Ranking",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4474091016/",
+      "company": "SAP",
+      "title": "Senior Data & Applied Scientist – Ontologies, Knowledge Graphs & AI Research",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4482564555/",
       "date_posted": "2026-10-28",
       "salary": "",
       "ats": "LinkedIn",
       "geography": {
         "status": "in_radius",
-        "distance_miles": 0.0,
-        "city": "sunnyvale",
-        "latitude": 37.385797,
-        "longitude": -122.026316,
+        "distance_miles": 6.453,
+        "city": "palo alto",
+        "latitude": 37.39652,
+        "longitude": -122.143088,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
     },
     {
-      "company": "Zoox",
-      "title": "Senior Data Scientist - Verification & Validation",
-      "location": "Foster City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4391541133/",
+      "company": "Chime",
+      "title": "Senior Data Scientist, Finance & Strategy",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474420740/",
       "date_posted": "2026-10-28",
       "salary": "",
       "ats": "LinkedIn",
       "geography": {
         "status": "in_radius",
-        "distance_miles": 17.45,
-        "city": "foster city",
-        "latitude": 37.56482,
-        "longitude": -122.250782,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Jobverse.io",
-      "title": "AI Researcher (Ph.D.)",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484458854/",
-      "date_posted": "2026-10-28",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 19.708,
-        "city": "san mateo",
-        "latitude": 37.56031,
-        "longitude": -122.3106,
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
     }
@@ -1437,12 +1216,57 @@
         "distance_miles": null,
         "reason": "City is unknown or has multiple Census locations."
       }
+    },
+    {
+      "company": "Intuit",
+      "title": "Staff Data Scientist - Product Growh",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484915086/",
+      "date_posted": "2026-10-29",
+      "salary": "$194,000 - $262,500",
+      "ats": "LinkedIn",
+      "description": "Overview\n\nThe Global Business Solutions Group (GBSG) Product Growth team\nis dedicated to accelerating business outcomes through a data-driven, product-led approach to growth. We leverage Product-Led Growth (PLG) tactics, scalable growth loops, and rigorous experimentation to uncover and amplify the highest-impact opportunities across the product ecosystem.\n\nOur team unites exceptional talent across disciplines to execute rapid tests, conduct deep analytics, and foster cross-functional collaboration that drives both customer value and business performance.\n\nAs a Staff Data Scientist,\nyou will operate as a senior individual contributor, partnering closely with peers and leaders to identify, validate, and refine innovative growth strategies. Your expertise—especially in causal inference and advanced analytics—will be instrumental in surfacing critical insights and translating them into actionable hypotheses that fuel sustained customer and revenue growth.\n\nResponsibilities\n\nSet Technical Vision and Strategy:\n\nContribute to and help refine a data science roadmap aimed at driving product funnel optimization and scalable growth initiatives.\nApply rigorous causal inference methods, advanced statistical modeling, and machine learning techniques to turn complex data into actionable insights.\n\nDrive Deep Analytics & Experimentation\n\nDevelop an integrated view of the customer journey across various business metrics, quickly familiarizing yourself with new areas to pinpoint growth opportunities.\nDesign, implement, and analyze targeted experiments to validate hypotheses, ensuring each initiative is built on data-driven insights and sound causal analysis.\n\nCollaborate Across Functions\n\nWork closely with Product, Engineering, Design, and other cross-functional teams to translate data insights into strategic product enhancements.\nSupport ongoing improvements in instrumentation, data quality, and logging practices to enrich our analytical capabilities and understanding of customer behavior.\n\nLead By Example\n\nServe as a technical SME within the Product Growth team, championing analytical rigor and innovative problem-solving approaches.\n\nOperate With Agility And Impact\n\nRapidly assimilate diverse business metrics and data sources to uncover insights and propose high-impact hypotheses.\nBalance rigorous technical analysis with swift, iterative execution to ensure that insights are quickly transformed into effective strategies.\n\nQualifications\n\nExperience & Expertise:\n\n5+ years of experience in data science or analytics, with a proven record of applying advanced analytical methods to drive product and business growth.\nDemonstrated proficiency in causal inference techniques, statistical modeling, machine learning, and experimental design.\n\nTechnical Proficiency\n\nAdvanced skills in SQL, Python, R, and other analytical tools, with practical experience using data visualization platforms (e.g., Tableau, Power BI) to communicate insights.\nExperience with data integration and pipeline development is a plus.\n\nCross-Functional Collaboration & Leadership\n\nStrong ability to quickly understand new business areas, mastering the essential data and metrics needed for informed decision-making.\nExcellent communication and storytelling skills, with a track record of effectively influencing both technical and non-technical stakeholders through data-driven insights.\n\nMindset & Attributes\n\nA relentless focus on customer centricity, with deep empathy and a commitment to uncovering opportunities that improve customer experiences.\nAn agile, entrepreneurial mindset, capable of balancing long-term strategic initiatives with rapid, iterative experimentation.\n\nIntuit provides a competitive compensation package with a strong pay for performance rewards approach. This position may be eligible for a cash bonus, equity rewards and benefits, in accordance with our applicable plans and programs (see more about our compensation and benefits at Intuit®: Careers | Benefits). Pay offered is based on factors such as job-related knowledge, skills, experience, and work location. To drive ongoing fair pay for employees, Intuit conducts regular comparisons across categories of ethnicity and gender.\n\nThe Expected Base Pay Range For This Position Is\n\nMountain View $194,000 - $262,500\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "City is unknown or has multiple Census locations."
+      }
+    },
+    {
+      "company": "Unity",
+      "title": "Staff Applied Scientist, Ads Personalization",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4476851378/",
+      "date_posted": "2026-10-29",
+      "salary": "$172,200 - $283,900 USD",
+      "ats": "LinkedIn",
+      "description": "The opportunity\n\nAt Unity, we’re committed to building a culture that fosters collaboration and innovation. Within our fast-paced environment, we’re tackling complex challenges that drive meaningful impact for creators and users across our ecosystem.\n\nOur Gamer AI team plays a central role in this effort by developing state-of-the-art conversion rate (CVR) prediction and market price models that power our ad ranking and recommendation systems. By leveraging large-scale data and contextual signals, we continuously enhance prediction relevance and accuracy. This drives outcomes such as higher user engagement, stronger conversion performance, and better return on ad spend, helping advertisers achieve their goals while delivering a more engaging experience for users.\n\nWe are seeking a highly skilled Staff Applied Scientist to build and maintain advanced systems for understanding user behavior across applications. You will be responsible for improving ad ranking, conversion predictions, and recommendation systems, enabling richer behavioral models, smarter bidding strategies, and more effective ad performance.\n\nWhat You’ll Be Doing\n\nDesign, implement, and maintain user understanding models.\nEnsure model quality and reliability by continuously monitoring performance, calibrating predictions, and addressing data drift or delayed feedback.\nActively participate and work with other leads to set the long-term direction for the team, plan and oversee engineering designs and project execution.\nEffectively communicate complex technical concepts to non-engineering stakeholders.\n\nWhat We’re Looking For\n\nAdvanced degree (MS or Ph.D.) in Computer Science, Machine Learning, Statistics, related field, or equivalent practical experience.\n5+ years of hands-on experience building and operating large-scale Ads delivery and optimization systems.\n3+ years of experience in content understanding, behavior modeling, user profiling, and cohort analysis.\nSignificant experience in one or more general-purpose programming languages like Python, Go, Scala, C++ or similar.\nKnowledge of metric design, experimentation methodologies, and large-scale data analysis.\n\nYou might also have\n\nExperience designing and productionizing optimization algorithms in an ad serving platform and/or other marketplaces.\nExperience with state-of-the-art control systems, reinforcement learning algorithms.\n\nAdditional Information\n\nGross pay annually: $172,200 - $283,900 USD\n\nThis range reflects the anticipated base salary for this position. Beyond base salary, this role may be eligible for equity awards and participation in our company incentive plans (such as annual discretionary bonuses or sales commissions). The final offer amount will depend on several factors, including geographic location and the candidate’s relevant experience, professional background, and skill set.\n\nBenefits\n\nAt Unity, we want our team members to thrive. We offer a wide range of benefits designed to support well-being and work-life balance.\n\nPlease note: Benefits eligibility, specific offerings, and coverage vary based on the country and employment status.\n\nWhile specific benefits vary, here are some of the ways we strive to take care of our eligible team members globally: Comprehensive health, life, and disability insurance | Commute subsidy | Employee stock ownership | Competitive retirement/pension plans | Generous vacation and personal days | Support for new parents through leave and family-care programs | Office food snacks | Mental Health and Wellbeing programs and support | Employee Resource Groups | Global Employee Assistance Program | Training and development programs | Volunteering and donation matching program\n\nLife at Unity\n\nUnity [NYSE: U] is the world’s leading game engine, powering play for more than 3 billion consumers each month. The top mobile games in the world, the most played PC indie titles, the most innovative console games, and virtually all of the top XR and Web Games are developed, deployed, and grown in Unity. Unity also enables teams across industries like automotive, manufacturing, and healthcare to design, simulate, and collaborate in 3D — closing the gap between ideas and reality. For more information, please visit www.unity.com.\n\nUnity is a proud equal opportunity employer. We are committed to fostering an inclusive, innovative environment and celebrate our employees across age, race, color, ancestry, national origin, religion, disability, sex, gender identity or expression, sexual orientation, or any other protected status in accordance with applicable law. Our differences are strengths that enable us to support the growing and evolving needs of our customers, partners, and collaborators. If you have a disability that means there are preparations or accommodations we can make to help ensure you have a comfortable and positive interview experience, please fill out this form to let us know.\n\nThis position requires the incumbent to have a sufficient knowledge of English to have professional verbal and written exchanges in this language since the performance of the duties related to this position requires frequent and regular communication with colleagues and partners located worldwide and whose common language is English.\n\nThis posting is intended to fill an existing vacancy, and we are committed to providing applicants with updates throughout the hiring process in accordance with applicable law.\n\nHeadhunters and recruitment agencies may not submit resumes/CVs through this website or directly to managers. Unity does not accept unsolicited headhunter and agency resumes. Unity will not pay fees to any third-party agency or company that does not have a signed agreement with Unity.\n\nYour privacy is important to us. Please take a moment to review our Prospect and Applicant Privacy Policies. Should you have any concerns about your privacy, please contact us at DPO@unity.com.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "City is unknown or has multiple Census locations."
+      }
+    },
+    {
+      "company": "Intuit",
+      "title": "Staff Data Scientist, CRM & Lifecycle Marketing",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484918019/",
+      "date_posted": "2026-10-29",
+      "salary": "$194,000 - $262,500",
+      "ats": "LinkedIn",
+      "description": "Overview\n\nCome join the TurboTax CRM and Lifecycle Marketing data science team as a Staff Data Scientist. We design how Intuit engages customers across owned channels to drive retention, product engagement, and long-term customer value. Our mission is to accelerate decision-making through advanced models, causal measurement, and experimentation that address our most important customer and business challenges.\n\nThis role will be pivotal in shifting CRM from campaign-level optimization to customer journey design: defining the metrics and causal levers the business manages to, designing learning plans that resolve the highest-stakes decisions, and building the measurement and data products the lifecycle marketing organization depends on. You will operate as a senior individual contributor, partnering closely with Marketing, Product, Engineering, and Tax leadership to identify, validate, and refine strategies that move customers through behavioral milestones — not just messages — and compound into retention and lifetime value.\n\nThe ideal candidate thrives at the intersection of lifecycle marketing, causal inference, and AI-native analytics. You frame the right question before any analysis runs, with a command of the domain that others check their own framing against. This is a high-impact role where your work will directly influence how TurboTax invests in CRM, which journeys get built, and how we know they are working.\n\nResponsibilities\n\nDrive Lifecycle Marketing Strategy through Data — Frame the right question self-directed, before analysis is requested. Translate ambiguous marketing and product problems into analytical frameworks, metric trees, and testable hypotheses that alter the CRM roadmap and resource decisions. Partner with Tax leadership and the Lifecycle Marketing team to define north-star metrics, align on learning plans, and establish what success looks like at each stage of the customer journey — from re-engagement and start through completion, attach, and return the following year.\n\nCausal Measurement that Changes Business Decisions — Apply causal inference and counterfactual reasoning to isolate what actually moved a metric — campaign incrementality, journey-level lift, channel mix, halo, and retention — and change the business-area decision it feeds. Design and run experiments, quasi-experiments, holdouts, and synthetic tests when a clean A/B is not available.\n\nCross-Functional Influence — Serve as the strategic data science partner to leaders across Marketing, Product, Data Engineering, Finance, and adjacent growth teams (paid acquisition, Credit Karma, in-product messaging). Translate complex analytical findings into clear recommendations for Director- and VP-level stakeholders, and drive the work through to the decision in whatever medium lands — slack, readout, model, or working session.\n\nInsights, Journeys & Customer Value at Scale — Conduct deep-dive analyses on customer journeys, audience segments, funnel and cohort performance, and lifetime value to inform where CRM has the most leverage. Design segmentation and personalization strategies that improve targeting, reduce wasted volume, and free messaging capacity for high-value journeys. Create dashboards, visualizations, and self-serve tools — including GenAI-powered applications — so marketing and leadership can act quickly.\n\nAI-Native Measurement, Data Products & Agentic Systems — Identify, size, and prioritize AI use cases for CRM (personalization, journey orchestration, insight generation) against business value, and apply evaluation frameworks (golden datasets, LLM-as-judge with human review, synthetic tests) so non-deterministic experiences can be certified rather than shipped on vibes. Build and maintain the data products the business area and its agents depend on: prototype the data model, pipeline, and surface, then partner with engineering to harden what sticks. Automate recurring analytical bottlenecks into trusted agentic systems that stakeholders can run independently, with encoded business logic, monitoring, and a clear call on what may run without a human in the loop. Champion data hygiene, instrumentation, and decision governance across CRM reporting and campaign measurement.\n\nQualifications\n\nThe ideal candidate is a curious, self-directed data scientist with experience building scalable solutions, a deep understanding of customer behavior, and the judgment to balance statistical rigor with business speed.\n\n8+ years of experience in data science and analytics, with a track record of driving strategy and impact across a business area (CRM, lifecycle marketing, growth, retention, or equivalent); consumer subscription, fintech, or large-scale owned-channel marketing experience strongly preferred.\nDemonstrated ability to apply first-principles thinking to translate ambiguous business strategy into analytical problems at the business-area level — framing the question before analysis runs, rather than waiting for one to be handed down.\nProven success designing and interpreting complex experiments well beyond traditional A/B testing, and applying causal inference where experimentation is constrained (holdouts, quasi-experiments, incrementality, MMM or multi-touch attribution as inputs — not substitutes — for causal claims).\nDeep expertise in causal inference, customer segmentation, journey analytics, and experimentation design, with the judgment to balance statistical rigor and business considerations.\nExperience building and owning predictive models through their lifecycle (classification, regression, propensity, or similar) and being accountable for the decisions they inform, not just model accuracy.\nExperience creating reusable frameworks, methodologies, and data products that are adopted by a broader analytics and marketing community.\nFluency in SQL and a statistical programming language (Python or R); experience partnering with engineering to harden pipelines, instrumentation, and production data products.\nExceptional communication and stakeholder-influence skills, with a demonstrated ability to influence Director- and VP-level leaders across business and technical teams.\nAbility to navigate ambiguity with minimal guidance, make fast data-driven decisions (one-way vs. two-way door), and operate effectively in a fast-paced, seasonal business.\nAbility to use AI-native tools to plan, implement, and synthesize analyses across experiment readouts, quasi-experimental methods, revenue and retention deep dives, and measuring the success of journey or campaign launches. Comfort sizing AI use cases and evaluating non-deterministic systems, not only using AI as a personal productivity tool.\nBS or MS in Statistics, Mathematics, Operations Research, Computer Science, Engineering, Econometrics, or a related field (advanced degree preferred).\n\nNice to have\n\nHands-on experience with CRM platforms (e.g., Braze) and owned-channel measurement (email, push, SMS, in-app).\nExperience designing journey-level measurement (behavioral milestones, coordinated intent) alongside campaign-level operational metrics.\nFamiliarity with marketing mix models, multi-touch attribution, and when not to treat them as causal evidence.\n\nIntuit provides a competitive compensation package with a strong pay for performance rewards approach. This position may be eligible for a cash bonus, equity rewards and benefits, in accordance with our applicable plans and programs (see more about our compensation and benefits at Intuit®: Careers | Benefits). Pay offered is based on factors such as job-related knowledge, skills, experience, and work location. To drive ongoing fair pay for employees, Intuit conducts regular comparisons across categories of ethnicity and gender.\n\nThe Expected Base Pay Range For This Position Is\n\nMountain View $194,000 - $262,500\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "City is unknown or has multiple Census locations."
+      }
     }
   ],
   "geographic_counts": {
-    "in_radius": 54,
+    "in_radius": 58,
     "remote": 0,
-    "ambiguous": 8,
+    "ambiguous": 11,
     "outside_radius": 0
   }
 }
