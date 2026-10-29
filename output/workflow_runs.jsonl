@@ -639,3 +639,4 @@
 {"job_count": 0, "run_attempt": "1", "run_id": "40840134551", "scrape": {"raw_rows": 0, "status": "empty"}, "timestamp": "2026-10-29T08:09:56Z", "workflow": "hiringcafe"}
 {"job_count": 0, "run_attempt": "1", "run_id": "40852965925", "timestamp": "2026-10-29T09:52:01Z", "workflow": "biotech"}
 {"job_count": 93, "run_attempt": "1", "run_id": "40947795871", "scrape": {"batch": 1, "batches": 5, "queries": 32, "raw_rows": 389, "status": "success", "terms_in_batch": 8, "terms_total": 38}, "timestamp": "2026-10-29T20:23:14Z", "workflow": "linkedin"}
+{"job_count": 6, "run_attempt": "1", "run_id": "40949442155", "scrape": {"errors": 0, "queries": 25, "raw_rows": 272, "status": "success"}, "timestamp": "2026-10-29T20:29:46Z", "workflow": "indeed"}
