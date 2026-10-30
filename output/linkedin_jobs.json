@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-10-30 01:05 UTC",
-  "total": 60,
-  "new_count": 3,
+  "scraped_at": "2026-10-30 06:21 UTC",
+  "total": 66,
+  "new_count": 6,
   "scrape_status": {
     "status": "success",
-    "raw_rows": 402,
+    "raw_rows": 456,
     "queries": 32,
     "batch": 1,
     "batches": 5,
@@ -1050,18 +1050,33 @@
         "longitude": -123.032229,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
-    }
-  ],
-  "new_jobs": [
+    },
     {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Applied Scientist, AWS Agentic AI",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485274353/",
+      "company": "Mercedes-Benz Research & Development North America, Inc.",
+      "title": "Data Scientist, ADAS Analytics Machine Learning",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485284518/",
       "date_posted": "2026-10-30",
+      "salary": "$118,200 - $147,700",
+      "ats": "LinkedIn",
+      "description": "Aufgaben\n\nAt Mercedes-Benz Research & Development North America (MBRDNA), we are committed to delivering world-class automotive technologies that push the boundaries of what is possible. Our teams of highly skilled engineers and designers use cutting-edge software and technology, to enhance the driving experience and reduce environmental impact.\n\nPosition Overview\n\nAs Mercedes-Benz scales ADAS across production fleets, the US ADAS Data & Forensics team is building applied-AI capabilities that go beyond descriptive KPI reporting. These capabilities include vision-language models that analyze SSR Scene Safety Recording footage, LLM-based event classification and reasoning, embedding-based semantic retrieval over driving scenarios, automated scenario discovery, natural-language event descriptions, and model-based ranking that surfaces the most important events from thousands of daily drives. As a Data Scientist, you will develop and deploy these capabilities in production for two stakeholder groups: management, through fleet-performance summaries, trend forecasts, and AI-generated event narratives; and engineers, through granular model-assisted analysis of ADAS calibration, scenarios, edge cases, and behavioral patterns across road types, weather, firmware, and driver cohorts.\n\nRelocation assistance (domestic or international) is not provided for this position.\n\nJob Responsibilities\n\nApply vision-language models to SSR video and combine video analysis with structured telemetry to create multimodal event representations.\nBuild LLM classification and reasoning pipelines that triage events by severity and root cause and generate human-readable summaries of takeovers, safety events, and deactivations.\nDesign embedding pipelines and semantic search for similar-event retrieval, and develop unsupervised clustering methods that discover recurring scenarios and edge-case families at fleet scale.\nBuild model-based ranking and scoring systems that reduce manual event triage, develop active-learning loops using engineer feedback, and proactively detect fleet-level anomalies.\nQuantify the impact of firmware updates and configuration changes on KPIs, segment driver cohorts, and design A/B and quasi-experimental frameworks.\nAnalyze campaign effectiveness, build coverage-optimization models, and develop automated fleet-quality scoring.\nDeploy models into PySpark and Delta Lake pipelines and the FastAPI analytics API, build evaluation frameworks for foundation-model outputs, and operate on the Azure data platform, including ADLS, Synapse, and Container Apps.\n\nQualifikationen\n\nMinimum Qualifications\n\nBachelor's or Master's degree in Data Science, Machine Learning, Statistics, Computer Science, or a related quantitative field. A Master's degree or PhD is beneficial but not required; demonstrated experience carries equal weight.\n3+ years of professional experience.\n2-5 years of experience in data science or applied machine learning.\nDepth in at least one of the following: applied foundation models such as LLMs, VLMs, or embeddings; classical machine learning in production; or statistical experimentation.\nStrong Python skills using NumPy, pandas, and scikit-learn, with an emphasis on clean, testable code, and strong SQL skills.\nExperience with ML model development, including feature engineering, model selection, and evaluation on real data.\nSolid statistics knowledge, including hypothesis testing, regression, and experimental design.\nAbility to communicate findings clearly to engineers and management through reports, presentations, and dashboards.\nAbility to turn ambiguous questions into structured analytical approaches.\n\nStrongly Preferred\n\nLLM or VLM application experience, including prompt engineering, structured outputs, and evaluation.\nEmbedding models and vector similarity for retrieval or clustering.\nPySpark for large-scale processing; candidates with strong pandas experience may ramp up.\nTime-series analysis or anomaly detection.\n\nNice To Have\n\nMultimodal foundation models applied to video or image data.\nRAG or vector-database systems such as FAISS, pgvector, or Pinecone.\nSpatial or geospatial clustering with DBSCAN or HDBSCAN.\nRanking or recommendation systems, active learning, PyTorch, or TensorFlow.\nDelta Lake or Parquet; FastAPI or model-serving APIs; MLOps platforms such as MLflow or Weights & Biases.\nCloud-platform experience in Azure, AWS, or GCP.\nVehicle telemetry or automotive-domain experience; campaign analytics or A/B testing at scale.\nData privacy, including CCPA or GDPR, for vehicle data and foundation models.\nEnglish required; German is an advantage.\n\nThe successful candidate’s starting pay will be determined based on a wide range of factors, including, but not limited to, job-related education, skills, and experience, geographic location, and market conditions. The current salary range for this position is as follows and may be modified in the future: $118,200 - $147,700.\n\nThis position may involve access to export-controlled technology, hardware, or software under the Export Administration Regulations (EAR), 15 C.F.R. Parts 730-774 and possibly technical data, defense articles and defense services subject to the International Traffic in Arms Regulations (ITAR), 22 C.F.R. Parts 120-130. As such, Mercedes-Benz Research & Development North America may be required to obtain an export license or authorization in accordance with United States law.\n\nWhy should you apply?\n\nHere at MBRDNA, you create digital ecosystems around cars, you design a language between humans and machines, you make a car even more intelligent - you make the new reality for cars. MBRDNA was honored as one of the \"Best Places to Work\" by BuiltIn in January 2024, a testament to our commitment to creating an exceptional work environment. At each of our offices, we foster a culture of collaboration and continuous learning, ensuring every team member can thrive and innovate.\n\nBenefits for Full-Time* Employees Include:\n\nMedical, dental, and vision insurance for employees and their families\n401(k) with employer match\nUp to 15 company-paid holidays\nPaid time off (flexible time off for salaried employees), sick time, and parental leave\nTuition assistance program\nWellness/Fitness reimbursement programs\nInternships & Contractors excluded from Full-Time Employee benefits\n\nMBRDNA is an equal opportunity employer (EOE) and strongly supports diversity in the workforce. MBRDNA only accepts resumes from approved agencies who have a valid Agency Agreement on file. Please do not forward resumes to our applicant tracking system, MBRDNA employees, or send to any MBRDNA location. MBRDNA is not responsible for any fees or claims related to receipt of unsolicited resumes.\n\nMercedes-Benz Research and Development North America, Inc.\n\nPRIVACY NOTICE FOR CALIFORNIA RESIDENTS\n\nhttps://mbrdna.com/california-employee-privacy-notice/\n\nBenefits\n\nCoaching\n\nMit­arbeiter­rabatte möglich\n\nMit­arbeiter­handy möglich\n\nGesund­heits­maß­nahmen\n\nMobilitäts­angebote\n\nBetrieb­liche Alters­ver­sorgung\n\nBarriere­frei­heit\n\nKontaktMercedes-Benz Research & Development North America, Inc.\n\n2708 Orchard Parkway95134 San JoseDetails zum Standort\n\nMBRDNA Recruiting E-Mail: MBRDNA-talent@mercedes-benz.com\n\nBewerben\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nMotor Vehicle Manufacturing",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 13.183,
+        "city": "san jose",
+        "latitude": 37.296011,
+        "longitude": -121.814552,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Senior User Experience Researcher",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484538637/",
+      "date_posted": "2026-10-29",
       "salary": "",
       "ats": "LinkedIn",
-      "description": "Description\n\nMost AI assistants today start every conversation from scratch, forgetting what they learned yesterday about developer's codebase, patterns, and the way they like to work. Amazon Web Services (AWS) is assembling an elite team of scientists and engineers to change that, and we are hiring an Applied Scientist to build the systems that let our AI development tools accumulate knowledge over time and get genuinely better the more you use them. You will help create generative AI technologies, including Kiro IDE and CLI, that are transforming how software gets built.\n\nYou will take on some of the hardest open problems in machine learning: how a model keeps learning without forgetting what it already knew, how to store and retrieve the right memory at the right moment, and how to personalize the experience for each developer and team without starting over every time. Your work will reach millions of developers rather than sit in a paper, and you will own a research direction end to end rather than share a sliver of attention across many priorities.\n\nKey job responsibilities\n\nPush the boundaries of continual and lifelong learning for large language models specialized in code intelligence\nDesign memory-augmented architectures and retrieval mechanisms that let the assistant consolidate, recall, and personalize knowledge over time\nInvent and implement state-of-the-art machine learning solutions that operate at unprecedented Amazon scale\nDeploy products that directly impact the daily workflows of millions of developers worldwide\nPublish and present your work at premier ML and NLP conferences (NeurIPS, ICML, ICLR, ACL, EMNLP)\nAccelerate innovation by working directly with customers to rapidly transition research breakthroughs into production systems\n\nAbout The Team\n\nWhy AWS?\n\nAmazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.\n\nInclusive Team Culture\n\nHere at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon conferences, inspire us to never stop embracing our uniqueness.\n\nMentorship & Career Growth\n\nWe’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.\n\nWork/Life Balance\n\nWe value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.\n\nHybrid Work\n\nWe value innovation and recognize this sometimes requires uninterrupted time to focus on a build. We also value in-person collaboration and time spent face-to-face. Our team affords employees options to work in the office every day or in a flexible, hybrid work model near one of our U.S. Amazon offices.\n\nBasic Qualifications\n\n3+ years of building models for business application experience\nPhD, or Master's degree and 4+ years of CS, CE, ML or related field experience\nExperience in patents or publications at top-tier peer-reviewed conferences or journals\nExperience programming in Java, C++, Python or related language\nExperience in any of the following areas: algorithms and data structures, parsing, numerical optimization, data mining, parallel and distributed computing, high-performance computing\n\nPreferred Qualifications\n\nExperience using Unix/Linux\nExperience in professional software development\n\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\n\nLos Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n\nThe base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.\n\nUSA, CA, Santa Clara - 171,600.00 - 222,200.00 USD annually\n\nCompany\n- Amazon Web Services, Inc.\n\nJob ID: A10592683\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting",
       "geography": {
         "status": "in_radius",
         "distance_miles": 3.522,
@@ -1072,14 +1087,13 @@
       }
     },
     {
-      "company": "Amazon",
-      "title": "Applied Scientist, Amazon Robotics",
+      "company": "Amazon Science",
+      "title": "Principal Applied Scientist, Real-Time Conversational AI , AGI",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485276357/",
-      "date_posted": "2026-10-30",
+      "url": "https://www.linkedin.com/jobs/view/4483087608/",
+      "date_posted": "2026-10-29",
       "salary": "",
       "ats": "LinkedIn",
-      "description": "Description\n\nAmazon Robotics is seeking an exceptional Applied Scientist to join our Foundation Models and Agentic AI team. This role presents an opportunity to shape the future of robotics through innovative applications of large vision-language-action (VLA) models, reasoning and task planning models, and reinforcement learning.\n\nAt Amazon Robotics, we leverage advanced robotics, machine learning, and artificial intelligence to solve complex operational challenges at unprecedented scale. Our fleet of robots operates across hundreds of facilities worldwide, working in sophisticated coordination to fulfill our mission of customer excellence.\n\nWe are pioneering the development of robotics foundation models that:\n\nEnable unprecedented generalization across diverse tasks\nIntegrate multi-modal learning capabilities (visual, depth, force, tactile, linguistic)\nAccelerate policy skill acquisition through imitation learning and reinforcement learning\nEnhance robotic perception and environmental understanding\nStreamline development processes through reusable capabilities\n\nThe ideal candidate will contribute to research that bridges the gap between theoretical advancement and practical implementation in robotics. You will be part of a team that's revolutionizing how robots learn, adapt, and interact with their environment.\n\nJoin us in building the next generation of intelligent robotics systems that will transform the future of automation and human-robot collaboration.\n\nKey job responsibilities\n\nAs an Applied Scientist in the Applied AI and Robotics Foundations Model team, you will:\n\nModel Development and Training: Designing and implementing the model architectures, training and fine tuning the foundation models using various datasets, and optimize the model performance through iterative experiments\nData Management: Process and prepare training data, including data governance, provenance tracking, data quality checks and creating reusable data pipelines.\nExperimentation and Validation: Design and execute experiments to test model capabilities on the simulator and on the embodiment, validate performance across different scenarios, create a baseline and iteratively improve model performance.\nCode Development: Write clean, maintainable, well commented and documented code, contribute to training infrastructure, create tools for model evaluation and testing, and implement necessary APIs\nResearch: Stay current with latest developments in foundation models and robotics, assist in literature reviews and research documentation, prepare technical reports and presentations, and contribute to research discussions and brainstorming sessions.\nCollaboration: Work closely with senior scientists, engineers, and leaders across multiple teams, participate in knowledge sharing, support integration efforts with robotics hardware teams, and help document best practices and methodologies.\n\nA day in the life\n\nAmazon offers a full range of benefits that support you and eligible family members, including domestic partners and their children. Benefits can vary by location, the number of regularly scheduled hours you work, length of employment, and job status such as seasonal or temporary employment.\n\nThe benefits that generally apply to regular, full-time employees include:\n\nMedical, Dental, and Vision Coverage\nMaternity and Parental Leave Options\nPaid Time Off (PTO)\n401(k) Plan\n\nIf you are not sure that every qualification on the list above describes you exactly, we'd still love to hear from you!\n\nAt Amazon, we value people with unique backgrounds, experiences, and skillsets. If you’re passionate about this role and want to make an impact on a global scale, please apply!\n\nAbout The Team\n\nAre you inspired by invention? Is problem solving through teamwork in your DNA? Do you like the idea of seeing how your work impacts the bigger picture? Answer yes to any of these and you’ll fit right in here at Amazon Robotics. We are a smart, collaborative team of enthusiastic doers that work passionately to apply innovative advances in robotics and software to solve real-world challenges that will transform our customers’ experiences in ways we can’t even image yet. We invent new improvements every day. We are Amazon Robotics and we will give you the tools and support you need to invent with us in ways that are rewarding, fulfilling and fun.\n\nBasic Qualifications\n\nCurrently has, or is in the process of obtaining, a PhD in computer science, machine learning, engineering, or related fields\nHave publications at top-tier peer-reviewed conferences or journals\nExperience programming in Java, C++, Python or related language\nMaster's degree\nExperience building machine learning models or developing algorithms for business application\n\nPreferred Qualifications\n\nExperience in state-of-the-art deep learning models architecture design and deep learning training and optimization and model pruning\nExperience applying theoretical models in an applied environment\n\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\n\nLos Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n\nThe base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.\n\nUSA, CA, Sunnyvale - 157,300.00 - 212,800.00 USD annually\n\nCompany\n- Amazon.com Services LLC\n\nJob ID: A10593026\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
       "geography": {
         "status": "in_radius",
         "distance_miles": 0.0,
@@ -1090,20 +1104,158 @@
       }
     },
     {
-      "company": "Dscout",
-      "title": "AI Research Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485242742/",
+      "company": "Enigma",
+      "title": "AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484545246/",
       "date_posted": "2026-10-29",
       "salary": "",
       "ats": "LinkedIn",
-      "description": "At Dscout, we're building the most flexible and powerful UX research platform on the market—trusted by the world's top brands in finance (JP Morgan Chase, Intuit, Charles Schwab, PayPal), healthcare (Aya, Headspace), consumer goods (Keen, Verizon, Target, Northface), and tech (Google, Amazon, Facebook, Meta, Spotify, AirBnB). Our tools help teams deeply understand the humans behind their products, so they can build better ones. We are expanding our smart and driven team and would love for you to join us.\n\nDscout AI Training & Evals\n\nDscout AI Training & Evals builds human data and evals that show whether AI works for real people. For ten years Dscout has captured how people behave in real context, with consent and scientific rigor. AI Training & Evals points that engine at AI: consented human behavior and judgment, turned into the training data, evals, and benchmarks AI teams trust.\n\nCapability has outrun trust. Models ace benchmarks and still surprise people in the wild. A benchmark says how capable a model is. It does not say whether the model works for the person using it, across weeks, in the mess of real life. That gap is where we work.\n\nWe serve AI researchers, the product builders who ship alongside them, and the research teams who partner with both. We are a new unit inside an established company: live customers, a mature platform (React, Elixir, Python, Swift, Kotlin; SOC 2 and HITRUST certified), a small senior team, and room to build. We work AI-native. Agents write code, evals gate changes, and we aim to do in months what used to take years.\n\nA note from our Chief AI Officer & GM. The questions that matter most about AI are not answered by a bigger leaderboard. Does a model work for a real person across three weeks of real use? Does a rubric measure what it claims? Does an AI judge agree with the people it stands for? We have a decade of methods for studying people in real context, and we will publish our methods and benchmarks so the field can check our work. Join us to do rigorous science that matters.\n\nWhy this seat\n\nWork on a problem the field has not solved: measuring whether AI works for real people, over real time.\nStudy something most evals do not have: real participants, doing real tasks in their own context.\nOwn the benchmark. You are founding it, not joining a team that has one.\nPublish. Methods and benchmarks go to the research community, with first authorship on the benchmark.\nJoin a small senior team with direct access to the Head of AI Research and the GM.\nJob Description\n\nThis is a research-first role focused on questions where the right rubric, benchmark, or method does not yet exist. You will find the gaps, propose bold directions, and take projects from first hypothesis through experiments and benchmark construction to publication. You will also build: the science has to run inside live customer programs.\n\nWhat you will do\n\nRubrics and QA science\n\nDesign rubrics and test whether they measure what they claim: validity, reliability, and sensitivity.\nMeasure how reliable human raters are, and when disagreement is noise versus real signal.\nCalibrate AI judges against real human judgment, and study when they drift away from it.\nBuild quality signals that put evidence behind every data point we ship.\n\nLong-horizon, real-user benchmarks\n\nDesign Dscout's first benchmark: real users, in real context, over long horizons. Multi-week tasks across tools, not one-shot prompts.\nDefine the protocol, task design, scoring, and release. Work with our delivery team on fieldwork.\nWork out how to keep a living benchmark honest over time: drift, contamination, difficulty, and what counts as a meaningful change.\nWrite the paper and own the public release.\n\nHuman judgment as training and eval signal\n\nStudy when real-world human feedback improves a model and when it adds noise.\nExplore how preference and judgment data from representative people differ from expert data.\nTurn findings into methods our forward deployed engineers and delivery team can run in the field.\n\nNew research directions\n\nThese areas are the core, not the whole list. You will have significant latitude to propose new programs, such as calibrating user simulations against real behavior, human-AI collaboration, and behavioral evaluation of agents.\nCo-author with outside labs and academics on studies that need real-user data. Help run our paper-reading group.\n\nA good first year\n\nA QA and rubric framework running on live customer programs, with documented validity.\nBenchmark v0 released, with a paper submitted to a top venue.\nAt least one external team using or citing our work.\nDelivery colleagues using your methods without needing you in the room.\n\nHow we will hire:\na conversation with the Head of AI Research; a research talk on a project you led; a design exercise (how would you validate a rubric for a long-horizon task?); a conversation with the GM, forward deployed engineers, and delivery partners.\n\nRequirements\n\nWhat we care about most.\nA strong publication record helps. We care most about whether you can find the question that matters, design a rigorous way to answer it, and move fast enough that the answer is still useful.\n\nWhat you bring\n\nPublished research, or strong preprints and workshop papers, in evals, preference learning, reward modeling, human-AI interaction, measurement, or agent evaluation.\nA PhD, a PhD in progress, or an MS with two or more strong research internships at labs or top industry groups. If you do not have advanced degrees but have a history of creative machine learning research work, this is just as desirable.\nStrong applied statistics: inter-rater reliability, confidence intervals, power, and a nose for when a metric misleads.\nHands-on experience with LLM-as-judge, rubric-based evaluation, and preference data.\nStrong Python, and the ability to build research prototypes and evaluation pipelines other people run. You use AI coding tools as a real part of your workflow.\nExperience running experiments on messy human data, not only curated datasets.\nClear technical writing, and the ability to explain your work to a lab researcher and to a product manager.\nBased in the Bay Area.\n\nNice to have:\nlong-horizon or agentic evaluation work; psychometrics, item response theory, or human-subjects research; open-source benchmark or dataset contributions.\n\nCompensation:\n$250-400K OTE + Equity.\nIncludes a built-in bonus and equity program, publication freedom, a conference budget, flexible PTO, 15 holidays, 12 weeks of paid parental leave, 401k match, and an education stipend.\n\nThis is an ideal list. If the role excites you and you do not check every box, we would still love to hear from you.\n\nOf course, what is outlined above is an ideal set of expectations; however, business needs and other projects and tasks may shift, and additional tasks could be assigned at the discretion of your manager.\n\nAbout Dscout\n\nDscout is a team of passionate, empathetic, and curious professionals. As a recognized leader in the Forrester Wave, we're at the cutting edge of experience research technology. The power of research drives us - how in-context insights from real people can build more enjoyable products and services.\n\nWe prioritize learning, sharing, and building. We also deeply value being a diverse and inclusive team and company and look for team members who align with that belief. Join our dynamic team and help shape product roadmaps and business strategies for the world's most loved brands.\n\nIt doesn't stop there. When you join the Dscout team, you will get:\n\nA strong and competitive compensation package with a built-in bonus and equity program.\nAn incredible and progressive benefits package (for both you and your dependents) to support work/life balance, including flexible PTO, 15 company holidays, 12 weeks of paid parental leave, 401k match, and much more.\nAn education stipend to support your growth & development, and a remote work stipend.\nA company that is open and transparent with our team. You will know what is happening and why it matters.\n\nDscout is an equal-opportunity employer that values diversity. We do not discriminate based on identity, including race, color, religion, national origin or ancestry, sex, gender identity and expression, age, physical or mental disability, pregnancy, veteran or military status, unfavorable discharge from military service, genetic information, sexual orientation, marital status, order of protection status, citizenship status, arrest record or expunged or sealed convictions, or any other legally recognized protected basis under federal, state, or local law.\n\nIf you need reasonable accommodations for any part of the employment process, please email us at accommodations@dscout.com with the nature of your request and your contact information. We'll do everything possible to ensure you're well-prepared for success during our interview process, while also upholding your privacy, including accommodating any special requests. Please note that only inquiries regarding requests for reasonable accommodation will be responded to from this email address.\n\nWhen you apply at Dscout, we will process your job applicant data, including your employment and education history, transcript, writing samples, and references, as necessary to consider your job application for open positions. For more information about our privacy practices, please visit our Privacy Policy.\n\nDscout participates in the E-Verify program in certain locations, as required by law.\n\nLocation Flexibility:\nDscout is proud to support a remote-first workforce and enable employees to work from almost anywhere. At this time, however, we are unable to hire in the following locations: Montana, Hawaii, Alaska, and Washington DC.\n\nNOTE: DSCOUT NEVER CONTACTS JOB APPLICANTS VIA TEXT, MESSENGER, OR OTHER SIMILAR APPLICATIONS. BE AWARE OF PHISHING AND SPOOFING SCAMS, BOTH VIA TEXT AND EMAIL. ONLY RESPOND TO EMAILS FROM DSCOUT.COM\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
       "geography": {
         "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
+        "distance_miles": 13.183,
+        "city": "san jose",
+        "latitude": 37.296011,
+        "longitude": -121.814552,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Enigma",
+      "title": "Senior Research Engineer | Senior Research Scientist | World Models | Diffusion Models | Multimodal AI | Hybrid, Palo Alto",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484563449/",
+      "date_posted": "2026-10-29",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 6.453,
+        "city": "palo alto",
+        "latitude": 37.39652,
+        "longitude": -122.143088,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Tempus AI",
+      "title": "Senior Data Scientist, RWD Analytics",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484542957/",
+      "date_posted": "2026-10-29",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 13.625,
+        "city": "redwood city",
+        "latitude": 37.515274,
+        "longitude": -122.213672,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Mercedes-Benz Research & Development North America, Inc.",
+      "title": "Data Scientist, ADAS Analytics Machine Learning",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485284518/",
+      "date_posted": "2026-10-30",
+      "salary": "$118,200 - $147,700",
+      "ats": "LinkedIn",
+      "description": "Aufgaben\n\nAt Mercedes-Benz Research & Development North America (MBRDNA), we are committed to delivering world-class automotive technologies that push the boundaries of what is possible. Our teams of highly skilled engineers and designers use cutting-edge software and technology, to enhance the driving experience and reduce environmental impact.\n\nPosition Overview\n\nAs Mercedes-Benz scales ADAS across production fleets, the US ADAS Data & Forensics team is building applied-AI capabilities that go beyond descriptive KPI reporting. These capabilities include vision-language models that analyze SSR Scene Safety Recording footage, LLM-based event classification and reasoning, embedding-based semantic retrieval over driving scenarios, automated scenario discovery, natural-language event descriptions, and model-based ranking that surfaces the most important events from thousands of daily drives. As a Data Scientist, you will develop and deploy these capabilities in production for two stakeholder groups: management, through fleet-performance summaries, trend forecasts, and AI-generated event narratives; and engineers, through granular model-assisted analysis of ADAS calibration, scenarios, edge cases, and behavioral patterns across road types, weather, firmware, and driver cohorts.\n\nRelocation assistance (domestic or international) is not provided for this position.\n\nJob Responsibilities\n\nApply vision-language models to SSR video and combine video analysis with structured telemetry to create multimodal event representations.\nBuild LLM classification and reasoning pipelines that triage events by severity and root cause and generate human-readable summaries of takeovers, safety events, and deactivations.\nDesign embedding pipelines and semantic search for similar-event retrieval, and develop unsupervised clustering methods that discover recurring scenarios and edge-case families at fleet scale.\nBuild model-based ranking and scoring systems that reduce manual event triage, develop active-learning loops using engineer feedback, and proactively detect fleet-level anomalies.\nQuantify the impact of firmware updates and configuration changes on KPIs, segment driver cohorts, and design A/B and quasi-experimental frameworks.\nAnalyze campaign effectiveness, build coverage-optimization models, and develop automated fleet-quality scoring.\nDeploy models into PySpark and Delta Lake pipelines and the FastAPI analytics API, build evaluation frameworks for foundation-model outputs, and operate on the Azure data platform, including ADLS, Synapse, and Container Apps.\n\nQualifikationen\n\nMinimum Qualifications\n\nBachelor's or Master's degree in Data Science, Machine Learning, Statistics, Computer Science, or a related quantitative field. A Master's degree or PhD is beneficial but not required; demonstrated experience carries equal weight.\n3+ years of professional experience.\n2-5 years of experience in data science or applied machine learning.\nDepth in at least one of the following: applied foundation models such as LLMs, VLMs, or embeddings; classical machine learning in production; or statistical experimentation.\nStrong Python skills using NumPy, pandas, and scikit-learn, with an emphasis on clean, testable code, and strong SQL skills.\nExperience with ML model development, including feature engineering, model selection, and evaluation on real data.\nSolid statistics knowledge, including hypothesis testing, regression, and experimental design.\nAbility to communicate findings clearly to engineers and management through reports, presentations, and dashboards.\nAbility to turn ambiguous questions into structured analytical approaches.\n\nStrongly Preferred\n\nLLM or VLM application experience, including prompt engineering, structured outputs, and evaluation.\nEmbedding models and vector similarity for retrieval or clustering.\nPySpark for large-scale processing; candidates with strong pandas experience may ramp up.\nTime-series analysis or anomaly detection.\n\nNice To Have\n\nMultimodal foundation models applied to video or image data.\nRAG or vector-database systems such as FAISS, pgvector, or Pinecone.\nSpatial or geospatial clustering with DBSCAN or HDBSCAN.\nRanking or recommendation systems, active learning, PyTorch, or TensorFlow.\nDelta Lake or Parquet; FastAPI or model-serving APIs; MLOps platforms such as MLflow or Weights & Biases.\nCloud-platform experience in Azure, AWS, or GCP.\nVehicle telemetry or automotive-domain experience; campaign analytics or A/B testing at scale.\nData privacy, including CCPA or GDPR, for vehicle data and foundation models.\nEnglish required; German is an advantage.\n\nThe successful candidate’s starting pay will be determined based on a wide range of factors, including, but not limited to, job-related education, skills, and experience, geographic location, and market conditions. The current salary range for this position is as follows and may be modified in the future: $118,200 - $147,700.\n\nThis position may involve access to export-controlled technology, hardware, or software under the Export Administration Regulations (EAR), 15 C.F.R. Parts 730-774 and possibly technical data, defense articles and defense services subject to the International Traffic in Arms Regulations (ITAR), 22 C.F.R. Parts 120-130. As such, Mercedes-Benz Research & Development North America may be required to obtain an export license or authorization in accordance with United States law.\n\nWhy should you apply?\n\nHere at MBRDNA, you create digital ecosystems around cars, you design a language between humans and machines, you make a car even more intelligent - you make the new reality for cars. MBRDNA was honored as one of the \"Best Places to Work\" by BuiltIn in January 2024, a testament to our commitment to creating an exceptional work environment. At each of our offices, we foster a culture of collaboration and continuous learning, ensuring every team member can thrive and innovate.\n\nBenefits for Full-Time* Employees Include:\n\nMedical, dental, and vision insurance for employees and their families\n401(k) with employer match\nUp to 15 company-paid holidays\nPaid time off (flexible time off for salaried employees), sick time, and parental leave\nTuition assistance program\nWellness/Fitness reimbursement programs\nInternships & Contractors excluded from Full-Time Employee benefits\n\nMBRDNA is an equal opportunity employer (EOE) and strongly supports diversity in the workforce. MBRDNA only accepts resumes from approved agencies who have a valid Agency Agreement on file. Please do not forward resumes to our applicant tracking system, MBRDNA employees, or send to any MBRDNA location. MBRDNA is not responsible for any fees or claims related to receipt of unsolicited resumes.\n\nMercedes-Benz Research and Development North America, Inc.\n\nPRIVACY NOTICE FOR CALIFORNIA RESIDENTS\n\nhttps://mbrdna.com/california-employee-privacy-notice/\n\nBenefits\n\nCoaching\n\nMit­arbeiter­rabatte möglich\n\nMit­arbeiter­handy möglich\n\nGesund­heits­maß­nahmen\n\nMobilitäts­angebote\n\nBetrieb­liche Alters­ver­sorgung\n\nBarriere­frei­heit\n\nKontaktMercedes-Benz Research & Development North America, Inc.\n\n2708 Orchard Parkway95134 San JoseDetails zum Standort\n\nMBRDNA Recruiting E-Mail: MBRDNA-talent@mercedes-benz.com\n\nBewerben\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nMotor Vehicle Manufacturing",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 13.183,
+        "city": "san jose",
+        "latitude": 37.296011,
+        "longitude": -121.814552,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Senior User Experience Researcher",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484538637/",
+      "date_posted": "2026-10-29",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 3.522,
+        "city": "santa clara",
+        "latitude": 37.364621,
+        "longitude": -121.967973,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon Science",
+      "title": "Principal Applied Scientist, Real-Time Conversational AI , AGI",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4483087608/",
+      "date_posted": "2026-10-29",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Enigma",
+      "title": "AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484545246/",
+      "date_posted": "2026-10-29",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 13.183,
+        "city": "san jose",
+        "latitude": 37.296011,
+        "longitude": -121.814552,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Enigma",
+      "title": "Senior Research Engineer | Senior Research Scientist | World Models | Diffusion Models | Multimodal AI | Hybrid, Palo Alto",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484563449/",
+      "date_posted": "2026-10-29",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 6.453,
+        "city": "palo alto",
+        "latitude": 37.39652,
+        "longitude": -122.143088,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Tempus AI",
+      "title": "Senior Data Scientist, RWD Analytics",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484542957/",
+      "date_posted": "2026-10-29",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 13.625,
+        "city": "redwood city",
+        "latitude": 37.515274,
+        "longitude": -122.213672,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
     }
@@ -1316,12 +1468,56 @@
         "distance_miles": null,
         "reason": "City is unknown or has multiple Census locations."
       }
+    },
+    {
+      "company": "KI people",
+      "title": "Artificial Intelligence Research Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4485294727/",
+      "date_posted": "2026-10-30",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "We are looking for a AI Research Engineer\nto work on hybrid mode in San Francisco Bay, USA\nfor a global project with stability and growth in the short, medium and long term.\n\nRole Overview:\n\nThe applied AI arm of a fast-growing, YC-backed AI-native application security company, a top 10 finalist in a major cybersecurity startup competition. The team builds honeypot environments and evals that catch frontier AI models reward hacking, lying and sandbagging, and frontier labs use them to test and train their models and to measure their own AI control measures.\n\nAs a AI Research Engineer you own an environment end to end; ideation, finding the hacks, grader iteration, measurement and refinement, mostly by directing AI agents and judging when their work is subtly wrong.\n\nStrong generalist software engineer with a genuine, long-standing commitment to AI alignment and existential risk, ideally active in the AI safety community (LessWrong, MATS, SPAR, ARENA, BlueDot, eval or safety orgs), RL or eval infrastructure is a plus.\n\nWhat they will do:\n\nAuthor long-horizon environments that elicit misaligned behavior (reward hacking, deception, sandbagging) from frontier AI models.\nOwn the full environment process: ideation, hack identification, grader iteration, measurement and refinement.\nDirect AI agents efficiently, review their work and make the design calls they cannot make.\nMaintain and improve the software used to isolate and measure these behaviors.\nPick up new domains quickly, since every environment is different.\n\nRequirements:\n\nVery strong generalist software engineering ability, with proof of work (standout companies, projects or open source).\nDemonstrated, long-standing interest in AI alignment and existential risk from advanced AI (not only AI misuse, security or reliability).\n1+ years as a software engineer, Python.\nComfortable owning a project end to end and picking up new domains fast.\nStrong conceptual and moral reasoning.\n\nNice to have:\n\nRL environment or eval infrastructure experience.\nAI safety community involvement (LessWrong / Alignment Forum, MATS, SPAR, ARENA, BlueDot)\n\nProcess:\n\nRecruiter screen → intro call with a founder (30 min) → take-home building an environment, or a one-day work trial in San Francisco (or remote equivalent) → offer.\n\nOffer:\n\nPayroll\nSuperior Benefits\nDirect hire by client\nMulticultural Projects\nSan Francisco hybrid position, open to relocation and visa sponsorship.\n\nIf you are looking for a new professional challenge, this is a good opportunity, let's talk about your next professional experience.\n\nShow more\n\nShow less\n\nSeniority level\n\nEntry level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nHuman Resources Services",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "An unambiguous city and state are required."
+      }
+    },
+    {
+      "company": "Air",
+      "title": "Forward Deployed UX Researcher",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4484524831/",
+      "date_posted": "2026-10-29",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Company Description\n\nAir is the leader in Enterprise Readiness. Our mission is to establish readiness as a real-time condition that is continuously achieved. Today, a dangerous Readiness Gap exists between what the front line needs and what is delivered. Our AI-native platform, Air Enterprise Readiness, aligns development, production, delivery, and sustainment into one coordinated execution system for government agencies and industrial suppliers. By revealing true capacity, exposing real constraints, coordinating resources, and executing at the speed of operational demands, the front line gets what it needs to succeed.\n\nJob Description\n\nAs a Forward Deployed UX Researcher/Designer, you will embed directly with our customers in the field to understand in detail their mission and how they evaluate continuous readiness. You will do that through a deep understanding of the end-user's jobs, problems, needs, and friction to achieve their goals. You turn this understanding into a product direction and work with other forward-deployed roles to design and develop innovative AI-native solutions to create a 10x better way of satisfying customer needs, instantly. . This is a highly collaborative, fast-paced, customer-facing role where you own the discovery work end-to-end—from framing the question to delivering insights that direct what we deliver.\n\nTo succeed in this role, you are a curious and rigorous problem solver who values outcomes over process, exercises exceptional judgment when balancing competing priorities, and thrives in ambiguous, high-stakes, empowered environments.\n\nThis role is a full-time position located out of our office in Arlington, VA / Pittsburgh, PA / San Francisco, CA / Anywhere in the US.\n\nThis role may require up to 75% travel.\n\nScope of Responsibilities\n\nPartner with other forward-deployed roles (engineers, data scientists) to scope research, frame hypotheses, and translate findings into 0-to-1 product initiatives and prototypes.\nRun fast, pragmatic research: contextual inquiry, interviews, usability sessions, and concept tests against working prototypes.\nAssess, prioritize, and help correct the most important gaps in solutions under development based on what you hear from users.\nSynthesize quickly, share insights early, and iterate—learn fast, adjust, and go again.\nWork with core platform researchers, designers, and product managers to distill what’s customer-specific and what needs to become part of our core offering.\n\nQualifications\n\nU.S. Citizenship is required\n\nRequired Skills\n\nBachelor’s degree in Human-Computer Interaction, Psychology, Design, a related field, or equivalent practical experience.\nWorked in a startup or entrepreneurial environment.\nExperience conducting applied UX or product research in a professional setting, including planning studies and synthesizing findings independently.\nStrong command of qualitative methods (interviews, contextual inquiry, usability testing) and comfort with mixed-methods work.\nAbility to work independently with minimal supervision and a strong desire to work in a challenging, fast-paced environment.\nExcellent communication skills—able to tell a clear, compelling story with research and influence cross-functional partners.\nExperience in AIND to generate prototypes and validate\n\nDesired Skills\n\nA current U.S. security clearance, or the ability to obtain one with Air’s sponsorship.\nExperience researching complex, domain-heavy, or enterprise software, ideally in defense, government, or other regulated settings.\nExperience working within the boundaries of a federally accredited software environment.\nExperience in a customer-facing, consulting, or embedded role.\n\nWe firmly believe that past performance is the best indicator of future performance. If you thrive while building solutions to complex problems, are a self-starter, and are passionate about making an impact in global security, we’re eager to hear from you.\n\nAir is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans status or any other characteristic protected by law.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "An unambiguous city and state are required."
+      }
+    },
+    {
+      "company": "Google",
+      "title": "Senior Research Scientist, Beam",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484573750/",
+      "date_posted": "2026-10-29",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "City is unknown or has multiple Census locations."
+      }
     }
   ],
   "geographic_counts": {
-    "in_radius": 60,
+    "in_radius": 66,
     "remote": 0,
-    "ambiguous": 14,
+    "ambiguous": 17,
     "outside_radius": 0
   }
 }
