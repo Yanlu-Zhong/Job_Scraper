@@ -657,3 +657,4 @@
 {"job_count": 13, "run_attempt": "1", "run_id": "41013192639", "scrape": {"errors": 0, "queries": 25, "raw_rows": 343, "status": "success"}, "timestamp": "2026-10-30T06:22:10Z", "workflow": "indeed"}
 {"job_count": 12, "run_attempt": "1", "run_id": "41014338289", "scrape": {"errors": 0, "queries": 25, "raw_rows": 345, "status": "success"}, "timestamp": "2026-10-30T06:29:38Z", "workflow": "indeed"}
 {"job_count": 0, "run_attempt": "1", "run_id": "41017328150", "scrape": {"errors": 0, "queries": 25, "raw_rows": 0, "status": "empty"}, "timestamp": "2026-10-30T07:00:17Z", "workflow": "glassdoor"}
+{"job_count": 74, "run_attempt": "1", "run_id": "41018063860", "scrape": {"batch": 2, "batches": 5, "queries": 32, "raw_rows": 420, "status": "success", "terms_in_batch": 8, "terms_total": 38}, "timestamp": "2026-10-30T07:16:39Z", "workflow": "linkedin"}

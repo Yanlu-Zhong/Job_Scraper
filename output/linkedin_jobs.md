@@ -1,29 +1,38 @@
 # 🔥 LinkedIn — AI · Language · Human Research Roles
-*Last updated: 2026-10-30 06:21 UTC*
+*Last updated: 2026-10-30 07:16 UTC*
 
-**6 new role(s)** since last run · 66 total in last 24h
+**8 new role(s)** since last run · 74 total in last 24h
 
-### [Data Scientist, ADAS Analytics Machine Learning](https://www.linkedin.com/jobs/view/4485284518/) — Mercedes-Benz Research & Development North America, Inc.
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $118,200 - $147,700
+### [Research Scientist, Life Sciences (Large Molecules, Antibody Design)](https://www.linkedin.com/jobs/view/4484818019/) — Anthropic
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $300,000—$320,000 USD
 - 🕒 **Posted:** 2026-10-30
 
-### [Senior User Experience Researcher](https://www.linkedin.com/jobs/view/4484538637/) — ServiceNow
+### [Project Perseus | Speech & Voice AI Analyst - German Speakers](https://www.linkedin.com/jobs/view/4406259599/) — Welocalize
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $28.00/hr - $28.00/hr
+- 🕒 **Posted:** 2026-10-30
+
+### [Applied Scientist, AWS Agentic AI](https://www.linkedin.com/jobs/view/4485269507/) — Amazon Web Services (AWS)
 - 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-10-30
+
+### [Member of Technical Staff - ML Research Engineer, Pre-Training Data](https://www.linkedin.com/jobs/view/4484809637/) — Liquid AI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-30
+
+### [Applied Scientist, AWS Agentic AI](https://www.linkedin.com/jobs/view/4485279216/) — Amazon Web Services (AWS)
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-10-30
+
+### [Research Scientist](https://www.linkedin.com/jobs/view/4484982801/) — Integrated Resources, Inc ( IRI )
+- 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-10-29
 
-### [Principal Applied Scientist, Real-Time Conversational AI , AGI](https://www.linkedin.com/jobs/view/4483087608/) — Amazon Science
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-10-29
-
-### [AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA](https://www.linkedin.com/jobs/view/4484545246/) — Enigma
+### [Fulltime :: Senior Data Scientist / ML Engineer :: San Jose, CA (Onsite)](https://www.linkedin.com/jobs/view/4483025796/) — TestingXperts
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-29
 
-### [Senior Research Engineer | Senior Research Scientist | World Models | Diffusion Models | Multimodal AI | Hybrid, Palo Alto](https://www.linkedin.com/jobs/view/4484563449/) — Enigma
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-10-29
-
-### [Senior Data Scientist, RWD Analytics](https://www.linkedin.com/jobs/view/4484542957/) — Tempus AI
-- 📍 **Location:** Redwood City, CA
+### [Research Scientist, APEX Benchmarks](https://www.linkedin.com/jobs/view/4484530914/) — CHEManager International
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-29
