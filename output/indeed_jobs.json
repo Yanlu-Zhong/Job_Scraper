@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-31 06:14 UTC",
+  "scraped_at": "2026-10-31 06:19 UTC",
   "total": 15,
-  "new_count": 3,
+  "new_count": 0,
   "scrape_status": {
     "status": "success",
     "raw_rows": 291,
@@ -400,86 +400,7 @@
       }
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Epia Neuro",
-      "title": "Senior Data Scientist",
-      "location": "Alameda, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=137f8385ce24c09e",
-      "direct_url": "https://jobs.ashbyhq.com/epianeuro/214708a3-8ffc-40e1-9c3f-50df6c743fcf?utm_source=pxyeObdVX8",
-      "company_url": "",
-      "date_posted": "2026-10-31",
-      "description": "**About Us**\n------------\n\nEpia Neuro is a neural technology company developing intent-driven systems designed to restore function and independence for people living with neurological conditions. Its platform integrates implantable neural interfaces, adaptive algorithms, and assistive devices to translate neural intent into real-world action. The company's initial focus is stroke-related motor impairment, with expansion into cognitive decline and other neurological disorders.\n\n**The Role**\n------------\n\nWe are generating neural and behavioral data at an increasing pace, across preclinical and early human research studies, with clinical studies ahead. We are looking for a neural data scientist to turn that data into rigorous answers. This ranges from characterizing signal quality and decoding performance to exploring what else our data can tell us, such as which movements and behaviors we can extract and decode. You will design and carry out the analyses and build the analysis workflows that let us do this reliably as our data grows.\n\nThis is a hands-on, individual contributor data scientist role on our Research team, reporting to the Director of Research. You will work alongside the scientists running our studies, and your work will shape study design, inform our decoding approaches, and contribute to publications. You will also partner closely with our Software team, which owns production code and the software infrastructure used in our studies.\n\n**What You'll Do**\n------------------\n\n* Own the analysis of our research studies end to end, from analysis strategy and statistical design through figures, readouts, and publications.\n* Characterize and validate the in vivo recording performance of our neural interface (signal quality, noise, artifacts, and stability), and establish the preprocessing and quality control that downstream analyses depend on.\n* Develop and evaluate decoding models that relate neural activity to behavior, including those used in closed-loop study sessions.\n* Explore neural and behavioral data, including pose estimation and kinematics, to identify new variables and questions worth pursuing.\n* Build reproducible analysis pipelines and help define data standards across studies.\n* Work closely with study scientists to shape analysis plans and study design, communicate findings clearly to scientists, engineers, and leadership, and partner with our Software team to hand off research-grade methods and code.\n\n**Qualifications**\n------------------\n\n* PhD in neuroscience, neural engineering, biomedical engineering, electrical engineering, computer science, or a related quantitative field, or a Master's degree in one of these fields with 4+ years of relevant experience in a research-focused role.\n* Substantial hands-on experience analyzing continuous neural time-series data, ideally field potentials such as ECoG, sEEG, LFP, or EEG.\n* A strong foundation in neural signal processing, including filtering, spectral analysis (such as band power and time-frequency methods), artifact handling, and feature extraction.\n* A solid applied machine learning background, including both supervised and unsupervised methods, particularly with noisy biological data.\n* Demonstrated ability to independently frame scientific questions, select and defend appropriate methods, and carry analyses through to clear conclusions and actionable recommendations.\n* Experience aligning neural recordings with behavioral and task data.\n* Strong Python and scientific computing skills, with a track record of writing reusable, maintainable analysis code and using version control and sound data management practices.\n* Clear written and verbal communication, and comfort working across scientific and engineering teams.\n\n**Nice to Have**\n----------------\n\n* Experience with human intracranial recordings.\n* Experience with motor decoding, cognitive-state decoding, or closed-loop BCI.\n* Experience with video-based pose estimation or kinematic analysis.\n* Experience building data pipelines or standards shared across studies.\n* Experience with cloud-based data processing.\n\n**How We Work**\n---------------\n\n* **We are intentional.** We prioritize and are thoughtful about how we use others' time.\n* **We care for others.** We prioritize safety both for patients and one another.\n* **We own outcomes, not just tasks.** Our work demands the highest standards because it impacts real patients and real lives.\n* **Humility is a strength.** We are honest about what we know and what we don't know. Getting it right matters more than being right.\n\n**Location**\n------------\n\nThis role is based out of the San Francisco Bay Area and is expected to work on site from our Alameda headquarters at least 3 days a week.\n\n**Benefits**\n------------\n\nFull-time employees are eligible for the following benefits:\n\n* Competitive base salary with equity\n* 100% of healthcare coverage for you and your dependents\n* Generous vacation policy\n* Paid parental leave\n* Work from our waterfront office in Alameda, CA, with access to collaborative spaces and labs\n\nCompensation Range: $140K - $165K",
-      "salary": "$140k–$165k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 27.733,
-        "city": "alameda",
-        "latitude": 37.741911,
-        "longitude": -122.259914,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Abbott",
-      "title": "Senior Data Scientist",
-      "location": "Alameda, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=c49e96efa58b61fe",
-      "direct_url": "https://www.jobs.abbott/us/en/job/ABLAUS31165260ENUSEXTERNAL/Senior-Data-Scientist?utm_source=indeed&utm_medium=phenom-feeds",
-      "company_url": "https://www.indeed.com/cmp/Abbott",
-      "date_posted": "2026-10-31",
-      "description": "Abbott is a global healthcare leader that helps people live more fully at all stages of life. Our portfolio of life-changing technologies spans the spectrum of healthcare, with leading businesses and products in diagnostics, medical devices, nutritionals and branded generic medicines. Our 122,000 colleagues serve people in more than 160 countries.\n\n**Working at Abbott**\n\nAt Abbott, you can do work that matters, grow, and learn, care for yourself and your family, be your true self, and live a full life. You’ll also have access to:\n\n* Career development with an international company where you can grow the career you dream of.\n* Employees can qualify for free medical coverage in our Health Investment Plan (HIP) PPO medical plan in the next calendar year.\n* An excellent retirement savings plan with a high employer contribution\n* Tuition reimbursement, the Freedom 2 Save student debt program, and FreeU education benefit - an affordable and convenient path to getting a bachelor’s degree.\n* A company recognized as a great place to work in dozens of countries worldwide and named one of the most admired companies in the world by Fortune.\n* A company that is recognized as one of the best big companies to work for as well as the best place to work for diversity, working mothers, female executives, and scientists.\n\n**About** **Lingo**\n\nMeet Lingo, a new biosensing technology that provides users a window into their body. Lingo tracks key biomarkers – such as glucose, ketones, and lactate – to help people make better decisions about their health and nutrition. Biowearable technology will digitize, decentralize and democratize healthcare, enabling consumers to take control of their own health.\n\n**The opportunity**\n\nPersonalized healthcare is the future. Working on Lingo, you will help build a next-generation technology that enables individuals to make decisions about how to improve energy, lose weight or enhance athletic performance. The Lingo team embodies a start-up culture and mindset with the backing of Abbott, a company with a rich history of healthcare innovation. Join us and grow your career as you help Abbott shape the future of healthcare.\n\nYou will apply your strong expertise in artificial intelligence by using machine learning to design, prototype, and build next-generation advanced analytics engines and services. You will work closely with software engineers, data architects, designers, and product owners and develop AI features, predictive models using machine learning and other advanced analytics tools to increase and optimize customer experience, revenue generation, prospect targeting, and other business outcomes.\n\nThis position works out of our **Alameda, CA** location in Lingo.\n\n**What you’ll do**\n\n* Work within an agile team in a dynamic, fast-moving, collaborative environment and design complex analytics models and algorithms that drive analytical solutions throughout the organization\n* Develop data and model pipelines with tools like Azure ML SDK, Azure Data Factory, Databricks, Spark, or related technologies\n* Analyze large amounts of data to discover trends and patterns, and build analytics models\n* Ensure the highest level of data accessibility, security, and quality at all stages; create automated anomaly detection systems and monitor their performance and model drift\n* Effectively communicate complex ideas and results to both technical and business/executive audiences\n* Conduct advanced statistical and other analysis to provide actionable insights, identify trends, and measure performance\n* Create repeatable, interpretable, dynamic, and scalable models that are seamlessly incorporated into analytics data products\n* Design, develop, and deploy AI-powered conversational experiences, including chatbots and virtual assistants leveraging Large Language Models (LLMs), retrieval-augmented generation (RAG), intent classification, grounded responses, and policy-based controls.\n\n**Qualifications**\n\n* Bachelor’s degree, Advanced degree in computer science, biomedical, bioengineering, data science, or relevant, is preferred.\n* 8+ years of relevant experience in the data science/analytics space\n* Strong expertise in Python as well as proficiency in writing complex SQL queries\n* Proficiency in using machine learning to solve clustering, classification, regression, anomaly detection, simulation, and optimization problems on large-scale data sets\n\n* Strong hands-on experience and expertise in one or more big data technologies, i.e., Hadoop, Spark, H20.ai, cloud AI platforms, containerization\n* Experience supporting deployment, monitoring, maintenance, and enhancement of analytics models\n* Experience building and deploying AI-powered conversational solutions, including intent classification, retrieval-augmented generation (RAG), grounded response generation, policy and guardrail implementation, validation methodologies, and evaluation frameworks for production use cases.\n* Up to date on industry trends within the analytics space from a data acquisition processing, engineering, and management perspective\n* High level of curiosity, creativity, and problem-solving capabilities\n\nThe base pay for this position is $114,000.00 – $228,000.00. In specific locations, the pay range may vary from the range posted.",
-      "salary": "$114k–$228k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 27.733,
-        "city": "alameda",
-        "latitude": 37.741911,
-        "longitude": -122.259914,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Meta",
-      "title": "AI Research Scientist, Multimodal Perception",
-      "location": "Burlingame, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=9aa5136adeb45dde",
-      "direct_url": "https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KiE0000003QsPUAU_1001&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F4689387038007574%2F%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D187943%26rx_id%3D715bca9c-d47f-11f1-8ead-c1eeab949d27%26rx_job%3Da1KiE0000003QsPUAU_1001%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261031T060407Z%26rx_vp%3Dcpc%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3Dindeedorganic",
-      "company_url": "https://www.indeed.com/cmp/Meta-dd1502f2",
-      "date_posted": "2026-10-31",
-      "description": "Meta is seeking Research Scientists to join Meta Reality Labs organization to work on making significant advances in vision and multi-modal perception. You will work on vision models, image and video understanding and sensor fusion. The team builds efficient on-device models that will be the foundation for a new paradigm in how we perceive the world. You will work with a highly interdisciplinary team of scientists, engineers, and cross-functional partners with a broad range of experiences, perspectives, approaches, and backgrounds and access cutting-edge technology, resources, and research facilities.  \n  \n  \n\n### **AI Research Scientist, Multimodal Perception Responsibilities:**\n\n* Build models that can understand images and videos\n* Conduct research and work with efficient vision encoders, multi-modal LLMs\n* Define, build and benchmark new capabilities needed for the next generation of AI\n* Train and optimize state-of-the-art machine learning and neural network methodologies\n* Work with and create large datasets, and contribute to data annotation engines\n\n  \n  \n  \n\n### **Minimum Qualifications:**\n\n* Research Experience in deep learning, computer vision, robotics, or AI infrastructure\n* Experience with Python and PyTorch\n* Experience developing software and executing complex experiments\n* Experience communicating research for public audiences of peers\n* Must obtain work authorization in the country of employment at the time of hire, and maintain ongoing work authorization during employment\n\n  \n  \n  \n\n### **Preferred Qualifications:**\n\n* Experience solving complex problems and comparing alternative solutions, tradeoffs, and different perspectives to determine a path forward\n* Demonstrated research and software engineering experience via an internship, work experience, coding competitions, or widely used contributions in open source repositories (e.g. GitHub)\n* Research experience with efficiency as a focus\n* Experience working and communicating cross functionally in a team environment\n* Proven track record of achieving significant results as demonstrated by grants, fellowships, patents, as well as publications at leading workshops, journals or conferences such as CVPR, ICCV, ECCV, ICML, NeurIPS or similar\n\n  \n  \n  \n\n### **About Meta:**\n\nMeta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.  \n  \n  \n\nMeta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.\n  \n  \nMeta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@meta.com.  \n  \n$122,000/year to $181,000/year + bonus + equity + benefits  \n  \nIndividual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about benefits at Meta.",
-      "salary": "$122k–$181k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "accommodations-ext@meta.com",
-      "ats": "Indeed",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 23.246,
-        "city": "burlingame",
-        "latitude": 37.589952,
-        "longitude": -122.363342,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    }
-  ],
+  "new_jobs": [],
   "remote_jobs": [],
   "ambiguous_jobs": [
     {
