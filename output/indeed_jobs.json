@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-11-01 02:36 UTC",
-  "total": 6,
+  "scraped_at": "2026-11-01 09:46 UTC",
+  "total": 2,
   "new_count": 0,
   "scrape_status": {
     "status": "success",
-    "raw_rows": 144,
+    "raw_rows": 53,
     "queries": 25,
     "errors": 0
   },
@@ -36,32 +36,6 @@
       }
     },
     {
-      "company": "Epia Neuro",
-      "title": "Senior Data Scientist",
-      "location": "Alameda, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=137f8385ce24c09e",
-      "direct_url": "https://jobs.ashbyhq.com/epianeuro/214708a3-8ffc-40e1-9c3f-50df6c743fcf?utm_source=pxyeObdVX8",
-      "company_url": "",
-      "date_posted": "2026-10-31",
-      "description": "**About Us**\n------------\n\nEpia Neuro is a neural technology company developing intent-driven systems designed to restore function and independence for people living with neurological conditions. Its platform integrates implantable neural interfaces, adaptive algorithms, and assistive devices to translate neural intent into real-world action. The company's initial focus is stroke-related motor impairment, with expansion into cognitive decline and other neurological disorders.\n\n**The Role**\n------------\n\nWe are generating neural and behavioral data at an increasing pace, across preclinical and early human research studies, with clinical studies ahead. We are looking for a neural data scientist to turn that data into rigorous answers. This ranges from characterizing signal quality and decoding performance to exploring what else our data can tell us, such as which movements and behaviors we can extract and decode. You will design and carry out the analyses and build the analysis workflows that let us do this reliably as our data grows.\n\nThis is a hands-on, individual contributor data scientist role on our Research team, reporting to the Director of Research. You will work alongside the scientists running our studies, and your work will shape study design, inform our decoding approaches, and contribute to publications. You will also partner closely with our Software team, which owns production code and the software infrastructure used in our studies.\n\n**What You'll Do**\n------------------\n\n* Own the analysis of our research studies end to end, from analysis strategy and statistical design through figures, readouts, and publications.\n* Characterize and validate the in vivo recording performance of our neural interface (signal quality, noise, artifacts, and stability), and establish the preprocessing and quality control that downstream analyses depend on.\n* Develop and evaluate decoding models that relate neural activity to behavior, including those used in closed-loop study sessions.\n* Explore neural and behavioral data, including pose estimation and kinematics, to identify new variables and questions worth pursuing.\n* Build reproducible analysis pipelines and help define data standards across studies.\n* Work closely with study scientists to shape analysis plans and study design, communicate findings clearly to scientists, engineers, and leadership, and partner with our Software team to hand off research-grade methods and code.\n\n**Qualifications**\n------------------\n\n* PhD in neuroscience, neural engineering, biomedical engineering, electrical engineering, computer science, or a related quantitative field, or a Master's degree in one of these fields with 4+ years of relevant experience in a research-focused role.\n* Substantial hands-on experience analyzing continuous neural time-series data, ideally field potentials such as ECoG, sEEG, LFP, or EEG.\n* A strong foundation in neural signal processing, including filtering, spectral analysis (such as band power and time-frequency methods), artifact handling, and feature extraction.\n* A solid applied machine learning background, including both supervised and unsupervised methods, particularly with noisy biological data.\n* Demonstrated ability to independently frame scientific questions, select and defend appropriate methods, and carry analyses through to clear conclusions and actionable recommendations.\n* Experience aligning neural recordings with behavioral and task data.\n* Strong Python and scientific computing skills, with a track record of writing reusable, maintainable analysis code and using version control and sound data management practices.\n* Clear written and verbal communication, and comfort working across scientific and engineering teams.\n\n**Nice to Have**\n----------------\n\n* Experience with human intracranial recordings.\n* Experience with motor decoding, cognitive-state decoding, or closed-loop BCI.\n* Experience with video-based pose estimation or kinematic analysis.\n* Experience building data pipelines or standards shared across studies.\n* Experience with cloud-based data processing.\n\n**How We Work**\n---------------\n\n* **We are intentional.** We prioritize and are thoughtful about how we use others' time.\n* **We care for others.** We prioritize safety both for patients and one another.\n* **We own outcomes, not just tasks.** Our work demands the highest standards because it impacts real patients and real lives.\n* **Humility is a strength.** We are honest about what we know and what we don't know. Getting it right matters more than being right.\n\n**Location**\n------------\n\nThis role is based out of the San Francisco Bay Area and is expected to work on site from our Alameda headquarters at least 3 days a week.\n\n**Benefits**\n------------\n\nFull-time employees are eligible for the following benefits:\n\n* Competitive base salary with equity\n* 100% of healthcare coverage for you and your dependents\n* Generous vacation policy\n* Paid parental leave\n* Work from our waterfront office in Alameda, CA, with access to collaborative spaces and labs\n\nCompensation Range: $140K - $165K",
-      "salary": "$140k–$165k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 27.733,
-        "city": "alameda",
-        "latitude": 37.741911,
-        "longitude": -122.259914,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
       "company": "Pacific Gas and Electric",
       "title": "Senior Data Scientist",
       "location": "Danville, CA, USA",
@@ -84,84 +58,6 @@
         "city": "danville",
         "latitude": 37.812142,
         "longitude": -121.969824,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Amazon.com",
-      "title": "Data Scientist , Music DISCO",
-      "location": "San Francisco, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=404b28130b418cff",
-      "direct_url": "https://www.amazon.jobs/jobs/10593916/data-scientist--music-disco?cmpid=DA_INAD200785B",
-      "company_url": "https://www.indeed.com/cmp/Amazon.com",
-      "date_posted": "2026-10-31",
-      "description": "**DESCRIPTION**\n---------------\n\nAmazon Music is an immersive audio entertainment service that deepens connections between fans, artists, and creators. From personalized music playlists to exclusive podcasts, concert livestreams to artist merch, Amazon Music is innovating at some of the most exciting intersections of music and culture. We offer experiences that serve all listeners with our different tiers of service: Prime members get access to all the music in shuffle mode, and top ad-free podcasts, included with their membership; customers can upgrade to Amazon Music Unlimited for unlimited, on-demand access to 100 million songs, including millions in HD, Ultra HD, and spatial audio; and anyone can listen for free by downloading the Amazon Music app or via Alexa-enabled devices. Join us for the opportunity to influence how Amazon Music engages fans, artists, and creators on a global scale.  \n  \nThe Data, Insights, Science and Optimization, Consumer Product and Tech (DISCO CPT) team is looking for a Data Scientist to join a team of Data Scientists, Analytics Leads, Business Intelligence Engineers and Data Engineers who analyze big data, provide analytics and insights as well as build models and algorithms that power product for personalized experiences. The team focuses on accelerating Amazon Music customer growth by empowering Product teams to make sound, customer-centric decisions through data and insights. We build data pipelines, science models, self-service analytics, insights and dashboards, deliver engagement and retention at scale. In this role, you will pioneer and execute advanced analytics and experimentation efforts for the Amazon Music product team. You will work with stakeholders and partners to deliver experimentation insights, author scientific artifacts, build scalable models to advance our analytics and science products. The ideal candidate must be willing to effectively lead science solutions, prioritize across multiple stakeholders and projects and be ready to jump into a fast-paced, dynamic and fun environment.  \n  \nKey job responsibilities  \n1. Data Scientist I on this role will be a thought partner to Product and Engineering organizations through their expertise in experimentation, statistical modeling and advanced analytics  \n2. Conceptualize and drive strategic growth areas: app performance, stablity and latency experimentation, Gen AI initiatives, and product excellence.  \n3. Bridge science, analytics, and engineering to deliver solutions informing strategic decisions on AM technology investments and long-term business performance  \n4. Drive experimentation, measurement efficiency tooling, and ROI tracking for AM leadership  \n5. Build and maintain causal models to understand customer sentiment and its impact on key engagement/retention metrics  \n6. Develop structural and predictive models using data science workflows to deliver measurable customer results  \n  \nA day in the life  \n1. Lead strategic initiatives across visual and voice experiences, experimentation and customer retention stakeholders  \n2. Conduct experimentation, build causal models to better understand key drivers for customer retention  \n3. Evaluate existing metrics and lead deep dives to ensure the right measurement framework is leveraged to measure and enhance user adoption through visual and voice interfaces  \n4. Partner with product managers to translate business questions into actionable science projects  \n5. Influence product roadmaps through data-driven insights on customer behavior patterns  \n6. Identify and resolve customer experience friction points with cross-functional teams  \nDrive adoption of best practices and innovative solutions across the organization\n\n**BASIC QUALIFICATIONS**\n------------------------\n\n* 1+ years of data querying languages (e.g. SQL), scripting languages (e.g. Python) or statistical/mathematical software (e.g. R, SAS, Matlab, etc.) experience\n* 2+ years of data/research scientist, statistician or quantitative analyst in an internet-based company with complex and big data sources experience\n* 1+ years of creating or contributing to mathematical textbooks, research papers, or educational content experience\n* Master's degree in Science, Technology, Engineering, or Mathematics (STEM), or experience working in Science, Technology, Engineering, or Mathematics (STEM)\n\n**PREFERRED QUALIFICATIONS**\n----------------------------\n\n* Ph.D. in Science, Technology, Engineering, or Mathematics (STEM)\n* Knowledge of statistical packages and business intelligence tools such as SPSS, SAS, S-PLUS, or R\n* Knowledge of machine learning concepts and their application to reasoning and problem-solving\n* Experience with clustered data processing (e.g., Hadoop, Spark, Map-reduce, and Hive)\n* Experience working with or evaluating AI systems\n* Experience applying quantitative analysis to solve business problems and making data-driven business decisions\n* Experience effectively communicating complex concepts through written and verbal communication\n\n  \nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  \n  \nLos Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard bu",
-      "salary": "$108k–$185k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Amazon Web Services",
-      "title": "Applied Scientist II, AWS Quick",
-      "location": "Santa Clara, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=ca93f318f16d1eed",
-      "direct_url": "https://www.amazon.jobs/jobs/10593922/applied-scientist-ii-aws-quick?cmpid=DA_INAD200785B",
-      "company_url": "https://www.indeed.com/cmp/Amazon-Web-Services-05cb4ad1",
-      "date_posted": "2026-10-31",
-      "description": "**DESCRIPTION**\n---------------\n\nCome join the AWS Agentic AI science team in building the next generation models for intelligent automation.  \n  \nAWS, the world-leading provider of cloud services, has fostered the creation and growth of countless new businesses, and is a positive force for good. Our customers bring problems that will give Applied Scientists like you endless opportunities to see your research have a positive and immediate impact in the world. You will have the opportunity to partner with technology and business teams to solve real-world problems, have access to virtually endless data and computational resources, and to world-class engineers and developers that can help bring your ideas into the world. As part of the team, we expect that you will develop innovative solutions to hard problems, and publish your findings at peer reviewed conferences and workshops.  \n  \nWe are looking for world class researchers with experience in one or more of the following areas - autonomous agents, API orchestration, Planning, large multimodal models (especially vision-language models), reinforcement learning (RL) and sequential decision making.  \n  \n\n* Define and implement new automated reasoning features that employ scalable and efficient approaches to solve complex problems using neural learning and symbolic/formal reasoning\n* Apply software engineering best practices to ensure a high standard of quality for all team deliverables\n* Work in an agile, startup-like development environment\n* Deliver high-quality scientific artifacts\n* Work with the team to help drive business decisions\n\n  \nAbout the team  \nWhy AWS?  \nAWS is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.  \n  \nInclusive Team Culture  \nHere at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon conferences, inspire us to never stop embracing our uniqueness.  \n  \nMentorship & Career Growth  \nWe’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.  \n  \nWork/Life Balance  \nWe value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.\n\n**BASIC QUALIFICATIONS**\n------------------------\n\n* 3+ years of building models for business application experience\n* Experience in patents or publications at top-tier peer-reviewed conferences or journals\n* Experience programming in Java, C++, Python or related language\n* Experience in any of the following areas: algorithms and data structures, parsing, numerical optimization, data mining, parallel and distributed computing, high-performance computing\n\n**PREFERRED QUALIFICATIONS**\n----------------------------\n\n* Experience using Unix/Linux\n* Experience in professional software development\n\n  \nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  \n  \nLos Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  \n  \nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n\nThe base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.\n\n  \nUSA, CA, Santa Clara - 171,600.00 - 222,200.00 USD annually",
-      "salary": "$172k–$222k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 3.522,
-        "city": "santa clara",
-        "latitude": 37.364621,
-        "longitude": -121.967973,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Data Scientist, Data Quality and AI Evaluation",
-      "location": "Santa Clara, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=4f88699068c2124c",
-      "direct_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Data-Scientist--Data-Quality-and-AI-Evaluation_JR2028769",
-      "company_url": "https://www.indeed.com/cmp/Nvidia",
-      "date_posted": "2026-10-31",
-      "description": "At NVIDIA, we are building the next generation AI-native autonomous driving architecture — combining classical safety stacks, foundation models, and scalable AI systems into a unified production platform. Autonomous driving is entering a new era. Future AV systems will not be purely classical robotics stacks, nor purely end-to-end neural networks. The future lies in the deep integration of classical safety architectures and large-scale AI-driven systems. If you want to work on problems that build the future of autonomous systems over the next decade, this is the place.\n\n  \n\n**What You’ll Be Doing**\n\n* Define quality metrics and evaluation methods that reveal where auto-labeling pipelines succeed, fail, or regress.\n* Build and maintain human-verified golden datasets covering representative driving conditions, critical corner cases, historical failures, and new requirements.\n* Analyze large-scale sensor, camera and annotation data to identify root causes, discover systematic errors, and prioritize improvements with perception and auto-labeling engineers.\n* Develop automated approaches for failure clustering, similar-case discovery, and targeted selection of data for human correction.\n* Build statistically sound audits and experiments, establish release acceptance criteria, and communicate findings through clear dashboards and recommendations.\nPartner with labeling operations to improve annotation guidelines, reviewer consistency, and the balance between quality, efficiency, and cost.  \n\n  \n\n**What We Need To See**\n\n* Great foundations in statistics, experimental design, sampling, hypothesis testing, and uncertainty estimation, with practical experience evaluating machine learning systems and data quality.\n* Experience working on AI/LLM evaluation with proficiency in Python and SQL, including analyzing large datasets and building reproducible analytical workflows. Understanding of precision, recall, class imbalance, selection bias, data leakage, and evaluation across significant scenario groups.\n* Ability to distinguish reference-label defects from model errors and translate ambiguous quality concerns into measurable questions and actionable recommendations.\n* Strong communication and teamwork skills, with experience working across engineering, research, product, or operations teams.\n12+ years of industry experience with Bachelor degree or proven track record for Master in statistics, mathematics, computer science, engineering, or a related quantitative field, or equivalent experience in practice.  \n\n  \n\n**Ways To Stand Out from the Crowd:**\n\n* Background with autonomous driving, robotics, or computer vision, particularly camera and LiDAR data, 2D/3D annotations, multi-object tracking, occupancy, or temporal and cross-sensor consistency.\nExperience designing human-in-the-loop labeling and audit workflows, measuring annotator agreement, or maintaining versioned benchmarks with protected evaluation sets.  \n\n  \n\n#AutonomousVehicles\n\nYour base salary will be determined based on your location, experience, and other objective job-related factors. The expected base salary ranges for this position are:\n  \n224,000 USD – 356,500 USD for Level 5; and 272,000 USD – 431,250 USD for Level 6.\n\nYou will also be eligible for equity and benefits .\n\nApplications for this job will be accepted at least until November 3, 2026.\n\nThis posting is for an existing vacancy.\n\nNVIDIA uses AI tools in its recruiting processes.\n\nNVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.",
-      "salary": "$224k–$431k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 3.522,
-        "city": "santa clara",
-        "latitude": 37.364621,
-        "longitude": -121.967973,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
     }
@@ -191,35 +87,12 @@
         "distance_miles": null,
         "reason": "City is unknown or has multiple Census locations."
       }
-    },
-    {
-      "company": "Intuit",
-      "title": "Senior Data Scientist, Identity Data Science",
-      "location": "Mountain View, CA, USA",
-      "url": "https://www.indeed.com/viewjob?jk=5afe41764db3f999",
-      "direct_url": "https://dsp.prng.co/TgThKzb",
-      "company_url": "https://www.indeed.com/cmp/Intuit",
-      "date_posted": "2026-10-31",
-      "description": "**Overview**\n------------\n\nIntuit’s Identity Data Science Team is looking for a hands-on Senior Data Scientist who is a creative problem solver with a passion to deliver advanced data-driven solutions. You will work alongside other Data Scientists, Product Managers, Designers, Engineers, Architects, and Program Managers to evolve Intuit’s Identity capabilities within Intuit’s Platform. As a key member of the data science team, you will have a strong track record of combining advanced analytical skills with exceptional business and entrepreneurial acumen. You will also have an ownership mindset with a strong willingness to take on new challenges with enthusiasm.\n\nThis is an exciting time to join the Identity Data Science Team at Intuit as we are building many new cutting-edge capabilities. These include a next-generation Verified Identity Network, password-less authentication powered through passkeys, Generative AI experiences, modern and sophisticated fraud prevention, centralized user and account management, and much more. Data is central to Intuit’s decision-making process, and data scientists are a critical component to evangelize data-driven decisions as we transform and scale Identity capabilities to power Intuit’s future growth.\n\n**Responsibilities**\n\n* Partner with cross functional teams to drive data-backed decisions and actionable insights\n* Use a hypothesis-driven approach to drive design, implementation, and analysis of A/B experiments. Then provide executive level recommendations on next steps based on the test results and insights\n* Communicate analytical findings and recommendations in a clear and concise way to non-technical audiences, both in writing and through oral presentations\n* Provide guidance and thought leadership to business leaders and stakeholders on how best to harness available data to support business goals\n* Ensure data collection and data processing is optimized to provide crystal-clear visibility into the impact and value of new initiatives and product releases\n* Identify opportunities for developing new data sources, and provide technical leadership around making those data sources high-quality and broadly available\n* Pursue data quality, troubleshoot data anomalies, validate data accuracy, and drive issues to resolution\n* Share responsibility for owning and maintaining the data science backlog, connecting directly with partners and stakeholders to communicate and align on priorities\n\n**Qualifications**\n\n* 5+ years of experience working in web, marketing, product, analytics, or other related data science fields with a strong knowledge of statistics\n* Exceptional SQL skills and experience working with granular web and native clickstream data\n* Highly proficient in Tableau, Qliksense, Quicksight or similar software\n* Exceptional ability to take initiative, be a self-starter, and solve problems\n* Outstanding communications skills with the ability to influence decision makers and build consensus with stakeholder teams\n* Proactive and inquisitive learner who seeks out and capitalizes on opportunities for change that enhance the business, rather than reacting to circumstances\n* Strong organizational skills, time management, accountability, and the ability to manage multiple projects simultaneously to meet objectives and key deadlines\n* Love for mentoring and guiding others on best practices. Passionate about the advancement of the whole team\n* Experience in programming languages, automation tools, and stats packages (e.g. Python) is a plus; comfortable creating re-usable data pipelines\n\nIntuit provides a competitive compensation package with a strong pay for performance rewards approach. This position may be eligible for a cash bonus, equity rewards and benefits, in accordance with our applicable plans and programs (see more about our compensation and benefits at Intuit®: Careers | Benefits). Pay offered is based on factors such as job-related knowledge, skills, experience, and work location. To drive ongoing fair pay for employees, Intuit conducts regular comparisons across categories of ethnicity and gender.\n\nThe expected base pay range for this position is:\n  \nSan Diego $149,500 - $202,500",
-      "salary": "$150k–$202k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "geography": {
-        "status": "ambiguous",
-        "distance_miles": null,
-        "reason": "City is unknown or has multiple Census locations."
-      }
     }
   ],
   "geographic_counts": {
-    "in_radius": 6,
+    "in_radius": 2,
     "remote": 0,
-    "ambiguous": 2,
+    "ambiguous": 1,
     "outside_radius": 0
   }
 }
