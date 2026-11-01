@@ -1,14 +1,14 @@
 {
-  "scraped_at": "2026-11-01 19:54 UTC",
+  "scraped_at": "2026-11-01 23:49 UTC",
   "total": 86,
-  "new_count": 27,
+  "new_count": 0,
   "scrape_status": {
     "status": "success",
-    "raw_rows": 221,
-    "queries": 24,
-    "batch": 5,
+    "raw_rows": 215,
+    "queries": 32,
+    "batch": 4,
     "batches": 5,
-    "terms_in_batch": 6,
+    "terms_in_batch": 8,
     "terms_total": 38
   },
   "jobs": [
@@ -1244,7 +1244,7 @@
       "location": "Palo Alto, CA",
       "url": "https://www.linkedin.com/jobs/view/4458683543/",
       "date_posted": "2026-11-01",
-      "salary": "",
+      "salary": "$198,200 - $420,000",
       "ats": "LinkedIn",
       "geography": {
         "status": "in_radius",
@@ -1253,7 +1253,8 @@
         "latitude": 37.39652,
         "longitude": -122.143088,
         "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
+      },
+      "description": "We help the world run better\n\nAt SAP, we keep it simple: you bring your best to us, and we'll bring out the best in you. We're builders touching over 20 industries and 80% of global commerce, and we need your unique talents to help shape what's next. The work is challenging – but it matters. You'll find a place where you can be yourself, prioritize your wellbeing, and truly belong. What's in it for you? Constant learning, skill growth, great benefits, and a team that wants you to grow and succeed.\n\nThe context engine that makes AI enterprise ready.\n\nAnyone can build an AI agent. What makes SAP's agents different is accuracy grounded in the richest enterprise data and process context in the world. As a Data and Applied Scientist at SAP, you'll build the context engine grounded in SAP’s Business ontology: the semantic infrastructure that transforms raw business data into the knowledge layer powering SAP's AI agents and assistants.\n\nWhat You'll Build\n\nThe semantic and contextual foundation of SAP's AI. While generic AI agents operate on surface-level patterns, SAP agents are accurate because they understand the real semantics of enterprise business master data, process flows, and domain relationships. You'll build and scale the layer that makes that possible.\n\nDesign and maintain enterprise ontologies and semantic models that give AI agents accurate, grounded understanding of SAP and connected business landscapes harmonizing data from SAP, Salesforce, Workday, ServiceNow, MES/IoT systems, and external providers into unified semantic layers.\nBuild AI capabilities including RAG pipelines, embeddings, vector databases, and enterprise knowledge grounding that make SAP's agents accurate and reliable in production.\nDevelop AI capabilities including generative AI and LLM-based solutions using enterprise business data, knowledge graphs, business process intelligence, and other structured and unstructured data assets.\nLeverage SAP's deep data and process context including SAP data models, metadata structures, and business process semantics across Order-to-Cash, Procure-to-Pay, Record-to-Report, and Plan-to-Produce to ground AI solutions in real enterprise reality.\nWork with cloud and data platforms including Databricks, SAP Datasphere, SAP HANA Cloud, AWS, Azure, and GCP to support reliable, scalable AI workflows.\nPartner across product, engineering, business, and customer-facing teams to translate ambiguous business challenges into concrete AI solutions from concept through deployment and continuous improvement.\nApply machine learning, deep learning, and statistical modeling to develop and evaluate AI solutions using real-world enterprise datasets.\n\nWhat You'll Bring\n\nRequired Qualifications\n\n8+ years of experience in knowledge engineering, semantic data systems, applied AI, or data science in industry, research labs, or advanced academic environments.\nMaster's or PhD in Computer Science, Applied Mathematics, Statistics, Engineering, or a related quantitative field\nHands-on experience designing enterprise ontologies and semantic models; proficiency in at least one graph query language (SPARQL, Cypher, or GQL); understanding of trade-offs between RDF triple stores and property graph databases.\nHands-on experience with modern GenAI systems RAG, embeddings, vector databases, semantic retrieval, and enterprise knowledge grounding.\nStrong Python and SQL skills with production-grade development practices; experience with ML libraries such as PyTorch, TensorFlow, or scikit-learn.\nProven track record deploying and operating AI/ML solutions in production including handoff, lifecycle support, and continuous improvement.\nExperience with big data infrastructure and cloud environments Databricks or equivalent, plus at least one major cloud (AWS, Azure, or GCP).\nExcellent communication and stakeholder management skills, with the ability to work cross-functionally in agile environments.\n\nPreferred Qualifications\n\nDeep working knowledge of SAP data models, metadata structures, and core business processes end-to-end. (SAP knowledge is a strong accelerator)\nHands-on experience with the SAP data and AI platform stack SAP Datasphere, SAP HANA Cloud Knowledge Graph Engine, SAP Business Data Cloud, SAP One Domain Model, SAP Graph API, and SAP Business Accelerator Hub.\nDeep expertise across the W3C stack (OWL, RDF/RDFS, SKOS, SHACL) and/or property graph query languages (Cypher, GQL).\nExperience on Financial (example - accounting, close, reporting) and Spend (procurement, s2p, contracts) domain knowledge\nDeep expertise in machine learning and deep learning, with experience developing, evaluating, and improving models on real-world datasets.\nExperience with agentic AI, reasoning frameworks, planning, orchestration, tool use, or multi-agent architectures.\nExperience contributing to reusable AI platforms, foundation model initiatives, or shared AI services adopted across multiple product areas.\nAbility to design upper-level and mid-level ontologies aligned with industry standards and apply semantic interoperability frameworks across complex application landscapes.\n\n#dlhiring\n\nWhere you belong\n\nYou'll join the Data Labs unit, a tight-knit team turning AI from a promise into something Finance and Spend teams rely on every day, at global scale. You'll work alongside curious engineers, thoughtful product minds, and applied researchers all focused on building AI that customers can trust in the highest-stakes business processes. The problems are real - money, risk, trust, and so is ownership. You'll stretch into new domains, see your models run, and help set the direction for SAP's AI in Finance and Spend. You will learn fast have an excellent opportunity to own things end to end and build foundations others will stand on.\n\nBring out your best\n\nSAP innovations help more than four hundred thousand customers worldwide work together more efficiently and use business insight more effectively. Originally known for leadership in enterprise resource planning (ERP) software, SAP has evolved to become a market leader in end-to-end business application software and related services for database, analytics, intelligent technologies, and experience management. As a cloud company with two hundred million users and more than one hundred thousand employees worldwide, we are purpose-driven and future-focused, with a highly collaborative team ethic and commitment to personal development. Whether connecting global industries, people, or platforms, we help ensure every challenge gets the solution it deserves. At SAP, you can bring out your best.\n\nWe win with inclusion\n\nSAP’s culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better world.\n\nSAP is committed to the values of Equal Employment Opportunity and provides accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to Recruiting Operations Team: Careers@sap.com.\n\nFor SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.\n\nQualified applicants will receive consideration for employment without regard to their age, race, religion, national origin, ethnicity, age, gender (including pregnancy, childbirth, et al), sexual orientation, gender identity or expression, protected veteran status, or disability.\n\nCompensation Range Transparency\n: SAP believes the value of pay transparency contributes towards an honest and supportive culture and is a significant step toward demonstrating SAP’s commitment to pay equity. SAP provides the annualized compensation range inclusive of base salary and variable incentive target for the career level applicable to the posted role. The targeted annual combined range for this position is $198,200 - $420,000 (USD). The actual amount to be offered to the successful candidate will be within that range, dependent upon the key aspects of each case which may include education, skills, experience, scope of the role, location, etc. as determined through the selection process. Any SAP variable incentive includes a targeted dollar amount and any actual payout amount is dependent on company and personal performance. Please reference this link for a summary of SAP benefits and eligibility requirements: SAP North America Benefits.\n\nAI Usage in the Recruitment Process\n\nFor information on the responsible use of AI in our recruitment process, please refer to our Guidelines for Ethical Usage of AI in the Recruiting Process.\n\nPlease note that any violation of these guidelines may result in disqualification from the hiring process.\n\nRequisition ID: 459701 | Work Area: Software-Design and Development | Expected Travel: 0 - 10% | Career Status: Professional | Employment Type: Regular Full Time | Additional Locations:\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development, IT Services and IT Consulting, and Business Consulting and Services"
     },
     {
       "company": "Biohub",
@@ -1261,7 +1262,7 @@
       "location": "Redwood City, CA",
       "url": "https://www.linkedin.com/jobs/view/4448472545/",
       "date_posted": "2026-11-01",
-      "salary": "",
+      "salary": "$214,000 - $294,800",
       "ats": "LinkedIn",
       "geography": {
         "status": "in_radius",
@@ -1270,7 +1271,8 @@
         "latitude": 37.515274,
         "longitude": -122.213672,
         "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
+      },
+      "description": "Biohub is the first large-scale initiative bringing frontier AI models, massive compute, and frontier experimental capabilities under one roof. We're building a general-purpose system to accelerate scientific discovery, integrating frontier AI models, biological foundation models, and lab capabilities, with the ultimate goal of curing disease. Our technology powers scientists around the world, translating AI capabilities into tools that accelerate research everywhere.\n\nThe Team\n\nOur AI research team sits at the heart of our mission to unlock new dimensions of biological understanding. You will leverage state-of-the-art AI to accelerate discovery and drive transformative insights in biology—developing novel AI models purpose-built for biological research, engineering robust systems that enable breakthrough science at unprecedented scale, and translating these advances into practical tools that empower researchers worldwide.\n\nOur approach is comprehensive and integrated, bringing together world-class AI model development, exceptional engineering talent, high-quality biological data, powerful computing infrastructure, and strategic partnerships. Success requires excellence across five interconnected pillars: training frontier AI models specifically for biology; building engineering systems that maximize research velocity and efficiency; executing a sophisticated data strategy that fuels AI development; operating a world-class AI compute platform; and creating impactful products that transform AI capabilities into accessible scientific tools.\n\nThe Opportunity\n\nThis role is part of the Data team, which focuses on owning the strategy, sourcing and implementation for data supporting AI research and development. Our goal is to maximize the speed, agility, and capability of biological AI research by connecting public data resources and Biohub's experimental platforms to AI systems.\n\nThe data that trains biological frontier models comes in dozens of modalities—sequences, images, spatial coordinates, time series, molecular structures, metadata, preprints and published papers—each with its own noise characteristics, biases, and information content. The question of how to represent this data for learning is one of the most important open problems in biological AI.\n\nYou will operate with broad scope and high autonomy, influencing roadmap decisions across teams while mentoring senior individual contributors. Success in this role means scaling data systems that are not only large, but adaptive, interpretable, and scientifically grounded, accelerating progress toward robust biological frontier models and ultimately advancing human health.\n\nWe're looking for data scientists who can work at this frontier: people who understand biological measurement deeply, think creatively about data representations and tokenization strategies, and can translate that thinking into novel training architectures. You'll work directly with experimental and computational scientists, data scientists and AI researchers to define what the models see and how they see it, and data engineers to make this work at scale. This is a role for someone who wants to invent the methods that make biological frontier models possible.\n\nWhat You'll Do\n\nDesign data representations and tokenization strategies for imaging data that enable novel model architectures\nCoordinate Experimental, Data Science, Data Engineering and AI Research teams to translate biological structure into learnable representations—defining priorities and appropriate structures for metadata and data that information models can access and consume\nWork across those teams to guide data acquisition priorities, define quality criteria, and assess external datasets from a representation perspective\nDevelop and validate approaches for combining heterogeneous data modalities into unified training frameworks, designing for robustness to noise, bias, and batch effects\nEvaluate how representation choices impact model performance, identifying which biological signals are captured or lost and iterating to improve\n\nWhat You'll Bring\n\nPhD in computational biology, bioinformatics, or a quantitative biological field\nExperience with tokenization strategies for non-text data (images, sequences, graphs, time series)\nTrack record of novel methodological contributions (publications, open-source tools, or production systems)\nFamiliarity with biological foundation models (ESM, scGPT, or similar)\nDeep understanding of imaging data, their underlying data characteristics, and how to transform raw data into ai-ready datasets.\nExperience designing data representations or feature engineering for machine learning, ideally in scientific or biological contexts\nFamiliarity with modern ML architectures (transformers, diffusion models, or similar) and how data representation choices affect learning\nStrong computational skills (Python, scientific computing libraries); comfort working with large-scale datasets\nCreative, first-principles thinking about how to structure data for learning\n\nCompensation\n\nThe Redwood City, CA base pay range for a new hire in this role is $214,000 - $294,800 for staff-leveled candidates and $241,000 - $331,1000 for senior staff candidates. New hires are typically hired into the lower portion of the range, enabling employee growth in the range over time. Actual placement in range is based on job-related skills and experience, as evaluated throughout the interview process.\n\nThis position may be eligible to participate in our discretionary annual performance bonus program. Bonus eligibility and targets are determined in accordance with our total rewards philosophy and may vary by role.\n\nBetter Together\n\nAs we grow, we’re excited to strengthen in-person connections and cultivate a collaborative, team-oriented environment. This role is a hybrid position requiring you to be onsite for at least 60% of the working month, approximately 3 days a week, with specific in-office days determined by the team’s manager. The exact schedule will be at the hiring manager's discretion and communicated during the interview process.\n\nBenefits For The Whole You\n\nWe’re thankful to have an incredible team behind our work. To honor their commitment, we offer a wide range of benefits to support the people who make all we do possible.\n\nProvides a generous employer match on employee 401(k) contributions to support planning for the future.\nPaid time off to volunteer at an organization of your choice.\nFunding for select family-forming benefits.\nRelocation support for employees who need assistance moving\n\nIf you’re interested in a role but your previous experience doesn’t perfectly align with each qualification in the job description, we still encourage you to apply as you may be the perfect fit for this or another role.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nBiotechnology Research"
     },
     {
       "company": "insitro",
@@ -1528,477 +1530,7 @@
       }
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Perplexity",
-      "title": "Member of Technical Staff (AI Researcher)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468006518/",
-      "date_posted": "2026-11-01",
-      "salary": "$220,000.00/yr - $485,000.00/yr",
-      "ats": "LinkedIn",
-      "description": "Perplexity is seeking top-tier AI Research Scientists and Engineers to advance our AI products and capabilities. We're building the future of AI-powered search and agent experiences through our Sonar models, Deep Research Agent, Comet Agent, and Search products. Join us in creating SOTA experiences that handle hundreds of millions of queries and continue to scale rapidly.\n\nTeam Structure\n\nDepending on your interests and expertise, you'll work on one of three specialized teams:\n\nCore Research Team (Horizontal)\n\nFocus on generating and improving base models that power all our products. This team works on foundational model capabilities, post-training techniques, building RL infra and infrastructure that benefits the entire organization.\n\nAgent Products Team (Vertical)\n\nConcentrate on fine-tuning and optimizing models for our Deep Research Agent and Labs/Canvas products. This team bridges research and product, ensuring our agent capabilities deliver exceptional user experiences.\n\nComet Agent Team (Vertical)\n\nDedicated to developing and enhancing our Comet Agent product. This specialized team focuses on the unique requirements and optimizations needed for Comet's specific use cases.\n\nResponsibilities\n\nResearch & Development\n\nPost-train SOTA LLMs using the latest supervised and reinforcement learning techniques (SFT/DPO/GRPO)\nLeverage our rich query/answer dataset to scale model performance across Sonar, Deep Research, Comet, and Search products\nStay current with the latest LLM research, especially in model training, optimization, and personalization techniques\nImplement preference optimization and personalization capabilities to enhance user experience\nInvent in-house improvements and optimizations to enhance SOTA models\nTurn research ideas into algorithms and run experiments to launch new models\n\nInfrastructure & Implementation\n\nOwn full-stack data, training, and evaluation pipelines required for model development\nBuild robust and effective training frameworks (on top of Megatron/PyTorch) for post-training LLMs\nImplement necessary infrastructure and components to support cutting-edge model training at scale\nIntegrate models seamlessly into our product ecosystem\n\nCollaboration\n\nWork closely with engineering teams to integrate models into Perplexity's product suite\nCollaborate across teams to ensure cohesive AI experiences throughout our platform\nPartner with product teams to understand user needs and translate them into model improvements\n\nQualifications\n\nRequired\n\nProven experience with large-scale LLMs and Deep Learning systems\nStrong programming skills in Python/PyTorch; versatility is a plus\nExperience with post-training techniques and reinforcement learning\nSelf-starter with a willingness to take ownership of tasks\nPassion for tackling challenging problems\nMinimum 2-6 years of experience on relevant projects (depending on seniority level)\n\nNice-to-have\n\nPhD in Machine Learning, AI, Systems, or related areas\nExperience in post-training LLMs with SFT/DPO/GRPO\nC++/CUDA programming skills\nExperience building LLM training frameworks\nAcademic publications and research impact\nExperience with agent systems and multi-step reasoning\nBackground in personalization and preference learning\n\nCompensation Range: $220K - $485K\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Perplexity",
-      "title": "Member of Technical Staff (AI Researcher)",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467897648/",
-      "date_posted": "2026-11-01",
-      "salary": "$220,000.00/yr - $485,000.00/yr",
-      "ats": "LinkedIn",
-      "description": "Perplexity is seeking top-tier AI Research Scientists and Engineers to advance our AI products and capabilities. We're building the future of AI-powered search and agent experiences through our Sonar models, Deep Research Agent, Comet Agent, and Search products. Join us in creating SOTA experiences that handle hundreds of millions of queries and continue to scale rapidly.\n\nTeam Structure\n\nDepending on your interests and expertise, you'll work on one of three specialized teams:\n\nCore Research Team (Horizontal)\n\nFocus on generating and improving base models that power all our products. This team works on foundational model capabilities, post-training techniques, building RL infra and infrastructure that benefits the entire organization.\n\nAgent Products Team (Vertical)\n\nConcentrate on fine-tuning and optimizing models for our Deep Research Agent and Labs/Canvas products. This team bridges research and product, ensuring our agent capabilities deliver exceptional user experiences.\n\nComet Agent Team (Vertical)\n\nDedicated to developing and enhancing our Comet Agent product. This specialized team focuses on the unique requirements and optimizations needed for Comet's specific use cases.\n\nResponsibilities\n\nResearch & Development\n\nPost-train SOTA LLMs using the latest supervised and reinforcement learning techniques (SFT/DPO/GRPO)\nLeverage our rich query/answer dataset to scale model performance across Sonar, Deep Research, Comet, and Search products\nStay current with the latest LLM research, especially in model training, optimization, and personalization techniques\nImplement preference optimization and personalization capabilities to enhance user experience\nInvent in-house improvements and optimizations to enhance SOTA models\nTurn research ideas into algorithms and run experiments to launch new models\n\nInfrastructure & Implementation\n\nOwn full-stack data, training, and evaluation pipelines required for model development\nBuild robust and effective training frameworks (on top of Megatron/PyTorch) for post-training LLMs\nImplement necessary infrastructure and components to support cutting-edge model training at scale\nIntegrate models seamlessly into our product ecosystem\n\nCollaboration\n\nWork closely with engineering teams to integrate models into Perplexity's product suite\nCollaborate across teams to ensure cohesive AI experiences throughout our platform\nPartner with product teams to understand user needs and translate them into model improvements\n\nQualifications\n\nRequired\n\nProven experience with large-scale LLMs and Deep Learning systems\nStrong programming skills in Python/PyTorch; versatility is a plus\nExperience with post-training techniques and reinforcement learning\nSelf-starter with a willingness to take ownership of tasks\nPassion for tackling challenging problems\nMinimum 2-6 years of experience on relevant projects (depending on seniority level)\n\nNice-to-have\n\nPhD in Machine Learning, AI, Systems, or related areas\nExperience in post-training LLMs with SFT/DPO/GRPO\nC++/CUDA programming skills\nExperience building LLM training frameworks\nAcademic publications and research impact\nExperience with agent systems and multi-step reasoning\nBackground in personalization and preference learning\n\nCompensation Range: $220K - $485K\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 6.453,
-        "city": "palo alto",
-        "latitude": 37.39652,
-        "longitude": -122.143088,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "MongoDB",
-      "title": "Senior Research Scientist",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413123345/",
-      "date_posted": "2026-11-01",
-      "salary": "$126,000—$248,000 USD",
-      "ats": "LinkedIn",
-      "description": "About Voyage AI Team At MongoDB\n\nVoyage AI team in MongoDB is building a best-in-class, general-purpose, domain-specific, and fine-tuned embedding models and rerankers to enable accurate, efficient unstructured data search and retrieval for RAG, recommendation, semantic search, and more. It is backed by a strong team of AI researchers from Stanford, MIT, Berkeley, Princeton, and CMU, who have conducted over five years of cutting-edge research on training embedding models. Voyage AI was acquired by MongoDB recently, and is now integrating the SOTA embedding models with MongoDB's data platform to create powerful end-to-end solutions.\n\nPosition Overview\n\nWe are seeking a Senior Research Scientist to join our team and contribute to the development of next-generation AI models. This position offers a unique opportunity to work on challenging problems at the intersection of machine learning research and practical deployment of large neural networks.\n\nWe are looking to speak to candidates who are based in Palo Alto for our hybrid working model.\n\nResponsibilities\n\nConduct cutting-edge research in artificial intelligence, from frontier LLMs to embedding models and rerankers\nInnovate in next-generation information retrieval and LLM agent paradigm\nCollaborate closely with other research scientists and research engineers as well as peers across the organization\n\nQualifications\n\nPhD degree in Computer Science or related field\nStrong background in machine learning, deep learning, and natural language processing\nFamiliarity with training distributed training of neural networks for language and visual understanding\n\nWhat We Offer\n\nOpportunity to work on real-world problems at the cutting edge of AI research\nOpportunity to utilize research vision to innovate the entire company and make real-world impact\nExposure to the full lifecycle of AI model development, from research to production\nOur compensation (base + equity) for this position is competitive with frontier AI labs\n\nAbout MongoDB\n\nMongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.\n\nWith offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.\n\nOur compass at MongoDB is our Leadership Commitment, guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.\n\nTo drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. From employee affinity groups, to fertility assistance and a generous parental leave policy, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys. Learn more about what it’s like to work at MongoDB, and help us make an impact on the world!\n\nMongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.\n\nMongoDB, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type and makes all hiring decisions without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.\n\nReq ID: 2273430550\n\nMongoDB’s base salary range for this role is posted below. Compensation at the time of offer is unique to each candidate and based on a variety of factors such as skill set, experience, qualifications, and work location. Salary is one part of MongoDB’s total compensation and benefits package. Other benefits for eligible employees may include: equity, participation in the employee stock purchase program, flexible paid time off, 20 weeks fully-paid gender-neutral parental leave, fertility and adoption assistance, 401(k) plan, mental health counseling, access to transgender-inclusive health insurance coverage, and health benefits offerings. Please note, the base salary range listed below and the benefits in this paragraph are only applicable to U.S.-based candidates.\n\nMongoDB’s base salary range for this role in the U.S. is:\n\n$126,000—$248,000 USD\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 6.453,
-        "city": "palo alto",
-        "latitude": 37.39652,
-        "longitude": -122.143088,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Amazon",
-      "title": "Applied Scientist, PXT Central Science",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460135417/",
-      "date_posted": "2026-11-01",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "Description\n\nWe are seeking an Applied Scientist to build production machine learning systems that solve complex business problems at scale. You will design, develop, and deploy ML solutions that directly impact millions of users and drive strategic decision-making across the organization.\n\nIn this role, you will work on challenging problems spanning predictive modeling, natural language processing, recommendation systems, and generative AI applications. You will collaborate with cross-functional teams to translate ambiguous business challenges into rigorous technical solutions.\n\nKey job responsibilities\n\nDesign and deploy large-scale machine learning systems in production environments\nDevelop innovative ML solutions using state-of-the-art techniques including deep learning, NLP, and generative AI\nCreate ML solutions that personalize manager on-boarding and development experiences — identifying individual capability gaps, recommending tailored learning pathways, and measuring development effectiveness across diverse manager populations and contexts\nPartner to build causal inference models and experimental frameworks to measure impact\nCollaborate with product managers, engineers, and business leaders to define technical roadmaps\nCommunicate complex technical concepts to diverse audiences, from technical peers to senior leadership\n\nAbout The Team\n\nThe People eXperience and Technology Central Science Team (PXTCS) uses economics, applied science, statistics, and machine learning to proactively identify mechanisms and process improvements which simultaneously improve Amazon and the lives, wellbeing, and the value of work to Amazonians. We are an interdisciplinary team that combines the talents of science and engineering to develop and deliver solutions that measurably achieve this goal.\n\nBasic Qualifications\n\n3+ years of building models for business application experience\nPhD, or Master's degree and 4+ years of CS, CE, ML or related field experience\nExperience in patents or publications at top-tier peer-reviewed conferences or journals\nExperience programming in Java, C++, Python or related language\nExperience in any of the following areas: algorithms and data structures, parsing, numerical optimization, data mining, parallel and distributed computing, high-performance computing\n\nPreferred Qualifications\n\nExperience using Unix/Linux\nExperience in professional software development\n\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\n\nLos Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.\n\nPursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n\nThe base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.\n\nUSA, CA, San Francisco - 171,600.00 - 222,200.00 USD annually\n\nUSA, MA, Boston - 142,800.00 - 193,200.00 USD annually\n\nUSA, VA, Arlington - 142,800.00 - 193,200.00 USD annually\n\nUSA, WA, Bellevue - 142,800.00 - 193,200.00 USD annually\n\nUSA, WA, Seattle - 142,800.00 - 193,200.00 USD annually\n\nCompany\n- Amazon.com Services LLC\n\nJob ID: A10517082\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Archer",
-      "title": "Principal AI Research Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4441158430/",
-      "date_posted": "2026-11-01",
-      "salary": "$270,000.00 - $340,000.00",
-      "ats": "LinkedIn",
-      "description": "Headquartered in Silicon Valley, California, Archer is a leader in the next-gen aerospace sector building an end-to-end advanced air mobility platform that delivers air taxis, unmanned aircraft systems (“UAS”), aviation-related physical artificial intelligence (“AI”) solutions, and other technologies to customers worldwide across the commercial aerospace and defense sectors.\n\nOur sights are set high and our problems are hard, and we believe that diversity in the workplace is what makes us smarter, drives better insights, and will ultimately lift us all to success. We are dedicated to cultivating an equitable and inclusive environment that embraces our differences, and supports and celebrates all of our team members.\n\nWhat You’ll Do:\n\nAs a Principal AI and ML fundamentalist who is an expert at developing cutting-edge AI solutions to complex problems, you will develop code that eventually integrates into production and be responsible for:\n\nDesign, implement, and evaluate novel machine learning and deep learning algorithms.\nIterate on AI model development; starting from the data needed for training, architecture, input/output representations, evaluation, and deployment.\nCollaborate with other researcher engineers to prototype and validate complex solutions from academic literature.\nConduct experiments to benchmark new techniques and evaluate model behavior.\nDevelop tools and frameworks to support scalable and reproducible research and development.\nCommunicate research findings to leadership in a concise, and convincing manner.\nStay current with the latest developments in AI/ML and identify relevant innovations.\nAssist in transitioning research prototypes into production-ready systems.\n\nWhat You Need:\n\nM.S or PhD degree in Computer Science, or Computer Engineering with strong emphasis on AI and ML.\nEnjoys solving less-defined and complex problems\nFamiliarity with good SW practices and development, including code quality, version control, etc.\nVery strong with ML frameworks such as Pytorch, or Tensorflow\nGood understanding of Transformer architectures, attention mechanisms, multi-modal foundation models, diffusion policies, fine-tuning, model distillation, mixture of experts, and other similar topics.\nHas strong ability to debug and determine requirements for AI models in terms of data, training, and evaluation.\nIs up to date with research literature and recent ML techniques and methodologies.\n\nBonus Qualifications:\n\nExperience with Reinforcement Learning, self-supervised training, and imitation learning is a plus.\nExperience developing VLA (Vision Language Action) models for robotic manipulation and mobility is a plus.\nExperience developing production AI models is a plus.\nPublications at top conferences are a plus.\n\nPlease note that this job description is intended to provide a general overview of the position and does not include an exhaustive list of responsibilities and qualifications\n\nAt Archer we aim to attract, retain, and motivate talent that possess the skills and leadership necessary to grow our business. We drive a pay-for-performance culture and reward performance that supports the Company’s business strategy. For this position we are targeting a base pay between $270,000.00 - $340,000.00 Actual compensation offered will be determined by factors such as job-related knowledge, skills, and experience.\n\nArcher is proud to be an Equal Opportunity employer committed to diversity and inclusivity in the workplace. All aspects of employment are decided on the basis of merit, qualifications, and business needs. We do not discriminate based upon race, color, religion, sex, sexual orientation, age, national origin, disability status, protected veteran status, gender identity or any other characteristic protected by federal, state or local laws.\n\nArcher is committed to working with and providing reasonable accommodations to job applicants with physical or mental disabilities, and those with sincerely held religious beliefs. Applicants who may require reasonable accommodation for any part of the application or hiring process should provide their name and contact information to Archer’s People Team at people@archer.com. Reasonable accommodations will be determined on a case-by-case basis.\n\nInformation collected and processed as part of any job applications you choose to submit is subject to Archer's Candidate Privacy Policy.\n\nCertain positions may be eligible for visa sponsorship.\n\nArcher is proud to be an Equal Opportunity employer committed to diversity and inclusivity in the workplace. All aspects of employment are decided on the basis of merit, qualifications, and business needs. We do not discriminate based upon race, color, religion, sex, sexual orientation, age, national origin, disability status, protected veteran status, gender identity or any other characteristic protected by federal, state or local laws.\n\nArcher Aviation does not engage with external recruiting agencies/individual recruiters with whom it does not have a prior written agreement. Archer reserves the right to make use of any unsolicited resumes that it receives and bears no responsibility for payment of any fees asserted from the use of unsolicited resumes. If you are a recruiting agency or individual recruiter wishing to do business with Archer, please reach out to People@archer.com. All employment processes are managed by the Archer People Team.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nAirlines and Aviation",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 13.183,
-        "city": "san jose",
-        "latitude": 37.296011,
-        "longitude": -121.814552,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "SAP",
-      "title": "Senior Data & Applied Scientist - Ontologies & Semantics",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460199158/",
-      "date_posted": "2026-11-01",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "We help the world run better\n\nAt SAP, we keep it simple: you bring your best to us, and we'll bring out the best in you. We're builders touching over 20 industries and 80% of global commerce, and we need your unique talents to help shape what's next. The work is challenging – but it matters. You'll find a place where you can be yourself, prioritize your wellbeing, and truly belong. What's in it for you? Constant learning, skill growth, great benefits, and a team that wants you to grow and succeed.\n\nThe context engine that makes AI enterprise ready.\n\nAnyone can build an AI agent. What makes SAP's agents different is accuracy grounded in the richest enterprise data and process context in the world. As a Senior Data and Applied Scientist at SAP, you'll build the context engine grounded in SAP’s Business ontology: the semantic infrastructure that transforms raw business data into the knowledge layer powering SAP's AI agents and assistants.\n\nWhat You'll Build\n\nThe semantic and contextual foundation of SAP's AI. While generic AI agents operate on surface-level patterns, SAP agents are accurate because they understand the real semantics of enterprise business master data, process flows, and domain relationships. You'll build and scale the layer that makes that possible.\n\nDesign and maintain enterprise ontologies and semantic models that give AI agents accurate, grounded understanding of SAP and connected business landscapes harmonizing data from SAP, various external providers (such as Salesforce, Workday, ServiceNow), and MES/IoT systems into unified semantic layers.\nBuild AI capabilities including RAG pipelines, embeddings, vector databases, and enterprise knowledge grounding that make SAP's agents accurate and reliable in production.\nDevelop AI capabilities including generative AI and LLM-based solutions using enterprise business data, knowledge graphs, business process intelligence, and other structured and unstructured data assets.\nLeverage SAP's deep data and process context including SAP data models, metadata structures, and business process semantics across Order-to-Cash, Procure-to-Pay, Record-to-Report, and Plan-to-Produce to ground AI solutions in real enterprise reality.\nWork with cloud and data platforms including Databricks, SAP Datasphere, SAP HANA Cloud, AWS, Azure, and GCP to support reliable, scalable AI workflows.\nPartner across product, engineering, business, and customer-facing teams to translate ambiguous business challenges into concrete AI solutions from concept through deployment and continuous improvement.\nApply machine learning, deep learning, and statistical modeling to develop and evaluate AI solutions using real-world enterprise datasets.\n\nRequired Qualifications\n\nWhat you'll bring\n\n5+ years of experience in knowledge engineering, semantic data systems, applied AI, or data science in industry, research labs, or advanced academic environments.\nMaster's or PhD in Computer Science, Applied Mathematics, Statistics, Engineering, or a related quantitative field\nHands-on experience designing enterprise ontologies and semantic models; proficiency in at least one graph query language (SPARQL, Cypher, or GQL); understanding of trade-offs between RDF triple stores and property graph databases.\nHands-on experience with modern GenAI systems RAG, embeddings, vector databases, semantic retrieval, and enterprise knowledge grounding.\nStrong Python and SQL skills with production-grade development practices; experience with ML libraries such as PyTorch, TensorFlow, or scikit-learn.\nProven track record deploying and operating AI/ML solutions in production including handoff, lifecycle support, and continuous improvement.\nExperience with big data infrastructure and cloud environments Databricks or equivalent, plus at least one major cloud (AWS, Azure, or GCP).\nExcellent communication and stakeholder management skills, with the ability to work cross-functionally in agile environments.\n\nPreferred Qualifications\n\nDeep working knowledge of SAP data models, metadata structures, and core business processes end-to-end. (SAP knowledge is a strong accelerator)\nHands-on experience with the SAP data and AI platform stack SAP Datasphere, SAP HANA Cloud Knowledge Graph Engine, SAP Business Data Cloud, SAP One Domain Model, SAP Graph API, and SAP Business Accelerator Hub.\nDeep expertise across the W3C stack (OWL, RDF/RDFS, SKOS, SHACL) and/or property graph query languages (Cypher, GQL).\nDeep expertise in machine learning and deep learning, with experience developing, evaluating, and improving models on real-world datasets.\nExperience with agentic AI, reasoning frameworks, planning, orchestration, tool use, or multi-agent architectures.\nExperience contributing to reusable AI platforms, foundation model initiatives, or shared AI services adopted across multiple product areas.\nAbility to design upper-level and mid-level ontologies aligned with industry standards and apply semantic interoperability frameworks across complex application landscapes.\n\nWhere you belong\n\nThe Application AI team sits at the foundation layer - We build the LLM systems and intelligent infrastructure that run across SAP's global platforms, which means the work you do here doesn't just influence one product, it sets the direction for how AI operates at enterprise scale. A core part of that challenge is making AI genuinely understand the business not just process text, but reason over richly structured enterprise data through robust data ontologies and semantic knowledge frameworks that give models real context about how SAP's world is organized. This is a team that values engineers who think like owners: people who want to define the architecture, not just implement a spec. You'll work in an environment designed around trust and autonomy, where the expectation is that you move fast, make calls, and drive outcomes without layers of approval slowing you down.\n\n#dlhiring\n\nBring out your best\n\nSAP innovations help more than four hundred thousand customers worldwide work together more efficiently and use business insight more effectively. Originally known for leadership in enterprise resource planning (ERP) software, SAP has evolved to become a market leader in end-to-end business application software and related services for database, analytics, intelligent technologies, and experience management. As a cloud company with two hundred million users and more than one hundred thousand employees worldwide, we are purpose-driven and future-focused, with a highly collaborative team ethic and commitment to personal development. Whether connecting global industries, people, or platforms, we help ensure every challenge gets the solution it deserves. At SAP, you can bring out your best.\n\nWe win with inclusion\n\nSAP’s culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better world.\n\nSAP is committed to the values of Equal Employment Opportunity and provides accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to Recruiting Operations Team: Careers@sap.com.\n\nFor SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.\n\nQualified applicants will receive consideration for employment without regard to their age, race, religion, national origin, ethnicity, age, gender (including pregnancy, childbirth, et al), sexual orientation, gender identity or expression, protected veteran status, or disability.\n\nCompensation Range Transparency\n: SAP believes the value of pay transparency contributes towards an honest and supportive culture and is a significant step toward demonstrating SAP’s commitment to pay equity. SAP provides the annualized compensation range inclusive of base salary and variable incentive target for the career level applicable to the posted role. The targeted annual combined range for this position is 148600-306300USD. The actual amount to be offered to the successful candidate will be within that range, dependent upon the key aspects of each case which may include education, skills, experience, scope of the role, location, etc. as determined through the selection process. Any SAP variable incentive includes a targeted dollar amount and any actual payout amount is dependent on company and personal performance. Please reference this link for a summary of SAP benefits and eligibility requirements: SAP North America Benefits.\n\nAI Usage in the Recruitment Process\n\nFor information on the responsible use of AI in our recruitment process, please refer to our Guidelines for Ethical Usage of AI in the Recruiting Process.\n\nPlease note that any violation of these guidelines may result in disqualification from the hiring process.\n\nRequisition ID: 459726 | Work Area: Software-Design and Development | Expected Travel: 0 - 10% | Career Status: Professional | Employment Type: Regular Full Time | Additional Locations:\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development, IT Services and IT Consulting, and Business Consulting and Services",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 6.453,
-        "city": "palo alto",
-        "latitude": 37.39652,
-        "longitude": -122.143088,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Together AI",
-      "title": "Senior Machine Learning Engineer, Voice AI",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4392131915/",
-      "date_posted": "2026-11-01",
-      "salary": "$200,000 - $260,000",
-      "ats": "LinkedIn",
-      "description": "About The Role\n\nTogether AI is building the best inference infrastructure for voice applications. Our Voice AI platform powers production-grade, real-time voice agents and applications — serving speech-to-text and text-to-speech models with best-in-class latency and reliability.\n\nWe're looking for a Senior ML Engineer to drive the model serving layer for voice workloads. You'll work hands-on with inference engines like TRT-LLM and SGLang to optimize how we serve models like Whisper, Parakeet, Orpheus, and Kokoro — pushing latency and throughput to the frontier. You'll profile GPU utilization, design batching strategies for streaming audio, and ensure new model architectures can go from research to production quickly.\n\nThis is a foundational hire on a small, high-impact team. Voice inference has unique challenges — streaming audio, tokenization, real-time latency budgets — that require dedicated ML engineering focus. You'll shape how Together serves voice models as the industry moves from pipeline architectures (ASR → LLM → TTS) toward end-to-end speech-to-speech.\n\nOwn the model serving stack that powers Together's voice platform across STT, TTS, and speech-to-speech.\nWork directly with state-of-the-art accelerators (H100s, H200s, B200s) to optimize voice model inference.\nCollaborate with model partners (Cartesia, Deepgram, Rime, and others) to bring their models to production on Together's infrastructure.\nBuild quality evaluation frameworks that guide model selection for customers and inform the roadmap.\nJoin a small, early-stage team with outsized impact on a fast-growing product area.\n\nResponsibilities\n\nOptimize inference performance for voice models (STT, TTS, speech-to-speech) — targeting best-in-class TTFB, throughput, and GPU utilization across our curated model set.\nProductionize voice models on serverless and dedicated endpoints, including batching strategies, streaming inference, and memory management tailored to audio workloads.\nBuild and maintain a voice model evaluation framework — measuring WER across accents, languages, and noise conditions for STT; naturalness, latency, and pronunciation accuracy for TTS.\nEnable new model architectures in our serving stack as the field evolves, including audio-native LLMs, codec-based models (SNAC), and speech-to-speech systems.\nCollaborate with model partners to integrate and optimize their models (Cartesia, Deepgram, Rime, and others) running on Together's infrastructure.\nProfile and debug performance across the full inference stack — from GPU kernels to framework-level bottlenecks — and ship measurable improvements.\nWork with the platform engineering side of the team to ensure the serving layer meets the latency and reliability requirements of real-time voice APIs.\nContribute to voice model fine-tuning capabilities (STT and TTS) as we enable customers to build differentiated voice experiences on Together.\nLay the groundwork for multiple new products down the line.\n\nRequirements\n\n5+ years of experience in ML engineering, with a focus on model serving, inference optimization, or ML infrastructure.\nHands-on experience with LLM serving engines (vLLM, SGLang, TensorRT-LLM, or similar) — comfortable reading and modifying engine internals, not just using APIs.\nStrong proficiency in Python and PyTorch; experience with GPU profiling and optimization (CUDA, memory management, kernel-level debugging).\nTrack record of shipping ML systems to production with measurable performance improvements.\nStrong product sense — you think about what developers building voice apps actually need, not just what's technically interesting.\nComfort working on a small, early-stage team where you'll wear multiple hats and move fast.\nExperience with speech and audio ML (ASR, TTS architectures, audio signal processing) is a strong plus but not required — you can learn this quickly if you have strong ML engineering fundamentals.\nFamiliarity with audio codecs and tokenization schemes (SNAC, Encodec, DAC) is a plus.\nExperience training or fine-tuning speech models is a plus.\nBachelor's or Master's degree in Computer Science, Electrical Engineering, or related field, or equivalent practical experience\n\nAbout Together AI\n\nTogether AI, the AI Native Cloud, is purpose-built for AI engineers. AI application developers get high-performance inference that scales reliably, fine-tuning and reinforcement learning for creating frontier-level specialized models, and pre-training at massive scale for fully custom intelligence, all around a marketplace of leading open models that teams can run, adapt, and own. Trusted by Cursor, Decagon, ElevenLabs, Salesforce, and Zoom, Together serves 400+ trillion tokens a month.\n\nCompensation\n\nWe offer competitive compensation, startup equity, health insurance and other competitive benefits. The US base salary range for this full-time position is: $200,000 - $260,000 + equity + benefits. Our salary ranges are determined by location, level and role. Individual compensation will be determined by experience, skills, and job-related knowledge.\n\nEqual Opportunity\n\nTogether AI is an Equal Opportunity Employer and is proud to offer equal employment opportunity to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and more.\n\nPlease see our privacy policy at https://www.together.ai/privacy\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Distyl",
-      "title": "Research Engineers, Data",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458053105/",
-      "date_posted": "2026-11-01",
-      "salary": "$150K – $250K",
-      "ats": "LinkedIn",
-      "description": "About Distyl AI\n\nDistyl is an applied AI technology company partnering with the world’s most ambitious institutions to rearchitect critical operations for the frontier of AI. Our customers include the largest companies in telecom, healthcare, insurance, manufacturing, consumer goods, and global social organizations.\n\nWe research and deploy technologies that power AI-native operations — both for our partners and for Distyl itself. Our work spans research into self-constructing systems, the development of the most reliable execution of AI systems, and products that transform mission-critical workflows. As a result, Distyl's technologies affect some of the world's largest operations — from hundreds of millions of consumer interactions to tens of millions of supply chain transactions and millions of patient journeys.\n\nDistyl is backed by leading investors including Lightspeed Venture Partners, Khosla Ventures, Coatue, DST Global, and the board-members of 20+ F500s.\n\nWhat We Are Looking For\n\nAt Distyl, Research Engineers build the bridge between frontier AI research and production systems that deliver real business value. This role is for engineers who are excited to investigate how AI systems should be designed, rapidly prototype new ideas, and turn promising concepts into reliable systems that work inside real customer environments.\n\nResearch Engineers operate at the intersection of applied research, systems engineering, and customer-facing deployment. They design and implement compound AI systems, run experiments to understand system behavior, build evaluation frameworks, and collaborate closely with AI Researchers, AI Engineers, and customer stakeholders. Their work is not limited to demos or isolated prototypes: they help turn new techniques into robust systems that can be measured, operated, and improved in production.\n\nKey Responsibilities\n\nDesign and build data systems that power reliable AI workflows across enterprise environments\nDevelop pipelines for collecting, cleaning, transforming, labeling, and evaluating domain-specific data used by AI systems\nCreate data quality frameworks that identify coverage gaps, ambiguity, drift, duplication, leakage, and other failure modes\nBuild tools and workflows that help teams turn raw customer data into usable context for retrieval, evaluation, reasoning, and execution\nPartner with AI Researchers and AI Engineers to understand how data quality affects system behavior and production outcomes\nDevelop synthetic data, annotation, and feedback-loop strategies to improve system performance in areas where real-world data is sparse or noisy\nAnalyze customer workflows and datasets to determine what information AI systems need, where that information should come from, and how it should be represented\nCommunicate clearly with internal teams and customer stakeholders about data assumptions, limitations, risks, and tradeoffs\n\nWho You Are\n\nExperience Building Data Systems for AI: You have built data pipelines, evaluation datasets, labeling workflows, retrieval corpora, or similar systems that improve model or agent behavior\nStrong Data Engineering Fundamentals: You write clean Python and SQL, understand data modeling and pipeline reliability, and can build systems that are maintainable under production constraints\nResearch-Oriented Builder: You are comfortable investigating how data quality, structure, and representation affect AI system performance\nAI-Native Working Style: You use AI tools daily to accelerate coding, analysis, debugging, exploration, and workflow automation\nComfort with Ambiguous Data: You can reason through messy enterprise datasets, incomplete documentation, conflicting business definitions, and changing requirements\nBias Towards Measurement: You prefer to make data quality and system behavior observable through concrete metrics, evaluations, and experiments\nCustomer Environment Readiness: You can work directly with customer teams to understand their data, ask precise questions, and explain tradeoffs clearly\nOwnership Mentality: You take responsibility for whether the data layer enables the AI system to deliver reliable value in production\n\nWhat We Offer\n\nThe base salary range for this role is $150K – $250K, depending on experience, location, and level. In addition to base compensation, this role is eligible for meaningful equity, along with a comprehensive benefits package\n100% coverage of medical, dental, and vision insurance for employee and dependents\nFlexible time off\nRetirement and financial planning benefits, including access to pre-tax HSA, FSA, and commuter accounts, 401(k), and financial coaching resources\nComprehensive wellness benefits, including physical fitness, mental well-being, and fertility and family-building benefits through Carrot\nComplimentary in-office lunches and snacks provided\nAccess to state-of-the-art AI models, generous usage of modern AI tools, and real-world business problems\nOwnership of high-impact projects across top enterprises\nA mission-driven, fast-moving culture that values curiosity, pragmatism, and excellence\n\nDistyl has offices in San Francisco and New York. This role follows a hybrid collaboration model with 3+ days per week (Tuesday–Thursday) in‑office.\n\nWe believe diverse perspectives make our work stronger and more impactful. We are an equal opportunity employer and evaluate all applicants without regard to race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, disability, veteran status, or any other legally protected characteristic. We encourage candidates from all backgrounds to apply.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "adaption",
-      "title": "Senior Research Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483977739/",
-      "date_posted": "2026-11-01",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "Our research principles\n\nSweat the details.\nTechnical excellence requires obsessing over every detail. We co-design serving, algorithms, and interface as one system to maximize efficiency and enable real-time adaptation.\n\nMove with conviction.\nExtraordinary results require extraordinary effort. We operate with urgency as a unified team, concentrating resources on a few high-conviction bets where research and impact intersect.\n\nMetrics that matter.\nThe most intelligent system will increasingly be defined by building an algorithm that can interact with the world. Research ideas are tested through working products. If it doesn't improve what users can do, we question whether it matters. We share what moves the field; we don't optimize for paper count.\n\nThe role\n\nThis is a research role focused on building models that continuously evolve with the world. Our frontier work centers on efficiency, gradient-free exploration, real-time learning, and interface design. The most intelligent systems will increasingly be defined not just by what they know, but by how well they can interact with the world. For the first time, researchers who care deeply about intelligence and efficiency must also be obsessed with the interface through which a model acts. If any of this resonates, we'd love to hear from you.\n\nResponsibilities\n\nInnovation: You have ideas and you move fast. You care about impact, not just effort.\n\nCross-Stack Optimization:\nYou collaborate across software, hardware, and algorithmic domains to unlock system-wide efficiency gains.\n\nMeasure What Matters:\nThe ultimate signal of value is real-world impact. Our current algorithms are capable of interacting with the world which is why product thinking is inseparable from research.\n\nQualifications\n\nA PhD or equivalent research experience in a computer science field\n4-5+ years of industry experience\nPublishing record at ICML, NeurIPS, ACL, ICLR, EMNLP.\nDeep expertise in at least one area: model efficiency, real time alignment or algorithmic optimization\nSystems thinking ability to understand and optimize across the full ML stack\nStrong programming skills in Python. Experience with deep learning frameworks (PyTorch, JAX, TensorFlow)\nKnowledge of model optimization techniques (RLHF, finetuning)\nExperience in an industry lab with computing at scale\n\nAbove all, we're looking for great teammates who make work feel lighter and aren't afraid to go out on a limb with bold ideas. You don't need to be perfect, but you do need to be adaptable. We encourage you to apply, even if you don't check every box.\n\nAbout Us\n\nMost AI is frozen in place - it doesn't adapt to the world. We think that's backwards. Our mandate is to build efficient intelligence that evolves in real-time. Our vision is AI systems that are flexible, personalized, and accessible to everyone. We believe efficiency is what makes this possible - it's how we expand access and ensure innovation benefits the many, not the few. We believe in talent density: bringing together the best and most driven individuals to push the boundaries of continual adaptation. We're looking for builders and creative thinkers ready to shape the next era of intelligence.\n\nBenefits\n\nFlexible work: In-person collaboration in the Bay Area, a distributed global-first team, and team offsites.\nAdaption Passport: Annual travel stipend to explore a country you've never visited. We're building intelligence that evolves alongside you, so we encourage you to keep expanding your horizons.\nLunch Stipend: Weekly meal allowance for take-out or grocery delivery.\nWell-Being: Comprehensive medical benefits and generous paid time off.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Enigma",
-      "title": "Senior Research Engineer | Senior Research Scientist | World Models | Diffusion Models | Multimodal AI | Hybrid, Palo Alto",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485424397/",
-      "date_posted": "2026-11-01",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "Senior Research Engineer | Senior Research Scientist | World Models | Diffusion Models | Multimodal AI | Hybrid, Palo Alto\n\nAbout the Opportunity\n\nA well-funded AI research lab is developing next-generation foundation models capable of understanding, predicting, and interacting with the physical world over extended time horizons. By advancing multimodal and causal AI systems, the team is working towards technology with broad applications across robotics, scientific research, healthcare, education, gaming, autonomous systems, and other emerging domains.\n\nThe organisation brings together an experienced team of researchers and engineers who have contributed to some of the world's leading AI models and autonomous systems. Operating at the intersection of frontier research and engineering, the lab combines ambitious scientific goals with a focus on building practical, scalable AI systems.\n\nThe Role\n\nWe are seeking exceptional researchers and engineers with deep technical expertise in areas such as video generation, multimodal learning, world models, robotics, autonomous systems, large-scale machine learning, or related fields.\n\nWhether your strengths lie in developing novel architectures, scaling distributed training, or building high-performance inference systems, you'll have the opportunity to turn ambitious research ideas into working systems that push the boundaries of what's possible.\n\nKey Responsibilities\n\nDevelop novel approaches that extend beyond current transformer and diffusion-based methods for world modelling and multimodal AI.\nResearch new model architectures, training paradigms, and representations for temporal reasoning, dynamics, and interaction.\nTake ideas from initial hypothesis through experimentation to robust working prototypes.\nDesign, implement, and optimise large-scale distributed training and inference infrastructure.\nCollaborate closely across research and engineering disciplines to translate scientific advances into production-ready systems.\nContribute to the wider technical community through publications, open research where appropriate, and the development of reusable tools and infrastructure.\nHelp shape the technical direction and research culture of a fast-moving AI organisation.\n\nAbout You\n\nYou'll likely have a strong background in one or more of the following:\n\nGenerative AI\nVideo generation\nMultimodal machine learning\nWorld models\nRobotics or autonomous systems\nLarge-scale machine learning infrastructure\nAdjacent research fields\n\nYou will also demonstrate:\n\nA proven record of advancing research, building impactful ML systems, or ideally both.\nThe ability to work from first principles, defining problems, designing rigorous experiments, and validating new ideas.\nExperience bridging cutting-edge research with practical deployment.\nComfort operating in ambiguous, rapidly evolving technical environments.\nStrong opinions on the future direction of AI research, supported by thoughtful technical reasoning.\nA collaborative mindset and the ability to thrive in small, highly autonomous teams focused on delivering ambitious outcomes.\n\nWhy Join?\n\nThis is an opportunity to contribute to foundational AI research at the frontier of multimodal intelligence, working alongside a highly accomplished technical team on problems that have the potential to influence the next generation of AI systems and their real-world applications.\n\nSenior Research Engineer | Senior Research Scientist | World Models | Diffusion Models | Multimodal AI | Hybrid, Palo Alto\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Media",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 6.453,
-        "city": "palo alto",
-        "latitude": 37.39652,
-        "longitude": -122.143088,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "SAP",
-      "title": "Principal Data and Applied Scientist, Finance and Spend Autonomous Suite, Palo Alto",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458683543/",
-      "date_posted": "2026-11-01",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 6.453,
-        "city": "palo alto",
-        "latitude": 37.39652,
-        "longitude": -122.143088,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Biohub",
-      "title": "Sr Staff/Staff Data Scientist, Imaging",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4448472545/",
-      "date_posted": "2026-11-01",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 13.625,
-        "city": "redwood city",
-        "latitude": 37.515274,
-        "longitude": -122.213672,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "insitro",
-      "title": "Senior Data Scientist, CompBio",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460535535/",
-      "date_posted": "2026-11-01",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 26.72,
-        "city": "south san francisco",
-        "latitude": 37.655104,
-        "longitude": -122.376234,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Walmart",
-      "title": "Principal, Data Scientist, Experimentation Sciences",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4402826462/",
-      "date_posted": "2026-11-01",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 0.0,
-        "city": "sunnyvale",
-        "latitude": 37.385797,
-        "longitude": -122.026316,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Evlo AI",
-      "title": "Data Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485410807/",
-      "date_posted": "2026-11-01",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Snap Inc.",
-      "title": "Lead Data Scientist, Core, Level 6",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469276103/",
-      "date_posted": "2026-11-01",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 6.453,
-        "city": "palo alto",
-        "latitude": 37.39652,
-        "longitude": -122.143088,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Walmart",
-      "title": "(USA) Staff, Data Scientist",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4450050559/",
-      "date_posted": "2026-11-01",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 0.0,
-        "city": "sunnyvale",
-        "latitude": 37.385797,
-        "longitude": -122.026316,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Senior Data Scientist, Product Analytics - USDS",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485984785/",
-      "date_posted": "2026-11-01",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 13.183,
-        "city": "san jose",
-        "latitude": 37.296011,
-        "longitude": -121.814552,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Grindr",
-      "title": "Staff Data Scientist, Ecosystem Health",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4405256903/",
-      "date_posted": "2026-11-01",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 6.453,
-        "city": "palo alto",
-        "latitude": 37.39652,
-        "longitude": -122.143088,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Cohere",
-      "title": "Lead Data Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4393063318/",
-      "date_posted": "2026-11-01",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Amazon",
-      "title": "Sr. Data Scientist, Amazon Publisher Cloud",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469266487/",
-      "date_posted": "2026-11-01",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 6.453,
-        "city": "palo alto",
-        "latitude": 37.39652,
-        "longitude": -122.143088,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Nash",
-      "title": "Senior Data Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4449921929/",
-      "date_posted": "2026-11-01",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Capital One",
-      "title": "Principal Associate, Data Scientist - Recommendation & Personalization Systems",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469531987/",
-      "date_posted": "2026-11-01",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 13.183,
-        "city": "san jose",
-        "latitude": 37.296011,
-        "longitude": -121.814552,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Data Scientist – Finance",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485158977/",
-      "date_posted": "2026-11-01",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 3.522,
-        "city": "santa clara",
-        "latitude": 37.364621,
-        "longitude": -121.967973,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Meta",
-      "title": "UX Researcher, Quantitative",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4439203791/",
-      "date_posted": "2026-11-01",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 9.313,
-        "city": "menlo park",
-        "latitude": 37.479731,
-        "longitude": -122.148055,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Genentech",
-      "title": "Principal Data Scientist - RDT Applied AI",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460316227/",
-      "date_posted": "2026-11-01",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 26.72,
-        "city": "south san francisco",
-        "latitude": 37.655104,
-        "longitude": -122.376234,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Perplexity",
-      "title": "Member of Technical Staff (Model Behavior)",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467892767/",
-      "date_posted": "2026-11-01",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 6.453,
-        "city": "palo alto",
-        "latitude": 37.39652,
-        "longitude": -122.143088,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    }
-  ],
+  "new_jobs": [],
   "remote_jobs": [],
   "ambiguous_jobs": [
     {
