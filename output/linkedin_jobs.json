@@ -1,12 +1,12 @@
 {
-  "scraped_at": "2026-11-02 06:17 UTC",
-  "total": 34,
-  "new_count": 3,
+  "scraped_at": "2026-11-02 23:20 UTC",
+  "total": 66,
+  "new_count": 32,
   "scrape_status": {
     "status": "success",
-    "raw_rows": 269,
+    "raw_rows": 287,
     "queries": 32,
-    "batch": 1,
+    "batch": 4,
     "batches": 5,
     "terms_in_batch": 8,
     "terms_total": 38
@@ -612,18 +612,246 @@
         "longitude": -122.026316,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
-    }
-  ],
-  "new_jobs": [
+    },
     {
-      "company": "Anthropic",
-      "title": "Research Engineer / Scientist, Pre-training",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485434555/",
+      "company": "Amazon Science",
+      "title": "Sr. Applied Scientist, AWS Specialists and Partner Prototyping",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484339331/",
       "date_posted": "2026-11-02",
-      "salary": "$500,000—$850,000 USD",
+      "salary": "",
       "ats": "LinkedIn",
-      "description": "About Anthropic\n\nAnthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n\nAbout The Role\n\nAnthropic is at the forefront of AI research, dedicated to developing safe, ethical, and powerful artificial intelligence. Our mission is to ensure that transformative AI systems are aligned with human interests. We are seeking a Research Engineer to join our Pre-training team, responsible for developing the next generation of large language models. In this role, you will work at the intersection of cutting-edge research and practical engineering, contributing to the development of safe, steerable, and trustworthy AI systems.\n\nKey Responsibilities\n\nConduct research and implement solutions in areas such as model architecture, algorithms, data processing, and optimizer development\nIndependently lead small research projects while collaborating with team members on larger initiatives\nDesign, run, and analyze scientific experiments to advance our understanding of large language models\nOptimize and scale our training infrastructure to improve efficiency and reliability\nDevelop and improve dev tooling to enhance team productivity\nContribute to the entire stack, from low-level optimizations to high-level model design\n\nQualifications\n\nAdvanced degree (MS or PhD) in Computer Science, Machine Learning, or a related field\nStrong software engineering skills with a proven track record of building complex systems\nExpertise in Python and experience with deep learning frameworks (PyTorch preferred)\nFamiliarity with large-scale machine learning, particularly in the context of language models\nAbility to balance research goals with practical engineering constraints\nStrong problem-solving skills and a results-oriented mindset\nExcellent communication skills and ability to work in a collaborative environment\nCare about the societal impacts of your work\n\nPreferred Experience\n\nWork on high-performance, large-scale ML systems\nFamiliarity with GPUs, Kubernetes, and OS internals\nExperience with language modeling using transformer architectures\nKnowledge of reinforcement learning techniques\nBackground in large-scale ETL processes\n\nYou'll thrive in this role if you\n\nHave significant software engineering experience\nAre results-oriented with a bias towards flexibility and impact\nWillingly take on tasks outside your job description to support the team\nEnjoy pair programming and collaborative work\nAre eager to learn more about machine learning research\nAre enthusiastic to work at an organization that functions as a single, cohesive team pursuing large-scale AI research projects\nAre working to align state of the art models with human values and preferences, understand and interpret deep neural networks, or develop new models to support these areas of research\nView research and engineering as two sides of the same coin, and seek to understand all aspects of our research program as well as possible, to maximize the impact of your insights\nHave ambitious goals for AI safety and general progress in the next few years, and you’re working to create the best outcomes over the long-term.\n\nSample Projects\n\nOptimizing the throughput of novel attention mechanisms\nComparing compute efficiency of different Transformer variants\nPreparing large-scale datasets for efficient model consumption\nScaling distributed training jobs to thousands of GPUs\nDesigning fault tolerance strategies for our training infrastructure\nCreating interactive visualizations of model internals, such as attention patterns\n\nThe annual compensation range for this role is listed below.\n\nFor sales roles, the range provided is the role’s On Target Earnings (\"OTE\") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.\n\nAnnual Salary\n\n$500,000—$850,000 USD\n\nLogistics\n\nMinimum education:\nBachelor’s degree or an equivalent combination of education, training, and/or experience\n\nRequired field of study:\nA field relevant to the role as demonstrated through coursework, training, or professional experience\n\nMinimum years of experience:\nYears of experience required will correlate with the internal job level requirements for the position\n\nLocation-based hybrid policy:\nCurrently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.\n\nVisa sponsorship:\nWe do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.\n\nWe encourage you to apply even if you do not believe you meet every single qualification.\nNot all strong candidates will meet every single qualification as listed. Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.\n\nYour safety matters to us.\nTo protect yourself from potential scams, remember that Anthropic recruiters only contact you from @anthropic.com email addresses. In some cases, we may partner with vetted recruiting agencies who will identify themselves as working on behalf of Anthropic. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit anthropic.com/careers directly for confirmed position openings.\n\nHow We're Different\n\nWe believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.\n\nThe easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI & Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.\n\nCome work with us!\n\nAnthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. Guidance on Candidates' AI Usage:\nLearn about our policy for using AI in our application process.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nResearch Services",
+      "description": "Description\n\nCore to Amazon's DNA is its methodology around executing experiments and prototypes to find the quickest way to prove new ideas, technologies, and business models in a real-world environment. Experimentation fuels Amazon's innovation.\n\nOur team does horizon exploration. We take emerging technology, including our own inventions, build working prototypes with customers and partners, and demonstrate what becomes possible before the rest of the market gets there. Prototyping is how we do the work. Pushing the technology horizon is why we do it.\n\nIf you are a highly creative problem solver who works to inspire, motivate, and define innovative solutions; are passionate about technology, understand cloud architectures and platforms, and are quick to pick up emerging technologies; are adept at working with customers to experiment with innovative approaches and validate the technical feasibility of solutions, this could be the role for you.\n\nAs a Senior Applied Scientist you sit directly with customers and partners. You help them envision complex uses of AWS by building working prototypes of specific use cases, tailored to their data, devices, and systems. Engagements run in short build cycles, typically four to six weeks, and are designed to be innovative and evaluative, demonstrating the art of the possible on AWS while proving a credible path to production.\n\nYou Will Work Across The Areas Where We Are Placing Our Biggest Bets. These Shift As The Technology Does, But Today They Include\n\nPhysical AI and autonomous robotics. World models, vision-language-action (VLA) models, cloud-based and agentic VLA, real-to-sim and sim-to-real pipelines, and agentic control of physical systems. We challenge the assumption that these models have to live only at the edge.\nAutonomous scientific discovery. Self-driving labs and instrument intelligence, where agents plan, run, and interpret experiments across fleets of scientific instruments.\nAgentic developer intelligence. Multi-agent systems, code agents, and automated research workflows that change how software gets built.\nScaling what we learn. Turning one-off prototypes into reusable patterns and assets the broader field can pick up and run with.\n\nYou will not just apply these techniques. You will help decide which bets are worth making and prove or disprove them in the open with real customer problems.\n\nKey job responsibilities\n\nAs a key member of the AWS Specialists and Partner Prototyping team, ensure customer success through hands-on participation producing and demonstrating prototypes on the AWS platform.\nParticipate in deep architectural and scientific design discussions to ensure prototypes are crafted for successful deployment in the cloud and a credible path to production.\nBring applied science depth to engagements: frame the problem, select and adapt models, design experiments, and judge technical feasibility honestly, including when the answer is that an approach will not work.\nConduct one-to-few and one-to-many training sessions to transfer knowledge to prototyping customers, partners, and internal business partners.\nAct as a thought leader for your area of domain expertise across AWS, and share best-practice knowledge among the community.\nAuthor or otherwise contribute to AWS customer-facing publications such as peer reviewed position papers, blogs, and reference patterns.\nAct as a technical liaison between customers, service engineering teams, and sales, carrying real-world signal back to the teams building the services.\n\nA day in the life\n\nNo two engagements look the same, which is the point. A typical week might include:\n\nRunning a working session with a customer's scientists and engineers to pressure-test an idea and agree on what a prototype needs to prove.\nWriting code and training or fine-tuning models in the lab, often against the customer's own data, devices, or robots.\nPairing with a prototyping SA and engagement manager, the standard pod you deliver alongside, to keep the build moving and the scope honest.\nDemonstrating a working prototype live and walking stakeholders through what it does, what it does not yet do, and what production would take.\nCapturing what you learned as a reusable pattern or publication so the next team does not start from zero.\nSpending time on the horizon itself: reading, experimenting with a new model or technique, and forming a point of view on where a bet is heading.\n\nYou will move between hands-on building and customer-facing explanation constantly. The best people in this role are equally comfortable in a research paper, a code editor, and a room full of executives.\n\nAbout The Team\n\nWhy AWS\n\nAmazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.\n\nUtility Computing (UC)\n\nAWS Utility Computing (UC) provides product innovations — from foundational services such as Amazon’s Simple Storage Service (S3) and Amazon Elastic Compute Cloud (EC2), to consistently released new product innovations that continue to set AWS’s services and features apart in the industry. As a member of the UC organization, you’ll support the development and management of Compute, Database, Storage, Internet of Things (IoT), Platform, and Productivity Apps services in AWS, including support for customers who require specialized security solutions for their cloud services.\n\nInclusive Team Culture\n\nHere at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) conferences, inspire us to never stop embracing our uniqueness.\n\nWork/Life Balance\n\nWe value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.\n\nMentorship and Career Growth\n\nWe’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.\n\nDiverse Experiences\n\nAmazon values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.\n\nBasic Qualifications\n\nPhD, or Master's degree and 5+ years of applied research experience\nExperience in building machine learning models for business application\nExperience programming in Java, C++, Python or related language\nExperience using managed ML/AI solutions\n\nPreferred Qualifications\n\nExperience conveying complex technical concepts to both technical and business audiences\nExperience working with Advanced Compute technologies including, but not limited to: Accelerated Compute, High Performance Compute, Visual/Spatial Compute, and/or IoT.\nExperience with vLLM, SGLang, TensorRT or similar platforms in production environments, or experience with Machine Learning and Large Language Model fundamentals, including architecture, training/inference lifecycles, and optimization of model execution\nExperience in developing and deploying LLMs in production on GPUs, Neuron, TPU or other AI acceleration hardware, or experience in machine learning, data mining, information retrieval, statistics or natural language processing\nExperience working with Robotics; training and deploying Vision Language Action (VLA) models, World Action models in simulation environments as well as real\n\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\n\nLos Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n\nThe base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.\n\nUSA, CA, Santa Clara - 192,200.00 - 260,000.00 USD annually\n\nUSA, NY, New York - 183,800.00 - 248,700.00 USD annually\n\nUSA, VA, Herndon - 167,100.00 - 226,100.00 USD annually\n\nUSA, WA, Seattle - 167,100.00 - 226,100.00 USD annually\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nResearch Services",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 3.522,
+        "city": "santa clara",
+        "latitude": 37.364621,
+        "longitude": -121.967973,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Dolby Laboratories",
+      "title": "Senior Staff AI Multimodal Researcher",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4393987686/",
+      "date_posted": "2026-11-02",
+      "salary": "$204,000-$300,000,",
+      "ats": "LinkedIn",
+      "description": "Join the leader in entertainment innovation and help us design the future. At Dolby, science meets art, and high tech means more than computer code. As a member of the Dolby team, you’ll see and hear the results of your work everywhere, from movie theaters to smartphones. We continue to revolutionize how people create, deliver, and enjoy entertainment worldwide. To do that, we need the absolute best talent. We’re big enough to give you all the resources you need, and small enough so you can make a real difference and earn recognition for your work. We offer a collegial culture, challenging projects, and excellent compensation and benefits, not to mention a Flex Work\napproach that is truly flexible to support where, when, and how you do your best work.\n\nThe Advanced Technology Group\n(ATG) is the research division of the company. ATG’s mission is to look ahead, deliver insights, and innovate technological solutions that will fuel Dolby’s continued growth. Our researchers have a broad range of expertise related to computer science and electrical engineering, such as AI/ML, algorithms, digital signal processing, audio engineering, image processing, computer vision, data science & analytics, distributed systems, cloud, edge & mobile computing, computer networking, and IoT.\n\nWhat You Will Accomplish\n\nAs a senior research leader in the Multimodal Experiences Lab, you will shape the future of\n\nDolby’s multimodal immersive technologies by focusing on three core areas:\n\nCutting-Edge Research\n\nYou will:\n\nLead hands-on research at the intersection of multimodal AI and immersive sensory\n\nexperiences.\n\nInvent and advance next-generation interactive and sensory technologies.\nDrive projects that enhance multimodal content creation, delivery, analysis, and\n\nrendering systems.\n\nCollaborate with global research teams to set research directions and fuel Dolby’s\n\nlicensing and cloud businesses.\n\nMentorship & Team Development\n\nYou will:\n\nGuide, grow, and mentor a high-performing team of researchers in multimodal\n\nunderstanding, delivery, and rendering.\n\nFoster an innovative, transparent, and results-oriented research culture.\nDevelop and nurture junior researchers into independent contributors and future\n\nleaders.\n\nTechnology Strategy & Collaboration\n\nYou will:\n\nDefine research roadmaps in partnership with ATG leaders and align resources to\n\nglobal initiatives.\n\nPartner closely with Dolby’s Business Groups to translate research breakthroughs into\n\nreal-world products.\n\nInfluence Dolby’s long-term technology strategy through collaboration with product\n\nmanagers, program managers, and engineering teams worldwide.\n\nWhat You Bring (Required)\n\nProven research experience in multimodal AI, generative AI, computer vision, and\n\naudiovisual analysis\n\nStrong record of innovation, including patents and publications with first authorship\n\nin top conferences (CVPR, NeurIPS, ICLR, ICML, etc.)\n\nProven experience deploying AI systems at scale in production environments\nDemonstrated C/C++/Python programming and problem‑solving skills\nProven ability to manage, mentor, and inspire research teams.\nExcellent communication and cross-functional collaboration skills, with a track\n\nrecord of translating research into globally impactful products.\n\n8+ years of relevant research and industry experience. Candidates without a PhD are\n\nexpected to demonstrate additional depth and impact commensurate with the role\n\nWhat You Bring (Desired)\n\nExperience with GPU/CPU architectures, embedded systems, and SoC platforms for\n\nML/AI deployment.\n\nLearn more about our innovative research:\nhttps://www.dolby.com/about/innovation/empowering/\n\nThe San Francisco/Bay Area base salary range for this full-time position is,$204,000-$300,000, which can vary if outside this location, plus bonus, benefits, profit sharing and equity compensation Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, competencies, experience, market demands, internal parity, and relevant education or training. Your recruiter can share more about the specific salary range and perks and benefits for your location during the hiring process.\n\nDolby will consider qualified applicants with criminal histories in a manner consistent with the requirements of San Francisco Police Code, Article 49, and Administrative Code, Article 12\n\nEqual Employment Opportunity:\n\nDolby is proud to be an equal opportunity employer. Our success depends on the combined skills and talents of all our employees. We are committed to making employment decisions without regard to race, religious creed, color, age, sex, sexual orientation, gender identity, national origin, religion, marital status, family status, medical condition, disability, military service, pregnancy, childbirth and related medical conditions or any other classification protected by federal, state, and local laws and ordinances.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nComputers and Electronics Manufacturing",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "AVEVA",
+      "title": "Principal Research Scientist - Frontier Industrial AI",
+      "location": "San Leandro, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449795922/",
+      "date_posted": "2026-11-02",
+      "salary": "$213,500.00 - $355,500.00",
+      "ats": "LinkedIn",
+      "description": "AVEVA is creating software trusted by over 90% of leading industrial companies.\n\nSalary Range:\n\n$213,500.00 - $355,500.00\n\nThis pay range represents the minimum and maximum compensation that the position offers, and final compensation can vary within the range depending on work location, job experience, skills, and relevant educational attainment and/or training.\n\nPosition\n: Principal Research Scientist - Frontier Industrial AI\n\nLocation\n: San Leandro, CA, Boston, MA, New York, NY (hybrid)\n\nRole Type:\nIndividual contributor\n\nThe role\n\nAVEVA’s frontier AI research team, as part of the Chief Technologist Organization, focuses on developing the next generation of industrial intelligence. We are looking for exceptional researchers who combine original thinking with the ability to turn ambitious ideas into working systems.\n\nYou will define and pursue high-impact research questions, build experimental prototypes, publish influential work, and create defensible intellectual property. Research may span industrial foundation models for time-series and multimodal data, simulation and world models, trustworthy decision-support agents and staged autonomy, and AI-native approaches to industrial data foundations, ontology learning, and evaluation.\n\nThis is a hands-on role for someone who thrives in uncertain problem spaces, works with high autonomy, and finds practical ways to move difficult initiatives forward.\n\nWhat You Will Do\n\nDefine and lead ambitious research initiatives in frontier industrial AI.\nDevelop new models, algorithms, evaluation methods, and system architectures.\nBuild high-quality experimental systems and validated research prototypes.\nPublish at leading AI and machine learning venues and contribute to AVEVA’s patent and IP portfolio.\nCreate benchmarks, datasets, and evaluation frameworks for industrial AI.\nPartner with leading AI labs, universities, and technology organizations\nTake research from initial hypothesis through prototype and validation\nHelp shape AVEVA’s longer-term AI research direction and technical strategy.\n\nWhat We Are Looking For\n\nA PhD or equivalent research experience in machine learning, artificial intelligence, computer science, applied mathematics, engineering, or a related field.\nEvidence of original research through strong publications, patents, open-source work, prototypes, or other meaningful technical contributions.\nStrong hands-on ability in AI experimentation and software development.\nAbility to independently identify important problems, formulate research hypotheses, and execute projects with limited structure.\nDeep expertise in one or more areas such as foundation models, multimodal learning, time-series modeling, generative models, reinforcement learning, agentic systems, simulation, world models, representation learning, or AI evaluation.\nStrong scientific judgment and the ability to design rigorous experiments and communicate results clearly.\nHigh agency, intellectual curiosity, and a constructive problem-solving mindset.\nAbility to collaborate across research, engineering, product, and teams.\n\nPreferred Qualifications\n\nExperience working with industrial, manufacturing, energy, infrastructure, engineering, or scientific data.\nRecent publications at leading machine learning, AI, data mining, robotics, or systems venues.\nExperience developing models at scale or building complex research systems.\nExperience with simulation environments, digital twins, multimodal data, or industrial time series.\nA track record of initiating and advancing research projects with limited supervision.\nExceptional recent PhD graduates with a strong research record are encouraged to apply.\n\nUSA Benefits include:\n\nFlex work hours, 20 days PTO rising to 25 with service, three paid volunteering days, primary and secondary parental leave, well-being support, medical, dental, vision, and 401K.\n\nIt’s possible we’re hiring for this position in multiple countries, in which case the above benefits apply to the primary location. Specific benefits vary by country, but our packages are similarly comprehensive.\n\nFind out more: aveva.com/en/about/careers/benefits/\n\nHybrid working\n\nWe work in a hybrid way at AVEVA. Most roles are based at a local AVEVA office, with an expectation of being on-site 50% of your working hours to support collaboration and connection. Some positions are fully office-based depending on the nature of the work, and certain roles that support specific customers or markets may be remote. The working arrangement for this position will be confirmed during the hiring process.\n\nHiring process\n\nInterested? Great! Get started by submitting your cover letter and CV through our application portal. AVEVA is committed to recruiting and retaining people with disabilities. Please let us know in advance if you need reasonable support during your application process.\n\nFind out more: aveva.com/en/about/careers/hiring-process\n\nAbout AVEVA\n\nAVEVA is a global leader in industrial software with more than 6,500 employees in over 40 countries. Our cutting-edge solutions are used by thousands of enterprises to deliver the essentials of life – such as energy, infrastructure, chemicals, and minerals – safely, efficiently, and more sustainably.\n\nWe are committed to embedding sustainability and inclusion into our operations, our culture, and our core business strategy. Learn more about how we are progressing against our ambitious 2030 targets: sustainability-report.aveva.com/\n\nFind out more: aveva.com/en/about/careers/\n\nAVEVA requires all successful applicants to undergo and pass a drug screening and comprehensive background check before they start employment. Background checks will be conducted in accordance with local laws and may, subject to those laws, include proof of educational attainment, employment history verification, proof of work authorization, criminal records, identity verification, credit check. Certain positions dealing with sensitive and/or third-party personal data may involve additional background check criteria.\n\nAVEVA is an Equal Opportunity Employer. We are committed to being an exemplary employer with an inclusive culture, developing a workplace environment where all our employees are treated with dignity and respect. We value diversity and the expertise that people from different backgrounds bring to our business. AVEVA provides reasonable accommodation to applicants with disabilities where appropriate. If you need reasonable accommodation for any part of the application and hiring process, please notify your recruiter. Determinations on requests for reasonable accommodation will be made on a case-by-case basis.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 23.185,
+        "city": "san leandro",
+        "latitude": 37.703368,
+        "longitude": -122.163036,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Storm3",
+      "title": "Machine Learning Researcher",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484982052/",
+      "date_posted": "2026-11-02",
+      "salary": "$350,000.00/yr - $400,000.00/yr",
+      "ats": "LinkedIn",
+      "description": "⚡ AI Research - Pre-training, Post-training, Reinforcement Learning\n\n💡 Medical Imaging\n\n🌎 San Francisco (on-site)\n💸 $350k - $400k + equity\n\nJoin a high-growth Clinical AI\nstartup bringing frontier AI into real clinical practice\n. This is a hands-on research role\n, you'll own research end to end\non their vision foundation models\nand vision-language models\n(pretraining, post-training, RL, evals etc.), with models deployed to patients\n, not stuck in a lab.\n\nResponsibilities\n\nPretrain & scale foundation models\n(VFMs, VLMs)\nDevelop post-training & RL methods\n(reward models, RLHF etc.)\nTake ideas from 0 -> 1\nthrough large-scale distributed training\n\nPublish research\nand shape the direction of medical AI\n\nRequirements\n\nDeep expertise\nin Computer Vision, VLMs, VFMs, LLM post-training\nor RL\n\nExpert\nin Python, PyTorch\nor JAX\n\nLarge-scale distributed training\nexperience\nPhD or Publications\n(NeurIPS, ICML, CVPR etc. are a major plus)\n\nWhy apply?\n\nReal impact\n: models already live in clinical practice\nElite team\n: researchers from top AI labs (DeepMind, FAIR\netc .)\n\nProprietary data\n: one of the largest medical datasets\nin the industry\nTop-tier VC backing\n, recently out of stealth\nCompetitive base salary\n+ equity\n\n🌎 San Francisco, CA (on-site)\n📧 Interested in applying? Please click on the 'Easy Apply' button\n⚡ Storm3 is a HealthTech recruitment firm with clients across major Tech hubs in North America. To discuss open opportunities or career options, please visit our website at storm3.com and follow the Storm3 LinkedIn page for the latest jobs and intel\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nExecutive Search Services",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Physical Intelligence",
+      "title": "Research Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4395723767/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "We are looking for researchers with a record of excellent research results in the fields of machine learning and robotics, at all levels. Successful candidates will have both excellent fundamentals and excellent implementation skills, with a record of both system-building and fundamental conceptual, algorithmic, or theoretical advances. We welcome applications from both academic researchers and researchers with unconventional backgrounds.\n\nPursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nResearch Services",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Rivian",
+      "title": "Staff Research Engineer, Autonomy VLM",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4441365423/",
+      "date_posted": "2026-11-02",
+      "salary": "$228,00 - $285,000",
+      "ats": "LinkedIn",
+      "description": "About Rivian\n\nRivian is on a mission to keep the world adventurous forever. This goes for the emissions-free Electric Adventure Vehicles we build, and the curious, courageous souls we seek to attract.\n\nAs a company, we constantly challenge what’s possible, never simply accepting what has always been done. We reframe old problems, seek new solutions and operate comfortably in areas that are unknown. Our backgrounds are diverse, but our team shares a love of the outdoors and a desire to protect it for future generations.\n\nRole Summary\n\nVision-Language Models (VLMs) are a foundational pillar of our Autonomy stack. In this Staff\n\nResearch Engineer role, you will play a key role in delivering the overarching VLM strategy,\n\nespecially training, shipping, optimizing the VLM models, as well as extending to\n\nmulti-modalities and enabling new use cases, among others. In this role, you will also be\n\nresponsible to define and deliver VLM-driven solutions to solve some of autonomy's hardest\n\nchallenges, including automated data mining, handling long-tail distributions, rare edge-case\n\ndetection, and scene anomaly reasoning. As part of the model delivery, you will also own the\n\nwhole end-to-end lifecycle of VLM model delivery: data acquisition, metrics definition,\n\nbenchmarking, model performance optimization, deployment, feedback loop.\n\nResponsibilities\n\nDrive and deliver the VLM model strategy: Define, drive and execute the roadmap of\n\nVLM model delivery, including training and delivering VLM models, optimization,\n\ndeployment, as well as the extension to other multi-modalities.\n\nAccelerate data mining: Design and deliver VLM/LLM related models and strategies\n\nthat power automated data mining, long-tail distributions, rare/edge case detection, and\n\nanomaly detection at scale, across multiple modalities (vision, lidar, text, etc).\n\nIterate and optimize performance: Establish rigorous evaluation and monitoring\n\nbenchmarks. Identify and root-cause top-tier system anomalies, prioritizing high-impact\n\noptimizations to continuously push the needle on performance.\n\nCross-functional collaboration: Partner closely with core Autonomy teams\n\n(Perception, Planning, Calibration, Systems, etc) to translate vehicle feature\n\nrequirements into concrete ML deliverables.\n\nInfluence trade-offs & requirements: Define system requirements and guide\n\ncross-functional efforts through technical trade-off decisions.\n\nQualifications\n\nEducation: BS, MS, or PhD in Computer Science, Robotics, Electrical Engineering, or a\n\nhighly related quantitative field.\n\nExperience: 5+ years of professional experience scaling ML solutions, with a strong\n\nFocus On The Following\n\n○ VLM model training: Hands-on experience training or fine-tuning VLMs using\n\nmodern parameter-efficient techniques (LoRA, QLoRA) and RL alignment.\n\n○ Large-scale data mining: Proven track record developing VLM/LLM-related\n\ntechniques for data mining, long-tail distributions, rare cases, safety-critical\n\nevents.\n\n○ Zero/few-shot capabilities: Experience with open-vocabulary, zero-shot, or\n\nfew-shot classification models, particularly in long-tail scenarios.\n\n○ System engineering: Strong proficiency in Python alongside a solid\n\nunderstanding of modern Perception pipelines, benchmarking tools, and\n\ninfrastructure.\n\n○ Execution: Demonstrated ability to root-cause complex issues across a\n\ndistributed, cross-functional stack in a fast-paced environment.\n\nPreferred Qualifications\n\nExperience applying VLMs within the Autonomous Vehicle domain.\nExperience with Auto Prompt Optimization (APO) and automated prompt engineering\n\ntechniques.\n\nExperience with spatial grounding in 2D and/or 3D.\nExperience extending foundational models to extra modalities (e.g., LiDAR, Radar, IMU,\n\nego-motion).\n\nExperience utilizing VLMs or Foundation Models for complex behavior reasoning and\n\nplanning.\n\nExperience with onboard edge deployment, cloud inference architectures, and balancing\n\ncompute/efficiency trade-offs.\n\nExperience with quantization techniques (PTQ, QAT) and high-performance inference\n\nengines like TensorRT.\n\nPay Disclosure\n\nThe listed base salary range for this role is $228,00 - $285,000 for San Francisco Bay Area based applicants. This is the lowest to highest salary we in good faith believe we would pay for this role at the time of this posting. An employee’s position within the salary range will be based on several factors including, but not limited to, specific competencies, relevant education, qualifications, certifications, experience, skills, geographic location, shift, and organizational needs.\n\nWe offer a comprehensive package of benefits for full-time and part-time employees, their spouse or domestic partner, and children up to age 26, including but not limited to paid vacation, paid sick leave, and a competitive portfolio of insurance benefits including life, medical, dental, vision, short-term disability insurance, and long-term disability insurance to eligible employees. You may also have the opportunity to participate in Rivian’s 401(k) Plan and Employee Stock Purchase Program if you meet certain eligibility requirements. Full-time employee coverage is effective on their first day of employment. Part-time employee coverage is effective the first of the month following 90 days of employment. More information about benefits is available at rivianbenefits.com.\n\nEqual Opportunity\n\nRivian is an equal opportunity employer and complies with all applicable federal, state, and local fair employment practices laws. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, ancestry, sex, sexual orientation, gender, gender expression, gender identity, genetic information or characteristics, physical or mental disability, marital/domestic partner status, age, military/veteran status, medical condition, or any other characteristic protected by law.\n\nRivian is committed to ensuring that our hiring process is accessible for persons with disabilities. If you have a disability or limitation, such as those covered by the Americans with Disabilities Act, that requires accommodations to assist you in the search and application process, please email us at candidateaccommodations@rivian.com.\n\nCandidate Data Privacy and Technology\n\nRivian may collect, use and disclose your personal information or personal data (within the meaning of the applicable data protection laws) when you apply for employment and/or participate in our recruitment processes (“Candidate Personal Data”). This data includes contact, demographic, communications, educational, professional, employment, social media/website, network/device, recruiting system usage/interaction, security and preference information. Rivian may use your Candidate Personal Data for the purposes of (i) tracking interactions with our recruiting system; (ii) carrying out, analyzing and improving our application and recruitment process, including assessing you and your application and conducting employment, background and reference checks; (iii) establishing an employment relationship or entering into an employment contract with you; (iv) complying with our legal, regulatory and corporate governance obligations; (v) recordkeeping; (vi) ensuring network and information security and preventing fraud; and (vii) as otherwise required or permitted by applicable law.\n\nRivian may share your Candidate Personal Data with (i) internal personnel who have a need to know such information in order to perform their duties, including individuals on our People Team, Finance, Legal, and the team(s) with the position(s) for which you are applying; (ii) Rivian affiliates; and (iii) Rivian’s service providers, including providers of background checks, staffing services, and cloud services.\n\nRivian may transfer or store internationally your Candidate Personal Data, including to or in the United States, Canada, the United Kingdom, and the European Union and in the cloud, and this data may be subject to the laws and accessible to the courts, law enforcement and national security authorities of such jurisdictions.\n\nHow We Use AI in Our Hiring Process: To ensure transparency, we want candidates to know that Rivian uses iCIMS Talent Cloud Artificial Intelligence (TCAI) and AI-enabled tools to assist with screening, reviewing, organizing and highlighting profiles and applications that match the key requirements for each role.\n\nAI does not make hiring decisions: Qualified candidate applications are reviewed by a member of our team, and all decisions throughout the process are made by humans. We use AI to support efficiency and consistency, not to replace human judgment. We are committed to a fair, thoughtful, and equitable experience for every candidate.\n\nParticipation in AI profile matching is entirely voluntary. If you prefer that your profile not be used in this process, you can opt out at any time. Opting out means your profile will be excluded from automated matching and will not be surfaced for additional roles through this system. Your current application remains active and will not be affected in any way.\n\nPlease note that we are currently not accepting applications from third party application services.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nMotor Vehicle Manufacturing",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 6.453,
+        "city": "palo alto",
+        "latitude": 37.39652,
+        "longitude": -122.143088,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon Science",
+      "title": "Applied Scientist II, AWS Quick",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484333522/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Description\n\nCome join the AWS Agentic AI science team in building the next generation models for intelligent automation.\n\nAWS, the world-leading provider of cloud services, has fostered the creation and growth of countless new businesses, and is a positive force for good. Our customers bring problems that will give Applied Scientists like you endless opportunities to see your research have a positive and immediate impact in the world. You will have the opportunity to partner with technology and business teams to solve real-world problems, have access to virtually endless data and computational resources, and to world-class engineers and developers that can help bring your ideas into the world. As part of the team, we expect that you will develop innovative solutions to hard problems, and publish your findings at peer reviewed conferences and workshops.\n\nWe are looking for world class researchers with experience in one or more of the following areas - autonomous agents, API orchestration, Planning, large multimodal models (especially vision-language models), reinforcement learning (RL) and sequential decision making.\n\nDefine and implement new automated reasoning features that employ scalable and efficient approaches to solve complex problems using neural learning and symbolic/formal reasoning\nApply software engineering best practices to ensure a high standard of quality for all team deliverables\nWork in an agile, startup-like development environment\nDeliver high-quality scientific artifacts\nWork with the team to help drive business decisions\n\nAbout The Team\n\nWhy AWS?\n\nAWS is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.\n\nInclusive Team Culture\n\nHere at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon conferences, inspire us to never stop embracing our uniqueness.\n\nMentorship & Career Growth\n\nWe’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.\n\nWork/Life Balance\n\nWe value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.\n\nBasic Qualifications\n\n3+ years of building models for business application experience\nExperience in patents or publications at top-tier peer-reviewed conferences or journals\nExperience programming in Java, C++, Python or related language\nExperience in any of the following areas: algorithms and data structures, parsing, numerical optimization, data mining, parallel and distributed computing, high-performance computing\n\nPreferred Qualifications\n\nExperience using Unix/Linux\nExperience in professional software development\n\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\n\nLos Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n\nThe base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.\n\nUSA, CA, Santa Clara - 171,600.00 - 222,200.00 USD annually\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nResearch Services",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 3.522,
+        "city": "santa clara",
+        "latitude": 37.364621,
+        "longitude": -121.967973,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Acceler8 Talent",
+      "title": "Research Scientist - Robot Learning & RL",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484340926/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "🚨 Research Scientist – Robot Learning & Reinforcement Learning\n\n📍 Full-time onsite, Downtown San Francisco\n\nI’m working with a frontier AI research lab building low-latency models that help AI understand, act and cooperate with people in real time.\n\nStarting with games and simulation, they’re researching how agents learn, coordinate and adapt alongside humans—and how these capabilities could transfer into robotics.\n\nSupporters include Supercell, General Catalyst and South Park Commons, alongside participation in NVIDIA’s Inception Program.\n\nThis is an opportunity to own original research and help shape an early direction spanning reinforcement learning, embodied AI and human-robot collaboration.\n\nYou’ll work on:\n\nDeveloping policies using imitation learning, offline RL and online RL\nBuilding simulation environments and evaluations for control, planning and cooperation\nResearching world models, hierarchical policies and adaptation across tasks\nExploring transfer from games and simulation into robotics\nConnecting learned policies with perception, memory and conversational behavior\n\nRequirements:\n\n✅ PhD in robotics, ML, computer science or equivalent original research experience\n✅ Strong publications at venues such as NeurIPS, ICLR, ICML, CoRL, RSS, ICRA or IROS\n✅ Deep reinforcement learning knowledge and hands-on policy development\n✅ Strong Python and PyTorch skills\n✅ Experience with simulation, embodied learning, robotic control or interactive environments\n✅ Enthusiasm for exploratory research and full-time onsite work in San Francisco\n⭐ Imitation learning, world models, sim-to-real or human-AI cooperation experience is especially valuable.\n\n💰 Package: Up to $230K base salary + equity\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nStaffing and Recruiting",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Jack",
+      "title": "Founding AI Engineer (Vision-language models)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474978499/",
+      "date_posted": "2026-11-02",
+      "salary": "$180K to $230K",
+      "ats": "LinkedIn",
+      "description": "We're recruiting a Founding AI Engineer for an early-stage SF startup building AI smart glasses for field teams. Think technicians in data centers, energy and aerospace getting a co-pilot that sees what they see and walks them through the job.\n\nYou'd own the AI core: vision-language models running on real hardware, out in the field.\n\nWhat you'd own:\n\n• A production agentic VLM pipeline on the glasses: multi-step, tool-using visual reasoning against real inspections and procedures\n• The eval and data flywheel: eval harnesses, failure capture, and customer data feeding fine-tunes that make each release better\n• Edge inference and model orchestration that holds up when connectivity and latency get rough\n• Real-time voice and video interfaces for the glasses\n• Fine-tuning open models (SFT, RLHF, quantization) for on-prem deployments\n\nStack:\nPython, PyTorch, Hugging Face, vLLM, Triton, TensorRT, ONNX.\n\nYou're probably a fit if you have:\n\n• Hands-on training, fine-tuning or post-training of a vision-language or video model. Not just prompting or calling an API.\n• Done that work at a self-driving, robotics, AR, top AI lab or funded AI startup\n• About a year or more of that work, or a paper at a top venue\n• Built agent loops with real tool use, not just RAG or a chatbot\n• You're based in the US and can be in the SF office 5 days a week\n\nWho this isn't for:\n\n• IT services, consulting or non-tech enterprise backgrounds\n• A run of short startup stints under a year\n• Pure researchers who've never shipped to real users\n• Language-only LLM folks with no vision work\n• Anyone outside the US right now\n\nPay:\n$180K to $230K base plus 0.25% to 0.75% equity.\nVisa:\nOPT or H-1B transfers are fine. They can't sponsor a new visa.\n\nThis role is recruited by Jack. Apply and we'll set up a quick 15 minute call.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Snowflake",
+      "title": "Staff Research Scientist, AI Agents & LLMs",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4395262938/",
+      "date_posted": "2026-11-02",
+      "salary": "$200,000.00/yr - $287,500.00/yr",
+      "ats": "LinkedIn",
+      "description": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.\n\nTHE MISSION\n\nWe are seeking a Staff Research Scientist to serve as a technical pillar within our AI research organization. You will not just execute on roadmaps—you will define them.\n\nAt the intersection of autonomous agents and large language models (LLMs)\n, you will build the models and systems that turn enterprise data into self-directed, decision-making agents\n—shifting from passive data access to autonomous execution.\n\nOur team operates at the frontier of enterprise AI, delivering both state-of-the-art models and production systems\n, including:\n\nArctic LLM: Enterprise foundation models optimized for performance and efficiency\nArctic-Text2SQL: Post-trained reasoning models with frontier-level quality at a fraction of cost and latency\nSnowflake Intelligence: Brought research to production through agentic innovations in multi-step reasoning, Deep Research for structured and unstructured insights, and system optimization\nArctic Inference: High-performance LLM serving stack (Shift Parallelism, SwiftKV), open-sourced and powering Snowflake Cortex\nArctic Long-Context Training: Enables 1M+ token context training on a single H200 GPU\nAgent World Models (AWM): RL training across 1,000+ synthetic environments for tool-using agents\n\nWe focus on core challenges such as reliable reasoning, long-horizon planning, grounded generation, and scalable model and agent development\n.\n\nIN THIS ROLE, YOU WILL:\n\nDefine research direction in Agentic AI and LLMs\nDevelop models: train, fine-tune, and align models for enterprise reasoning and tool use\nAdvance autonomous agents: drive state-of-the-art capabilities in multi-step reasoning and tool use\nAdvance the stack: retrieval, grounding, memory, and multi-agent coordination\nEstablish evaluation standards for reliability, safety, and efficiency\nDrive research breakthroughs into production within Snowflake’s platform\nMentor and lead to amplify the team’s technical impact\nContribute to the field through publications and open source\n\nWE’RE LOOKING FOR:\n\nPh.D. in Computer Science or a related field with a strong publication record\nExpertise in LLM development (training, fine-tuning, alignment, or post-training)\nExperience with agentic systems (multi-agent systems, tool use, or agent optimization)\nStrong systems thinking under real-world constraints (latency, cost, reliability)\nProven technical leadership and end-to-end ownership\nAbility to translate research into impactful systems\n\nWHY SNOWFLAKE?\n\nFrontier AI, Full Stack\n\nWork across the full stack—from foundation models ( Arctic LLM, Arctic Text2SQL\n) to agent systems ( Snowflake Intelligence\n) and inference/training infrastructure ( Arctic Inference, Arctic Training\n).\n\nState-of-the-Art, Real Impact\n\nDrive cutting-edge research that ships—powered by massive enterprise data and production workloads.\n\nHard, Meaningful Problems\n\nBuild autonomous systems for reliable reasoning over enterprise data—where correctness, cost, and latency all matter.\n\nOpen Research Culture\n\nPublish, open-source, and help shape the field.\n\nSnowflake is growing fast, and we are scaling our team to accelerate AI innovation.\n\nAre you ready to build the brain for the Enterprise Data Cloud?\n\nEvery Snowflake employee is expected to follow the company’s confidentiality and security standards for handling sensitive data. Snowflake employees must abide by the company’s data security plan as an essential part of their duties. It is every employee's duty to keep customer information secure and confidential.\n\nSnowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.\n\nHow do you want to make your impact?\n\nFor jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com\n\nThe following represents the expected range of compensation for this role:\n\nThe estimated base salary range for this role is $200,000 - $287,500.\nAdditionally, this role is eligible to participate in Snowflake’s bonus and equity plan.\n\nThe successful candidate’s starting salary will be determined based on permissible, non-discriminatory factors such as skills, experience, and geographic location. This role is also eligible for a competitive benefits package that includes: medical, dental, vision, life, and disability insurance; 401(k) retirement plan; flexible spending & health savings account; at least 12 paid holidays; paid time off; parental leave; employee assistance program; and other company benefits.\n\nTo comply with pay transparency requirements and other statutes, you can notify us if you believe that a job posting is not compliant by completing this form.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 9.313,
+        "city": "menlo park",
+        "latitude": 37.479731,
+        "longitude": -122.148055,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Google",
+      "title": "Senior Business Data Scientist, AI/ML, Google Cloud",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485455902/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon",
+      "title": "Applied Scientist, PXT Central Science",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486159609/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Google",
+      "title": "Senior Business Data Scientist, AI/ML, Google Cloud",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485458771/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Netic",
+      "title": "Applied AI Research Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4354022361/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
       "geography": {
         "status": "in_radius",
         "distance_miles": 59.936,
@@ -635,10 +863,10 @@
     },
     {
       "company": "OpenAI",
-      "title": "Research Engineer, Privacy",
+      "title": "Research Engineer/Research Scientist - Personal AGI, North Stars",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417170164/",
-      "date_posted": "2026-11-01",
+      "url": "https://www.linkedin.com/jobs/view/4433053130/",
+      "date_posted": "2026-11-02",
       "salary": "",
       "ats": "LinkedIn",
       "geography": {
@@ -651,11 +879,96 @@
       }
     },
     {
-      "company": "Intuitive",
-      "title": "Sr. Clinical Research Engineer - Future Forward",
+      "company": "Enigma",
+      "title": "AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485751485/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 13.183,
+        "city": "san jose",
+        "latitude": 37.296011,
+        "longitude": -121.814552,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Creospan Inc.",
+      "title": "Research Engineer - Fundamental AI Research",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485781306/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 9.313,
+        "city": "menlo park",
+        "latitude": 37.479731,
+        "longitude": -122.148055,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Data Scientist - Agentic AI / ML",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484384357/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 3.522,
+        "city": "santa clara",
+        "latitude": 37.364621,
+        "longitude": -121.967973,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "CodeRound AI",
+      "title": "AI Researcher ($140K- 300K)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484340000/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Welocalize",
+      "title": "Project Perseus | Speech & Voice AI Analyst - German Speakers",
+      "location": "Burlingame, CA",
+      "url": "https://www.linkedin.com/jobs/view/4406257788/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 23.246,
+        "city": "burlingame",
+        "latitude": 37.589952,
+        "longitude": -122.363342,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Welocalize",
+      "title": "Project Perseus | Speech & Voice AI Analyst - German Speakers",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460556129/",
-      "date_posted": "2026-11-01",
+      "url": "https://www.linkedin.com/jobs/view/4406260575/",
+      "date_posted": "2026-11-02",
       "salary": "",
       "ats": "LinkedIn",
       "geography": {
@@ -664,6 +977,749 @@
         "city": "sunnyvale",
         "latitude": 37.385797,
         "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "SGS Consulting",
+      "title": "Senior Research Engineer",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485778190/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 9.313,
+        "city": "menlo park",
+        "latitude": 37.479731,
+        "longitude": -122.148055,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "MaxIT Consulting - Max Corporate Group",
+      "title": "Evals Research Engineer – LLM Agents & RL Environments",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485791215/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Creospan Inc.",
+      "title": "Research Engineer",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485781036/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 9.313,
+        "city": "menlo park",
+        "latitude": 37.479731,
+        "longitude": -122.148055,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Mistral",
+      "title": "AI Scientist, Agentic CAD (AI4Engineering)",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486447912/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 6.453,
+        "city": "palo alto",
+        "latitude": 37.39652,
+        "longitude": -122.143088,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Jiangsu Surun Talent Development Group Co., Ltd.",
+      "title": "Research Scientist",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486123579/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 13.183,
+        "city": "san jose",
+        "latitude": 37.296011,
+        "longitude": -121.814552,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Integrated Resources, Inc ( IRI )",
+      "title": "Research Scientist, Biomarker Sciences",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486403426/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 17.45,
+        "city": "foster city",
+        "latitude": 37.56482,
+        "longitude": -122.250782,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Mission Technologies, a division of HII",
+      "title": "NPS Research Engineer (Part Time) - 30667",
+      "location": "Monterey, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485774124/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 54.784,
+        "city": "monterey",
+        "latitude": 36.601193,
+        "longitude": -121.88311,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Applied Materials",
+      "title": "AI Materials Research Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484383415/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 3.522,
+        "city": "santa clara",
+        "latitude": 37.364621,
+        "longitude": -121.967973,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Scientist, Life Sciences (Computational Chemistry)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4482921206/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Scientist, Interpretability",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4322071943/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Tutor",
+      "title": "Senior Research Engineer, Robotics",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486424625/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Amazon Science",
+      "title": "Sr. Applied Scientist, AWS Specialists and Partner Prototyping",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484339331/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Description\n\nCore to Amazon's DNA is its methodology around executing experiments and prototypes to find the quickest way to prove new ideas, technologies, and business models in a real-world environment. Experimentation fuels Amazon's innovation.\n\nOur team does horizon exploration. We take emerging technology, including our own inventions, build working prototypes with customers and partners, and demonstrate what becomes possible before the rest of the market gets there. Prototyping is how we do the work. Pushing the technology horizon is why we do it.\n\nIf you are a highly creative problem solver who works to inspire, motivate, and define innovative solutions; are passionate about technology, understand cloud architectures and platforms, and are quick to pick up emerging technologies; are adept at working with customers to experiment with innovative approaches and validate the technical feasibility of solutions, this could be the role for you.\n\nAs a Senior Applied Scientist you sit directly with customers and partners. You help them envision complex uses of AWS by building working prototypes of specific use cases, tailored to their data, devices, and systems. Engagements run in short build cycles, typically four to six weeks, and are designed to be innovative and evaluative, demonstrating the art of the possible on AWS while proving a credible path to production.\n\nYou Will Work Across The Areas Where We Are Placing Our Biggest Bets. These Shift As The Technology Does, But Today They Include\n\nPhysical AI and autonomous robotics. World models, vision-language-action (VLA) models, cloud-based and agentic VLA, real-to-sim and sim-to-real pipelines, and agentic control of physical systems. We challenge the assumption that these models have to live only at the edge.\nAutonomous scientific discovery. Self-driving labs and instrument intelligence, where agents plan, run, and interpret experiments across fleets of scientific instruments.\nAgentic developer intelligence. Multi-agent systems, code agents, and automated research workflows that change how software gets built.\nScaling what we learn. Turning one-off prototypes into reusable patterns and assets the broader field can pick up and run with.\n\nYou will not just apply these techniques. You will help decide which bets are worth making and prove or disprove them in the open with real customer problems.\n\nKey job responsibilities\n\nAs a key member of the AWS Specialists and Partner Prototyping team, ensure customer success through hands-on participation producing and demonstrating prototypes on the AWS platform.\nParticipate in deep architectural and scientific design discussions to ensure prototypes are crafted for successful deployment in the cloud and a credible path to production.\nBring applied science depth to engagements: frame the problem, select and adapt models, design experiments, and judge technical feasibility honestly, including when the answer is that an approach will not work.\nConduct one-to-few and one-to-many training sessions to transfer knowledge to prototyping customers, partners, and internal business partners.\nAct as a thought leader for your area of domain expertise across AWS, and share best-practice knowledge among the community.\nAuthor or otherwise contribute to AWS customer-facing publications such as peer reviewed position papers, blogs, and reference patterns.\nAct as a technical liaison between customers, service engineering teams, and sales, carrying real-world signal back to the teams building the services.\n\nA day in the life\n\nNo two engagements look the same, which is the point. A typical week might include:\n\nRunning a working session with a customer's scientists and engineers to pressure-test an idea and agree on what a prototype needs to prove.\nWriting code and training or fine-tuning models in the lab, often against the customer's own data, devices, or robots.\nPairing with a prototyping SA and engagement manager, the standard pod you deliver alongside, to keep the build moving and the scope honest.\nDemonstrating a working prototype live and walking stakeholders through what it does, what it does not yet do, and what production would take.\nCapturing what you learned as a reusable pattern or publication so the next team does not start from zero.\nSpending time on the horizon itself: reading, experimenting with a new model or technique, and forming a point of view on where a bet is heading.\n\nYou will move between hands-on building and customer-facing explanation constantly. The best people in this role are equally comfortable in a research paper, a code editor, and a room full of executives.\n\nAbout The Team\n\nWhy AWS\n\nAmazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.\n\nUtility Computing (UC)\n\nAWS Utility Computing (UC) provides product innovations — from foundational services such as Amazon’s Simple Storage Service (S3) and Amazon Elastic Compute Cloud (EC2), to consistently released new product innovations that continue to set AWS’s services and features apart in the industry. As a member of the UC organization, you’ll support the development and management of Compute, Database, Storage, Internet of Things (IoT), Platform, and Productivity Apps services in AWS, including support for customers who require specialized security solutions for their cloud services.\n\nInclusive Team Culture\n\nHere at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) conferences, inspire us to never stop embracing our uniqueness.\n\nWork/Life Balance\n\nWe value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.\n\nMentorship and Career Growth\n\nWe’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.\n\nDiverse Experiences\n\nAmazon values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.\n\nBasic Qualifications\n\nPhD, or Master's degree and 5+ years of applied research experience\nExperience in building machine learning models for business application\nExperience programming in Java, C++, Python or related language\nExperience using managed ML/AI solutions\n\nPreferred Qualifications\n\nExperience conveying complex technical concepts to both technical and business audiences\nExperience working with Advanced Compute technologies including, but not limited to: Accelerated Compute, High Performance Compute, Visual/Spatial Compute, and/or IoT.\nExperience with vLLM, SGLang, TensorRT or similar platforms in production environments, or experience with Machine Learning and Large Language Model fundamentals, including architecture, training/inference lifecycles, and optimization of model execution\nExperience in developing and deploying LLMs in production on GPUs, Neuron, TPU or other AI acceleration hardware, or experience in machine learning, data mining, information retrieval, statistics or natural language processing\nExperience working with Robotics; training and deploying Vision Language Action (VLA) models, World Action models in simulation environments as well as real\n\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\n\nLos Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n\nThe base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.\n\nUSA, CA, Santa Clara - 192,200.00 - 260,000.00 USD annually\n\nUSA, NY, New York - 183,800.00 - 248,700.00 USD annually\n\nUSA, VA, Herndon - 167,100.00 - 226,100.00 USD annually\n\nUSA, WA, Seattle - 167,100.00 - 226,100.00 USD annually\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nResearch Services",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 3.522,
+        "city": "santa clara",
+        "latitude": 37.364621,
+        "longitude": -121.967973,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Dolby Laboratories",
+      "title": "Senior Staff AI Multimodal Researcher",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4393987686/",
+      "date_posted": "2026-11-02",
+      "salary": "$204,000-$300,000,",
+      "ats": "LinkedIn",
+      "description": "Join the leader in entertainment innovation and help us design the future. At Dolby, science meets art, and high tech means more than computer code. As a member of the Dolby team, you’ll see and hear the results of your work everywhere, from movie theaters to smartphones. We continue to revolutionize how people create, deliver, and enjoy entertainment worldwide. To do that, we need the absolute best talent. We’re big enough to give you all the resources you need, and small enough so you can make a real difference and earn recognition for your work. We offer a collegial culture, challenging projects, and excellent compensation and benefits, not to mention a Flex Work\napproach that is truly flexible to support where, when, and how you do your best work.\n\nThe Advanced Technology Group\n(ATG) is the research division of the company. ATG’s mission is to look ahead, deliver insights, and innovate technological solutions that will fuel Dolby’s continued growth. Our researchers have a broad range of expertise related to computer science and electrical engineering, such as AI/ML, algorithms, digital signal processing, audio engineering, image processing, computer vision, data science & analytics, distributed systems, cloud, edge & mobile computing, computer networking, and IoT.\n\nWhat You Will Accomplish\n\nAs a senior research leader in the Multimodal Experiences Lab, you will shape the future of\n\nDolby’s multimodal immersive technologies by focusing on three core areas:\n\nCutting-Edge Research\n\nYou will:\n\nLead hands-on research at the intersection of multimodal AI and immersive sensory\n\nexperiences.\n\nInvent and advance next-generation interactive and sensory technologies.\nDrive projects that enhance multimodal content creation, delivery, analysis, and\n\nrendering systems.\n\nCollaborate with global research teams to set research directions and fuel Dolby’s\n\nlicensing and cloud businesses.\n\nMentorship & Team Development\n\nYou will:\n\nGuide, grow, and mentor a high-performing team of researchers in multimodal\n\nunderstanding, delivery, and rendering.\n\nFoster an innovative, transparent, and results-oriented research culture.\nDevelop and nurture junior researchers into independent contributors and future\n\nleaders.\n\nTechnology Strategy & Collaboration\n\nYou will:\n\nDefine research roadmaps in partnership with ATG leaders and align resources to\n\nglobal initiatives.\n\nPartner closely with Dolby’s Business Groups to translate research breakthroughs into\n\nreal-world products.\n\nInfluence Dolby’s long-term technology strategy through collaboration with product\n\nmanagers, program managers, and engineering teams worldwide.\n\nWhat You Bring (Required)\n\nProven research experience in multimodal AI, generative AI, computer vision, and\n\naudiovisual analysis\n\nStrong record of innovation, including patents and publications with first authorship\n\nin top conferences (CVPR, NeurIPS, ICLR, ICML, etc.)\n\nProven experience deploying AI systems at scale in production environments\nDemonstrated C/C++/Python programming and problem‑solving skills\nProven ability to manage, mentor, and inspire research teams.\nExcellent communication and cross-functional collaboration skills, with a track\n\nrecord of translating research into globally impactful products.\n\n8+ years of relevant research and industry experience. Candidates without a PhD are\n\nexpected to demonstrate additional depth and impact commensurate with the role\n\nWhat You Bring (Desired)\n\nExperience with GPU/CPU architectures, embedded systems, and SoC platforms for\n\nML/AI deployment.\n\nLearn more about our innovative research:\nhttps://www.dolby.com/about/innovation/empowering/\n\nThe San Francisco/Bay Area base salary range for this full-time position is,$204,000-$300,000, which can vary if outside this location, plus bonus, benefits, profit sharing and equity compensation Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, competencies, experience, market demands, internal parity, and relevant education or training. Your recruiter can share more about the specific salary range and perks and benefits for your location during the hiring process.\n\nDolby will consider qualified applicants with criminal histories in a manner consistent with the requirements of San Francisco Police Code, Article 49, and Administrative Code, Article 12\n\nEqual Employment Opportunity:\n\nDolby is proud to be an equal opportunity employer. Our success depends on the combined skills and talents of all our employees. We are committed to making employment decisions without regard to race, religious creed, color, age, sex, sexual orientation, gender identity, national origin, religion, marital status, family status, medical condition, disability, military service, pregnancy, childbirth and related medical conditions or any other classification protected by federal, state, and local laws and ordinances.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nComputers and Electronics Manufacturing",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "AVEVA",
+      "title": "Principal Research Scientist - Frontier Industrial AI",
+      "location": "San Leandro, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449795922/",
+      "date_posted": "2026-11-02",
+      "salary": "$213,500.00 - $355,500.00",
+      "ats": "LinkedIn",
+      "description": "AVEVA is creating software trusted by over 90% of leading industrial companies.\n\nSalary Range:\n\n$213,500.00 - $355,500.00\n\nThis pay range represents the minimum and maximum compensation that the position offers, and final compensation can vary within the range depending on work location, job experience, skills, and relevant educational attainment and/or training.\n\nPosition\n: Principal Research Scientist - Frontier Industrial AI\n\nLocation\n: San Leandro, CA, Boston, MA, New York, NY (hybrid)\n\nRole Type:\nIndividual contributor\n\nThe role\n\nAVEVA’s frontier AI research team, as part of the Chief Technologist Organization, focuses on developing the next generation of industrial intelligence. We are looking for exceptional researchers who combine original thinking with the ability to turn ambitious ideas into working systems.\n\nYou will define and pursue high-impact research questions, build experimental prototypes, publish influential work, and create defensible intellectual property. Research may span industrial foundation models for time-series and multimodal data, simulation and world models, trustworthy decision-support agents and staged autonomy, and AI-native approaches to industrial data foundations, ontology learning, and evaluation.\n\nThis is a hands-on role for someone who thrives in uncertain problem spaces, works with high autonomy, and finds practical ways to move difficult initiatives forward.\n\nWhat You Will Do\n\nDefine and lead ambitious research initiatives in frontier industrial AI.\nDevelop new models, algorithms, evaluation methods, and system architectures.\nBuild high-quality experimental systems and validated research prototypes.\nPublish at leading AI and machine learning venues and contribute to AVEVA’s patent and IP portfolio.\nCreate benchmarks, datasets, and evaluation frameworks for industrial AI.\nPartner with leading AI labs, universities, and technology organizations\nTake research from initial hypothesis through prototype and validation\nHelp shape AVEVA’s longer-term AI research direction and technical strategy.\n\nWhat We Are Looking For\n\nA PhD or equivalent research experience in machine learning, artificial intelligence, computer science, applied mathematics, engineering, or a related field.\nEvidence of original research through strong publications, patents, open-source work, prototypes, or other meaningful technical contributions.\nStrong hands-on ability in AI experimentation and software development.\nAbility to independently identify important problems, formulate research hypotheses, and execute projects with limited structure.\nDeep expertise in one or more areas such as foundation models, multimodal learning, time-series modeling, generative models, reinforcement learning, agentic systems, simulation, world models, representation learning, or AI evaluation.\nStrong scientific judgment and the ability to design rigorous experiments and communicate results clearly.\nHigh agency, intellectual curiosity, and a constructive problem-solving mindset.\nAbility to collaborate across research, engineering, product, and teams.\n\nPreferred Qualifications\n\nExperience working with industrial, manufacturing, energy, infrastructure, engineering, or scientific data.\nRecent publications at leading machine learning, AI, data mining, robotics, or systems venues.\nExperience developing models at scale or building complex research systems.\nExperience with simulation environments, digital twins, multimodal data, or industrial time series.\nA track record of initiating and advancing research projects with limited supervision.\nExceptional recent PhD graduates with a strong research record are encouraged to apply.\n\nUSA Benefits include:\n\nFlex work hours, 20 days PTO rising to 25 with service, three paid volunteering days, primary and secondary parental leave, well-being support, medical, dental, vision, and 401K.\n\nIt’s possible we’re hiring for this position in multiple countries, in which case the above benefits apply to the primary location. Specific benefits vary by country, but our packages are similarly comprehensive.\n\nFind out more: aveva.com/en/about/careers/benefits/\n\nHybrid working\n\nWe work in a hybrid way at AVEVA. Most roles are based at a local AVEVA office, with an expectation of being on-site 50% of your working hours to support collaboration and connection. Some positions are fully office-based depending on the nature of the work, and certain roles that support specific customers or markets may be remote. The working arrangement for this position will be confirmed during the hiring process.\n\nHiring process\n\nInterested? Great! Get started by submitting your cover letter and CV through our application portal. AVEVA is committed to recruiting and retaining people with disabilities. Please let us know in advance if you need reasonable support during your application process.\n\nFind out more: aveva.com/en/about/careers/hiring-process\n\nAbout AVEVA\n\nAVEVA is a global leader in industrial software with more than 6,500 employees in over 40 countries. Our cutting-edge solutions are used by thousands of enterprises to deliver the essentials of life – such as energy, infrastructure, chemicals, and minerals – safely, efficiently, and more sustainably.\n\nWe are committed to embedding sustainability and inclusion into our operations, our culture, and our core business strategy. Learn more about how we are progressing against our ambitious 2030 targets: sustainability-report.aveva.com/\n\nFind out more: aveva.com/en/about/careers/\n\nAVEVA requires all successful applicants to undergo and pass a drug screening and comprehensive background check before they start employment. Background checks will be conducted in accordance with local laws and may, subject to those laws, include proof of educational attainment, employment history verification, proof of work authorization, criminal records, identity verification, credit check. Certain positions dealing with sensitive and/or third-party personal data may involve additional background check criteria.\n\nAVEVA is an Equal Opportunity Employer. We are committed to being an exemplary employer with an inclusive culture, developing a workplace environment where all our employees are treated with dignity and respect. We value diversity and the expertise that people from different backgrounds bring to our business. AVEVA provides reasonable accommodation to applicants with disabilities where appropriate. If you need reasonable accommodation for any part of the application and hiring process, please notify your recruiter. Determinations on requests for reasonable accommodation will be made on a case-by-case basis.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 23.185,
+        "city": "san leandro",
+        "latitude": 37.703368,
+        "longitude": -122.163036,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Storm3",
+      "title": "Machine Learning Researcher",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484982052/",
+      "date_posted": "2026-11-02",
+      "salary": "$350,000.00/yr - $400,000.00/yr",
+      "ats": "LinkedIn",
+      "description": "⚡ AI Research - Pre-training, Post-training, Reinforcement Learning\n\n💡 Medical Imaging\n\n🌎 San Francisco (on-site)\n💸 $350k - $400k + equity\n\nJoin a high-growth Clinical AI\nstartup bringing frontier AI into real clinical practice\n. This is a hands-on research role\n, you'll own research end to end\non their vision foundation models\nand vision-language models\n(pretraining, post-training, RL, evals etc.), with models deployed to patients\n, not stuck in a lab.\n\nResponsibilities\n\nPretrain & scale foundation models\n(VFMs, VLMs)\nDevelop post-training & RL methods\n(reward models, RLHF etc.)\nTake ideas from 0 -> 1\nthrough large-scale distributed training\n\nPublish research\nand shape the direction of medical AI\n\nRequirements\n\nDeep expertise\nin Computer Vision, VLMs, VFMs, LLM post-training\nor RL\n\nExpert\nin Python, PyTorch\nor JAX\n\nLarge-scale distributed training\nexperience\nPhD or Publications\n(NeurIPS, ICML, CVPR etc. are a major plus)\n\nWhy apply?\n\nReal impact\n: models already live in clinical practice\nElite team\n: researchers from top AI labs (DeepMind, FAIR\netc .)\n\nProprietary data\n: one of the largest medical datasets\nin the industry\nTop-tier VC backing\n, recently out of stealth\nCompetitive base salary\n+ equity\n\n🌎 San Francisco, CA (on-site)\n📧 Interested in applying? Please click on the 'Easy Apply' button\n⚡ Storm3 is a HealthTech recruitment firm with clients across major Tech hubs in North America. To discuss open opportunities or career options, please visit our website at storm3.com and follow the Storm3 LinkedIn page for the latest jobs and intel\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nExecutive Search Services",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Physical Intelligence",
+      "title": "Research Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4395723767/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "We are looking for researchers with a record of excellent research results in the fields of machine learning and robotics, at all levels. Successful candidates will have both excellent fundamentals and excellent implementation skills, with a record of both system-building and fundamental conceptual, algorithmic, or theoretical advances. We welcome applications from both academic researchers and researchers with unconventional backgrounds.\n\nPursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nResearch Services",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Rivian",
+      "title": "Staff Research Engineer, Autonomy VLM",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4441365423/",
+      "date_posted": "2026-11-02",
+      "salary": "$228,00 - $285,000",
+      "ats": "LinkedIn",
+      "description": "About Rivian\n\nRivian is on a mission to keep the world adventurous forever. This goes for the emissions-free Electric Adventure Vehicles we build, and the curious, courageous souls we seek to attract.\n\nAs a company, we constantly challenge what’s possible, never simply accepting what has always been done. We reframe old problems, seek new solutions and operate comfortably in areas that are unknown. Our backgrounds are diverse, but our team shares a love of the outdoors and a desire to protect it for future generations.\n\nRole Summary\n\nVision-Language Models (VLMs) are a foundational pillar of our Autonomy stack. In this Staff\n\nResearch Engineer role, you will play a key role in delivering the overarching VLM strategy,\n\nespecially training, shipping, optimizing the VLM models, as well as extending to\n\nmulti-modalities and enabling new use cases, among others. In this role, you will also be\n\nresponsible to define and deliver VLM-driven solutions to solve some of autonomy's hardest\n\nchallenges, including automated data mining, handling long-tail distributions, rare edge-case\n\ndetection, and scene anomaly reasoning. As part of the model delivery, you will also own the\n\nwhole end-to-end lifecycle of VLM model delivery: data acquisition, metrics definition,\n\nbenchmarking, model performance optimization, deployment, feedback loop.\n\nResponsibilities\n\nDrive and deliver the VLM model strategy: Define, drive and execute the roadmap of\n\nVLM model delivery, including training and delivering VLM models, optimization,\n\ndeployment, as well as the extension to other multi-modalities.\n\nAccelerate data mining: Design and deliver VLM/LLM related models and strategies\n\nthat power automated data mining, long-tail distributions, rare/edge case detection, and\n\nanomaly detection at scale, across multiple modalities (vision, lidar, text, etc).\n\nIterate and optimize performance: Establish rigorous evaluation and monitoring\n\nbenchmarks. Identify and root-cause top-tier system anomalies, prioritizing high-impact\n\noptimizations to continuously push the needle on performance.\n\nCross-functional collaboration: Partner closely with core Autonomy teams\n\n(Perception, Planning, Calibration, Systems, etc) to translate vehicle feature\n\nrequirements into concrete ML deliverables.\n\nInfluence trade-offs & requirements: Define system requirements and guide\n\ncross-functional efforts through technical trade-off decisions.\n\nQualifications\n\nEducation: BS, MS, or PhD in Computer Science, Robotics, Electrical Engineering, or a\n\nhighly related quantitative field.\n\nExperience: 5+ years of professional experience scaling ML solutions, with a strong\n\nFocus On The Following\n\n○ VLM model training: Hands-on experience training or fine-tuning VLMs using\n\nmodern parameter-efficient techniques (LoRA, QLoRA) and RL alignment.\n\n○ Large-scale data mining: Proven track record developing VLM/LLM-related\n\ntechniques for data mining, long-tail distributions, rare cases, safety-critical\n\nevents.\n\n○ Zero/few-shot capabilities: Experience with open-vocabulary, zero-shot, or\n\nfew-shot classification models, particularly in long-tail scenarios.\n\n○ System engineering: Strong proficiency in Python alongside a solid\n\nunderstanding of modern Perception pipelines, benchmarking tools, and\n\ninfrastructure.\n\n○ Execution: Demonstrated ability to root-cause complex issues across a\n\ndistributed, cross-functional stack in a fast-paced environment.\n\nPreferred Qualifications\n\nExperience applying VLMs within the Autonomous Vehicle domain.\nExperience with Auto Prompt Optimization (APO) and automated prompt engineering\n\ntechniques.\n\nExperience with spatial grounding in 2D and/or 3D.\nExperience extending foundational models to extra modalities (e.g., LiDAR, Radar, IMU,\n\nego-motion).\n\nExperience utilizing VLMs or Foundation Models for complex behavior reasoning and\n\nplanning.\n\nExperience with onboard edge deployment, cloud inference architectures, and balancing\n\ncompute/efficiency trade-offs.\n\nExperience with quantization techniques (PTQ, QAT) and high-performance inference\n\nengines like TensorRT.\n\nPay Disclosure\n\nThe listed base salary range for this role is $228,00 - $285,000 for San Francisco Bay Area based applicants. This is the lowest to highest salary we in good faith believe we would pay for this role at the time of this posting. An employee’s position within the salary range will be based on several factors including, but not limited to, specific competencies, relevant education, qualifications, certifications, experience, skills, geographic location, shift, and organizational needs.\n\nWe offer a comprehensive package of benefits for full-time and part-time employees, their spouse or domestic partner, and children up to age 26, including but not limited to paid vacation, paid sick leave, and a competitive portfolio of insurance benefits including life, medical, dental, vision, short-term disability insurance, and long-term disability insurance to eligible employees. You may also have the opportunity to participate in Rivian’s 401(k) Plan and Employee Stock Purchase Program if you meet certain eligibility requirements. Full-time employee coverage is effective on their first day of employment. Part-time employee coverage is effective the first of the month following 90 days of employment. More information about benefits is available at rivianbenefits.com.\n\nEqual Opportunity\n\nRivian is an equal opportunity employer and complies with all applicable federal, state, and local fair employment practices laws. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, ancestry, sex, sexual orientation, gender, gender expression, gender identity, genetic information or characteristics, physical or mental disability, marital/domestic partner status, age, military/veteran status, medical condition, or any other characteristic protected by law.\n\nRivian is committed to ensuring that our hiring process is accessible for persons with disabilities. If you have a disability or limitation, such as those covered by the Americans with Disabilities Act, that requires accommodations to assist you in the search and application process, please email us at candidateaccommodations@rivian.com.\n\nCandidate Data Privacy and Technology\n\nRivian may collect, use and disclose your personal information or personal data (within the meaning of the applicable data protection laws) when you apply for employment and/or participate in our recruitment processes (“Candidate Personal Data”). This data includes contact, demographic, communications, educational, professional, employment, social media/website, network/device, recruiting system usage/interaction, security and preference information. Rivian may use your Candidate Personal Data for the purposes of (i) tracking interactions with our recruiting system; (ii) carrying out, analyzing and improving our application and recruitment process, including assessing you and your application and conducting employment, background and reference checks; (iii) establishing an employment relationship or entering into an employment contract with you; (iv) complying with our legal, regulatory and corporate governance obligations; (v) recordkeeping; (vi) ensuring network and information security and preventing fraud; and (vii) as otherwise required or permitted by applicable law.\n\nRivian may share your Candidate Personal Data with (i) internal personnel who have a need to know such information in order to perform their duties, including individuals on our People Team, Finance, Legal, and the team(s) with the position(s) for which you are applying; (ii) Rivian affiliates; and (iii) Rivian’s service providers, including providers of background checks, staffing services, and cloud services.\n\nRivian may transfer or store internationally your Candidate Personal Data, including to or in the United States, Canada, the United Kingdom, and the European Union and in the cloud, and this data may be subject to the laws and accessible to the courts, law enforcement and national security authorities of such jurisdictions.\n\nHow We Use AI in Our Hiring Process: To ensure transparency, we want candidates to know that Rivian uses iCIMS Talent Cloud Artificial Intelligence (TCAI) and AI-enabled tools to assist with screening, reviewing, organizing and highlighting profiles and applications that match the key requirements for each role.\n\nAI does not make hiring decisions: Qualified candidate applications are reviewed by a member of our team, and all decisions throughout the process are made by humans. We use AI to support efficiency and consistency, not to replace human judgment. We are committed to a fair, thoughtful, and equitable experience for every candidate.\n\nParticipation in AI profile matching is entirely voluntary. If you prefer that your profile not be used in this process, you can opt out at any time. Opting out means your profile will be excluded from automated matching and will not be surfaced for additional roles through this system. Your current application remains active and will not be affected in any way.\n\nPlease note that we are currently not accepting applications from third party application services.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nMotor Vehicle Manufacturing",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 6.453,
+        "city": "palo alto",
+        "latitude": 37.39652,
+        "longitude": -122.143088,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon Science",
+      "title": "Applied Scientist II, AWS Quick",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484333522/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Description\n\nCome join the AWS Agentic AI science team in building the next generation models for intelligent automation.\n\nAWS, the world-leading provider of cloud services, has fostered the creation and growth of countless new businesses, and is a positive force for good. Our customers bring problems that will give Applied Scientists like you endless opportunities to see your research have a positive and immediate impact in the world. You will have the opportunity to partner with technology and business teams to solve real-world problems, have access to virtually endless data and computational resources, and to world-class engineers and developers that can help bring your ideas into the world. As part of the team, we expect that you will develop innovative solutions to hard problems, and publish your findings at peer reviewed conferences and workshops.\n\nWe are looking for world class researchers with experience in one or more of the following areas - autonomous agents, API orchestration, Planning, large multimodal models (especially vision-language models), reinforcement learning (RL) and sequential decision making.\n\nDefine and implement new automated reasoning features that employ scalable and efficient approaches to solve complex problems using neural learning and symbolic/formal reasoning\nApply software engineering best practices to ensure a high standard of quality for all team deliverables\nWork in an agile, startup-like development environment\nDeliver high-quality scientific artifacts\nWork with the team to help drive business decisions\n\nAbout The Team\n\nWhy AWS?\n\nAWS is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.\n\nInclusive Team Culture\n\nHere at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon conferences, inspire us to never stop embracing our uniqueness.\n\nMentorship & Career Growth\n\nWe’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.\n\nWork/Life Balance\n\nWe value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.\n\nBasic Qualifications\n\n3+ years of building models for business application experience\nExperience in patents or publications at top-tier peer-reviewed conferences or journals\nExperience programming in Java, C++, Python or related language\nExperience in any of the following areas: algorithms and data structures, parsing, numerical optimization, data mining, parallel and distributed computing, high-performance computing\n\nPreferred Qualifications\n\nExperience using Unix/Linux\nExperience in professional software development\n\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\n\nLos Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n\nThe base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.\n\nUSA, CA, Santa Clara - 171,600.00 - 222,200.00 USD annually\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nResearch Services",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 3.522,
+        "city": "santa clara",
+        "latitude": 37.364621,
+        "longitude": -121.967973,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Acceler8 Talent",
+      "title": "Research Scientist - Robot Learning & RL",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484340926/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "🚨 Research Scientist – Robot Learning & Reinforcement Learning\n\n📍 Full-time onsite, Downtown San Francisco\n\nI’m working with a frontier AI research lab building low-latency models that help AI understand, act and cooperate with people in real time.\n\nStarting with games and simulation, they’re researching how agents learn, coordinate and adapt alongside humans—and how these capabilities could transfer into robotics.\n\nSupporters include Supercell, General Catalyst and South Park Commons, alongside participation in NVIDIA’s Inception Program.\n\nThis is an opportunity to own original research and help shape an early direction spanning reinforcement learning, embodied AI and human-robot collaboration.\n\nYou’ll work on:\n\nDeveloping policies using imitation learning, offline RL and online RL\nBuilding simulation environments and evaluations for control, planning and cooperation\nResearching world models, hierarchical policies and adaptation across tasks\nExploring transfer from games and simulation into robotics\nConnecting learned policies with perception, memory and conversational behavior\n\nRequirements:\n\n✅ PhD in robotics, ML, computer science or equivalent original research experience\n✅ Strong publications at venues such as NeurIPS, ICLR, ICML, CoRL, RSS, ICRA or IROS\n✅ Deep reinforcement learning knowledge and hands-on policy development\n✅ Strong Python and PyTorch skills\n✅ Experience with simulation, embodied learning, robotic control or interactive environments\n✅ Enthusiasm for exploratory research and full-time onsite work in San Francisco\n⭐ Imitation learning, world models, sim-to-real or human-AI cooperation experience is especially valuable.\n\n💰 Package: Up to $230K base salary + equity\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nStaffing and Recruiting",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Jack",
+      "title": "Founding AI Engineer (Vision-language models)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474978499/",
+      "date_posted": "2026-11-02",
+      "salary": "$180K to $230K",
+      "ats": "LinkedIn",
+      "description": "We're recruiting a Founding AI Engineer for an early-stage SF startup building AI smart glasses for field teams. Think technicians in data centers, energy and aerospace getting a co-pilot that sees what they see and walks them through the job.\n\nYou'd own the AI core: vision-language models running on real hardware, out in the field.\n\nWhat you'd own:\n\n• A production agentic VLM pipeline on the glasses: multi-step, tool-using visual reasoning against real inspections and procedures\n• The eval and data flywheel: eval harnesses, failure capture, and customer data feeding fine-tunes that make each release better\n• Edge inference and model orchestration that holds up when connectivity and latency get rough\n• Real-time voice and video interfaces for the glasses\n• Fine-tuning open models (SFT, RLHF, quantization) for on-prem deployments\n\nStack:\nPython, PyTorch, Hugging Face, vLLM, Triton, TensorRT, ONNX.\n\nYou're probably a fit if you have:\n\n• Hands-on training, fine-tuning or post-training of a vision-language or video model. Not just prompting or calling an API.\n• Done that work at a self-driving, robotics, AR, top AI lab or funded AI startup\n• About a year or more of that work, or a paper at a top venue\n• Built agent loops with real tool use, not just RAG or a chatbot\n• You're based in the US and can be in the SF office 5 days a week\n\nWho this isn't for:\n\n• IT services, consulting or non-tech enterprise backgrounds\n• A run of short startup stints under a year\n• Pure researchers who've never shipped to real users\n• Language-only LLM folks with no vision work\n• Anyone outside the US right now\n\nPay:\n$180K to $230K base plus 0.25% to 0.75% equity.\nVisa:\nOPT or H-1B transfers are fine. They can't sponsor a new visa.\n\nThis role is recruited by Jack. Apply and we'll set up a quick 15 minute call.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Snowflake",
+      "title": "Staff Research Scientist, AI Agents & LLMs",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4395262938/",
+      "date_posted": "2026-11-02",
+      "salary": "$200,000.00/yr - $287,500.00/yr",
+      "ats": "LinkedIn",
+      "description": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.\n\nTHE MISSION\n\nWe are seeking a Staff Research Scientist to serve as a technical pillar within our AI research organization. You will not just execute on roadmaps—you will define them.\n\nAt the intersection of autonomous agents and large language models (LLMs)\n, you will build the models and systems that turn enterprise data into self-directed, decision-making agents\n—shifting from passive data access to autonomous execution.\n\nOur team operates at the frontier of enterprise AI, delivering both state-of-the-art models and production systems\n, including:\n\nArctic LLM: Enterprise foundation models optimized for performance and efficiency\nArctic-Text2SQL: Post-trained reasoning models with frontier-level quality at a fraction of cost and latency\nSnowflake Intelligence: Brought research to production through agentic innovations in multi-step reasoning, Deep Research for structured and unstructured insights, and system optimization\nArctic Inference: High-performance LLM serving stack (Shift Parallelism, SwiftKV), open-sourced and powering Snowflake Cortex\nArctic Long-Context Training: Enables 1M+ token context training on a single H200 GPU\nAgent World Models (AWM): RL training across 1,000+ synthetic environments for tool-using agents\n\nWe focus on core challenges such as reliable reasoning, long-horizon planning, grounded generation, and scalable model and agent development\n.\n\nIN THIS ROLE, YOU WILL:\n\nDefine research direction in Agentic AI and LLMs\nDevelop models: train, fine-tune, and align models for enterprise reasoning and tool use\nAdvance autonomous agents: drive state-of-the-art capabilities in multi-step reasoning and tool use\nAdvance the stack: retrieval, grounding, memory, and multi-agent coordination\nEstablish evaluation standards for reliability, safety, and efficiency\nDrive research breakthroughs into production within Snowflake’s platform\nMentor and lead to amplify the team’s technical impact\nContribute to the field through publications and open source\n\nWE’RE LOOKING FOR:\n\nPh.D. in Computer Science or a related field with a strong publication record\nExpertise in LLM development (training, fine-tuning, alignment, or post-training)\nExperience with agentic systems (multi-agent systems, tool use, or agent optimization)\nStrong systems thinking under real-world constraints (latency, cost, reliability)\nProven technical leadership and end-to-end ownership\nAbility to translate research into impactful systems\n\nWHY SNOWFLAKE?\n\nFrontier AI, Full Stack\n\nWork across the full stack—from foundation models ( Arctic LLM, Arctic Text2SQL\n) to agent systems ( Snowflake Intelligence\n) and inference/training infrastructure ( Arctic Inference, Arctic Training\n).\n\nState-of-the-Art, Real Impact\n\nDrive cutting-edge research that ships—powered by massive enterprise data and production workloads.\n\nHard, Meaningful Problems\n\nBuild autonomous systems for reliable reasoning over enterprise data—where correctness, cost, and latency all matter.\n\nOpen Research Culture\n\nPublish, open-source, and help shape the field.\n\nSnowflake is growing fast, and we are scaling our team to accelerate AI innovation.\n\nAre you ready to build the brain for the Enterprise Data Cloud?\n\nEvery Snowflake employee is expected to follow the company’s confidentiality and security standards for handling sensitive data. Snowflake employees must abide by the company’s data security plan as an essential part of their duties. It is every employee's duty to keep customer information secure and confidential.\n\nSnowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.\n\nHow do you want to make your impact?\n\nFor jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com\n\nThe following represents the expected range of compensation for this role:\n\nThe estimated base salary range for this role is $200,000 - $287,500.\nAdditionally, this role is eligible to participate in Snowflake’s bonus and equity plan.\n\nThe successful candidate’s starting salary will be determined based on permissible, non-discriminatory factors such as skills, experience, and geographic location. This role is also eligible for a competitive benefits package that includes: medical, dental, vision, life, and disability insurance; 401(k) retirement plan; flexible spending & health savings account; at least 12 paid holidays; paid time off; parental leave; employee assistance program; and other company benefits.\n\nTo comply with pay transparency requirements and other statutes, you can notify us if you believe that a job posting is not compliant by completing this form.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 9.313,
+        "city": "menlo park",
+        "latitude": 37.479731,
+        "longitude": -122.148055,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Google",
+      "title": "Senior Business Data Scientist, AI/ML, Google Cloud",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485455902/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon",
+      "title": "Applied Scientist, PXT Central Science",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486159609/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Google",
+      "title": "Senior Business Data Scientist, AI/ML, Google Cloud",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485458771/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Netic",
+      "title": "Applied AI Research Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4354022361/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "OpenAI",
+      "title": "Research Engineer/Research Scientist - Personal AGI, North Stars",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4433053130/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Enigma",
+      "title": "AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485751485/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 13.183,
+        "city": "san jose",
+        "latitude": 37.296011,
+        "longitude": -121.814552,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Creospan Inc.",
+      "title": "Research Engineer - Fundamental AI Research",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485781306/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 9.313,
+        "city": "menlo park",
+        "latitude": 37.479731,
+        "longitude": -122.148055,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Data Scientist - Agentic AI / ML",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484384357/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 3.522,
+        "city": "santa clara",
+        "latitude": 37.364621,
+        "longitude": -121.967973,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "CodeRound AI",
+      "title": "AI Researcher ($140K- 300K)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484340000/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Welocalize",
+      "title": "Project Perseus | Speech & Voice AI Analyst - German Speakers",
+      "location": "Burlingame, CA",
+      "url": "https://www.linkedin.com/jobs/view/4406257788/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 23.246,
+        "city": "burlingame",
+        "latitude": 37.589952,
+        "longitude": -122.363342,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Welocalize",
+      "title": "Project Perseus | Speech & Voice AI Analyst - German Speakers",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4406260575/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "SGS Consulting",
+      "title": "Senior Research Engineer",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485778190/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 9.313,
+        "city": "menlo park",
+        "latitude": 37.479731,
+        "longitude": -122.148055,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "MaxIT Consulting - Max Corporate Group",
+      "title": "Evals Research Engineer – LLM Agents & RL Environments",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485791215/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Creospan Inc.",
+      "title": "Research Engineer",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485781036/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 9.313,
+        "city": "menlo park",
+        "latitude": 37.479731,
+        "longitude": -122.148055,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Mistral",
+      "title": "AI Scientist, Agentic CAD (AI4Engineering)",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486447912/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 6.453,
+        "city": "palo alto",
+        "latitude": 37.39652,
+        "longitude": -122.143088,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Jiangsu Surun Talent Development Group Co., Ltd.",
+      "title": "Research Scientist",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486123579/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 13.183,
+        "city": "san jose",
+        "latitude": 37.296011,
+        "longitude": -121.814552,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Integrated Resources, Inc ( IRI )",
+      "title": "Research Scientist, Biomarker Sciences",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486403426/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 17.45,
+        "city": "foster city",
+        "latitude": 37.56482,
+        "longitude": -122.250782,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Mission Technologies, a division of HII",
+      "title": "NPS Research Engineer (Part Time) - 30667",
+      "location": "Monterey, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485774124/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 54.784,
+        "city": "monterey",
+        "latitude": 36.601193,
+        "longitude": -121.88311,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Applied Materials",
+      "title": "AI Materials Research Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484383415/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 3.522,
+        "city": "santa clara",
+        "latitude": 37.364621,
+        "longitude": -121.967973,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Scientist, Life Sciences (Computational Chemistry)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4482921206/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Scientist, Interpretability",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4322071943/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Tutor",
+      "title": "Senior Research Engineer, Robotics",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486424625/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
     }
@@ -727,12 +1783,98 @@
         "distance_miles": null,
         "reason": "An unambiguous city and state are required."
       }
+    },
+    {
+      "company": "Nuro",
+      "title": "Senior/Staff Machine Learning Research Scientist: Generative Modeling for Planning",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/3977107880/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Who We Are\n\nNuro believes self-driving vehicles are the most immediate and profound opportunity for AI to drive positive change in the physical world. Safer streets, more time for what matters, and easier access to the world around us, that’s why we’re building a universal autonomy platform: self-driving for all roads and all rides.\n\nFounded in 2016, Nuro is a physical AI company developing Level 4 autonomous driving technology for a wide range of vehicles, use cases, and markets. Powered by the Nuro Driver™, our universal autonomy platform enables the global mobility ecosystem to deploy autonomy at scale, from robotaxis and logistics fleets to personal vehicles.\n\nWith years of real-world deployment experience and a flexible, partner-led business model, Nuro is working toward a future where millions of autonomous vehicles powered by our technology help make everyday life safer, easier, and more connected.\n\nNuro has raised over $2B in capital from Uber, NVIDIA, Google, Softbank, Fidelity, T. Rowe Price, and other leading investors.\n\nAbout The Role\n\nIn this role, you will collaborate closely with researchers and engineers on the Learned Behavior teams to tackle plan generation challenges in autonomous driving. You’ll apply state-of-the-art generative modeling techniques—ranging from cutting-edge diffusion, flow matching, energy-based models, and SoTA algorithms—in order to develop novel solutions that generate safe, comfortable, and efficient driving behaviors in the most challenging real world situations. Beyond core research, you’ll own the end-to-end lifecycle of your models, productizing them for robust, real-world autonomous driving deployments on a global scale.\n\nAbout The Work\n\nDevelop and scale state-of-the-art generative models—especially diffusion architectures, flow-matching techniques, and energy-based models —for autonomous plan generation.\nBuild generative models with foundation models. Leverage large language models and world foundation models for reasoning, decision making and multi-modality generation.\nOptimize generative models using reinforcement learning to improve interactive reasoning. Explore reward modeling/learned verifier using generative models. Explore joint prediction and planning and self-play. Leverage generative models for active learning and world modeling.\nDevelop controllable generative models to guide the generation process towards desired goals, conditions and rewards.\nCollaborate across autonomy teams while developing holistic solutions to top autonomy challenges. Understand issues, propose ideas, prioritize work and develop solutions to solve them, evaluate your solution by deploying the models on to the NuroDriver.\n\nAbout You\n\nYou have deep expertise and prior experience in some or many of the following areas:\n\nYou have a Ph.D. (preferable) or M.Sc. with 3+ years of experience working with generative models in the lab, in industry, or both.\nResearch experiences in generative models, particularly diffusion models, flow matching and energy-based models, for robotics, including manipulation, path planning, and autonomous driving. Experiences in vision-language-action models, reinforcement learning for generative model optimization, video generation, text-to-image generation, diffusion models for LLMs, world foundation models, and other applications of generative modeling are a bonus!\nYou have strong problem solving and programming skills in Python and/or C++\nStrong culture fit and good team player.\n\nDemonstrated research publications in top conferences (e.g. NeurIPS, ICLR, ICML, CVPR, RSS, CoRL etc.)\n\nAt Nuro, your base pay is one part of your total compensation package. For this position, the reasonably expected pay range is between $193,930 and $352,290/year for the level at which this job has been scoped. Your base pay will depend on several factors, including your experience, qualifications, education, location, and skills. In the event that you are considered for a different level, a higher or lower pay range would apply. This position is also eligible for an annual performance bonus, equity, and a competitive benefits package.\n\nAt Nuro, we celebrate differences and are committed to a diverse workplace that fosters inclusion and psychological safety for all employees. Nuro is proud to be an equal opportunity employer and expressly prohibits any form of workplace discrimination based on race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, veteran status, or any other legally protected characteristics.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "City is unknown or has multiple Census locations."
+      }
+    },
+    {
+      "company": "The Biological Computing Co. (TBC)",
+      "title": "Staff AI Researcher",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4486442513/",
+      "date_posted": "2026-11-02",
+      "salary": "$300,000.00/yr - $345,000.00/yr",
+      "ats": "LinkedIn",
+      "description": "About TBC\n\nThe Biological Computing Co. (TBC) is an applied biological computing company that uses real neurons to improve AI models.\nWe study how biological neural networks process information, extract useful computational principles and translate those insights into software that makes modern AI models better, faster and more efficient. Our Algorithm Discovery Platform brings together biology, computational neuroscience, AI research and software engineering to develop new algorithms, architectures and neurally-optimized software for generative video and next-generation AI infrastructure.\nToday, we are commercializing neurally optimized models that run on conventional GPU and cloud infrastructure. Longer term, we are building toward real-time biological compute, where real neurons operate alongside silicon as part of the compute stack.\nOur interdisciplinary team includes researchers and engineers with experience at Apple, Johns Hopkins, Meta, MIT, Stanford and other leading institutions.\n\nAbout the Role\n\nWe are building next-generation video generation models that enable robots to learn, plan, and act through imagined futures.\nAs a Staff AI Researcher you will help set the technical direction for one of TBC’s core research and product areas. You will make high-leverage architectural decisions, anticipate modeling and scaling risks, and partner closely with the founders and product team to translate research into deployable systems. This is a hands-on technical leadership role for someone who can solve foundational research problems while raising the output of the broader team.\nYou will work closely with TBC’s founders, AI researchers, computational neuroscientists, biologists, engineers and product leaders. You will also help translate computational principles discovered through experiments on living neural networks into new video-model architectures, learning approaches and software systems.\n\nWhat You’ll Work On\n\nSet the technical direction for TBC’s generative video modeling platform, including core modeling, training, evaluation, and deployment decisions\nDesign video generation models that support expressive latent representations, stable rollouts, and control-oriented prediction\nImprove long-horizon rollout fidelity under autoregressive use, not just one-step accuracy\nIntegrate video priors, physical structure, or object-centric representations into control systems\nAnticipate architectural and scaling bottlenecks before they constrain research or deployment\nEstablish technical standards, guide key research decisions, and multiply team output through mentorship and collaboration\n\nWhat We’re Looking For\n\nStrong background in machine learning, computer vision, robotics, or a related field\nDeep experience with one or more of the following:\nGenerative models, including diffusion, autoregressive video, or sequence models\nModel-based reinforcement learning or planning\nSystem identification, physics-informed learning, or simulation\nStrong technical judgment and a track record of making consequential architectural or research decisions\nAbility to reason clearly about failure modes in long-horizon prediction and control\nExperience taking ambiguous research problems from first principles through implementation and evaluation\nComfortable working across the stack, including modeling, training systems, evaluation, and deployment\nAbility to partner closely with founders, product leaders, and researchers to define priorities and convert research into product capability\nEvidence of improving the effectiveness and technical output of the people around you\nDeep expertise in computer vision and generative modeling\nHands-on experience with diffusion models, autoregressive video models, or related generative architectures\nExperience designing and scaling novel research systems rather than only applying established approaches\n\nWhat Success Looks Like\n\nTBC has a clear and scalable technical direction for its video generation-modeling platform\nVideo generation models remain coherent and useful under their own long-horizon rollouts\nPolicies learn faster or generalize better by training inside learned simulators\nKey architectural and scaling risks are identified and addressed early\nResearch decisions translate into measurable product and platform progress\nThe broader team moves faster and makes stronger technical decisions because of your leadership\nThe team develops a clear understanding of when generative video models help—and when they do not\n\nPreferred Qualifications\n\nPhD or MS in Computer Science, Robotics, Machine Learning, or a related field\nResearch or industry experience in video generation models, embodied AI, generative video, robot learning, or learned simulation\nExperience training policies inside learned simulators or over imagined trajectories\nExperience with action-conditioned video prediction or controllable generative models\nExperience connecting learned models to real robotic systems\nFamiliarity with latent-action models, cross-embodiment learning, or learning from human video\nExperience with object-centric representations, physical priors, or structured dynamics models\nExperience with digital twins, sim-to-real transfer, online adaptation, or closed-loop data collection\nExperience scaling research systems across large datasets or distributed training environments\nPublications at leading machine-learning, computer-vision, or robotics venues\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "An unambiguous city and state are required."
+      }
+    },
+    {
+      "company": "DeepRec.ai",
+      "title": "Machine Learning Researcher, Agentic RL",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4486184892/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "An unambiguous city and state are required."
+      }
+    },
+    {
+      "company": "DeepRec.ai",
+      "title": "Machine Learning Researcher, TTS",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4486197192/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "An unambiguous city and state are required."
+      }
+    },
+    {
+      "company": "Harrison Clarke",
+      "title": "Research Scientist",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4468308881/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "An unambiguous city and state are required."
+      }
+    },
+    {
+      "company": "Harrison Clarke",
+      "title": "Research Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4477817233/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "An unambiguous city and state are required."
+      }
     }
   ],
   "geographic_counts": {
-    "in_radius": 34,
+    "in_radius": 66,
     "remote": 0,
-    "ambiguous": 4,
+    "ambiguous": 10,
     "outside_radius": 0
   }
 }
