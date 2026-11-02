@@ -737,3 +737,4 @@
 {"job_count": 0, "run_attempt": "1", "run_id": "41545346010", "scrape": {"errors": 0, "queries": 25, "raw_rows": 0, "status": "empty"}, "timestamp": "2026-11-02T23:26:16Z", "workflow": "glassdoor"}
 {"job_count": 0, "run_attempt": "1", "run_id": "41546932612", "scrape": {"errors": 0, "queries": 25, "raw_rows": 0, "status": "empty"}, "timestamp": "2026-11-02T23:39:22Z", "workflow": "ziprecruiter"}
 {"job_count": 0, "run_attempt": "1", "run_id": "41547195564", "scrape": {"errors": 0, "queries": 155, "raw_rows": 0, "status": "empty"}, "timestamp": "2026-11-02T23:41:40Z", "workflow": "google_jobs"}
+{"job_count": 0, "run_attempt": "1", "run_id": "41548243001", "scrape": {"raw_rows": 0, "status": "empty"}, "timestamp": "2026-11-02T23:49:08Z", "workflow": "hiringcafe"}
