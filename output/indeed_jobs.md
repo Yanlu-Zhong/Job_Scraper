@@ -1,44 +1,30 @@
 # 🟦 Indeed — AI · Language · Human Research Roles
-*Last updated: 2026-11-02 23:21 UTC*
+*Last updated: 2026-11-03 04:05 UTC*
 
-**6 new role(s)** since last run · 7 total in last 24h
+**4 new role(s)** since last run · 11 total in last 24h
 
-### [Model Evaluation Lead](https://www.indeed.com/viewjob?jk=873250cefc3fb6af) — Dyna Robotics
-- 📍 **Location:** Redwood City, CA, USA
-- 💰 **Salary:** $140k–$160k/yr
+### [Data Scientist - MeshMesh](https://www.indeed.com/viewjob?jk=14d35af6f8f1e80a) — Salesforce
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $148k–$224k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-02
+- 🕒 **Posted:** 2026-11-03
 
-### [Evals Research Engineer – LLM Agents & RL Environments](https://www.indeed.com/viewjob?jk=3a8e028f362b283d) — MaxIT Consulting - Max Corporate Group
+### [Senior Research Scientist](https://www.indeed.com/viewjob?jk=d4817d10bd4fdb04) — Veeco
+- 📍 **Location:** San Jose, CA, USA
+- 💰 **Salary:** $165k–$205k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-03
+
+### [Lead/ Senior Machine Learning Scientist, Integrative Phenotyping](https://www.indeed.com/viewjob?jk=f0470d12fafa00f4) — insitro.com
+- 📍 **Location:** South San Francisco, CA, USA
+- 💰 **Salary:** $183k–$224k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-03
+
+### [Data Scientist](https://www.indeed.com/viewjob?jk=e87bac663bf681f3) — deuna
 - 📍 **Location:** San Francisco, CA, USA
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-02
-
-### [AI Engineer, Medical Vision Language Models](https://www.indeed.com/viewjob?jk=54372df6166a2960) — Lumexa Imaging
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $100k–$120k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-02
-
-### [Applied Scientist, PXT Central Science](https://www.indeed.com/viewjob?jk=a963ae740646fa4c) — Amazon.com
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $136k–$213k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-02
-
-### [Senior Business Data Scientist, AI/ML, Google Cloud](https://www.indeed.com/viewjob?jk=5885cb34c9654317) — Google
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $163k–$236k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-02
-
-### [Research Engineer, AI Security](https://www.indeed.com/viewjob?jk=341eb259f90ce727) — Tolmo
-- 📍 **Location:** San Francisco, CA, USA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-02
+- 🕒 **Posted:** 2026-11-03
