@@ -1,37 +1,27 @@
 # 🔥 LinkedIn — AI · Language · Human Research Roles
-*Last updated: 2026-11-04 01:27 UTC*
+*Last updated: 2026-11-04 08:01 UTC*
 
-**8 new role(s)** since last run · 45 total in last 24h
+**5 new role(s)** since last run · 50 total in last 24h
 
-### [User Researcher](https://www.linkedin.com/jobs/view/4486312630/) — Roblox
-- 📍 **Location:** San Mateo, CA
-- 💰 **Salary:** $171,980—$204,840 USD
+### [AI Research Scientist, Robotics](https://www.linkedin.com/jobs/view/4485066056/) — Meta
+- 📍 **Location:** Burlingame, CA
+- 💰 **Salary:** $219,000.00/yr - $301,000.00/yr
 - 🕒 **Posted:** 2026-11-04
 
-### [Machine Learning Post Doctoral Research Scientist](https://www.linkedin.com/jobs/view/4487081412/) — Hewlett Packard Enterprise
-- 📍 **Location:** Milpitas, CA
+### [Lead User Experience Researcher - IT and Employee Productivity](https://www.linkedin.com/jobs/view/4486338712/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-11-04
 
-### [Senior Decision Scientist](https://www.linkedin.com/jobs/view/4487045852/) — Salesforce
+### [AI Research Scientist - MSL](https://www.linkedin.com/jobs/view/4485049595/) — Meta
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $184,000.00/yr - $257,000.00/yr
+- 🕒 **Posted:** 2026-11-04
+
+### [AI research scientist](https://www.linkedin.com/jobs/view/4487098966/) — WRITER
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-03
+- 💰 **Salary:** $199,000.00/yr - $325,000.00/yr
+- 🕒 **Posted:** 2026-11-04
 
-### [Senior Research Scientist/Engineer, Deception](https://www.linkedin.com/jobs/view/4487052915/) — FAR.AI
-- 📍 **Location:** Berkeley, CA
-- 🕒 **Posted:** 2026-11-03
-
-### [Applied Scientist II, Kiro Science](https://www.linkedin.com/jobs/view/4485015831/) — Amazon Science
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-11-03
-
-### [Senior Applied Scientist, LLM Code Agents, Kiro Science](https://www.linkedin.com/jobs/view/4485033152/) — Amazon Science
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-11-03
-
-### [Data Scientist, Marketing](https://www.linkedin.com/jobs/view/4486091445/) — Wealthfront
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-11-03
-
-### [Research Engineer – Training and Environment Infrastructure](https://www.linkedin.com/jobs/view/4486317060/) — MaxIT Consulting - Max Corporate Group
-- 📍 **Location:** San Francisco, CA
+### [Senior Data Scientist / ML Engineer with AWS](https://www.linkedin.com/jobs/view/4487013167/) — Arkhya Tech Inc.
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-11-03
