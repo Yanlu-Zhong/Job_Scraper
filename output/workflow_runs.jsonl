@@ -755,3 +755,4 @@
 {"job_count": 45, "run_attempt": "1", "run_id": "41753543271", "scrape": {"batch": 1, "batches": 5, "queries": 32, "raw_rows": 389, "status": "success", "terms_in_batch": 8, "terms_total": 38}, "timestamp": "2026-11-04T01:27:10Z", "workflow": "linkedin"}
 {"job_count": 14, "run_attempt": "1", "run_id": "41755148609", "scrape": {"errors": 0, "queries": 25, "raw_rows": 315, "status": "success"}, "timestamp": "2026-11-04T01:36:40Z", "workflow": "indeed"}
 {"job_count": 12, "run_attempt": "1", "run_id": "41755614849", "scrape": {"errors": 0, "queries": 25, "raw_rows": 313, "status": "success"}, "timestamp": "2026-11-04T01:40:48Z", "workflow": "indeed"}
+{"job_count": 0, "run_attempt": "1", "run_id": "41758993152", "scrape": {"errors": 0, "queries": 25, "raw_rows": 0, "status": "empty"}, "timestamp": "2026-11-04T02:11:08Z", "workflow": "glassdoor"}
