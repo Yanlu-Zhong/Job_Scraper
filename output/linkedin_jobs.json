@@ -1,14 +1,14 @@
 {
-  "scraped_at": "2026-11-05 09:57 UTC",
-  "total": 53,
-  "new_count": 8,
+  "scraped_at": "2026-11-05 11:04 UTC",
+  "total": 67,
+  "new_count": 14,
   "scrape_status": {
     "status": "success",
-    "raw_rows": 426,
-    "queries": 32,
-    "batch": 4,
+    "raw_rows": 323,
+    "queries": 24,
+    "batch": 5,
     "batches": 5,
-    "terms_in_batch": 8,
+    "terms_in_batch": 6,
     "terms_total": 38
   },
   "jobs": [
@@ -286,7 +286,7 @@
       "location": "Menlo Park, CA",
       "url": "https://www.linkedin.com/jobs/view/4395557838/",
       "date_posted": "2026-11-04",
-      "salary": "",
+      "salary": "$183,997.00/yr - $257,000.00/yr",
       "ats": "LinkedIn",
       "geography": {
         "status": "in_radius",
@@ -295,7 +295,8 @@
         "latitude": 37.479731,
         "longitude": -122.148055,
         "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
+      },
+      "description": "We’re hiring Research Engineers to join teams across Meta working at the intersection of frontier AI and real-world product impact. You’ll be embedded directly in Facebook’s ecosystem, helping reimagine core experiences and reshape how people discover content, connect with creators, and interact with each other.The work spans some of the most bold bets in applied GenAI, including:- Building the post-training, evaluation, and serving systems that turn frontier LLMs into reliable, high-quality product experiences used by billions.- Building a general-purpose agentic platform that powers a wide range of GenAI products across Facebook —enabling teams to ship faster, safer, and at scale.- Building systems that enable capacity and cost optimizations through model fine-tuning, post-training and other techniques. - Adapting and scaling these systems across Meta’s products. Why Join Us- Product LLM work at singular scale Your post-training decisions, evaluation frameworks, and serving architecture directly affect billions of daily interactions.- End-to-end ownership We don't hand off models to a separate product team. We own the loop from training data to production behavior to measurement. The impact of your work shows up in days, not quarters.- The problems are unsolved How do you evaluate open-ended conversational AI at scale? How do you fine-tune for groundedness across millions of varied creator profiles? These aren't incremental improvements, they're open research questions with immediate product consequences.- Our team is hands-on, with high autonomy, working on critical bets We're deliberately keeping this team lean and experienced. You'll have outsized influence on technical direction, not just execution.Depending on your interests and strengths, your work could span post-training pipelines (SFT, RLHF, synthetic data generation), evaluation methodology (auto-judge design, benchmark construction, human-AI calibration), production serving systems (RAG, memory, multi-modal generation), multi-agent orchestration, or E2E experience of building agentic products, - all grounded in shipping to real users at scale\n\nAI Research Engineer Responsibilities:\n\nContribute to the training of next-generation multimodal foundation models, advance their capabilities in understanding, generation, and grounding, and enable them for downstream product use-cases\nSupport creative data sourcing, high-quality pre/mid/post-training data curation, and scale and optimize data pipelines for multimodal large language models (LLMs)\nLead, collaborate, and execute on research that pushes forward the state of the art in multimodal reasoning and generation research, and prioritize research that can be directly applied to Meta’s product development\n\nMinimum Qualifications:\n\nBachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience\nExperience as a formal technical lead, leading major technical initiatives with XFN impact, and/or influencing strategy across multiple teams\nImpressive engineering background (PhD in ML not required)\nExperience working in AI/ML environments\nCan manage data pipelines and versioning\n\nAbout Meta:\n\nMeta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.\n\nMeta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.\n\nMeta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@meta.com.\n\n$183,997/year to $257,000/year + bonus + equity + benefits\n\nIndividual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about benefits at Meta.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet"
     },
     {
       "company": "David AI",
@@ -942,108 +943,52 @@
         "longitude": -123.032229,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
-    }
-  ],
-  "new_jobs": [
+    },
     {
-      "company": "NVIDIA",
-      "title": "Senior Applied Research Scientist",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486588125/",
+      "company": "AppLovin",
+      "title": "Measurement Data Scientist",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454342815/",
       "date_posted": "2026-11-05",
-      "salary": "",
+      "salary": "$98,000—$148,000 USD",
       "ats": "LinkedIn",
-      "description": "NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It’s a unique legacy of innovation that’s fueled by great technology—and amazing people. Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an NVIDIAN, you’ll be immersed in an inclusive, supportive environment where everyone is inspired to do their best work. Come join the team and see how you can make a lasting impact on the world.\n\nThe Data and Agent Loop Lab is looking for a Senior Applied Research Scientist to help us build the next generation of multimodal search and curation systems for Physical AI. We're building the foundation for robots, autonomous vehicles, and intelligent machines that can perceive, reason, and act in the real world. The data that trains these systems is as important as the models themselves, and the team sits at the center of that challenge. You'll work alongside world-class researchers and engineers to solve some of the hardest data problems in AI — at petabyte scale, across video, sensor, and language modalities. Your work will directly shape what our foundation models learn, and will help external customers build their own Physical AI pipelines on top of NVIDIA's platform.\n\nWhat You'll Be Doing\n\nResearching and designing multimodal search and curation systems optimized for Physical AI data — video, lidar, radar, text, and more. These systems help researchers and customers find, filter, and surface the highest-quality data — including embedding-based retrieval, quality scoring models, active learning loops, and relevance evaluation frameworks.\nDeveloping datasets, benchmarks, and experimental frameworks that establish guidelines for data curation in robotics and AV contexts — and publishing those findings so the community can benefit.\nTranslating research into production-grade software; writing papers, blog posts, and documentation that help customers understand and apply our methods.\nStaying current with the latest in data curation, information retrieval, and multimodal learning — and bringing those insights back to the team.\n\nWhat We Need To See\n\nM.S. or Ph.D. in a relevant field — machine learning, information retrieval, robotics, AV, or multimodal AI (or equivalent experience)\n8+ years of industry or research experience.\nDeep understanding of the data challenges specific to Physical AI.\nStrong software engineering fundamentals — experience shipping production-grade systems, not just research prototypes.\nClear, compelling communication: you can write a great paper and explain a tradeoff to a non-expert collaborator!\nExperience mentoring junior researchers or engineers is a plus.\n\nWays To Stand Out From The Crowd\n\nHands-on experience with data curation or search in robotics, autonomous vehicles, or embodied AI.\nFamiliarity with model training pipelines and the role data quality plays in model performance.\nExperience with large-scale video data — collection, processing, and retrieval.\nPrior work on semantic or neural search (dense retrieval, CLIP-style embeddings, multimodal indexing).\nPublications in top venues on data-centric AI, information retrieval, or multimodal learning.\n\nWith competitive salaries and a generous benefits package (www.nvidiabenefits.com ), we are widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us and, due to outstanding growth, our best-in-class engineering teams are rapidly growing. If you're a creative and autonomous engineer with a real passion for technology, we want to hear from you!\n\nYou will also be eligible for equity and benefits.\n\nApplications for this job will be accepted at least until November 8, 2026.\n\nThis posting is for an existing vacancy.\n\nNVIDIA uses AI tools in its recruiting processes.\n\nNVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.\n\n, , JR2029056\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nComputer Hardware Manufacturing",
+      "description": "About AppLovin\n\nAppLovin makes technologies that help businesses of every size connect to their ideal customers. The company provides end-to-end advertising solutions for businesses to reach, monetize and grow their global audiences. For more information about AppLovin, visit: www.applovin.com.\n\nTo deliver on this mission, our global team is composed of team members with life experiences, backgrounds, and perspectives that mirror our developers and customers around the world. At AppLovin, we are intentional about the team and culture we are building, seeking candidates who are outstanding in their own right and also demonstrate their support of others.\n\nAppLovin is seeking a Measurement Data Scientist\nto join our Product Partnerships & Measurement team. This role is ideal for someone who is deeply curious about data and metrics—someone who doesn’t just analyze numbers, but strives to understand the nuances, assumptions, and limitations behind them. You’ll play a key role in helping us triangulate across multiple sources of truth—platform data, 3rd-party measurement (MMM, MTA, incrementality, post purchase survey, etc), and internal attribution systems—to uncover actionable insights that drive smarter business and marketing decisions.\n\nYou’ll collaborate closely with the Partnerships, Marketing Science, and Business Development teams to interpret results, refine methodologies, and translate insights into strategies that drive impact for AppLovin, our partners, and advertisers.\n\nKey Responsibilities\n\nInvestigate performance metrics across platform and 3rd-party measurement systems to identify inconsistencies, uncover insights, and drive clarity.\nAnalyze data using SQL and Python (pandas, numpy, sklearn, matplotlib) to extract trends and inform business decisions.\nSynthesize complex data into clear, actionable insights and communicate them effectively across technical and non-technical audiences.\nDevelop a strong understanding of advertising and commerce ecosystems, including conversion tracking, attribution, media mix modeling and incrementality.\nPartner with internal and external stakeholders to design and evaluate incrementality tests, and to interpret results and insights from MMM, MTA, brand lift, post-purchase studies, and other measurement frameworks.\nAsk critical questions, challenge assumptions, and continuously refine the metrics and frameworks used for evaluating performance and provide guidance to advertisers on their learning agendas.\nBuild tracking frameworks to monitor test performance and campaign outcomes; follow up and follow through with advertisers and partners to ensure best-practice setup, proper tracking, and adoption of key learnings.\nCollaborate cross-functionally to translate analytical findings into business strategies that improve campaign effectiveness and advertiser ROI.\nExperience in advertising, digital marketing, or eCommerce analytics.\n\nMinimum Qualifications\n\nStrong SQL skills and experience with large-scale data manipulation.\nThorough understanding of data structures.\nProficiency with Python for data analysis (pandas, numpy, sklearn, matplotlib)\nSignificant experience in data analysis in an online environment, with direct exposure to scoping and executing analytical projects end-to-end\nStrong communication skills and ability to translate analytical findings into clear business recommendations.\nHighly curious and detail-oriented, with an investigative mindset and comfort working with messy or incomplete data.\nDemonstrated ability to manage competing priorities and deliver results in a fast-paced environment.\nCollaborative and flexible team player who takes initiative and drives continuous improvement.\n\nPreferred Qualifications\n\nExperience in advertising, digital marketing, or eCommerce analytics.\nExperience with industry-standard measurement methodologies, including CLS, RCTs, attribution modeling, incrementality testing, and GeoLift.\nDemonstrated ability to apply AI techniques to marketing measurement challenges.\n\nAppLovin provides a competitive total compensation package with a pay for performance rewards approach. Total compensation at AppLovin is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Depending on the position offered, equity, and other forms of incentive compensation (as applicable) may be provided as part of a total compensation package, in addition to dental, vision, and other benefits.\n\nOther Types of Pay:\nEquity eligible\n\nHealth Insurance:\nMedical, Dental, Vision, Life, Disability\n\nRetirement Benefits:\n401(k) Retirement Plan\n\nPaid Time Off:\nUnlimited Discretionary Time Off\n\nPaid Holidays:\n10 paid holidays per year\n\nPaid Sick Leave:\n80 hours per year\n\nMethod of Application:\nApply online\n\nApplication Window:\nThe application window is expected to close within 30 days of the posting date.\n\nAll questions or concerns about this posting should be directed to peopleops@applovin.com.\n\nCA Base Pay Range\n\n$98,000—$148,000 USD\n\nAppLovin is proud to be an equal opportunity employer that is committed to inclusion and diversity. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status, or other legally protected characteristics. Learn more about EEO rights as an applicant here.\n\nIf you need assistance and/or a reasonable accommodation due to a disability during the application or recruiting process, please send us a request at jobs@applovin.com\n\nAppLovin will consider for employment all qualified applicants with criminal histories in a manner consistent with applicable law. If you’re applying for a position in California, learn more here.\n\nTo support an efficient and fair hiring process, we may use technology-assisted tools, including artificial intelligence (AI), to help identify and evaluate candidates. All hiring decisions are ultimately made by human reviewers.\n\nPlease read our Global Applicant Privacy Notice to learn more about how AppLovin processes your personal information.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nComputer Games, Online Audio and Video Media, and Advertising Services",
       "geography": {
         "status": "in_radius",
-        "distance_miles": 3.522,
-        "city": "santa clara",
-        "latitude": 37.364621,
-        "longitude": -121.967973,
+        "distance_miles": 6.453,
+        "city": "palo alto",
+        "latitude": 37.39652,
+        "longitude": -122.143088,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
     },
     {
-      "company": "NVIDIA",
-      "title": "Senior Vision Language Model Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486572844/",
+      "company": "Robinhood",
+      "title": "Staff Data Scientist (People Analytics & Insights)",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4440173956/",
       "date_posted": "2026-11-05",
-      "salary": "",
+      "salary": "$217,000—$255,000 USD",
       "ats": "LinkedIn",
-      "description": "NVIDIA is the platform upon which every new AI-powered application is built. We are seeking a senior vision language model engineer to design and build agentic data and training workflows for Autonomous Vehicles, Robotics, and Medical applications. The right person for this role brings technical innovation and collaborative culture to change the way NVIDIA builds dataset search platforms for physical AI developers. Our dataset search offerings are ease to use, performant and scalable. Your work will redefine the dataset search and model training capabilities in NVIDIA product offerings and impact the most iconic companies in Physical AI.\n\nWhat You'll Be Doing\n\nPartner with our researchers to develop and evaluate prototypes of our latest models, such as VLMs and VLAs, for video search, video understanding, and more. Enable fundamental advances in autonomous driving, healthcare, and robotics.\nDesign and implement agentic data workflows that automate data discovery, labeling, evaluation, and retraining to maximize development velocity.\nBuild, curate, and maintain high‑quality multimodal datasets (e.g., video, sensor, language/action traces) tailored for end‑to‑end physical AI problems, such as autonomous driving.\nExplore and productize new data sources including simulation and synthetic data.\nUse agentic AI workflows across the full applied research lifecycle.\nCollaborate with research, model development, performance, and product teams.\nContribute to NVIDIA Cosmos Dataset Search and other core NVIDIA platforms and products.\n\nWhat We Need To See\n\nPhD with 4+ years, MS with 6+ years, or BS (or equivalent experience) with 8+ years of relevant experience in Computer Science, Computer Engineering, or a related technical field\nStrong background in modern deep learning, including transformer‑based architectures, video modeling, and multimodal VLM/VLA or foundation models.\nExcellent experience training and deploying deep learning models on real‑world datasets: data preprocessing, distributed training, evaluation, debugging, and iterative improvement.\nExcellent experience with python and at least one deep learning framework.\nCurrent with the latest research on image and video search in autonomous vehicles, healthcare, robotics, or related physical AI applications.\nFluent with agentic AI workflows across the full applied research lifecycle, including prototyping novel algorithms and search pipelines, benchmarking, and integrating prototypes in production codebases.\nClear and effective communication skills, with experience working well in a dynamic, product- and research-focused team.\n\nWays To Stand Out From The Crowd\n\nStrong track record publishing in top-tier conference such as CVPR, NeuRIPS, ICML, ECCV\nPatents in video retrieval or related field\nStrong coding architecture skills demonstrated through contributions to large internal or open-source projects.\nExperience in robotic systems such as autonomous vehicles or humanoid robotics.\n\nWith competitive salaries and a generous benefits package (www.nvidiabenefits.com ), we are widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us and, due to outstanding growth, our best-in-class engineering teams are rapidly growing. If you're a creative and autonomous engineer with a real passion for technology, we want to hear from you!\n\nYour base salary will be determined based on your location, experience, and other objective job-related factors. The expected base salary ranges for this position are:\n\n184,000 USD – 287,500 USD for Level 4; and 224,000 USD – 356,500 USD for Level 5.\n\nYou will also be eligible for equity and benefits.\n\nApplications for this job will be accepted at least until November 8, 2026.\n\nThis posting is for an existing vacancy.\n\nNVIDIA uses AI tools in its recruiting processes.\n\nNVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.\n\n, , JR2029400\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nComputer Hardware Manufacturing",
+      "description": "Join us in building the future of finance.\n\nOur mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.\n\nAbout the team + role\n\nWe are building an elite team, applying frontier technologies to the world’s biggest financial problems. We’re looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn’t a place for complacency, it’s where ambitious people do the best work of their careers. We’re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards.\n\nThe Talent Management & Analytics team is scaling to its next major milestone—integrating advanced predictive insights and tactical AI into our workforce systems. Our mission is to build the data solutions that help the entire company recruit exceptional talent, design high-performing team structures, and put active organizational insights directly into the hands of everyone making team decisions. Operating at the intersection of data science, product development, and organizational psychology, we are transforming how Robinhood uses data to empower our workforce and anticipate organizational needs.\n\nAs a Staff Data Scientist, you will serve as the team's technical and strategic anchor, owning the vision, design, and delivery of the high-impact data products that our executives, people partners, and line managers rely on every day. Your focus will be entirely on solving meaningful organizational problems: understanding what enables exceptional talent to thrive, accelerating team performance, and designing proactive strategies that support long-term retention across Robinhood. This is a unique opportunity to apply state-of-the-art language models and predictive analytics to solve critical talent problems!\n\nThis role is based in our Menlo Park, CA, Chicago, IL, and New York, NY offices, with in-person attendance expected at least 3 days per week.\n\nAt Robinhood, we believe in the power of in-person work to accelerate progress, spark innovation, and strengthen community. Our office experience is intentional, energizing, and designed to fully support high-performing teams.\n\nWhat You’ll Do\n\nSpearhead the next phase of talent intelligence: Take the team beyond descriptive reporting and build the predictive frameworks that show not just what is happening in our workforce, but what will happen next.\nArchitect a unified workforce data model: Pipeline data across disparate recruiting systems, performance cycles, surveys, and internal tools into a single, cohesive data model that maps the entire employee lifecycle; use AI-native workflows aggressively to parse unstructured text like exit notes and survey feedback at scale.\nDefine the metrics dictionary and semantic layer: Standardize how metrics like headcount, attrition, and workforce trends are measured across the company; build the semantic layers that keep this data consistent and trustworthy at scale.\nDrive data access control and governance: Build the frameworks for role-based access controls and data masking so HR, Finance, and line managers have exactly the access they need without risking sensitive personnel data.\nRedesign employee sentiment architecture: Replace traditional annual survey cycles with a continuous, always-on listening framework that captures real-time organizational health and highlights leading risk indicators.\nOwn product delivery: Act as the technical product owner for internal data interfaces—collaborating directly with Enterprise Engineering to ensure exceptional user utility, predictive accuracy, and data reliability.\nEnforce rigorous statistical standards: Apply experimental design, A/B testing, and psychometric methodologies to ensure our predictive workforce models and survey frameworks are scientifically backed and statistically valid.\n\nWhat You Bring\n\n7+ years of data science experience, with advanced skills in Python, SQL, and direct experience with modern data infrastructure like Snowflake, BigQuery, or dbt.\nStrong product focus and experience defining user requirements, collaborating with engineers, and taking internal data tools from conception to launch.\nDeep understanding of statistics, experimental design, and psychometrics or survey methodology to design research-backed questions.\nDirect experience integrating language models into data pipelines to automate text processing and summarization at scale.\n\nWhat We Offer\n\nChallenging, high-impact work to grow your career.\nPerformance-driven compensation with multipliers for outsized impact, bonus programs, equity ownership, and 401(k) matching.\nBest-in-class benefits to fuel your work, including 100% paid health insurance for employees with 90% coverage for dependents.\nLifestyle wallet — a highly flexible benefits spending account for wellness, learning, and more.\nEmployer-paid life & disability insurance, fertility benefits, and mental health benefits.\nTime off to recharge including company holidays, paid time off, sick time, parental leave, and more!\nExceptional office experience with catered meals, events, and comfortable workspaces.\n\nIn addition to the base pay range listed below, this role is also eligible for bonus opportunities + equity + benefits.\n\nBase pay for the successful applicant will depend on a variety of job-related factors, which may include education, training, experience, location, business needs, or market demands. The expected base pay range for this role is based on the location where the work will be performed and is aligned to one of 3 compensation zones. For other locations not listed, compensation can be discussed with your recruiter during the interview process.\n\nBase Pay Range\n\nZone 1 (Menlo Park, CA; New York, NY; Bellevue, WA; Washington, DC)\n\n$217,000—$255,000 USD\n\nZone 2 (Denver, CO; Westlake, TX; Chicago, IL)\n\n$191,000—$224,000 USD\n\nZone 3 (Lake Mary, FL; Clearwater, FL; Gainesville, FL)\n\n$170,000—$199,000 USD\n\nClick here to learn more about our Total Rewards, which vary by region and entity.\n\nIf our mission energizes you and you’re ready to build the future of finance, we look forward to seeing your application.\n\nAI Usage Disclosure:\nRobinhood uses artificial intelligence (AI) tools to support parts of our recruiting process. These tools enhance the efficiency and consistency of our hiring process; however, all hiring decisions are made by our hiring teams.\n\nRobinhood provides equal opportunity for all applicants, offers reasonable accommodations upon request, and complies with applicable equal employment and privacy laws. Inclusion is built into how we hire and work—welcoming different backgrounds, perspectives, and experiences so everyone can do their best. Please review the Privacy Policy for your country of application.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nFinancial Services",
       "geography": {
         "status": "in_radius",
-        "distance_miles": 3.522,
-        "city": "santa clara",
-        "latitude": 37.364621,
-        "longitude": -121.967973,
+        "distance_miles": 9.313,
+        "city": "menlo park",
+        "latitude": 37.479731,
+        "longitude": -122.148055,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
     },
     {
-      "company": "AMD",
-      "title": "AI Research Scientist, Reinforcement Learning (LLM) and Post-Training",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4459595486/",
-      "date_posted": "2026-11-05",
-      "salary": "$204,000.00/yr - $306,000.00/yr",
-      "ats": "LinkedIn",
-      "description": "ADVANCE YOUR CAREER. ADVANCE THE WORLD.\n\nAt AMD, we believe technology has the power to solve the world’s most important challenges. From advancing healthcare and scientific discovery to powering AI and the technologies people rely on every day, innovation at AMD is shaping the future.\n\nWhether you’re designing next-gen processors, enabling AI breakthroughs, or bringing leading edge products to market, every role at AMD contributes to something bigger — technology that moves the world forward. Join us and, together, we’ll advance your career.\n\nThe Role\n\nWe are hiring a AI Research Scientist, Reinforcement Learning (LLM) and Post-Training\n, specializing in reinforcement learning to advance post-training and interactive learning for large generative models applied to demanding engineering and hardware-adjacent tasks (code, optimization, tool use, and long-horizon decision making). You will invent and analyze RL algorithms—policy optimization, preference-based methods, exploration, credit assignment, and reward modeling—run rigorous empirical studies, and partner with infra and product teams to land methods that improve measurable task success without sacrificing stability or safety.\n\nThe Person\n\nYou publish and ship. You are fluent in both RL theory and the practical path from ablation to production-scale training. You care about reward misspecification, variance reduction, and evaluation that reflects real constraints—not only toy environments.\n\nKey Responsibilities\n\nResearch and develop RL methods for post-training LLMs and code models on structured engineering tasks with verifiable or preference-based feedback\nDesign reward models, curricula, and off-policy or on-policy training recipes suited to sparse, noisy, or expensive labels from experts and simulators\nCharacterize failure modes (reward hacking, degenerate policies, instability) and propose mitigations grounded in experiments\nCollaborate with RL infra engineers to scale training; define interfaces for rollout generation, logging, and reproducibility\nPublish at top venues (e.g. NeurIPS, ICML, ICLR) and contribute internal technical leadership on the RL roadmap\n\nPreferred Experience\n\nStrong publication record in reinforcement learning or closely related machine learning areas.\nHands-on experience training RL or preference-optimized models at non-trivial scale (GPUs, distributed jobs)\nExperience with LLM post-training, RLHF/RLAIF, or policy optimization for language or code agents\nFamiliarity with compilers, kernels, EDA-style workflows, or large-scale codebases is a plus\n\nAcademic Credentials\n\nPhD in Computer Science, Machine Learning, or related field strongly preferred.\n\nBenefits offered are described: AMD benefits at a glance.\n\nAMD does not accept unsolicited resumes from headhunters, recruitment agencies, or fee-based recruitment services. AMD and its subsidiaries are equal opportunity, inclusive employers and will consider all applicants without regard to age, ancestry, color, marital status, medical condition, mental or physical disability, national origin, race, religion, political and/or third-party affiliation, sex, pregnancy, sexual orientation, gender identity, military or veteran status, or any other characteristic protected by law. We encourage applications from all qualified candidates and will accommodate applicants’ needs under the respective laws throughout all stages of the recruitment and selection process.\n\nAMD may use Artificial Intelligence to help screen, assess or select applicants for this position. AMD’s “Responsible AI Policy” is available here.\n\nThis posting is for an existing vacancy.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSemiconductor Manufacturing",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 3.522,
-        "city": "santa clara",
-        "latitude": 37.364621,
-        "longitude": -121.967973,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Enigma",
-      "title": "AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486598280/",
-      "date_posted": "2026-11-05",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA\n\nResponsibilities:\n\nDesign, execute, and analyze machine learning experiments, establishing strong baselines and selecting appropriate evaluation metrics.\nStay up to date with the latest AI research; identify, adapt, and validate novel techniques for company-specific use cases.\nDefine rigorous evaluation protocols, including offline metrics, user studies, and adversarial (red team) testing to ensure statistical soundness.\nSpecify data and annotation requirements; develop annotation guidelines and oversee quality control processes.\nCollaborate closely with domain experts, product managers, and engineering teams to refine problem statements and operational constraints.\nDevelop reusable research assets such as datasets, modular code components, evaluation suites, and comprehensive documentation.\nWork alongside ML Engineers to optimize training and inference pipelines, ensuring seamless integration into production systems.\nContribute to academic publications and represent the company in research communities, as needed.\n\nEducational Qualifications:\n\nPh.D. in Computer Science, Artificial Intelligence, Machine Learning, or a related field is strongly preferred.\nCandidates with a master’s degree and exceptional research or industry experience will also be considered.\n\nIndustry Experience:\n\n3–5 years of experience in AI/ML research roles, ideally in applied or product-focused environments.\nDemonstrated success in delivering research-driven solutions that have been deployed in production.\nExperience collaborating in cross-functional teams across research, engineering, and product.\nPublications in top-tier AI/ML conferences (e.g., NeurIPS, ICML, ACL, CVPR) are a plus.\n\nTechnical Skills:\nStrong foundational knowledge in machine learning and deep learning algorithms.\nHands-on experience with PEFT/LoRA, adapters, fine-tuning techniques, and RLHF/RLAIF (e.g., PPO, DPO, GRPO).\nAbility to read, implement, and adapt state-of-the-art research papers to real-world use cases.\nProficiency in hypothesis-driven experimentation, ablation studies, and statistically sound evaluations.\nAdvanced programming skills in Python (preferred), C++, or Java.\nExperience with deep learning frameworks such as PyTorch, Hugging Face, NumPy, etc.\nStrong mathematical foundations in probability, linear algebra, and calculus.\nDomain expertise in one or more areas: natural language processing (NLP), symbolic reasoning, speech processing, etc.\nAbility to translate research insights into roadmaps, technical specifications, and product improvements.\n\nAI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nHospitals and Health Care",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 13.183,
-        "city": "san jose",
-        "latitude": 37.296011,
-        "longitude": -121.814552,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Natera",
-      "title": "Lead Bioinformatics & Machine Learning Scientist",
-      "location": "San Carlos, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485583485/",
-      "date_posted": "2026-11-05",
-      "salary": "$172,000—$214,000 USD",
-      "ats": "LinkedIn",
-      "description": "Natera is seeking a Lead Bioinformatics & Machine Learning Scientist to join our Bioinformatics Research team and help build the machine learning models behind Natera's tissue-free, methylation-based assay. These will be the models that detect cancer in the minimal residual disease (MRD) setting and help inform treatment selection. The ideal candidate brings a strong background in algorithm development, genomics, sequencing data processing, and applied machine learning.\n\nPrimary Responsibilities\n\nDevelop, train, and evaluate machine learning models, driving algorithm design decisions that support cancer detection in the MRD setting.\nOwn end-to-end research analyses, from ideation through implementation (scripts and notebooks), troubleshooting, and performance evaluation, including developing new features within existing pipelines.\nTranslate between wet-lab experimental design and computational analysis, navigating ambiguity as assay requirements evolve and maintaining rigorous quality control across high-volume sequencing data spanning multiple cohorts, vendors, and clinical protocols.\nCommunicate findings and model performance to both technical and cross-functional stakeholders, and contribute to establishing standards for code quality and reproducibility.\n\nQualifications\n\nPhD in Computer Science, Bioinformatics, Computational Biology, or a related quantitative field with a strong emphasis on cancer epi/genomics and 4 to 8+ years of experience post-PhD.\n\nKnowledge, Skills, And Abilities\n\nDeep theoretical and practical understanding of high-throughput DNA sequence data analysis, including mapping, sequence alignment, and variant calling workflows.\nExperience in algorithm development and data analysis, including applying and evaluating statistical methods.\nDemonstrated experience in developing core ML models, including generalized linear models, kernel methods, tree-based algorithms, and neural networks, with a focus on biological data (e.g., DNA sequencing data)\nStrong quantitative reasoning and data analysis skills, with a demonstrated ability to apply them effectively to relevant scientific problems.\nExperience with Python and Linux command-line tools, including writing shell scripts. Strong computational and programming skills, including thorough experience with Python statistical packages (NumPy, Matplotlib, Pandas).\nFamiliarity with public databases such as TCGA, COSMIC, or OncoKB.\nAbility to visualize findings and summarize results in oral and written form for both technical and non-technical audiences.\nHigh scientific rigor, with eagerness to teach and learn new computational methods and biology.\nAbility to work on a cross-functional team in a highly collaborative environment, partnering with both computational and experimental scientists.\n\nCompensation & Total Rewards\n\nThis range reflects a good-faith estimate of the base pay we reasonably expect to offer at the time of hire. Final compensation will vary based on experience, qualifications, and internal equity considerations.\n\nThis position is also eligible for additional compensation and benefits through Natera’s robust Total Rewards program, including:\n\nAnnual performance incentive bonus\nLong-term equity awards\nComprehensive health benefits (medical, dental, vision)\n401(k) with company match\nGenerous paid time off and company holidays\nAdditional wellness and work-life benefits\n\nCompensation Range\n\n$172,000—$214,000 USD\n\nOUR OPPORTUNITY\n\nNatera™ is a global leader in cell-free DNA (cfDNA) testing, dedicated to oncology, women’s health, and organ health. Our aim is to make personalized genetic testing and diagnostics part of the standard of care to protect health and enable earlier and more targeted interventions that lead to longer, healthier lives.\n\nThe Natera team consists of highly dedicated statisticians, geneticists, doctors, laboratory scientists, business professionals, software engineers and many other professionals from world-class institutions, who care deeply for our work and each other. When you join Natera, you’ll work hard and grow quickly. Working alongside the elite of the industry, you’ll be stretched and challenged, and take pride in being part of a company that is changing the landscape of genetic disease management.\n\nWhat We Offer\n\nCompetitive Benefits - Employee benefits include comprehensive medical, dental, vision, life and disability plans for eligible employees and their dependents. Additionally, Natera employees and their immediate families receive free testing in addition to fertility care benefits. Other benefits include pregnancy and baby bonding leave, 401k benefits, commuter benefits and much more. We also offer a generous employee referral program!\n\nFor more information, visit www.natera.com.\n\nNatera is proud to be an Equal Opportunity Employer. We are committed to ensuring a diverse and inclusive workplace environment, and welcome people of different backgrounds, experiences, abilities and perspectives. Inclusive collaboration benefits our employees, our community and our patients, and is critical to our mission of changing the management of disease worldwide.\n\nAll qualified applicants are encouraged to apply, and will be considered without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, age, veteran status, disability or any other legally protected status. We also consider qualified applicants regardless of criminal histories, consistent with applicable laws.\n\nIf you are based in California, we encourage you to read this important information for California residents.\n\nLink: https://www.natera.com/notice-of-data-collection-california-residents/\n\nPlease be advised that Natera will reach out to candidates with a @natera.com email domain ONLY. Email communications from all other domain names are not from Natera or its employees and are fraudulent. Natera does not request interviews via text messages and does not ask for personal information until a candidate has engaged with the company and has spoken to a recruiter and the hiring team. Natera takes cyber crimes seriously, and will collaborate with law enforcement authorities to prosecute any related cyber crimes.\n\nFor More Information\n\nBBB announcement on job scams\nFBI Cyber Crime resource page\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nBiotechnology Research, Pharmaceutical Manufacturing, and Software Development",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 15.374,
-        "city": "san carlos",
-        "latitude": 37.499034,
-        "longitude": -122.267572,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "CodeRound AI",
-      "title": "AI Researcher ($140K- 300K)",
+      "company": "Databricks",
+      "title": "Staff Data Scientist - Trust and Safety",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485813150/",
+      "url": "https://www.linkedin.com/jobs/view/4301423708/",
       "date_posted": "2026-11-05",
-      "salary": "",
+      "salary": "$192,000—$260,000 USD",
       "ats": "LinkedIn",
-      "description": "𝗔𝗯𝗼𝘂𝘁 𝘁𝗵𝗲 𝗷𝗼𝗯\n\nThis role is for one of our client companies — a VC-backed Artificial Intelligence (AI) startup that has raised $500K USD in funding.\n𝗦𝗮𝗹𝗮𝗿𝘆: $140K- 300K\nApply once and, if selected, get access to up to 20 remote and onsite interview opportunities.\n\n🚀 𝗪𝗵𝗮𝘁 𝗪𝗲'𝗿𝗲 𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴\n\nCodeRound AI matches the top 5% tech talent with the fastest-growing, VC-funded AI startups across Silicon Valley and India.\n\nTop-tier product startups across the US, UK, EU, UAE, and India have hired top engineers through CodeRound.\n\n🚀 𝗔𝗜 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵𝗲𝗿 (2+ 𝗬𝗲𝗮𝗿𝘀 𝗼𝗳 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲)\n\nWe are seeking an AI Researcher & Engineer to push the boundaries of model performance through hands-on experimentation, fine-tuning, and deployment. Join us to bridge the gap between cutting-edge research and production-ready AI products.\n\n🧩 𝗪𝗵𝗮𝘁 𝗬𝗼𝘂'𝗹𝗹 𝗗𝗼\n\nResearch and understand machine learning techniques and papers\nExperiment with new research techniques and real-world implementations\nTrain, deploy, and serve models at scale\nWrite research papers based on experiments and findings\nDevelop detailed benchmarks and comparative performance analyses\nPerform quantization and fine-tuning of LLMs and other models\nOptimize models and GPU infrastructure for cost-to-scale efficiency\nWrite Python code and Jupyter Notebooks\n\n✅ 𝗬𝗼𝘂'𝗿𝗲 𝗮 𝗚𝗿𝗲𝗮𝘁 𝗙𝗶𝘁 𝗜𝗳 𝗬𝗼𝘂\n\nStrong AI research background with research/paper publications\nExperience researching and implementing machine learning techniques and papers\nStrong experience with deep learning frameworks such as PyTorch and TensorRT-LLM\nExperience training, deploying, and serving models at scale\nExperience with quantization and fine-tuning of LLMs and other models\nStrong benchmarking and performance analysis experience\n\n✨ 𝗪𝗵𝘆 𝗝𝗼𝗶𝗻 𝗨𝘀?\n\nOwn the research roadmap from day one at our funded startup.\nDeploy cutting-edge AI models directly into production for real-world impact.\nFast-track your career alongside top-tier talent in our Bengaluru office.\nWork directly with founders who value bold ideas and rapid execution.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Media",
+      "description": "RDQ426R282\n\nDatabricks is building the world's best and most secure platform for data and AI. We innovate and deploy industry-leading solutions in security, compliance, and governance.\n\nAs a member of the Trust and Safety Data Science team, you will work on projects critical to ensuring the security and compliance of the Databricks Platform. Our customers depend on Databricks to keep their data safe, all while orchestrating millions of virtual machines across three clouds in dozens of regions around the globe.\n\nOur engineering teams build highly technical products that fulfill real, important needs in the world. We always push the boundaries of data and AI technology, while simultaneously operating with the security and scale that is critical to making customers successful on our platform. We serve many companies with varying security and compliance needs. To efficiently serve these markets, we need to understand how customers use our existing features. This requires data-driven analysis of all aspects of security programs at Databricks.\n\nCustomers also trust Databricks with their most valuable data and we have the mission to build the most trusted data analytics and ML platform in the world. We’re looking to expand our Trust and Safety Data Science team. You will join a group of “full stack” data scientists who partner with engineering and security teams, focusing on strategic plans that make Databricks secure and safe for our customers. The team will use statistical and machine learning techniques for fraud and abuse detection on our platforms using state of the art methods . You can read more about some of our efforts in this blog post. The work in fraud and abuse detection is dynamic and essential, offering an opportunity to make a substantial impact in maintaining the security and efficiency of business operations.\n\nMore information is available at https://www.databricks.com/trust.\n\nThe Impact You Will Have\n\nYou will develop and implement Machine Learning models to detect anomalous activity in products that we offer.\nYou will analyze the performance and pricing of security-related features and work with product and engineering teams to identify important opportunities.\nYou will collaborate with security engineers, trust and safety experts, and machine learning engineers to build a variety of systems and tools that protect Databricks and our customers from threats.\nYou will create solutions and frameworks to meet compliance requirements at Databricks\nYou will gather requirements, define project OKRs and milestones, and communicate progress to both technical and non-technical audiences.\nYou will guide junior data scientists and interns on the team by helping with project planning, technical decisions, and code and document review.\nYou will represent the data science discipline throughout the organization, using your powerful voice to make us more data-driven.\nYou will represent Databricks at academic and industrial conferences and events.\n\nWhat We Look For\n\n7+ years of data science, machine learning, and advanced analytics experience in high-velocity, high-growth companies\nUnderstanding of good software engineering practices around testing, code reviews, and deployment.\nExperience working in a highly cross functional alignment and talking about results to non-technical partners.\nExperience deploying Data Science / ML solutions in production to achieve results.\nCoding skills in SQL and a software development language (preferably Python)\nExperience with distributed data processing systems like Spark and familiarity with software engineering principles.\nPrior experience applying machine learning and data analytics to identify SaaS product misuse and enhance compliance preferred but not required.\nMasters or higher in quantitative fields or equivalent experience in industry\n\nPay Range Transparency\n\nDatabricks is committed to fair and equitable compensation practices. The pay range(s) for this role is listed below and represents the expected salary range for non-commissionable roles or on-target earnings for commissionable roles. Actual compensation packages are based on several factors that are unique to each candidate, including but not limited to job-related skills, depth of experience, relevant certifications and training, and specific work location. Based on the factors above, Databricks anticipates utilizing the full width of the range. The total compensation package for this position may also include eligibility for annual performance bonus, equity, and the benefits listed above. For more information regarding which range your location is in visit our page here.\n\nLocal Pay Range\n\n$192,000—$260,000 USD\n\nAbout Databricks\n\nDatabricks is the Data and AI company. More than 20,000 organizations worldwide — including adidas, AT&T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 — rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on LinkedIn, X, YouTube, and Instagram.\n\nBenefits\n\nAt Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region click here.\n\nOur Commitment to Diversity and Inclusion\n\nAt Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.\n\nCompliance\n\nIf access to export-controlled technology or source code is required for performance of job duties, it is within Employer's discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
       "geography": {
         "status": "in_radius",
         "distance_miles": 59.936,
@@ -1054,10 +999,28 @@
       }
     },
     {
-      "company": "Samba",
-      "title": "Data Scientist",
+      "company": "EvenUp",
+      "title": "Senior Data Scientist",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478412192/",
+      "url": "https://www.linkedin.com/jobs/view/4478462246/",
+      "date_posted": "2026-11-05",
+      "salary": "$160,000.00/yr - $230,000.00/yr",
+      "ats": "LinkedIn",
+      "description": "EvenUp is on a mission to close the justice gap using technology and AI. We empower personal injury lawyers and victims to get the justice they deserve. Our products enable law firms to secure faster settlements, higher payouts, and better outcomes for victims injured through no fault of their own in vehicle collisions, accidents, natural disasters, and more.\n\nWe are one of the fastest-growing vertical SaaS companies in history, and we are just getting started. EvenUp is backed by top VCs, including Bessemer Venture Partners, Bain Capital Ventures, SignalFire, and Lightspeed. We are looking to expand our team with talented, driven, and collaborative individuals who seek to have a lasting impact. Learn more at www.evenuplaw.com.\n\nAbout the team:\n\nThe Analytics team at Evenup plays a critical role in driving data-informed decision-making across the organization. We partner closely with Product, Engineering, Operations, and Executive teams to uncover insights, build scalable data solutions, and enable a culture of data-driven decision making and continuous improvement. Our team is responsible for everything from foundational data modeling and reporting to advanced analytics and forecasting.\n\nWe’re looking for a Senior Data Scientist to join our fast-paced, data-driven team. You will be working on our AI product suite and identifying opportunities for proprietary data products. You’ll play a key role in understanding the key product usage, turning insights into actions and forming feasible plans for new data products.\n\nThis is a hybrid role with the expectation of working 3 days a week from one of our office hubs in San Francisco or Toronto.\n\nWhat you’ll do:\n\nTranslate complex datasets into clear insights with strategic recommendations that drive measurable actions and outcomes to inform product direction and business priorities\nPartner with Product, Engineering and Operations teams to define KPIs\nWork with evaluation data team to plan short and long term annotation work and define evaluation schemas\nCommunicate analysis results and outcomes clearly and tailor based on the audience\nHelp build and evolve our analytical foundation, including event instrumentation, metric frameworks, and scalable self-serve analytics tools\nMentor other members of the team and raise the bar for data storytelling, analytical rigor, and stakeholder influence across the org\n\nWhat we look for:\n\nBachelor's Degree in a relevant technical field such as statistics, mathematics, economics, computer science, engineering or related field or equivalent years of practical work experience\n5+ years of experience using SQL or similar big data querying languages\n5+ years of experience with programming language, such as Python or R\n5+ years of experience with applied statistical techniques, such as inferential methods, causal methods, A/B testing, or statistical modeling techniques\nExperience using machine learning and statistical analysis for building data-driven product solutions or performing methodological research\nExceptional verbal and written communication skills - ability to distill complex findings from data and models into compelling insights for technical and non-technical audiences\n\nBonus (Nice to have):\n\nAdvanced degree in applied mathematics, statistics, actuarial science, economics or related field\nExperience in a product-focused role in or legal medical domain\nStrong mentorship and leadership skills, with a track record of elevating scientific standards and growing junior talent across teams\n\nBenefits & Perks:\n\nAs part of our total rewards package, we offer attractive benefits and perks to our employees, including:\n\nChoice of medical, dental, and vision insurance plans for you and your family.\nAdditional insurance coverage options for life, accident, or critical illness.\nFlexible paid time off, sick leave, short-term and long-term disability.\n10 US observed holidays, and Canadian statutory holidays by province.\nA home office stipend.\n401(k) for US-based employees and RRSP for Canada-based employees.\nPaid parental leave.\nA local in-person meet-up program.\nHubs in San Francisco and Toronto.\n\n(Please note the above benefits & perks are for full-time employees)\n\nNotice to Candidates:\n\nTo ensure fairness and proper consideration, we do not accept resumes or expressions of interest via email or social media messages. If you’re interested in a role, please submit your application directly through our careers page .\n\nPlease note that EvenUp may use AI notetakers and other recording devices in the recruiting process. If you interview with us, with your consent, we may record your conversations and summarize them into notes for internal use. Recording is optional, and declining will not affect your candidacy.\n\nEvenUp is an equal opportunity employer. We are committed to diversity and inclusion in our company. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.\n\nCompensation Range: $160K - $230K\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Reddit, Inc.",
+      "title": "Staff Data Scientist, Ads",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4442732718/",
       "date_posted": "2026-11-04",
       "salary": "",
       "ats": "LinkedIn",
@@ -1071,10 +1034,390 @@
       }
     },
     {
-      "company": "Engram",
-      "title": "Research Scientist",
+      "company": "Amazon",
+      "title": "Data Scientist II, Device Economics",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4470650308/",
+      "date_posted": "2026-11-04",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Intuit",
+      "title": "Staff AI Scientist -- Credit Karma",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461795377/",
+      "date_posted": "2026-11-04",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 28.693,
+        "city": "oakland",
+        "latitude": 37.769846,
+        "longitude": -122.22569,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Crusoe",
+      "title": "Senior Data Scientist, Research Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485546960/",
+      "url": "https://www.linkedin.com/jobs/view/4384382908/",
+      "date_posted": "2026-11-04",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "SentiLink",
+      "title": "Staff Data Scientist, Full Stack",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4385312398/",
+      "date_posted": "2026-11-04",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Finezi Inc.",
+      "title": "Data Scientist",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485095476/",
+      "date_posted": "2026-11-04",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 28.693,
+        "city": "oakland",
+        "latitude": 37.769846,
+        "longitude": -122.22569,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Google",
+      "title": "Staff Product Data Scientist, ML Resource Efficiency",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469025329/",
+      "date_posted": "2026-11-04",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Vaspire Technologies Inc.",
+      "title": "Data Scientist",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486507888/",
+      "date_posted": "2026-11-04",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 13.183,
+        "city": "san jose",
+        "latitude": 37.296011,
+        "longitude": -121.814552,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "TikTok",
+      "title": "Research Engineer - TikTok Ads Core ML, Ranking",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486519361/",
+      "date_posted": "2026-11-04",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 13.183,
+        "city": "san jose",
+        "latitude": 37.296011,
+        "longitude": -121.814552,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Mercury",
+      "title": "Senior Data Scientist - Credit and Lending ML",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485537478/",
+      "date_posted": "2026-11-04",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "AppLovin",
+      "title": "Measurement Data Scientist",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454342815/",
+      "date_posted": "2026-11-05",
+      "salary": "$98,000—$148,000 USD",
+      "ats": "LinkedIn",
+      "description": "About AppLovin\n\nAppLovin makes technologies that help businesses of every size connect to their ideal customers. The company provides end-to-end advertising solutions for businesses to reach, monetize and grow their global audiences. For more information about AppLovin, visit: www.applovin.com.\n\nTo deliver on this mission, our global team is composed of team members with life experiences, backgrounds, and perspectives that mirror our developers and customers around the world. At AppLovin, we are intentional about the team and culture we are building, seeking candidates who are outstanding in their own right and also demonstrate their support of others.\n\nAppLovin is seeking a Measurement Data Scientist\nto join our Product Partnerships & Measurement team. This role is ideal for someone who is deeply curious about data and metrics—someone who doesn’t just analyze numbers, but strives to understand the nuances, assumptions, and limitations behind them. You’ll play a key role in helping us triangulate across multiple sources of truth—platform data, 3rd-party measurement (MMM, MTA, incrementality, post purchase survey, etc), and internal attribution systems—to uncover actionable insights that drive smarter business and marketing decisions.\n\nYou’ll collaborate closely with the Partnerships, Marketing Science, and Business Development teams to interpret results, refine methodologies, and translate insights into strategies that drive impact for AppLovin, our partners, and advertisers.\n\nKey Responsibilities\n\nInvestigate performance metrics across platform and 3rd-party measurement systems to identify inconsistencies, uncover insights, and drive clarity.\nAnalyze data using SQL and Python (pandas, numpy, sklearn, matplotlib) to extract trends and inform business decisions.\nSynthesize complex data into clear, actionable insights and communicate them effectively across technical and non-technical audiences.\nDevelop a strong understanding of advertising and commerce ecosystems, including conversion tracking, attribution, media mix modeling and incrementality.\nPartner with internal and external stakeholders to design and evaluate incrementality tests, and to interpret results and insights from MMM, MTA, brand lift, post-purchase studies, and other measurement frameworks.\nAsk critical questions, challenge assumptions, and continuously refine the metrics and frameworks used for evaluating performance and provide guidance to advertisers on their learning agendas.\nBuild tracking frameworks to monitor test performance and campaign outcomes; follow up and follow through with advertisers and partners to ensure best-practice setup, proper tracking, and adoption of key learnings.\nCollaborate cross-functionally to translate analytical findings into business strategies that improve campaign effectiveness and advertiser ROI.\nExperience in advertising, digital marketing, or eCommerce analytics.\n\nMinimum Qualifications\n\nStrong SQL skills and experience with large-scale data manipulation.\nThorough understanding of data structures.\nProficiency with Python for data analysis (pandas, numpy, sklearn, matplotlib)\nSignificant experience in data analysis in an online environment, with direct exposure to scoping and executing analytical projects end-to-end\nStrong communication skills and ability to translate analytical findings into clear business recommendations.\nHighly curious and detail-oriented, with an investigative mindset and comfort working with messy or incomplete data.\nDemonstrated ability to manage competing priorities and deliver results in a fast-paced environment.\nCollaborative and flexible team player who takes initiative and drives continuous improvement.\n\nPreferred Qualifications\n\nExperience in advertising, digital marketing, or eCommerce analytics.\nExperience with industry-standard measurement methodologies, including CLS, RCTs, attribution modeling, incrementality testing, and GeoLift.\nDemonstrated ability to apply AI techniques to marketing measurement challenges.\n\nAppLovin provides a competitive total compensation package with a pay for performance rewards approach. Total compensation at AppLovin is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Depending on the position offered, equity, and other forms of incentive compensation (as applicable) may be provided as part of a total compensation package, in addition to dental, vision, and other benefits.\n\nOther Types of Pay:\nEquity eligible\n\nHealth Insurance:\nMedical, Dental, Vision, Life, Disability\n\nRetirement Benefits:\n401(k) Retirement Plan\n\nPaid Time Off:\nUnlimited Discretionary Time Off\n\nPaid Holidays:\n10 paid holidays per year\n\nPaid Sick Leave:\n80 hours per year\n\nMethod of Application:\nApply online\n\nApplication Window:\nThe application window is expected to close within 30 days of the posting date.\n\nAll questions or concerns about this posting should be directed to peopleops@applovin.com.\n\nCA Base Pay Range\n\n$98,000—$148,000 USD\n\nAppLovin is proud to be an equal opportunity employer that is committed to inclusion and diversity. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status, or other legally protected characteristics. Learn more about EEO rights as an applicant here.\n\nIf you need assistance and/or a reasonable accommodation due to a disability during the application or recruiting process, please send us a request at jobs@applovin.com\n\nAppLovin will consider for employment all qualified applicants with criminal histories in a manner consistent with applicable law. If you’re applying for a position in California, learn more here.\n\nTo support an efficient and fair hiring process, we may use technology-assisted tools, including artificial intelligence (AI), to help identify and evaluate candidates. All hiring decisions are ultimately made by human reviewers.\n\nPlease read our Global Applicant Privacy Notice to learn more about how AppLovin processes your personal information.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nComputer Games, Online Audio and Video Media, and Advertising Services",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 6.453,
+        "city": "palo alto",
+        "latitude": 37.39652,
+        "longitude": -122.143088,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Robinhood",
+      "title": "Staff Data Scientist (People Analytics & Insights)",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4440173956/",
+      "date_posted": "2026-11-05",
+      "salary": "$217,000—$255,000 USD",
+      "ats": "LinkedIn",
+      "description": "Join us in building the future of finance.\n\nOur mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.\n\nAbout the team + role\n\nWe are building an elite team, applying frontier technologies to the world’s biggest financial problems. We’re looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn’t a place for complacency, it’s where ambitious people do the best work of their careers. We’re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards.\n\nThe Talent Management & Analytics team is scaling to its next major milestone—integrating advanced predictive insights and tactical AI into our workforce systems. Our mission is to build the data solutions that help the entire company recruit exceptional talent, design high-performing team structures, and put active organizational insights directly into the hands of everyone making team decisions. Operating at the intersection of data science, product development, and organizational psychology, we are transforming how Robinhood uses data to empower our workforce and anticipate organizational needs.\n\nAs a Staff Data Scientist, you will serve as the team's technical and strategic anchor, owning the vision, design, and delivery of the high-impact data products that our executives, people partners, and line managers rely on every day. Your focus will be entirely on solving meaningful organizational problems: understanding what enables exceptional talent to thrive, accelerating team performance, and designing proactive strategies that support long-term retention across Robinhood. This is a unique opportunity to apply state-of-the-art language models and predictive analytics to solve critical talent problems!\n\nThis role is based in our Menlo Park, CA, Chicago, IL, and New York, NY offices, with in-person attendance expected at least 3 days per week.\n\nAt Robinhood, we believe in the power of in-person work to accelerate progress, spark innovation, and strengthen community. Our office experience is intentional, energizing, and designed to fully support high-performing teams.\n\nWhat You’ll Do\n\nSpearhead the next phase of talent intelligence: Take the team beyond descriptive reporting and build the predictive frameworks that show not just what is happening in our workforce, but what will happen next.\nArchitect a unified workforce data model: Pipeline data across disparate recruiting systems, performance cycles, surveys, and internal tools into a single, cohesive data model that maps the entire employee lifecycle; use AI-native workflows aggressively to parse unstructured text like exit notes and survey feedback at scale.\nDefine the metrics dictionary and semantic layer: Standardize how metrics like headcount, attrition, and workforce trends are measured across the company; build the semantic layers that keep this data consistent and trustworthy at scale.\nDrive data access control and governance: Build the frameworks for role-based access controls and data masking so HR, Finance, and line managers have exactly the access they need without risking sensitive personnel data.\nRedesign employee sentiment architecture: Replace traditional annual survey cycles with a continuous, always-on listening framework that captures real-time organizational health and highlights leading risk indicators.\nOwn product delivery: Act as the technical product owner for internal data interfaces—collaborating directly with Enterprise Engineering to ensure exceptional user utility, predictive accuracy, and data reliability.\nEnforce rigorous statistical standards: Apply experimental design, A/B testing, and psychometric methodologies to ensure our predictive workforce models and survey frameworks are scientifically backed and statistically valid.\n\nWhat You Bring\n\n7+ years of data science experience, with advanced skills in Python, SQL, and direct experience with modern data infrastructure like Snowflake, BigQuery, or dbt.\nStrong product focus and experience defining user requirements, collaborating with engineers, and taking internal data tools from conception to launch.\nDeep understanding of statistics, experimental design, and psychometrics or survey methodology to design research-backed questions.\nDirect experience integrating language models into data pipelines to automate text processing and summarization at scale.\n\nWhat We Offer\n\nChallenging, high-impact work to grow your career.\nPerformance-driven compensation with multipliers for outsized impact, bonus programs, equity ownership, and 401(k) matching.\nBest-in-class benefits to fuel your work, including 100% paid health insurance for employees with 90% coverage for dependents.\nLifestyle wallet — a highly flexible benefits spending account for wellness, learning, and more.\nEmployer-paid life & disability insurance, fertility benefits, and mental health benefits.\nTime off to recharge including company holidays, paid time off, sick time, parental leave, and more!\nExceptional office experience with catered meals, events, and comfortable workspaces.\n\nIn addition to the base pay range listed below, this role is also eligible for bonus opportunities + equity + benefits.\n\nBase pay for the successful applicant will depend on a variety of job-related factors, which may include education, training, experience, location, business needs, or market demands. The expected base pay range for this role is based on the location where the work will be performed and is aligned to one of 3 compensation zones. For other locations not listed, compensation can be discussed with your recruiter during the interview process.\n\nBase Pay Range\n\nZone 1 (Menlo Park, CA; New York, NY; Bellevue, WA; Washington, DC)\n\n$217,000—$255,000 USD\n\nZone 2 (Denver, CO; Westlake, TX; Chicago, IL)\n\n$191,000—$224,000 USD\n\nZone 3 (Lake Mary, FL; Clearwater, FL; Gainesville, FL)\n\n$170,000—$199,000 USD\n\nClick here to learn more about our Total Rewards, which vary by region and entity.\n\nIf our mission energizes you and you’re ready to build the future of finance, we look forward to seeing your application.\n\nAI Usage Disclosure:\nRobinhood uses artificial intelligence (AI) tools to support parts of our recruiting process. These tools enhance the efficiency and consistency of our hiring process; however, all hiring decisions are made by our hiring teams.\n\nRobinhood provides equal opportunity for all applicants, offers reasonable accommodations upon request, and complies with applicable equal employment and privacy laws. Inclusion is built into how we hire and work—welcoming different backgrounds, perspectives, and experiences so everyone can do their best. Please review the Privacy Policy for your country of application.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nFinancial Services",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 9.313,
+        "city": "menlo park",
+        "latitude": 37.479731,
+        "longitude": -122.148055,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Data Scientist - Trust and Safety",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4301423708/",
+      "date_posted": "2026-11-05",
+      "salary": "$192,000—$260,000 USD",
+      "ats": "LinkedIn",
+      "description": "RDQ426R282\n\nDatabricks is building the world's best and most secure platform for data and AI. We innovate and deploy industry-leading solutions in security, compliance, and governance.\n\nAs a member of the Trust and Safety Data Science team, you will work on projects critical to ensuring the security and compliance of the Databricks Platform. Our customers depend on Databricks to keep their data safe, all while orchestrating millions of virtual machines across three clouds in dozens of regions around the globe.\n\nOur engineering teams build highly technical products that fulfill real, important needs in the world. We always push the boundaries of data and AI technology, while simultaneously operating with the security and scale that is critical to making customers successful on our platform. We serve many companies with varying security and compliance needs. To efficiently serve these markets, we need to understand how customers use our existing features. This requires data-driven analysis of all aspects of security programs at Databricks.\n\nCustomers also trust Databricks with their most valuable data and we have the mission to build the most trusted data analytics and ML platform in the world. We’re looking to expand our Trust and Safety Data Science team. You will join a group of “full stack” data scientists who partner with engineering and security teams, focusing on strategic plans that make Databricks secure and safe for our customers. The team will use statistical and machine learning techniques for fraud and abuse detection on our platforms using state of the art methods . You can read more about some of our efforts in this blog post. The work in fraud and abuse detection is dynamic and essential, offering an opportunity to make a substantial impact in maintaining the security and efficiency of business operations.\n\nMore information is available at https://www.databricks.com/trust.\n\nThe Impact You Will Have\n\nYou will develop and implement Machine Learning models to detect anomalous activity in products that we offer.\nYou will analyze the performance and pricing of security-related features and work with product and engineering teams to identify important opportunities.\nYou will collaborate with security engineers, trust and safety experts, and machine learning engineers to build a variety of systems and tools that protect Databricks and our customers from threats.\nYou will create solutions and frameworks to meet compliance requirements at Databricks\nYou will gather requirements, define project OKRs and milestones, and communicate progress to both technical and non-technical audiences.\nYou will guide junior data scientists and interns on the team by helping with project planning, technical decisions, and code and document review.\nYou will represent the data science discipline throughout the organization, using your powerful voice to make us more data-driven.\nYou will represent Databricks at academic and industrial conferences and events.\n\nWhat We Look For\n\n7+ years of data science, machine learning, and advanced analytics experience in high-velocity, high-growth companies\nUnderstanding of good software engineering practices around testing, code reviews, and deployment.\nExperience working in a highly cross functional alignment and talking about results to non-technical partners.\nExperience deploying Data Science / ML solutions in production to achieve results.\nCoding skills in SQL and a software development language (preferably Python)\nExperience with distributed data processing systems like Spark and familiarity with software engineering principles.\nPrior experience applying machine learning and data analytics to identify SaaS product misuse and enhance compliance preferred but not required.\nMasters or higher in quantitative fields or equivalent experience in industry\n\nPay Range Transparency\n\nDatabricks is committed to fair and equitable compensation practices. The pay range(s) for this role is listed below and represents the expected salary range for non-commissionable roles or on-target earnings for commissionable roles. Actual compensation packages are based on several factors that are unique to each candidate, including but not limited to job-related skills, depth of experience, relevant certifications and training, and specific work location. Based on the factors above, Databricks anticipates utilizing the full width of the range. The total compensation package for this position may also include eligibility for annual performance bonus, equity, and the benefits listed above. For more information regarding which range your location is in visit our page here.\n\nLocal Pay Range\n\n$192,000—$260,000 USD\n\nAbout Databricks\n\nDatabricks is the Data and AI company. More than 20,000 organizations worldwide — including adidas, AT&T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 — rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on LinkedIn, X, YouTube, and Instagram.\n\nBenefits\n\nAt Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region click here.\n\nOur Commitment to Diversity and Inclusion\n\nAt Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.\n\nCompliance\n\nIf access to export-controlled technology or source code is required for performance of job duties, it is within Employer's discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "EvenUp",
+      "title": "Senior Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4478462246/",
+      "date_posted": "2026-11-05",
+      "salary": "$160,000.00/yr - $230,000.00/yr",
+      "ats": "LinkedIn",
+      "description": "EvenUp is on a mission to close the justice gap using technology and AI. We empower personal injury lawyers and victims to get the justice they deserve. Our products enable law firms to secure faster settlements, higher payouts, and better outcomes for victims injured through no fault of their own in vehicle collisions, accidents, natural disasters, and more.\n\nWe are one of the fastest-growing vertical SaaS companies in history, and we are just getting started. EvenUp is backed by top VCs, including Bessemer Venture Partners, Bain Capital Ventures, SignalFire, and Lightspeed. We are looking to expand our team with talented, driven, and collaborative individuals who seek to have a lasting impact. Learn more at www.evenuplaw.com.\n\nAbout the team:\n\nThe Analytics team at Evenup plays a critical role in driving data-informed decision-making across the organization. We partner closely with Product, Engineering, Operations, and Executive teams to uncover insights, build scalable data solutions, and enable a culture of data-driven decision making and continuous improvement. Our team is responsible for everything from foundational data modeling and reporting to advanced analytics and forecasting.\n\nWe’re looking for a Senior Data Scientist to join our fast-paced, data-driven team. You will be working on our AI product suite and identifying opportunities for proprietary data products. You’ll play a key role in understanding the key product usage, turning insights into actions and forming feasible plans for new data products.\n\nThis is a hybrid role with the expectation of working 3 days a week from one of our office hubs in San Francisco or Toronto.\n\nWhat you’ll do:\n\nTranslate complex datasets into clear insights with strategic recommendations that drive measurable actions and outcomes to inform product direction and business priorities\nPartner with Product, Engineering and Operations teams to define KPIs\nWork with evaluation data team to plan short and long term annotation work and define evaluation schemas\nCommunicate analysis results and outcomes clearly and tailor based on the audience\nHelp build and evolve our analytical foundation, including event instrumentation, metric frameworks, and scalable self-serve analytics tools\nMentor other members of the team and raise the bar for data storytelling, analytical rigor, and stakeholder influence across the org\n\nWhat we look for:\n\nBachelor's Degree in a relevant technical field such as statistics, mathematics, economics, computer science, engineering or related field or equivalent years of practical work experience\n5+ years of experience using SQL or similar big data querying languages\n5+ years of experience with programming language, such as Python or R\n5+ years of experience with applied statistical techniques, such as inferential methods, causal methods, A/B testing, or statistical modeling techniques\nExperience using machine learning and statistical analysis for building data-driven product solutions or performing methodological research\nExceptional verbal and written communication skills - ability to distill complex findings from data and models into compelling insights for technical and non-technical audiences\n\nBonus (Nice to have):\n\nAdvanced degree in applied mathematics, statistics, actuarial science, economics or related field\nExperience in a product-focused role in or legal medical domain\nStrong mentorship and leadership skills, with a track record of elevating scientific standards and growing junior talent across teams\n\nBenefits & Perks:\n\nAs part of our total rewards package, we offer attractive benefits and perks to our employees, including:\n\nChoice of medical, dental, and vision insurance plans for you and your family.\nAdditional insurance coverage options for life, accident, or critical illness.\nFlexible paid time off, sick leave, short-term and long-term disability.\n10 US observed holidays, and Canadian statutory holidays by province.\nA home office stipend.\n401(k) for US-based employees and RRSP for Canada-based employees.\nPaid parental leave.\nA local in-person meet-up program.\nHubs in San Francisco and Toronto.\n\n(Please note the above benefits & perks are for full-time employees)\n\nNotice to Candidates:\n\nTo ensure fairness and proper consideration, we do not accept resumes or expressions of interest via email or social media messages. If you’re interested in a role, please submit your application directly through our careers page .\n\nPlease note that EvenUp may use AI notetakers and other recording devices in the recruiting process. If you interview with us, with your consent, we may record your conversations and summarize them into notes for internal use. Recording is optional, and declining will not affect your candidacy.\n\nEvenUp is an equal opportunity employer. We are committed to diversity and inclusion in our company. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.\n\nCompensation Range: $160K - $230K\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Reddit, Inc.",
+      "title": "Staff Data Scientist, Ads",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4442732718/",
+      "date_posted": "2026-11-04",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Amazon",
+      "title": "Data Scientist II, Device Economics",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4470650308/",
+      "date_posted": "2026-11-04",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Intuit",
+      "title": "Staff AI Scientist -- Credit Karma",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461795377/",
+      "date_posted": "2026-11-04",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 28.693,
+        "city": "oakland",
+        "latitude": 37.769846,
+        "longitude": -122.22569,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Crusoe",
+      "title": "Senior Data Scientist, Research Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4384382908/",
+      "date_posted": "2026-11-04",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "SentiLink",
+      "title": "Staff Data Scientist, Full Stack",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4385312398/",
+      "date_posted": "2026-11-04",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 59.936,
+        "city": "san francisco",
+        "latitude": 37.727239,
+        "longitude": -123.032229,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Finezi Inc.",
+      "title": "Data Scientist",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485095476/",
+      "date_posted": "2026-11-04",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 28.693,
+        "city": "oakland",
+        "latitude": 37.769846,
+        "longitude": -122.22569,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Google",
+      "title": "Staff Product Data Scientist, ML Resource Efficiency",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469025329/",
+      "date_posted": "2026-11-04",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 0.0,
+        "city": "sunnyvale",
+        "latitude": 37.385797,
+        "longitude": -122.026316,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Vaspire Technologies Inc.",
+      "title": "Data Scientist",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486507888/",
+      "date_posted": "2026-11-04",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 13.183,
+        "city": "san jose",
+        "latitude": 37.296011,
+        "longitude": -121.814552,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "TikTok",
+      "title": "Research Engineer - TikTok Ads Core ML, Ranking",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486519361/",
+      "date_posted": "2026-11-04",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 13.183,
+        "city": "san jose",
+        "latitude": 37.296011,
+        "longitude": -121.814552,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "Mercury",
+      "title": "Senior Data Scientist - Credit and Lending ML",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485537478/",
       "date_posted": "2026-11-04",
       "salary": "",
       "ats": "LinkedIn",
@@ -1294,12 +1637,83 @@
         "distance_miles": null,
         "reason": "An unambiguous city and state are required."
       }
+    },
+    {
+      "company": "Nuro",
+      "title": "Machine Learning Research Scientist: Generative Modeling for Planning",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/3741474632/",
+      "date_posted": "2026-11-05",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Who We Are\n\nNuro believes self-driving vehicles are the most immediate and profound opportunity for AI to drive positive change in the physical world. Safer streets, more time for what matters, and easier access to the world around us, that’s why we’re building a universal autonomy platform: self-driving for all roads and all rides.\n\nFounded in 2016, Nuro is a physical AI company developing Level 4 autonomous driving technology for a wide range of vehicles, use cases, and markets. Powered by the Nuro Driver™, our universal autonomy platform enables the global mobility ecosystem to deploy autonomy at scale, from robotaxis and logistics fleets to personal vehicles.\n\nWith years of real-world deployment experience and a flexible, partner-led business model, Nuro is working toward a future where millions of autonomous vehicles powered by our technology help make everyday life safer, easier, and more connected.\n\nNuro has raised over $2B in capital from Uber, NVIDIA, Google, Softbank, Fidelity, T. Rowe Price, and other leading investors.\n\nAbout The Work\n\nDevelop and scale state-of-the-art generative models—especially diffusion architectures, flow-matching techniques, and energy-based models —for autonomous plan generation.\nBuild generative models with foundation models. Leverage large language models and world foundation models for reasoning, decision making and multi-modality generation.\nOptimize generative models using reinforcement learning to improve interactive reasoning. Explore reward modeling/learned verifier using generative models. Explore joint prediction and planning and self-play. Leverage generative models for active learning and world modeling.\nDevelop controllable generative models to guide the generation process towards desired goals, conditions and rewards.\nCollaborate across autonomy teams while developing holistic solutions to top autonomy challenges. Understand issues, propose ideas, prioritize work and develop solutions to solve them, evaluate your solution by deploying the models on to the NuroDriver.\n\nAbout You\n\nYou have deep expertise and prior experience in some or many of the following areas:\n\nYou have a Ph.D. (preferable) or M.Sc. with 2-3 years of experience working with generative models in the lab, in industry, or both.\nResearch experiences in generative models, particularly diffusion models, flow matching and energy-based models, for robotics, including manipulation, path planning, and autonomous driving. Experiences in vision-language-action models, reinforcement learning for generative model optimization, video generation, text-to-image generation, diffusion models for LLMs, world foundation models, and other applications of generative modeling are a bonus!\nYou have strong problem solving and programming skills in Python and/or C++\nStrong culture fit and good team player.\nDemonstrated research publications in top conferences (e.g. NeurIPS, ICLR, ICML, CVPR, RSS, CoRL etc.)\n\nAt Nuro, your base pay is one part of your total compensation package. For this position, the reasonably expected pay range is between $160,360 and $240,540/ year for the level at which this job has been scoped. Your base pay will depend on several factors, including your experience, qualifications, education, location, and skills. In the event that you are considered for a different level, a higher or lower pay range would apply. This position is also eligible for an annual performance bonus, equity, and a competitive benefits package.\n\nAt Nuro, we celebrate differences and are committed to a diverse workplace that fosters inclusion and psychological safety for all employees. Nuro is proud to be an equal opportunity employer and expressly prohibits any form of workplace discrimination based on race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, veteran status, or any other legally protected characteristics.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "City is unknown or has multiple Census locations."
+      }
+    },
+    {
+      "company": "Digital Waffle",
+      "title": "Data Scientist",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4486393913/",
+      "date_posted": "2026-11-04",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "An unambiguous city and state are required."
+      }
+    },
+    {
+      "company": "Google",
+      "title": "Staff Business Data Scientist, Google Labs and Workspace",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4478118742/",
+      "date_posted": "2026-11-04",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "City is unknown or has multiple Census locations."
+      }
+    },
+    {
+      "company": "ByLabs",
+      "title": "Principal Data Scientist - Experimentation & Causal Inference",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4464183041/",
+      "date_posted": "2026-11-04",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "An unambiguous city and state are required."
+      }
+    },
+    {
+      "company": "Chime",
+      "title": "Lead Data Scientist, Credit Risk",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4476496943/",
+      "date_posted": "2026-11-04",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "ambiguous",
+        "distance_miles": null,
+        "reason": "An unambiguous city and state are required."
+      }
     }
   ],
   "geographic_counts": {
-    "in_radius": 53,
+    "in_radius": 67,
     "remote": 0,
-    "ambiguous": 14,
+    "ambiguous": 19,
     "outside_radius": 0
   }
 }
