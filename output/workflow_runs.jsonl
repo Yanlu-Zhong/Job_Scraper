@@ -785,3 +785,4 @@
 {"job_count": 53, "run_attempt": "1", "run_id": "42004884633", "scrape": {"batch": 4, "batches": 5, "queries": 32, "raw_rows": 426, "status": "success", "terms_in_batch": 8, "terms_total": 38}, "timestamp": "2026-11-05T09:57:48Z", "workflow": "linkedin"}
 {"job_count": 12, "run_attempt": "1", "run_id": "42005105292", "scrape": {"errors": 0, "queries": 25, "raw_rows": 339, "status": "success"}, "timestamp": "2026-11-05T09:58:44Z", "workflow": "indeed"}
 {"job_count": 0, "run_attempt": "1", "run_id": "42013078958", "scrape": {"errors": 0, "queries": 25, "raw_rows": 0, "status": "empty"}, "timestamp": "2026-11-05T10:44:14Z", "workflow": "glassdoor"}
+{"job_count": 0, "run_attempt": "1", "run_id": "42013439225", "timestamp": "2026-11-05T10:46:13Z", "workflow": "biotech"}
