@@ -1,18 +1,18 @@
 # 🟦 Indeed — AI · Language · Human Research Roles
-*Last updated: 2026-11-04 21:30 UTC*
+*Last updated: 2026-11-05 01:48 UTC*
 
-**2 new role(s)** since last run · 72 total in last 24h
+**2 new role(s)** since last run · 71 total in last 24h
 
-### [Senior Engineering Manager, Conversational AI & Knowledge Intelligence](https://www.indeed.com/viewjob?jk=33cd195502b11ed3) — Apple
-- 📍 **Location:** Santa Clara, CA, USA
-- 💰 **Salary:** $268k–$402k/yr
+### [AI Researcher (Infrastructure) III (Full Time)- United States ENG/CPO/AISWP ETR](https://www.indeed.com/viewjob?jk=7e4e45bd6f56a6e3) — Cisco
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $168k–$275k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-04
+- 🕒 **Posted:** 2026-11-05
 
-### [Machine Learning Engineer, Natural Language Understanding, Proactive](https://www.indeed.com/viewjob?jk=1e4c578352cacaaf) — Apple
-- 📍 **Location:** Santa Clara, CA, USA
-- 💰 **Salary:** $150k–$278k/yr
+### [AIML - Machine Learning Researcher, Post-Training for Foundation Models](https://www.indeed.com/viewjob?jk=5476ecec8fa42108) — Apple
+- 📍 **Location:** Cupertino, CA, USA
+- 💰 **Salary:** $185k–$325k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-04
