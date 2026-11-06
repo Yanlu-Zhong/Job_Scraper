@@ -1,23 +1,11 @@
 # 🟦 Indeed — AI · Language · Human Research Roles
-*Last updated: 2026-11-06 21:01 UTC*
+*Last updated: 2026-11-06 21:05 UTC*
 
-**3 new role(s)** since last run · 10 total in last 24h
+**1 new role(s)** since last run · 11 total in last 24h
 
-### [Operations Research Scientist](https://www.indeed.com/viewjob?jk=8a18f152d6f6eb8e) — DoorDash
+### [Data Scientist, Clinical Outcomes](https://www.indeed.com/viewjob?jk=ac2ff196a6748122) — Midi Health
 - 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $131k–$192k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-06
-
-### [Staff Research Engineer, Expressive Motion and Believability, DeepMind](https://www.indeed.com/viewjob?jk=0961f17c29ab44d7) — DeepMind
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $207k–$300k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-06
-
-### [Research Scientist](https://www.indeed.com/viewjob?jk=08cb589502d6ff6f) — Latent Labs
-- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $144k–$172k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-06
