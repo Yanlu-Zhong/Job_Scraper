@@ -1,104 +1,74 @@
 # 🔥 LinkedIn — AI · Language · Human Research Roles
-*Last updated: 2026-11-05 21:37 UTC*
+*Last updated: 2026-11-06 01:49 UTC*
 
-**24 new role(s)** since last run · 91 total in last 24h
+**16 new role(s)** since last run · 52 total in last 24h
 
-### [Tactile Sensing Research Engineer](https://www.linkedin.com/jobs/view/4485851351/) — Insight Recruitment
-- 📍 **Location:** San Carlos, CA
-- 💰 **Salary:** $200,000.00/yr - $250,000.00/yr
+### [Senior UX Researcher, YouTube](https://www.linkedin.com/jobs/view/4478461064/) — Google
+- 📍 **Location:** San Bruno, CA
+- 💰 **Salary:** $159000 - $230000
 - 🕒 **Posted:** 2026-11-05
 
-### [Research Scientist](https://www.linkedin.com/jobs/view/4487766664/) — AccuScan Sciences
-- 📍 **Location:** Milpitas, CA
-- 🕒 **Posted:** 2026-11-05
-
-### [Senior Principal Research Scientist, Computational Chemistry](https://www.linkedin.com/jobs/view/4452307005/) — IDEAYA Biosciences
-- 📍 **Location:** South San Francisco, CA
-- 💰 **Salary:** $196,000 - $242,000
-- 🕒 **Posted:** 2026-11-05
-
-### [AI Researcher (World Models & Embodied AI)](https://www.linkedin.com/jobs/view/4485845364/) — Insight Recruitment
-- 📍 **Location:** San Carlos, CA
-- 🕒 **Posted:** 2026-11-05
-
-### [Linguistic Engineer](https://www.linkedin.com/jobs/view/4485851273/) — Meta
-- 📍 **Location:** Burlingame, CA
-- 💰 **Salary:** $138,000.00/yr - $189,000.00/yr
-- 🕒 **Posted:** 2026-11-05
-
-### [AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA](https://www.linkedin.com/jobs/view/4486799017/) — Enigma
+### [Senior Experience Researcher](https://www.linkedin.com/jobs/view/4479717021/) — PayPal
 - 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $129,500.00 - $191,950.00 Annually
 - 🕒 **Posted:** 2026-11-05
 
-### [Research Engineer](https://www.linkedin.com/jobs/view/4471418706/) — Assort Health
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $190,000.00/yr - $240,000.00/yr
-- 🕒 **Posted:** 2026-11-05
-
-### [Senior Research Scientist](https://www.linkedin.com/jobs/view/4488004971/) — techire ai
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-05
-
-### [Staff, Data Scientist](https://www.linkedin.com/jobs/view/4459574161/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-11-05
-
-### [Staff Research Scientist/Engineer, Consumer Agents Post Training, DeepMind](https://www.linkedin.com/jobs/view/4469339103/) — Google DeepMind
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-05
-
-### [Principal AI Researcher, AISWP (Hybrid)](https://www.linkedin.com/jobs/view/4462067751/) — Cisco
-- 📍 **Location:** Milpitas, CA
-- 🕒 **Posted:** 2026-11-05
-
-### [Founding Applied Research Engineer](https://www.linkedin.com/jobs/view/4457991577/) — Rox
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-05
-
-### [Research Engineer, Post-Training](https://www.linkedin.com/jobs/view/4347818126/) — Cognition
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-05
-
-### [Sr. Applied Scientist, Agent Evaluation and Experimentation, DTx Science](https://www.linkedin.com/jobs/view/4479571472/) — Amazon
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-11-05
-
-### [Senior Research Scientist LLM](https://www.linkedin.com/jobs/view/4488007846/) — techire ai
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-05
-
-### [Applied Researcher 4 (AI Safety & Multimodal)](https://www.linkedin.com/jobs/view/4487773850/) — Capital One
+### [Staff Experience Researcher](https://www.linkedin.com/jobs/view/4479704681/) — PayPal
 - 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $159,500.00 - $236,500.00 Annually
 - 🕒 **Posted:** 2026-11-05
 
-### [Research Scientist, World Model Post-Training](https://www.linkedin.com/jobs/view/4469049842/) — Waymo
+### [Senior Data Scientist, Trust & Safety](https://www.linkedin.com/jobs/view/4488023695/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $176356 - $329334 annually
+- 🕒 **Posted:** 2026-11-05
+
+### [Data Scientist, Product Analytics](https://www.linkedin.com/jobs/view/4469303114/) — Meta
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $177,000.00/yr - $247,000.00/yr
+- 🕒 **Posted:** 2026-11-05
+
+### [Data Scientist II - Decision Science](https://www.linkedin.com/jobs/view/4459256181/) — Sony Interactive Entertainment
+- 📍 **Location:** San Mateo, CA
+- 💰 **Salary:** $156,300—$234,500 USD
+- 🕒 **Posted:** 2026-11-05
+
+### [Principal Data Scientist, Analytics](https://www.linkedin.com/jobs/view/4486791886/) — LiveRamp
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-05
 
-### [Applied Scientist, Fauna Robotics](https://www.linkedin.com/jobs/view/4487756381/) — Amazon
+### [Applied Scientist, Engineering](https://www.linkedin.com/jobs/view/4486908342/) — Anthropic
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-05
+
+### [Applied Scientist II, Prime Video Personalization and Discovery Science, Prime Video - Personalization and Discovery Science](https://www.linkedin.com/jobs/view/4461517287/) — Prime Video & Amazon MGM Studios
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-11-05
 
-### [Applied Scientist, Prime Video - Generative AI (Video)](https://www.linkedin.com/jobs/view/4462081953/) — Prime Video & Amazon MGM Studios
-- 📍 **Location:** Sunnyvale, CA
+### [Research Scientist, Discovery (Engineering & Applied Sciences)](https://www.linkedin.com/jobs/view/4486799971/) — Anthropic
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-05
 
-### [Applied Scientist, Automated Reasoning](https://www.linkedin.com/jobs/view/4461506484/) — Amazon Web Services (AWS)
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-11-05
-
-### [Research Scientist, AI & Systems Co-Design (PhD)](https://www.linkedin.com/jobs/view/4469305102/) — Meta
+### [Research Engineer, Robotics - Meta Superintelligence Labs](https://www.linkedin.com/jobs/view/4459297561/) — Meta
 - 📍 **Location:** Menlo Park, CA
 - 🕒 **Posted:** 2026-11-05
 
-### [Machine Learning Research Manager](https://www.linkedin.com/jobs/view/4487797911/) — Rad AI
+### [AI Scientist, Computational Protein Design](https://www.linkedin.com/jobs/view/4486918784/) — Xaira Therapeutics
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-11-05
+
+### [Applied Scientist, Fauna Robotics](https://www.linkedin.com/jobs/view/4485859988/) — Amazon Science
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-11-05
+
+### [AI Scientist - Agentic Verticals](https://www.linkedin.com/jobs/view/4488078346/) — Zoom
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-11-05
+
+### [Data Scientist, Meta Superintelligence Labs (Safety)](https://www.linkedin.com/jobs/view/4477076100/) — Meta
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-05
 
-### [AI Research Scientist, FAIR Security, Privacy, and Reliability](https://www.linkedin.com/jobs/view/4468999200/) — Meta
+### [Data Scientist, Seller Merchant](https://www.linkedin.com/jobs/view/4478831095/) — Whatnot
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-05
-
-### [Senior Machine Learning Researcher, Large Behavior Models & Diffusion Policy](https://www.linkedin.com/jobs/view/4437148103/) — Toyota Research Institute
-- 📍 **Location:** Los Altos, CA
 - 🕒 **Posted:** 2026-11-05
