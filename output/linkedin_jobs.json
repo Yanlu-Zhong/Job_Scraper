@@ -1,12 +1,12 @@
 {
-  "scraped_at": "2026-11-06 01:49 UTC",
-  "total": 52,
-  "new_count": 16,
+  "scraped_at": "2026-11-06 02:32 UTC",
+  "total": 55,
+  "new_count": 3,
   "scrape_status": {
     "status": "success",
-    "raw_rows": 432,
+    "raw_rows": 473,
     "queries": 32,
-    "batch": 1,
+    "batch": 2,
     "batches": 5,
     "terms_in_batch": 8,
     "terms_total": 38
@@ -351,7 +351,8 @@
         "latitude": 37.727239,
         "longitude": -123.032229,
         "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
+      },
+      "description": "Want to build the speech and audio models that define how the next generation of voice AI actually sounds and listens?\n\nA well-funded AI startup has developed new model architectures that make real-time conversational AI finally viable at scale. While most voice AI still suffers from delays and computational bottlenecks, they've solved the core efficiency problems that have held the field back.\n\nThe role\n\nAs their Senior/Staff Research Scientist, you'll build core speech foundation models that could define the next decade of voice interaction. You'll work on novel architectures that have immediate real-world impact for thousands of customers.\n\nWhat you'll do\n\nDesign and implement SOTA speech foundation models\nDevelop efficient algorithms for speech processing and audio understanding\nCreate scalable systems that handle massive audio workloads\nBuild comprehensive evaluation methods to validate model performance\nCollaborate with engineering teams to transition research into production\n\nWhat you'll bring\n\nDeep expertise in modern speech technologies (TTS, Speech LLMs, Voice Conversion/Cloning, Speech Translation, ASR, Audio Understanding, Speech-to-Speech)\nStrong background in generative modelling for audio and speech\nPublications at leading conferences\nTrack record of implementing research ideas from concept to production\n\nYou'll join a solid research team, including technical founders who've published work that's fundamentally shifted how the field thinks about efficient, large-scale foundation models.\n\nThey're well-funded and generating strong revenue. Comp is on par with top AI labs, with base over $400k+ DOE plus a generous equity package.\n\nThe role is based in SF or NYC (hybrid).\n\nIf you're excited about building the foundational models that will power the next generation of voice AI, we'd love to hear from you.\n\nAll applicants will receive a response.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development"
     },
     {
       "company": "Walmart",
@@ -920,207 +921,30 @@
         "longitude": -123.032229,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "Google",
-      "title": "Senior UX Researcher, YouTube",
-      "location": "San Bruno, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478461064/",
-      "date_posted": "2026-11-05",
-      "salary": "$159000 - $230000",
-      "ats": "LinkedIn",
-      "description": "Minimum qualifications:\n\nBachelor's degree or equivalent practical experience.\n6 years of experience of experience in an applied research setting (e.g., product or academic), or similar.\nExperience with research methods (e.g., usability, studies, contextual inquires, 1:1 interviews, unmoderated research studies).\n\nPreferred qualifications:\n\nMaster's degree or PhD in Human-Computer Interaction, Cognitive Science, Statistics, Psychology, Anthropology, or related field.\n5 years of experience conducting UX research on products and working with executive leadership (e.g., Director level and above).\n3 years of experience managing projects, and working in a large, matrixed organization.\nExperience of the content economy or direct messaging.\nExperience working in international teams and across timezones.\n\nAbout The Job\n\nAt Google, we \"Focus on the user and all else will follow.\" As a User Experience Researcher (UXR), you make this possible. You will join our multi-disciplinary UX team, collaborating with Engineering and Product Management, to gather insights and create industry-leading products.\n\nYou’ll play a critical role in helping your team understand user needs and will drive impact at all stages of product development, ensuring products are useful, usable, and helpful. You will explore user behaviors and motivations by conducting primary research, including: field studies, interviews, diary studies, ethnography, surveys, usability testing, and logs analysis. You will also grow within a supportive UXR community offering mentorship, regular meetups, and exclusive internal tools.\n\nThe role of UX Research is evolving. As a Senior Researcher, you will see your role not just as a 'doer of primary research', but as a strategic partner, an orchestrator of insights, and a creator of solutions. In this role, you’ll use your methodological skills to address the high-stakes problems that only a specialist can solve - while using new tools and adjacent skills to move up the value chain and make change happen.\n\nAt YouTube, we believe that everyone deserves to have a voice, and that the world is a better place when we listen, share, and build community through our stories. We work together to give everyone the power to share their story, explore what they love, and connect with one another in the process. Working at the intersection of cutting-edge technology and boundless creativity, we move at the speed of culture with a shared goal to show people the world. We explore new ideas, solve real problems, and have fun — and we do it all together.\n\nIndividual pay is determined by factors including job-related skills, experience, and relevant education or training.\n\nUS: $159000 - $230000 (USD) + 15% bonus target + equity + benefits\n\nResponsibilities\n\nLearn more about benefits at Google .\n\nOwn the research agenda for a complex problem space - directing tactical work across Rapid Research, vendors, and teammates, while saving your bandwidth for high-uncertainty strategic questions.\nPartner with leadership to look beyond features and bring a clear point of view to decisions, and challenge proposed solutions that won't serve users.\nPartner with Data Science, Engineers, and fellow researchers to weave qual, quant, and prior insights into unified narratives - and ensure new products are instrumented to measure what matters.\nUse AI tools to strip friction from synthesis and knowledge sharing, while helping shape new human-AI experiences and anticipating emerging risks.\nBuild trusted cross-functional partnerships, design immersions that bring teammates closer to users, mentor peers, and help evolve UXR practice across Google.\n\nGoogle is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nInformation Services and Technology, Information and Internet",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 27.702,
-        "city": "san bruno",
-        "latitude": 37.62556,
-        "longitude": -122.431397,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
     },
     {
-      "company": "PayPal",
-      "title": "Senior Experience Researcher",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479717021/",
+      "company": "Natera",
+      "title": "Lead Bioinformatics & Machine Learning Scientist (Epigenomics)",
+      "location": "San Carlos, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485883009/",
       "date_posted": "2026-11-05",
-      "salary": "$129,500.00 - $191,950.00 Annually",
+      "salary": "$172,000—$214,000 USD",
       "ats": "LinkedIn",
-      "description": "The Company\n\nPayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy.\n\nWe operate a global, two-sided network at scale that connects hundreds of millions of merchants and consumers. We help merchants and consumers connect, transact, and complete payments, whether they are online or in person. PayPal is more than a connection to third-party payment networks. We provide proprietary payment solutions accepted by merchants that enable the completion of payments on our platform on behalf of our customers.\n\nWe offer our customers the flexibility to use their accounts to purchase and receive payments for goods and services, as well as the ability to transfer and withdraw funds. We enable consumers to exchange funds more safely with merchants using a variety of funding sources, which may include a bank account, a PayPal or Venmo account balance, PayPal and Venmo branded credit products, a credit card, a debit card, certain cryptocurrencies, or other stored value products such as gift cards, and eligible credit card rewards. Our PayPal, Venmo, and Xoom products also make it safer and simpler for friends and family to transfer funds to each other. We offer merchants an end-to-end payments solution that provides authorization and settlement capabilities, as well as instant access to funds and payouts. We also help merchants connect with their customers, process exchanges and returns, and manage risk. We enable consumers to engage in cross-border shopping and merchants to extend their global reach while reducing the complexity and friction involved in enabling cross-border trade.\n\nOur beliefs are the foundation for how we conduct business every day. We live each day guided by our core values of Inclusion, Innovation, Collaboration, and Wellness. Together, our values ensure that we work together as one global team with our customers at the center of everything we do – and they push us to ensure we take care of ourselves, each other, and our communities.\n\nJob Summary:\n\nWe’re looking for an Experience Researcher with a mixed-methods background to join our Enterprise Services Experience Research team. As an influential member of the team, you’ll play a vital role in uncovering deep insights that shape user-centered experiences for businesses, marketplaces, and partners. You’ll own research end-to-end — from framing questions and developing research roadmaps to driving action from your findings — in a collaborative, fast-paced environment.\n\nJob Description:\n\nEssential Responsibilities:\n\nPerform data analysis using specialized domain knowledge and developed business expertise\nLead projects and/or programs within the Experience Research family with moderate scope impacting the Product function\nUtilize research methodologies to optimize user experiences using general parameters under broad supervision\nMay act as a subject matter resource for entry level and developing colleagues\nShare best practices and insights with team members to foster a collaborative research environment.\n\nMinimum Qualifications:\n\n3+ years relevant experience and a Bachelor’s degree OR Any equivalent combination of education and experience.\n\nAdditional Responsibilities & Preferred Qualifications:\n\nAdditional Responsibilities:\n\nOwn and drive research programs within assigned product space from beginning to end, partnering with stakeholders to ensure insights are acted upon.\nDesign, coordinate and execute qualitative and quantitative research projects involving a wide range of methodologies.\nBalance in-house execution of research with vendor-managed projects, maintaining quality and rigor across both models.\nSuccessfully leverage insights across various research functions and data sources (e.g. market data, behavioral data, qualitative findings, etc.) throughout the product development lifecycle.\nPrepare and present research findings and recommendations in a concise and compelling way to stakeholders at all levels, ensuring outputs are actionable.\nAct as a vital liaison between design, product management, engineering, and go-to market teams, driving alignment across stakeholders.\nDesign and contribute to workshops and design sprints by surfacing relevant insights, identifying research opportunities, and influencing the evolution of our product and design strategies.\nIdentify and implement innovative research techniques and emerging tools — including AI methods — to address evolving business needs.\nModel a growth mindset by actively seeking and providing feedback, experimenting with new approaches, collaborating with other researchers and working to expand your skillset.\n\nPreferred Qualifications:\n\n5+ years relevant experience in user experience research, product strategy, and/or market research or equivalent project/portfolio experience with B2B audiences.\nExperience conducting research with large enterprise and mid-market corporate decision-makers and/or developers.\nExperience with a variety of research methods and approaches including: 1:1 interviews, cognitive walkthroughs, moderated and unmoderated usability testing, concept testing, contextual inquiry, diary studies, ethnography, Jobs-to-be-Done, journey mapping, personas, survey design and analysis.\nBackground in payments, financial services, or platform ecosystems in the financial services space.\nComfort with ambiguity: work closely with stakeholders, approach discussions with a method-agnostic mindset.\n\nSubsidiary:\n\nPayPal\n\nTravel Percent:\n\n0\n\nThe base pay for this role will depend on where you work and the relevant experience and expertise you bring. The expected range of pay for this role by location is:\n\nPrimary Location : Pay Range:\n\nNew York City, New York: ($129,500.00 - $191,950.00 Annually)\n\nAdditional Location(s) : Pay Range:\n\nChicago, Illinois: ($117,500.00 - $174,350.00 Annually)\n\nAustin, Texas: ($117,500.00 - $174,350.00 Annually)\n\nSan Jose, California: ($129,500.00 - $191,950.00 Annually)\n\nAdditional compensation for this role may include an annual performance bonus, equity, or other incentive compensation, as applicable.\n\nPayPal does not charge candidates any fees for courses, applications, resume reviews, interviews, background checks, or onboarding. When making an application directly, we will never ask you to share passwords, one-time passcodes (OTP), or verification codes. Any such request is a red flag and likely part of a scam. All communication regarding your application will come from official PayPal email domains. If you suspect fraudulent activity, please report it immediately. To learn more about how to identify and avoid recruitment fraud please visit https://careers.pypl.com/contact-us.\n\nFor the majority of employees, PayPal's balanced hybrid work model offers 3 days in the office for effective in-person collaboration and 2 days at your choice of either the PayPal office or your home workspace, ensuring that you equally have the benefits and conveniences of both locations.\n\nOur Benefits:\n\nAt PayPal, we’re committed to building an equitable and inclusive global economy. And we can’t do this without our most important asset-you. That’s why we offer comprehensive, choice-based programs, to support all aspects of personal wellbeing—physical, emotional, and financial—delivering meaningful value where it matters most. We strive to create a flexible, balanced work culture with a holistic approach to benefits, including generous paid time off, healthcare coverage for you and your family, and resources to create financial security and support your mental health.\n\nWho We Are:\n\nClick Here to learn more about our culture and community.\n\nCommitment to Diversity and Inclusion\n\nPayPal provides equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, pregnancy, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state, or local law. In addition, PayPal will provide reasonable accommodations for qualified individuals with disabilities. If you are unable to submit an application because of incompatible assistive technology or a disability, please contact us at paypalglobaltalentacquisition@paypal.com.\n\nBelonging at PayPal:\n\nOur employees are central to advancing our mission, and we strive to create an environment where everyone can do their best work with a sense of purpose and belonging. Belonging at PayPal means creating a workplace with a sense of acceptance and security where all employees feel included and valued. We are proud to have a diverse workforce reflective of the merchants, consumers, and communities that we serve, and we continue to take tangible actions to cultivate inclusivity and belonging at PayPal.\n\nAny general requests for consideration of your skills, please Join our Talent Community.\n\nWe know the confidence gap and imposter syndrome can get in the way of meeting spectacular candidates. Please don’t hesitate to apply.\n\nNotice to Applicants and Employees who reside within New York City. Click here\nto view the notice.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "description": "Natera is currently seeking a Lead Bioinformatics & Machine Learning Scientist to contribute to research and development within our Bioinformatics Research and Development team, focused on Epigenomics in Oncology. The team develops machine learning methods for early cancer detection from cell-free DNA methylation data. The ideal candidate will have a strong background in machine learning and statistical modeling, as well as genomics and sequencing data analysis. The successful candidate will be instrumental in developing and expanding state-of-the-art machine learning methods for early detection of cancer, and will provide technical leadership and mentorship within a highly collaborative team.\n\nPrimary Responsibilities\n\nDrive technical workstreams within a collaborative team that takes methods from problem definition through delivery of final classifiers to downstream validation teams\nDesign, implement, and validate novel machine learning and statistical methods to solve problems in cancer diagnostics\nEstablish and promote best practices in model interpretability, uncertainty estimation, and reproducibility\nDesign robust feature engineering and extraction pipelines tailored to cfDNA methylation and sequencing data\nCollaborate closely with molecular biologists on experimental design, ensuring data integrity and quality control\nMentor other scientists and foster a culture of innovation, collaboration, and scientific excellence\nLead and actively participate in code and design reviews\n\nQualifications\n\nPhD in Bioinformatics, Computer Science, Machine Learning, Statistics, or a related quantitative field, with 4 to 8+ years of post-PhD experience\nHands-on experience in cancer genomics or epigenomics; experience with cell-free DNA or methylation sequencing data is a plus\nStrong foundation in quantitative reasoning, statistical analysis, and applied machine learning; experience with deep learning frameworks is a plus\nProven track record of developing computational methods for high-throughput sequencing data analysis\nStrong programming skills, with hands-on experience in Python and its scientific library stack (pandas, NumPy, scikit-learn)\nExperience with Linux command-line tools, shell scripting, version control (Git), workflow managers (e.g., Nextflow, Snakemake), and cloud or HPC compute environments\nAbility to perform hypothesis-driven research, visualize findings, and summarize results in oral and written form\nExperience mentoring or technically leading other scientists\n\nCompensation & Total Rewards\n\nThis range reflects a good-faith estimate of the base pay we reasonably expect to offer at the time of hire. Final compensation will vary based on experience, qualifications, and internal equity considerations.\n\nThis position is also eligible for additional compensation and benefits through Natera’s robust Total Rewards program, including:\n\nAnnual performance incentive bonus\nLong-term equity awards\nComprehensive health benefits (medical, dental, vision)\n401(k) with company match\nGenerous paid time off and company holidays\nAdditional wellness and work-life benefits\n\nCompensation Range\n\n$172,000—$214,000 USD\n\nOUR OPPORTUNITY\n\nNatera™ is a global leader in cell-free DNA (cfDNA) testing, dedicated to oncology, women’s health, and organ health. Our aim is to make personalized genetic testing and diagnostics part of the standard of care to protect health and enable earlier and more targeted interventions that lead to longer, healthier lives.\n\nThe Natera team consists of highly dedicated statisticians, geneticists, doctors, laboratory scientists, business professionals, software engineers and many other professionals from world-class institutions, who care deeply for our work and each other. When you join Natera, you’ll work hard and grow quickly. Working alongside the elite of the industry, you’ll be stretched and challenged, and take pride in being part of a company that is changing the landscape of genetic disease management.\n\nWhat We Offer\n\nCompetitive Benefits - Employee benefits include comprehensive medical, dental, vision, life and disability plans for eligible employees and their dependents. Additionally, Natera employees and their immediate families receive free testing in addition to fertility care benefits. Other benefits include pregnancy and baby bonding leave, 401k benefits, commuter benefits and much more. We also offer a generous employee referral program!\n\nFor more information, visit www.natera.com.\n\nNatera is proud to be an Equal Opportunity Employer. We are committed to ensuring a diverse and inclusive workplace environment, and welcome people of different backgrounds, experiences, abilities and perspectives. Inclusive collaboration benefits our employees, our community and our patients, and is critical to our mission of changing the management of disease worldwide.\n\nAll qualified applicants are encouraged to apply, and will be considered without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, age, veteran status, disability or any other legally protected status. We also consider qualified applicants regardless of criminal histories, consistent with applicable laws.\n\nIf you are based in California, we encourage you to read this important information for California residents.\n\nLink: https://www.natera.com/notice-of-data-collection-california-residents/\n\nPlease be advised that Natera will reach out to candidates with a @natera.com email domain ONLY. Email communications from all other domain names are not from Natera or its employees and are fraudulent. Natera does not request interviews via text messages and does not ask for personal information until a candidate has engaged with the company and has spoken to a recruiter and the hiring team. Natera takes cyber crimes seriously, and will collaborate with law enforcement authorities to prosecute any related cyber crimes.\n\nFor More Information\n\nBBB announcement on job scams\nFBI Cyber Crime resource page\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nBiotechnology Research, Pharmaceutical Manufacturing, and Software Development",
       "geography": {
         "status": "in_radius",
-        "distance_miles": 13.183,
-        "city": "san jose",
-        "latitude": 37.296011,
-        "longitude": -121.814552,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "PayPal",
-      "title": "Staff Experience Researcher",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479704681/",
-      "date_posted": "2026-11-05",
-      "salary": "$159,500.00 - $236,500.00 Annually",
-      "ats": "LinkedIn",
-      "description": "The Company\n\nPayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy.\n\nWe operate a global, two-sided network at scale that connects hundreds of millions of merchants and consumers. We help merchants and consumers connect, transact, and complete payments, whether they are online or in person. PayPal is more than a connection to third-party payment networks. We provide proprietary payment solutions accepted by merchants that enable the completion of payments on our platform on behalf of our customers.\n\nWe offer our customers the flexibility to use their accounts to purchase and receive payments for goods and services, as well as the ability to transfer and withdraw funds. We enable consumers to exchange funds more safely with merchants using a variety of funding sources, which may include a bank account, a PayPal or Venmo account balance, PayPal and Venmo branded credit products, a credit card, a debit card, certain cryptocurrencies, or other stored value products such as gift cards, and eligible credit card rewards. Our PayPal, Venmo, and Xoom products also make it safer and simpler for friends and family to transfer funds to each other. We offer merchants an end-to-end payments solution that provides authorization and settlement capabilities, as well as instant access to funds and payouts. We also help merchants connect with their customers, process exchanges and returns, and manage risk. We enable consumers to engage in cross-border shopping and merchants to extend their global reach while reducing the complexity and friction involved in enabling cross-border trade.\n\nOur beliefs are the foundation for how we conduct business every day. We live each day guided by our core values of Inclusion, Innovation, Collaboration, and Wellness. Together, our values ensure that we work together as one global team with our customers at the center of everything we do – and they push us to ensure we take care of ourselves, each other, and our communities.\n\nJob Summary:\n\nWe’re looking for a Staff Experience Researcher with a mixed-methods background to join our Enterprise Services Experience Research team. As an influential member of the team, you’ll work across a portfolio of products, collaborating with cross-functional partners to uncover deep insights that shape user-centered experiences for businesses, marketplaces, and partners. You’ll own research end-to-end, from framing questions and developing research roadmaps to driving action from your findings in a collaborative, fast-paced environment.\n\nJob Description:\n\nEssential Responsibilities:\n\nDevelop clear plans and priorities to gather insights and make data-driven decisions to meet team performance\nPerform more-complex analysis using highly specialized product knowledge and advanced business expertise\nLead functional projects and programs that enhance user experiences based on research findings.\nDesign methodologies including user testing, surveys and data analysis understanding of business needs and industry trends\nDevelop and implement research methodologies that optimize user testing and data collection processes.\nContribute to the continuous improvement of research practices and team efficiencies.\n\nMinimum Qualifications:\n\n5+ years relevant experience and a Bachelor’s degree OR Any equivalent combination of education and experience.\n\nAdditional Responsibilities & Preferred Qualifications:\n\nSubsidiary:\n\nPayPal\n\nTravel Percent:\n\n0\n\nVisa Sponsorship through PayPal is not available for this position now or any time in the future.\n\nThe base pay for this role will depend on where you work and the relevant experience and expertise you bring. The expected range of pay for this role by location is:\n\nPrimary Location : Pay Range:\n\nNew York City, New York: ($159,500.00 - $236,500.00 Annually)\n\nAdditional Location(s) : Pay Range:\n\nChicago, Illinois: ($145,000.00 - $215,050.00 Annually)\n\nAustin, Texas: ($145,000.00 - $215,050.00 Annually)\n\nSan Jose, California: ($159,500.00 - $236,500.00 Annually)\n\nAdditional compensation for this role may include an annual performance bonus, equity, or other incentive compensation, as applicable.\n\nPayPal does not charge candidates any fees for courses, applications, resume reviews, interviews, background checks, or onboarding. When making an application directly, we will never ask you to share passwords, one-time passcodes (OTP), or verification codes. Any such request is a red flag and likely part of a scam. All communication regarding your application will come from official PayPal email domains. If you suspect fraudulent activity, please report it immediately. To learn more about how to identify and avoid recruitment fraud please visit https://careers.pypl.com/contact-us.\n\nFor the majority of employees, PayPal's balanced hybrid work model offers 3 days in the office for effective in-person collaboration and 2 days at your choice of either the PayPal office or your home workspace, ensuring that you equally have the benefits and conveniences of both locations.\n\nOur Benefits:\n\nAt PayPal, we’re committed to building an equitable and inclusive global economy. And we can’t do this without our most important asset-you. That’s why we offer comprehensive, choice-based programs, to support all aspects of personal wellbeing—physical, emotional, and financial—delivering meaningful value where it matters most. We strive to create a flexible, balanced work culture with a holistic approach to benefits, including generous paid time off, healthcare coverage for you and your family, and resources to create financial security and support your mental health.\n\nWho We Are:\n\nClick Here to learn more about our culture and community.\n\nCommitment to Diversity and Inclusion\n\nPayPal provides equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, pregnancy, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state, or local law. In addition, PayPal will provide reasonable accommodations for qualified individuals with disabilities. If you are unable to submit an application because of incompatible assistive technology or a disability, please contact us at paypalglobaltalentacquisition@paypal.com.\n\nBelonging at PayPal:\n\nOur employees are central to advancing our mission, and we strive to create an environment where everyone can do their best work with a sense of purpose and belonging. Belonging at PayPal means creating a workplace with a sense of acceptance and security where all employees feel included and valued. We are proud to have a diverse workforce reflective of the merchants, consumers, and communities that we serve, and we continue to take tangible actions to cultivate inclusivity and belonging at PayPal.\n\nAny general requests for consideration of your skills, please Join our Talent Community.\n\nWe know the confidence gap and imposter syndrome can get in the way of meeting spectacular candidates. Please don’t hesitate to apply.\n\nNotice to Applicants and Employees who reside within New York City. Click here\nto view the notice.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 13.183,
-        "city": "san jose",
-        "latitude": 37.296011,
-        "longitude": -121.814552,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Senior Data Scientist, Trust & Safety",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488023695/",
-      "date_posted": "2026-11-05",
-      "salary": "$176356 - $329334 annually",
-      "ats": "LinkedIn",
-      "description": "Responsibilities\n\nTeam Intro\nAt TikTok, we're committed to a process of continuous innovation and improvement in our user experience and safety controls. We're proud to be able to serve a global community of more than a billion people who use TikTok to creatively express themselves and be entertained, and we're dedicated to giving them a platform that builds opportunity and fosters connection. We also take our responsibility to safeguard our community seriously, both in how we address potentially harmful content and how we protect against unauthorized access to user data.\n\nOur US Data Security Safety team provides key support for TikTok’s innovative initiatives, state-of-the-art products, and integrated platforms servicing our US market. As a Data Scientist on TikTok's US Data Security Safety Product team, you will be instrumental in ensuring that TikTok remains a safe, trustworthy, and risk-free environment to create and enjoy content across all of our apps while protecting our brand.\nThe ideal candidate will have a background in a statistics and product analytics, will have experience working with large data sets, and will have some experience delivering data products on a fast-paced team.\n\nThis Senior Data Scientist may be exposed to harmful content as part of their core day-to-day functions, as well as in project work; in response to escalation requests; or by chance.\n\nSome content viewed may violate our community guidelines which include but are not limited to bullying; hate speech; child abuse; sexual assault; torture; bestiality; self-harm; suicide; and murder.\n\nThis position will be full-time and will be based in our San Jose location.\n\nResponsibilities:\n- Partner with product, operations, policy, and engineering teams to scope, design, execute, measure, and improve the impact of US Safety efforts\n- This individual will break down the hairiest of problems by applying the full data science toolkit and provide insights to stakeholders across the organization to change minds and hearts\n- Be constantly curious and continue to pursue in-depth explorations of our datasets and business\n- Conduct quantitative analysis, deliver insights, and influence US Safety decision making through understanding of user behavior and safety ecosystem\n- Independently design, research, develop and apply ML/AI solutions to solve business problems, including prediction, optimization, segmentation and so on\n- Deep understanding of our organization's data structure; look for ways to improve to enhance our ability to perform robust data analysis; create new data sets when there is little or no data available, to inform marketing analysis\n- Design and monitor core metrics; perform root cause analysis to explain drivers\n- Identify trends and opportunities to drive safety initiatives and create a healthy ecosystem for content creators, users, and consumers\n- Collect and provide quantitative and qualitative information to measure risk of feature/product launches and answer strategic business questions\n\nQualifications\n\nMinimum Qualifications:\n- Ph.D., M.S., or Bachelors degree in Computer Science, Data Science, Mathematics/Statistics or other STEM major is required\n- Minimum 5 years of industry experience in data science, data analytics, product analytics, quantitative analysis and machine learning experience to build ML-driven products for solving business problems\n- Experience with experimentation and testing of Minimum Viable Products to determine if proposed business models / solutions scale up\n- Experience in utilizing SQL/Python to extract, manipulate, and analyze datasets.\n- Experience with statistical analysis or data modeling techniques, including: hypothesis testing, experiment design, and common regression and classification algorithms.\n\nPreferred Qualifications:\n- Your ability to work in a high tempo environment, adapt, respond to day-to-day challenges of the role.\n- Your resilience and commitment to self-care to manage the emotional demands of the role.\n- Previous experience in data science, data analytics, or product analytics at a consumer technology company.\n\nTrust & Safety\n\nContent that this role interacts with includes images, video, and text related to every-day life, but it can also include (but is not limited to) bullying; hate speech; child safety; depictions of harm to self and others, and harm to animals. Hence, it is possible that this role will be exposed to harmful content on a daily basis. ​\n​\nTikTok recognises that keeping our platform safe for the TikTok communities is no ordinary job which can be both rewarding and psychologically demanding and emotionally taxing for some. This is why we are sharing the potential hazards, risks and implications in this unique line of work from the start, so our candidates are well informed before joining. ​\n​\nWe are committed to the wellbeing of all our employees and promise to provide comprehensive and evidence-based programs, to promote and support physical and mental wellbeing throughout each employee's journey with us. We believe that wellbeing is a relationship and that everyone has a part to play, so we work in collaboration and consultation with our employees and across our functions in order to ensure a truly person-centred, innovative and integrated approach.​\n\nAbout USDS\n\nTikTok USDS Joint Venture LLC is dedicated to the safety and security of millions of Americans who create, discover, and connect with what they love on the apps we operate. The Joint Venture has been established in compliance with the Executive Order signed by President Trump on September 25, 2025. Our foundation is a comprehensive data privacy and cybersecurity program we operate under defined safeguards to protect national security and secure U.S. user data, apps and the algorithm. We safeguard the U.S. content ecosystem, holding decision-making authority for trust and safety policies and moderation. USDS Joint Venture helps ensure Americans can continue to express their creativity, discover new hobbies and interests, and build thriving communities and businesses on a global scale.​\n​\nOn-site presence across teams allows the company to operate with greater speed, alignment, and agility — especially in areas like real-time decision-making, team development, and integrated execution. As such, the company is shifting from a hybrid work model to a fully in-person schedule up to 5 days a week.​\n\nWhy Join Us\n\nInspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and bring joy - a mission we work towards every day.​\nWe strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. Every challenge is an opportunity to learn and innovate as one team. We're resilient and embrace challenges as they come. By constantly iterating and fostering an \"Always Day 1\" mindset, we achieve meaningful breakthroughs for ourselves, our company, and our users. When we create and grow together, the possibilities are limitless. Join us.​\n​\nDiversity & Inclusion​\nTikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.​\n\nUSDS Reasonable Accommodation\n\nUSDS is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://tinyurl.com/USDS-RA​\n\nJob Information\n\n【For Pay Transparency】Compensation Description (Annually)\nThe base salary range for this position in the selected city is $176356 - $329334 annually.​\nCompensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.​\nBenefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short-term and long-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).​\nThe Company reserves the right to modify or change these benefits programs at any time, with or without notice.​\nFor Los Angeles County (unincorporated) Candidates:​\nQualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:​\n1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;​\n2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and​\n3. Exercising sound judgment.​\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 13.183,
-        "city": "san jose",
-        "latitude": 37.296011,
-        "longitude": -121.814552,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Meta",
-      "title": "Data Scientist, Product Analytics",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469303114/",
-      "date_posted": "2026-11-05",
-      "salary": "$177,000.00/yr - $247,000.00/yr",
-      "ats": "LinkedIn",
-      "description": "As a Data Scientist at Meta, you will shape the future of people-facing and business-facing products we build across our entire family of applications (Facebook, Instagram, Messenger, WhatsApp, Oculus). By applying your technical skills, analytical mindset, and product intuition to one of the richest data sets in the world, you will help define the experiences we build for billions of people and hundreds of millions of businesses around the world. You will collaborate on a wide array of product and business problems with a wide-range of cross-functional partners across Product, Engineering, Research, Data Engineering, Marketing, Sales, Finance and others. You will use data and analysis to identify and solve product development's biggest challenges. You will influence product strategy and investment decisions with data, be focused on impact, and collaborate with other teams. By joining Meta, you will become part of a world-class analytics community dedicated to skill development and career growth in analytics and beyond.Product leadership: You will use data to shape product development, quantify new opportunities, identify upcoming challenges, and ensure the products we build bring value to people, businesses, and Meta. You will help your partner teams prioritize what to build, set goals, and understand their product's ecosystem.Analytics: You will guide teams using data and insights. You will focus on developing hypotheses and employ a varied toolkit of rigorous analytical approaches, different methodologies, frameworks, and technical approaches to test them.Communication and influence: You won't simply present data, but tell data-driven stories. You will convince and influence your partners using clear insights and recommendations. You will build credibility through structure and clarity, and be a trusted strategic partner.\n\nData Scientist, Product Analytics Responsibilities:\n\nWork with large and complex data sets to solve a wide array of challenging problems using different analytical and statistical approaches\nApply technical expertise with quantitative analysis, experimentation, data mining, and the presentation of data to develop strategies for our products that serve billions of people and hundreds of millions of businesses\nIdentify and measure success of product efforts through goal setting, forecasting, and monitoring of key product metrics to understand trends\nDefine, understand, and test opportunities and levers to improve the product, and drive roadmaps through your insights and recommendations\nPartner with Product, Engineering, and cross-functional teams to inform, influence, support, and execute product strategy and investment decisions\n\nMinimum Qualifications:\n\nBachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience\nA minimum of 6 years of work experience in analytics (minimum of 4 years with a Ph.D.)\nBachelor's degree in Mathematics, Statistics, a relevant technical field, or equivalent practical experience\nExperience with data querying languages (e.g. SQL), scripting languages (e.g. Python), and/or statistical/mathematical software (e.g. R)\n\nPreferred Qualifications:\n\nMaster's or Ph.D. Degree in a quantitative field\nDemonstrated ability to integrate AI tools to optimize/redesign workflows and drive measurable impact (e.g., efficiency gains, quality improvements)\nExperience adhering to and implementing responsible, ethical AI practices (e.g., risk assessment, bias mitigation, quality and accuracy reviews)\nDemonstrated ongoing AI skill development (e.g., prompt/context engineering, agent orchestration) and staying current with emerging AI technologies\n\nAbout Meta:\n\nMeta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.\n\nMeta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.\n\nMeta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@meta.com.\n\n$177,000/year to $247,000/year + bonus + equity + benefits\n\nIndividual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about benefits at Meta.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Sony Interactive Entertainment",
-      "title": "Data Scientist II - Decision Science",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4459256181/",
-      "date_posted": "2026-11-05",
-      "salary": "$156,300—$234,500 USD",
-      "ats": "LinkedIn",
-      "description": "Why Sony Interactive Entertainment?\n\nSony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.\n\nData Scientist II - Decision Science\n\nUsing data, you will play a crucial role in driving decision-making and delivering impactful insights to our stakeholders. You will apply advanced analytical techniques, build Machine Learning (ML) models, and use experimentation and causal inference methods to solve sophisticated business problems related to platform engagement, product features, and games.\n\nWhat you’ll be doing:\n\nApply advanced statistical and ML techniques to analyse large and complex datasets, extracting actionable insights in a commercial setting.\nApply your knowledge of Experimentation, Causal Inference, ML, and statistical modelling to develop robust predictive models and identify causal relationships.\nCollaborate with cross-functional teams to define business problems, formulate hypotheses, and design experiments to test them.\nIndependently extract and integrate data from multiple data systems, including writing complex SQL queries, to support analytical efforts.\nSupport the delivery of results and presentations to stakeholders, translating complex analyses into clear and actionable recommendations.\nStay up to date on the latest advancements in Data Science, including Causal Inference, Gen AI, and ML, and share knowledge and new ideas with the team.\n\nWhat we’re looking for:\n\nMaster's Degree or Ph.D. in Applied Math, Economics, Statistics, Engineering, or a related quantitative field, plus at least 2 years of relevant industry experience, ideally in entertainment, gaming, technology, or a related consumer-facing industry. A BA/BS Degree may also be considered based on additional relevant industry experience.\nAdvanced knowledge and experience applying ML methods using Python and SQL.\nFamiliarity with common development tools and practices, including version control systems (e.g., Git) and workflow management tools (e.g., Airflow).\nExcellent communication and data storytelling skills, with the ability to effectively communicate technical concepts to non-technical partners.\nIn-depth understanding and experience using supervised and unsupervised ML techniques.\nUnderstanding of Online Experimentation (large-scale A/B tests) and Causal Inference methods is a plus\nKnowledge of the gaming industry and relevant gaming titles is a plus.\nFamiliarity with Gen AI tools and pipelines is a plus.\n\nAt SIE, we consider several factors when setting each role’s base pay range, including the competitive benchmarking data for the market and geographic location.\n\nPlease note that the base pay range may vary in line with our hybrid working policy and individual base pay will be determined based on job-related factors which may include knowledge, skills, experience, and location.\n\nIn addition, this role is eligible for SIE’s top-tier benefits package that includes medical, dental, vision, matching 401(k), paid time off, wellness program and coveted employee discounts for Sony products. This role also may be eligible for a bonus package. Click here\nto learn more.\n\nThe estimated base pay range for this role is listed below.\n\n$156,300—$234,500 USD\n\nPlease note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks.\n\nPlease refer to our Candidate Privacy Notice (where applicable) for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights.\n\nEqual Opportunity Statement:\n\nSony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category.\n\nWe strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.\n\nSony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development, Consumer Services, and Entertainment Providers",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 19.708,
-        "city": "san mateo",
-        "latitude": 37.56031,
-        "longitude": -122.3106,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "LiveRamp",
-      "title": "Principal Data Scientist, Analytics",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486791886/",
-      "date_posted": "2026-11-05",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Anthropic",
-      "title": "Applied Scientist, Engineering",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486908342/",
-      "date_posted": "2026-11-05",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Prime Video & Amazon MGM Studios",
-      "title": "Applied Scientist II, Prime Video Personalization and Discovery Science, Prime Video - Personalization and Discovery Science",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461517287/",
-      "date_posted": "2026-11-05",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 0.0,
-        "city": "sunnyvale",
-        "latitude": 37.385797,
-        "longitude": -122.026316,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Anthropic",
-      "title": "Research Scientist, Discovery (Engineering & Applied Sciences)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486799971/",
-      "date_posted": "2026-11-05",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 59.936,
-        "city": "san francisco",
-        "latitude": 37.727239,
-        "longitude": -123.032229,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Meta",
-      "title": "Research Engineer, Robotics - Meta Superintelligence Labs",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4459297561/",
-      "date_posted": "2026-11-05",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 9.313,
-        "city": "menlo park",
-        "latitude": 37.479731,
-        "longitude": -122.148055,
+        "distance_miles": 15.374,
+        "city": "san carlos",
+        "latitude": 37.499034,
+        "longitude": -122.267572,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
     },
     {
       "company": "Xaira Therapeutics",
-      "title": "AI Scientist, Computational Protein Design",
+      "title": "BioMedical AI Research Engineer",
       "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486918784/",
+      "url": "https://www.linkedin.com/jobs/view/4486905996/",
       "date_posted": "2026-11-05",
       "salary": "",
       "ats": "LinkedIn",
@@ -1134,44 +958,10 @@
       }
     },
     {
-      "company": "Amazon Science",
-      "title": "Applied Scientist, Fauna Robotics",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485859988/",
-      "date_posted": "2026-11-05",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 0.0,
-        "city": "sunnyvale",
-        "latitude": 37.385797,
-        "longitude": -122.026316,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Zoom",
-      "title": "AI Scientist - Agentic Verticals",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488078346/",
-      "date_posted": "2026-11-05",
-      "salary": "",
-      "ats": "LinkedIn",
-      "geography": {
-        "status": "in_radius",
-        "distance_miles": 13.183,
-        "city": "san jose",
-        "latitude": 37.296011,
-        "longitude": -121.814552,
-        "reason": "Straight-line distance between Census place points (not driving distance)."
-      }
-    },
-    {
-      "company": "Meta",
-      "title": "Data Scientist, Meta Superintelligence Labs (Safety)",
+      "company": "IBM",
+      "title": "AI Foundations - Research Scientist",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477076100/",
+      "url": "https://www.linkedin.com/jobs/view/4485880022/",
       "date_posted": "2026-11-05",
       "salary": "",
       "ats": "LinkedIn",
@@ -1183,12 +973,49 @@
         "longitude": -123.032229,
         "reason": "Straight-line distance between Census place points (not driving distance)."
       }
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Natera",
+      "title": "Lead Bioinformatics & Machine Learning Scientist (Epigenomics)",
+      "location": "San Carlos, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485883009/",
+      "date_posted": "2026-11-05",
+      "salary": "$172,000—$214,000 USD",
+      "ats": "LinkedIn",
+      "description": "Natera is currently seeking a Lead Bioinformatics & Machine Learning Scientist to contribute to research and development within our Bioinformatics Research and Development team, focused on Epigenomics in Oncology. The team develops machine learning methods for early cancer detection from cell-free DNA methylation data. The ideal candidate will have a strong background in machine learning and statistical modeling, as well as genomics and sequencing data analysis. The successful candidate will be instrumental in developing and expanding state-of-the-art machine learning methods for early detection of cancer, and will provide technical leadership and mentorship within a highly collaborative team.\n\nPrimary Responsibilities\n\nDrive technical workstreams within a collaborative team that takes methods from problem definition through delivery of final classifiers to downstream validation teams\nDesign, implement, and validate novel machine learning and statistical methods to solve problems in cancer diagnostics\nEstablish and promote best practices in model interpretability, uncertainty estimation, and reproducibility\nDesign robust feature engineering and extraction pipelines tailored to cfDNA methylation and sequencing data\nCollaborate closely with molecular biologists on experimental design, ensuring data integrity and quality control\nMentor other scientists and foster a culture of innovation, collaboration, and scientific excellence\nLead and actively participate in code and design reviews\n\nQualifications\n\nPhD in Bioinformatics, Computer Science, Machine Learning, Statistics, or a related quantitative field, with 4 to 8+ years of post-PhD experience\nHands-on experience in cancer genomics or epigenomics; experience with cell-free DNA or methylation sequencing data is a plus\nStrong foundation in quantitative reasoning, statistical analysis, and applied machine learning; experience with deep learning frameworks is a plus\nProven track record of developing computational methods for high-throughput sequencing data analysis\nStrong programming skills, with hands-on experience in Python and its scientific library stack (pandas, NumPy, scikit-learn)\nExperience with Linux command-line tools, shell scripting, version control (Git), workflow managers (e.g., Nextflow, Snakemake), and cloud or HPC compute environments\nAbility to perform hypothesis-driven research, visualize findings, and summarize results in oral and written form\nExperience mentoring or technically leading other scientists\n\nCompensation & Total Rewards\n\nThis range reflects a good-faith estimate of the base pay we reasonably expect to offer at the time of hire. Final compensation will vary based on experience, qualifications, and internal equity considerations.\n\nThis position is also eligible for additional compensation and benefits through Natera’s robust Total Rewards program, including:\n\nAnnual performance incentive bonus\nLong-term equity awards\nComprehensive health benefits (medical, dental, vision)\n401(k) with company match\nGenerous paid time off and company holidays\nAdditional wellness and work-life benefits\n\nCompensation Range\n\n$172,000—$214,000 USD\n\nOUR OPPORTUNITY\n\nNatera™ is a global leader in cell-free DNA (cfDNA) testing, dedicated to oncology, women’s health, and organ health. Our aim is to make personalized genetic testing and diagnostics part of the standard of care to protect health and enable earlier and more targeted interventions that lead to longer, healthier lives.\n\nThe Natera team consists of highly dedicated statisticians, geneticists, doctors, laboratory scientists, business professionals, software engineers and many other professionals from world-class institutions, who care deeply for our work and each other. When you join Natera, you’ll work hard and grow quickly. Working alongside the elite of the industry, you’ll be stretched and challenged, and take pride in being part of a company that is changing the landscape of genetic disease management.\n\nWhat We Offer\n\nCompetitive Benefits - Employee benefits include comprehensive medical, dental, vision, life and disability plans for eligible employees and their dependents. Additionally, Natera employees and their immediate families receive free testing in addition to fertility care benefits. Other benefits include pregnancy and baby bonding leave, 401k benefits, commuter benefits and much more. We also offer a generous employee referral program!\n\nFor more information, visit www.natera.com.\n\nNatera is proud to be an Equal Opportunity Employer. We are committed to ensuring a diverse and inclusive workplace environment, and welcome people of different backgrounds, experiences, abilities and perspectives. Inclusive collaboration benefits our employees, our community and our patients, and is critical to our mission of changing the management of disease worldwide.\n\nAll qualified applicants are encouraged to apply, and will be considered without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, age, veteran status, disability or any other legally protected status. We also consider qualified applicants regardless of criminal histories, consistent with applicable laws.\n\nIf you are based in California, we encourage you to read this important information for California residents.\n\nLink: https://www.natera.com/notice-of-data-collection-california-residents/\n\nPlease be advised that Natera will reach out to candidates with a @natera.com email domain ONLY. Email communications from all other domain names are not from Natera or its employees and are fraudulent. Natera does not request interviews via text messages and does not ask for personal information until a candidate has engaged with the company and has spoken to a recruiter and the hiring team. Natera takes cyber crimes seriously, and will collaborate with law enforcement authorities to prosecute any related cyber crimes.\n\nFor More Information\n\nBBB announcement on job scams\nFBI Cyber Crime resource page\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nBiotechnology Research, Pharmaceutical Manufacturing, and Software Development",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 15.374,
+        "city": "san carlos",
+        "latitude": 37.499034,
+        "longitude": -122.267572,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
     },
     {
-      "company": "Whatnot",
-      "title": "Data Scientist, Seller Merchant",
+      "company": "Xaira Therapeutics",
+      "title": "BioMedical AI Research Engineer",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486905996/",
+      "date_posted": "2026-11-05",
+      "salary": "",
+      "ats": "LinkedIn",
+      "geography": {
+        "status": "in_radius",
+        "distance_miles": 26.72,
+        "city": "south san francisco",
+        "latitude": 37.655104,
+        "longitude": -122.376234,
+        "reason": "Straight-line distance between Census place points (not driving distance)."
+      }
+    },
+    {
+      "company": "IBM",
+      "title": "AI Foundations - Research Scientist",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478831095/",
+      "url": "https://www.linkedin.com/jobs/view/4485880022/",
       "date_posted": "2026-11-05",
       "salary": "",
       "ats": "LinkedIn",
@@ -1382,7 +1209,7 @@
     }
   ],
   "geographic_counts": {
-    "in_radius": 52,
+    "in_radius": 55,
     "remote": 0,
     "ambiguous": 12,
     "outside_radius": 0
