@@ -803,3 +803,4 @@
 {"job_count": 0, "run_attempt": "1", "run_id": "42151669210", "scrape": {"errors": 0, "queries": 25, "raw_rows": 0, "status": "empty"}, "timestamp": "2026-11-06T02:39:35Z", "workflow": "ziprecruiter"}
 {"job_count": 0, "run_attempt": "1", "run_id": "42152621427", "scrape": {"errors": 0, "queries": 155, "raw_rows": 0, "status": "empty"}, "timestamp": "2026-11-06T02:49:43Z", "workflow": "google_jobs"}
 {"job_count": 0, "run_attempt": "1", "run_id": "42155489070", "scrape": {"raw_rows": 0, "status": "empty"}, "timestamp": "2026-11-06T03:16:36Z", "workflow": "hiringcafe"}
+{"job_count": 13, "run_attempt": "1", "run_id": "42188329611", "scrape": {"errors": 0, "queries": 25, "raw_rows": 367, "status": "success"}, "timestamp": "2026-11-06T08:32:30Z", "workflow": "indeed"}
